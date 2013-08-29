@@ -1,0 +1,89 @@
+#wrapper_one{
+    
+    .left_side{}
+    .right_side{}
+    .container{}
+    header{
+        .left_side{}
+        .container{}
+        .right_side{}
+    }
+    #principal{
+        .left_side{}
+        .container{}
+        .right_side{}
+    }
+    #video_e_learning{
+        
+        .left_side{}
+        .container{
+            
+            #video_description{
+                
+                h3{}
+                hr{}
+                p{}
+            }
+        }
+        .right_side{}
+    }
+    #advices_best_practices{
+        
+        .left_side{}
+        .container{
+            
+            .carrousel_container{
+                height:120px;
+                margin:0 auto; 
+                width: 634px; 
+                .browse{}
+                .prev{}
+                .left{}
+                .scrollable{
+                    height:90px;
+                    overflow:hidden;
+                    position:relative;
+                    width: 660px;
+                }
+                #tips_scrollable{
+                    
+                    .items{
+                        position:absolute;
+                        width:20000em;
+                        div{
+                            float:left;
+                            h4{}
+                            p{}
+                            a{}
+                        }
+                    }
+                }
+                .next{}
+                .right{}
+            }
+        }
+        .right_side{}
+    }
+    #create_avatar_feature{
+        
+        .left_side{}
+        .container{
+            
+            h5{}
+            p{}
+            ul{
+                
+                li{
+                    
+                }
+            }
+        }
+        .right_side{}
+    }
+    footer{
+        
+        .left_side{}
+        .container{}
+        .right_side{}
+    }
+}

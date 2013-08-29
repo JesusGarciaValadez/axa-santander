@@ -1,0 +1,182 @@
+#wrapper{
+    margin: 0 auto;
+    width: 37em;
+    header{
+        
+        a{
+            
+            img{vertical-align:middle;}
+        }
+    }
+    form{
+        border: 0 none transparent;
+        fieldset{
+            border: 0 none transparent;
+            legend, h1{
+                color: #27A9E0;
+                display: block;
+                font: bold 2em/1em Helvetica,Arial,Verdana,"sans-serif";
+                padding: 0.937em 0 0.625em;
+                text-indent: 1.3em;
+                text-transform: uppercase;
+            }
+            .question{
+                padding: 0 2% 0 7%;
+                width: 15.125em;
+                p{
+                    background-color: #EB008B;
+                    color: #FFF;
+                    font: normal 0.875em/1em $Helvetica;
+                    padding: 0.3em 0 0.3em 1em;
+                }
+                div{
+                    @extend .clearfix;
+                    display: block;
+                    padding: 0.2em 0;
+                    input{float: left;}
+                    label{
+                        float: left;
+                        font: normal 0.875em/1em $Helvetica;
+                        padding: 0.1em 0 0.1em 1em;
+                        width: 85%;
+                    }
+                    .error{
+                        clear: both;
+                        color: #F00;
+                        display: block;
+                        padding: 0 0 0.5em;
+                        width: 100%;
+                    }
+                }
+            }
+            .left{clear: left;float: left;}
+            .right{clear: right;float: right;}
+            #one{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #two{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #three{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #four{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #five{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #six{
+                
+                p{}
+                div{
+                    
+                    textarea{
+                        border-radius: 5px;
+                        height: 6.437em;
+                        max-height: 6.437em;
+                        max-width: 15em;
+                        min-height: 6.437em;
+                        min-width: 15em;
+                        resize: none;
+                        width: 15em;
+                    }
+                }
+            }
+            #seven{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #eight{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #nine{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                }
+            }
+            #ten{
+                
+                p{}
+                div{
+                    
+                    input{}
+                    label{}
+                    textarea{
+                        border-radius: 5px;
+                        height: 6.437em;
+                        max-height: 6.437em;
+                        max-width: 15em;
+                        min-height: 6.437em;
+                        min-width: 15em;
+                        resize: none;
+                        width: 15em;
+                    }
+                }
+            }
+            #submit_wrapper{
+                clear: both;
+                float: right;
+                padding: 0 0 3em;
+                input{
+                    background-color: #27A9E0;
+                    border: 0 none transparent;
+                    color: #FFF;
+                    font: normal 0.875em/1.214em $Helvetica;
+                    padding: 0.5em 0.5em 0.3em;
+                    text-align: center;
+                    width: 4.375em;
+                }
+            }
+        }
+    }
+    footer{
+        @extend .clearfix;
+        img{float: right;}
+    }
+}
