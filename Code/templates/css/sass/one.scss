@@ -1,28 +1,144 @@
 #wrapper_one{
-    
-    .left_side{}
-    .right_side{}
-    .container{}
-    header{
-        .left_side{}
-        .container{}
-        .right_side{}
+    @extend .clearfix;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    .left_side, .right_side, .container{height: 100%;}
+    .left_side, .right_side{
+        position: absolute;
+        top: 0;
+        width: 50%;
+        z-index: 1;
     }
-    #principal{
-        .left_side{}
-        .container{}
-        .right_side{}
+    .left_side{left:0;}
+    .right_side{right:0;}
+    .container{
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        width: em( 800, 16 );
+        z-index: 5;
+    }
+    header,#principal,#video_e_learning,#advices_best_practices,#create_avatar_feature,footer{
+        @extend .clearfix;
+        clear: both;
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    h1{font-family: normal 1em/1em $arial;}
+    #principal_container{
+        height: em( 632, 16 );
+        header{
+            height: em( 80, 16 );
+            @include position( relative, 0 0 0 0 ); 
+            z-index: 1;
+            .left_side{}
+            .container{
+                background: url("../img/imagenes_axa_one/axa_logo.png") no-repeat scroll 2.937em 1.7em transparent;
+                h1{
+                    @include hide-text;
+                    height: em( 56, 16 );
+                    width: em( 286, 16 );
+                }
+            }
+            .right_side{}
+        }
+        #principal{
+            height: em( 632, 16 );
+            @include position( relative, em( -80, 16 ) 0 0 0 ); 
+            z-index: 0;
+            .left_side{}
+            .container{
+                @extend .clearfix;
+                background-image: url("../img/imagenes_axa_one/degradado_mujer.png");
+                background-color: transparent;
+                background-position: top right;
+                background-repeat: no-repeat;
+                h2{
+                    float: left;
+                    font: bold 2.187em/1em $franklin;
+                    margin: 0;
+                    padding: 0;
+                    position: absolute;
+                    top: 4.5em;
+                    width: 8em;
+                }
+                .blue_phrase{
+                    color: $blue;
+                    left: 1.3em;
+                }
+                .white_phrase{
+                    color: #FFF;
+                    right: 1em;
+                    width: 6.67em;
+                }
+                .red_line{
+                    left: 24.75em;
+                    position: absolute;
+                    top: 0;
+                }
+                .axa_women{
+                    display: block;
+                    margin: 0 auto;
+                    position: relative;
+                    top: 13.8em;
+                }
+                ul{
+                    @extend .clearfix;
+                    color: #FFFFFF;
+                    display: block;
+                    height: 10em;
+                    margin: 0;
+                    padding: 0;
+                    position: absolute;
+                    right: 6em;
+                    top: 26em;
+                    width: 7em;
+                    li{
+                        font-style: italic;
+                        list-style: none inside;
+                        position: relative;
+                    }
+                    .conect_line{left: 1.8em;top: 0.3em;}
+                    .consult_line{left: 2em;top: 3.2em;}
+                    .share_line{left: 0.6em;top: 5.5em;}
+                }
+                .principal_container_shadow{@include position( absolute, auto auto 0em 0em );}
+            }
+            .right_side{background: url("../img/degradado_header.png") no-repeat scroll 0 0 transparent;}
+        }
     }
     #video_e_learning{
-        
+        height: em( 293, 16 );
         .left_side{}
         .container{
-            
+            padding: em( 37, 16 ) em( 45, 16 );
+            width: em( 710, 16 );
+            #video_container{
+                @include position( absolute, auto auto auto auto );
+                height: 16em;
+                .video_screen{@include position( relative, auto auto auto auto );}
+                .video_shadow{@include position( absolute, auto auto 0em 0em );}
+            }
             #video_description{
-                
-                h3{}
+                display: inline-block;
+                float: right;
+                height: 13.1em;
+                margin: 0;
+                width: 17em;
+                h3{
+                    color: $blue;
+                    font: normal 1.312em/1em $futura;
+                    text-align: center;
+                }
                 hr{}
-                p{}
+                p{
+                    font: normal 0.75em/1em $arial;
+                    text-align: left;
+                    padding: 0 0.75em;
+                }
             }
         }
         .right_side{}
@@ -69,12 +185,22 @@
         .left_side{}
         .container{
             
+            .left_division{}
             h5{}
+            .right_division{}
             p{}
+            .avatar_example{}
             ul{
                 
                 li{
-                    
+                    float: left;
+                    list-style: none inside;
+                    img{}
+                    .avatar_piece{}
+                    .pants{}
+                    .shirt{}
+                    .avatar_piece{}
+                    p{}
                 }
             }
         }
@@ -83,7 +209,16 @@
     footer{
         
         .left_side{}
-        .container{}
+        .container{
+            
+            img{float: left;}
+            .banner{}
+            .icon{
+                float: right;
+                position: relative;
+                top: 3.5em;
+            }
+        }
         .right_side{}
     }
 }

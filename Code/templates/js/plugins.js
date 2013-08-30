@@ -23,8 +23,6 @@
 
 // Place any jQuery/helper plugins in here.
 
-// Place any jQuery/helper plugins in here.
-
 jQuery.fn.exists = function(){return this.length>0;}
 jQuery.fn.centerWidth = function(){
     var winWidth = $(window).width() / 2;
