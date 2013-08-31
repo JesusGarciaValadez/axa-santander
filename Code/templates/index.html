@@ -19,8 +19,8 @@
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         <link rel="shortcut icon" href="favicon.png" type="image/png" />
         
-        <script type="text/javascript" src="js/prefixfree.min.js" charset="utf-8" ></script>
-        <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" charset="utf-8" />
+        <script type="text/javascript" src="Code/templates/js/prefixfree.min.js" charset="utf-8" ></script>
+        <link rel="stylesheet" href="Code/templates/css/main.css" type="text/css" media="screen" charset="utf-8" />
         
         <script src="Code/templates/js/vendor/modernizr-2.6.2.min.js"></script>
         <script src="Code/templates/js/vendor/prefixfree.min.js"></script>
@@ -41,8 +41,8 @@
                     <div class="container">
                         <h2 class="blue_phrase">Sola no es más que madera,</h2>
                         <h2 class="white_phrase">depende de ti hacerla única.</h2>
-                        <img src="img/imagenes_axa_one/pleca_roja.png" alt="pleca_roja" width="202" height="211" class="red_line">
-                        <img src="img/imagenes_axa_one/mujer.png" alt="mujer" width="438" height="411" class="axa_women">
+                        <img src="Code/templates/img/imagenes_axa_one/pleca_roja.png" alt="pleca_roja" width="202" height="211" class="red_line">
+                        <img src="Code/templates/img/imagenes_axa_one/mujer.png" alt="mujer" width="438" height="411" class="axa_women">
                         <ul>
                             <li class="conect_line">Conecta</li>
                             <li class="consult_line">Consulta</li>
@@ -57,8 +57,8 @@
                 <div class="left_side"></div>
                 <div class="container">
                     <div id="video_container">
-                        <img src="img/imagenes_axa_one/video_1.jpg" alt="Video Tutorial E-Learning" width="384" height="210" class="video_screen">
-                        <img src="img/imagenes_axa_one/sombra_video.png" alt="sombra_video" width="412" height="64" class="video_shadow">
+                        <img src="Code/templates/img/imagenes_axa_one/video_1.jpg" alt="Video Tutorial E-Learning" width="384" height="210" class="video_screen">
+                        <img src="Code/templates/img/imagenes_axa_one/sombra_video.png" alt="sombra_video" width="412" height="64" class="video_shadow">
                     </div>
                     <div id="video_description">
                         <h3>Video Tutorial E-Learning</h3>
@@ -71,9 +71,18 @@
             <div id="advices_best_practices">
                 <div class="left_side"></div>
                 <div class="container">
-                    <div class="carrousel_container" style="margin:0 auto; width: 634px; height:120px;">
-                        <!-- "previous page" action -->
-                        <a class="prev browse left"></a>
+                    <div id="tips_and_search">
+                        <h4>Consejos y Mejores Prácticas</h4>
+                        <form action="index.html" method="" accept-charset="utf-8">
+                            <fieldset>
+                                <label for="">
+                                    <img src="img/imagenes_axa_one/buscar_icono.png" alt="buscar" width="13" height="13">
+                                </label>
+                                <input id="" type="" name="" value="">
+                            </fieldset>
+                        </form>
+                    </div>
+                    <div class="carrousel_container">
                         <!-- root element for scrollable -->
                         <div class="scrollable" id="tips_scrollable">
                             <div class="items">
@@ -89,7 +98,6 @@
                                     <h4>Tener una red de contactos…</h4>
                                     <p>Te permitirá estar en contacto con otros colaboradores de AXA México y de otras entidades de nuestro Grupo.</p>
                                     <p>Crea e incrementa tu red de contactos constantemente para encontrar soluciones a tus problemas de negocio e intercambiar mejores prácticas. </p>
- h4>
                                 </div>
                                 <div>
                                     <h4>¿Estás cansado de buscar información y no encontrarla?</h4>
@@ -128,7 +136,6 @@
                                 </div>
                             </div>
                         </div>
-                        <a class="next browse right"></a>
                     </div>
                 </div>
                 <div class="right_side"></div>
@@ -140,18 +147,18 @@
                     <h5>Crea tu avatar</h5>
                     <hr class="right_division" />
                     <p>Crea tu avatar seleccionando las partes de cada categoria.</p>
-                    <img src="img/imagenes_axa_one/avatar_completo.png" alt="avatar_completo" width="65" height="140" class="avatar_example">
+                    <img src="Code/templates/img/imagenes_axa_one/avatar_completo.png" alt="avatar_completo" width="65" height="140" class="avatar_example">
                     <ul>
                         <li>
-                            <img src="img/imagenes_axa_one/avatar_cara.png" alt="avatar_cara" width="65" height="67" class="face avatar_piece">
+                            <img src="Code/templates/img/imagenes_axa_one/avatar_cara.png" alt="avatar_cara" width="65" height="67" class="face avatar_piece">
                             <p>1</p>
                         </li>
                         <li>
-                            <img src="img/imagenes_axa_one/avatar_piernas.png" alt="avatar_piernas" width="45" height="40" class="pants avatar_piece">
+                            <img src="Code/templates/img/imagenes_axa_one/avatar_piernas.png" alt="avatar_piernas" width="45" height="40" class="pants avatar_piece">
                             <p>2</p>
                         </li>
                         <li>
-                            <img src="img/imagenes_axa_one/avatar_camisa.png" alt="avatar_piernas" width="45" height="40" class="shirt avatar_piece">
+                            <img src="Code/templates/img/imagenes_axa_one/avatar_camisa.png" alt="avatar_piernas" width="45" height="40" class="shirt avatar_piece">
                             <p>3</p>
                         </li>
                     </ul>
@@ -168,8 +175,8 @@
             </footer>
         </div>
         
-        <script src="Code/templates/js/vendor/jquery-1.8.3.min.js" type="text/javascript"></script>
-        <script src="Code/templates/js/plugins-ck.js" type="text/javascript"></script>
-        <script src="Code/templates/js/main.js" type="text/javascript" charset="utf-8"></script>
+        <script src="Code/js/vendor/jquery-1.8.3.min.js" type="text/javascript"></script>
+        <script src="Code/js/plugins-ck.js" type="text/javascript"></script>
+        <script src="Code/js/main.js" type="text/javascript" charset="utf-8"></script>
     </body>
 </html>

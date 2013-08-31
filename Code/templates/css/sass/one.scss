@@ -25,6 +25,7 @@
         display: block;
         margin: 0;
         padding: 0;
+        position: relative;
         width: 100%;
     }
     h1{font-family: normal 1em/1em $arial;}
@@ -32,7 +33,7 @@
         height: em( 632, 16 );
         header{
             height: em( 80, 16 );
-            @include position( relative, 0 0 0 0 ); 
+            @include position( relative, 0 0 0 0 );
             z-index: 1;
             .left_side{}
             .container{
@@ -107,7 +108,10 @@
                 }
                 .principal_container_shadow{@include position( absolute, auto auto 0em 0em );}
             }
-            .right_side{background: url("../img/degradado_header.png") no-repeat scroll 0 0 transparent;}
+            .right_side{
+                background: url("../img/imagenes_axa_one/degradado_header.png") repeat-x scroll 0 0 transparent;
+                width: 40%;
+            }
         }
     }
     #video_e_learning{
@@ -125,17 +129,18 @@
             #video_description{
                 display: inline-block;
                 float: right;
-                height: 13.1em;
+                height: em( 209.6, 16 );
                 margin: 0;
-                width: 17em;
+                width: em( 272, 16 );
                 h3{
                     color: $blue;
-                    font: normal 1.312em/1em $futura;
+                    font: normal 1.25em/1em $futura;
                     text-align: center;
+                    text-transform: uppercase;
                 }
                 hr{}
                 p{
-                    font: normal 0.75em/1em $arial;
+                    font: normal 0.75em/1em $futura;
                     text-align: left;
                     padding: 0 0.75em;
                 }
@@ -148,13 +153,51 @@
         .left_side{}
         .container{
             
+            #tips_and_search{
+                @extend .clearfix;
+                background: none no-repeat scroll 0 0 #EBEBEB;
+                clear: both;
+                display: block;
+                height: em( 40, 16 );
+                h4{
+                    color: $blue;
+                    float: left;
+                    font: normal 1.25em/2em $futura;
+                    margin: 0;
+                    padding: 0;
+                    text-indent: em( 40, 20 );
+                    text-transform: uppercase;
+                }
+                form{
+                    display: inline-block;
+                    float: right;
+                    height: em( 20, 16 );
+                    padding: em( 10, 16 ) 1em em( 10, 16 ) 0;
+                    width: em( 150, 16 );
+                    fieldset{
+                        background: url("../img/imagenes_axa_one/_bg_buscar.png") no-repeat scroll center center transparent;
+                        label{
+                            @include position( absolute, 0 0 0 0 );
+                            right: 2.2em;
+                            img{
+                                
+                            }
+                        }
+                        input{
+                            background: none transparent;
+                            border: 0 none transparent;
+                            margin: 0 1.1em;
+                            padding: 0 1em 0 0.5em;
+                            width: em( 89, 16 );
+                        }
+                    }
+                }
+            }
             .carrousel_container{
-                height:120px;
-                margin:0 auto; 
-                width: 634px; 
-                .browse{}
-                .prev{}
-                .left{}
+                height: em( 260, 16 );
+                margin: 0 auto;
+                padding: 0 0 2em;
+                width: 100%;
                 .scrollable{
                     height:90px;
                     overflow:hidden;
@@ -162,20 +205,39 @@
                     width: 660px;
                 }
                 #tips_scrollable{
-                    
+                    display: block;
+                    height: 100%;
+                    margin: 0 auto;
+                    width: em( 764, 16 );
                     .items{
+                        height: 100%;
                         position:absolute;
                         width:20000em;
                         div{
+                            background: url("../img/imagenes_axa_one/linea_gris_vertical.png") no-repeat scroll right center transparent;
                             float:left;
-                            h4{}
-                            p{}
-                            a{}
+                            height: 100%;
+                            margin: 0;
+                            padding: em( 14, 16 ) em( 15.5, 16 );
+                            width: em( 224, 16 );
+                            h4{
+                                clear: both;
+                                color: $blue;
+                                display: block;
+                                font: normal 1.25em/1em $futura;
+                                margin: 0;
+                                padding: 1em 0;
+                                text-align: center;
+                                text-transform: uppercase;
+                            }
+                            p{
+                                color: #000;
+                                font: normal 0.75em/1em $futura;
+                                text-align: justify;
+                            }
                         }
                     }
                 }
-                .next{}
-                .right{}
             }
         }
         .right_side{}
@@ -184,23 +246,66 @@
         
         .left_side{}
         .container{
-            
-            .left_division{}
-            h5{}
-            .right_division{}
-            p{}
-            .avatar_example{}
+            background: url("../img/imagenes_axa_one/sombra.png") no-repeat scroll center bottom transparent;
+            hr{width: 37%;}
+            .left_division{float: left;}
+            h5{
+                color: #BABFC3;
+                display: inline-block;
+                font: normal 1.25em/1em $futura;
+                margin: 0;
+                padding: 0.4em 0 0;
+                text-align: center;
+                text-transform: uppercase;
+                width: 10.4em;
+            }
+            .right_division{float: right;}
+            p{
+                color: #000;
+                font: normal 0.75em/1em $futura;
+                text-align: center;
+                margin: 0;
+                padding: 2em 0;
+            }
+            .avatar_example{
+                float: left;
+                margin: 0 0 0 13em;
+                position: relative;
+            }
             ul{
-                
+                @extend .clearfix;
+                display: inline-block;
+                height: 9em;
+                margin: 0;
+                padding: 0 0 2em;
                 li{
+                    @extend .clearfix;
                     float: left;
+                    height: 100%;
                     list-style: none inside;
-                    img{}
+                    margin: 0;
+                    padding: 0 em( 35, 16 );
+                    img{
+                        clear: both;
+                        display: block;
+                        margin: 0 auto;
+                        padding: 2em 0 0;
+                    }
                     .avatar_piece{}
-                    .pants{}
-                    .shirt{}
-                    .avatar_piece{}
-                    p{}
+                    .face{}
+                    .pants{padding: em( 58.56, 16 ) 0em 0em;}
+                    .shirt{padding: em( 58.56, 16 ) 0em 0em;}
+                    p{
+                        color: #BABFC3;
+                        display: block;
+                        font: normal 1.25em/1em $futura;
+                        margin: 0 auto;
+                        padding: 0.2em 0 0;
+                        text-align: center;
+                    }
+                    &:hover{
+                        background: url("../img/imagenes_axa_one/flecha_azul.png") no-repeat scroll center bottom transparent;
+                    }
                 }
             }
         }
