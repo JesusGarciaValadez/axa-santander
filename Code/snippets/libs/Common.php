@@ -1,8 +1,4 @@
 <?php
-require_once LIBS_PATH.'filter.input.php';
-require_once LIBS_PATH.'mailer.php';
-require_once LIBS_PATH.'ParserTemplate.php';
-
 
 class Common {
 

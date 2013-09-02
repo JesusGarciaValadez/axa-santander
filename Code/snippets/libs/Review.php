@@ -7,8 +7,8 @@ class Review extends Model {
     
     private $_PDOConn = null;
     
-    public function __construct( $conn )  {
-        $this->_tableName = 'third_review';
+    public function __construct( $conn, $db_table )  {
+        $this->_tableName = $db_table;
         $this->_primaryKey = 'review_id';
         $this->setMysqlConn( $conn );
         $this->_PDOConn = $conn;
