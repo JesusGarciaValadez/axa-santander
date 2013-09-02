@@ -487,6 +487,33 @@
                 }
             } );
         }, 
+        /**
+         *
+         *  @function:  !managerTimelineFill
+         *  @description:   Carrousel inicializer
+         *  @params jQuery slider.- A jQuery Selector 
+         *  @params String progressBar.- A class to add to target
+         *  @params Object ui.- An object with css properties to apply to the jQuery selector
+         *  @params Number leftOffset.- A number to indicate the duration of the animation
+         *  @params Number rightOffset.- A number to indicate the duration of the animation
+         *  @see:   http://jquerytools.org
+         *  @author: @_Chucho_
+         *
+         */
+        //  !Inicializador de un carrusel jQuery Tools
+        inicializeCarrousel:    function ( selector, optionsScrollable, optionsNavigator, optionsAutoscroll ) {
+        
+            if( !optionsScrollable || optionsScrollable == {} ) {
+                optionsScrollable = {};
+            }
+            if( !optionsNavigator || optionsNavigator == {} ) {
+                optionsNavigator = {};
+            }
+            if( !optionsAutoscroll || optionsAutoscroll == {} ) {
+                optionsAutoscroll = {};
+            }
+            $( selector ).scrollable( optionsScrollable ).navigator( optionsNavigator ).autoscroll( optionsAutoscroll );
+        }, 
     };
     
     // Give the init function the AxaS prototype for later instantiation
@@ -549,7 +576,7 @@
                 
                 AxaS.validateFormOne();
             }
-            if ( $( '#third_review' ).exists() ) {
+            if ( $( '#third_review' ).exists() || $( '#fourth_review' ).exists() ) {
                 
                 AxaS.validateFormThird();
             }
@@ -560,6 +587,19 @@
         if ( $( 'textarea' ).exists() ) {
             
             AxaS.toggleValue( 'textarea', "Ninguno" );
+        }
+        
+        if ( $( '#wrapper_one' ).exists() ) {
+            
+            AxaS.inicializeCarrousel( $( '.scrollable' ), {
+                speed: 1000, 
+                circular: true
+            }, {
+                steps: 1, 
+                interval: 1000, 
+                autoplay: true, 
+                autopause: true
+            } );
         }
     } );
     

@@ -54,7 +54,7 @@ if ( ! empty( $_GET['action'] ) ) {
                         'name'  => 'Vico') );
                 
                 $doInsert   = new Review( $dbh );
-                $doInsert   = $doInsert->insertReview( $_POST, 'envio_inventario_fourth.html', 'Encuesta ONE / Cuarto Review', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertReview( $_POST, 'envio_inventario_fourth.html', 'Encuesta ONE / Cuarto Review', 'jesus@ingeniagroup.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
         }

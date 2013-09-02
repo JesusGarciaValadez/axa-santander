@@ -18,3 +18,4 @@ CREATE TABLE IF NOT EXISTS `fourth_review`
   ten VARCHAR( 140 ) DEFAULT 'Ninguno', 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
+
