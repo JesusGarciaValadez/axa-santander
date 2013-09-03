@@ -168,6 +168,8 @@
                                 var _title      = 'Gracias';
                                 var _markup     = '<p>Muchas gracias por haber contestado esta encuesta.</p>';
                                 AxaS.openAlert( _title, _markup );
+                                $( 'input[type="radio"]' ).removeAttr( 'checked');
+                                $( 'textarea' ).val( "" );
                             } else {
                                 
                                 $( '.alert_box' ).addClass( 'error_message' );
@@ -308,6 +310,9 @@
                                 var _title      = 'Gracias';
                                 var _markup     = '<p>Muchas gracias por haber contestado esta encuesta.</p>';
                                 AxaS.openAlert( _title, _markup );
+                                $( 'input[type="radio"]' ).removeAttr( 'checked');
+                                $( 'textarea' ).val( "" );
+                                $( form ).fadeOut( 300 );
                             } else {
                                 
                                 $( '.alert_box' ).addClass( 'error_message' );

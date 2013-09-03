@@ -194,9 +194,10 @@
                 }
             }
             .carrousel_container{
+                background: #F6F6F6;
                 height: em( 260, 16 );
-                margin: 0 auto;
-                padding: 0 0 2em;
+                margin: 0 auto 2em;
+                padding: 0;
                 width: 100%;
                 .scrollable{
                     height:90px;

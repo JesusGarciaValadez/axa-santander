@@ -232,6 +232,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/snippets_bak\/libs\/templates\/excel_inventario.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_axa_one\/log_in.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -242,15 +251,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/log_in.png",
       "initialSize" : 1401,
       "fileType" : 8192
-    },
-    "\/snippets_bak\/libs\/templates\/excel_inventario.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_inventario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -335,6 +335,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/js\/vendor\/jquery-1.8.3.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -345,15 +354,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery-1.8.3.min-ck.js",
       "fileType" : 64
-    },
-    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/edos_financieros_admin.html" : {
       "ignoreWasSetByUser" : 0,
@@ -447,6 +447,15 @@
       "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck-ck.js",
       "fileType" : 64
     },
+    "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/snippets\/libs\/templates\/envio_contacto.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -509,17 +518,6 @@
       "initialSize" : 1014,
       "fileType" : 8192
     },
-    "\/templates\/apple-touch-icon-114x114-precomposed.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/apple-touch-icon-114x114-precomposed.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/apple-touch-icon-114x114-precomposed.png",
-      "initialSize" : 1189,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -529,6 +527,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
       "initialSize" : 0,
+      "fileType" : 8192
+    },
+    "\/templates\/apple-touch-icon-114x114-precomposed.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/apple-touch-icon-114x114-precomposed.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/apple-touch-icon-114x114-precomposed.png",
+      "initialSize" : 1189,
       "fileType" : 8192
     },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futurab-cleartype.png" : {
@@ -781,6 +790,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "initialSize" : 5124,
+      "fileType" : 8192
+    },
     "\/templates\/js\/vendor\/jquery.tools.custom.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -820,17 +840,6 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
-      "initialSize" : 5124,
-      "fileType" : 8192
     },
     "\/snippets\/controller.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1201,6 +1210,15 @@
       "initialSize" : 6105,
       "fileType" : 8192
     },
+    "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demi-demo.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demi-demo.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_axa_one\/axa_logo_banner.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1211,6 +1229,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/axa_logo_banner.png",
       "initialSize" : 5293,
       "fileType" : 8192
+    },
+    "\/templates\/css\/fonts\/franklin\/stylesheet.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/stylesheet.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/templates\/apple-touch-icon-144x144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1290,12 +1317,41 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
       "fileType" : 64
     },
+    "\/templates\/css\/fonts\/franklin\/specimen_files\/specimen_stylesheet.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/specimen_stylesheet.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/snippets\/db\/connection.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/db\/connection.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs-ck.js",
+      "fileType" : 64
+    },
+    "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
