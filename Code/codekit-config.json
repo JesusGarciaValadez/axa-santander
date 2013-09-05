@@ -1,6 +1,6 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8317",
+  "creatorBuild" : "8322",
   "files" : {
     "\/snippets_bak\/libs\/templates\/envio_inventario.html" : {
       "ignoreWasSetByUser" : 0,
@@ -232,15 +232,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/libs\/templates\/excel_inventario.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_inventario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_axa_one\/log_in.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -251,6 +242,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/log_in.png",
       "initialSize" : 1401,
       "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/templates\/excel_inventario.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -335,15 +335,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/js\/vendor\/jquery-1.8.3.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -354,6 +345,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery-1.8.3.min-ck.js",
       "fileType" : 64
+    },
+    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/edos_financieros_admin.html" : {
       "ignoreWasSetByUser" : 0,
@@ -518,17 +518,6 @@
       "initialSize" : 1014,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
-      "initialSize" : 0,
-      "fileType" : 8192
-    },
     "\/templates\/apple-touch-icon-114x114-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -538,6 +527,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/apple-touch-icon-114x114-precomposed.png",
       "initialSize" : 1189,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
+      "initialSize" : 0,
       "fileType" : 8192
     },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futurab-cleartype.png" : {
@@ -790,17 +790,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
-      "initialSize" : 5124,
-      "fileType" : 8192
-    },
     "\/templates\/js\/vendor\/jquery.tools.custom.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -840,6 +829,17 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "initialSize" : 5124,
+      "fileType" : 8192
     },
     "\/snippets\/controller.php" : {
       "ignoreWasSetByUser" : 0,
