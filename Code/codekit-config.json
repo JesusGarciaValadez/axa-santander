@@ -324,6 +324,7 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
     "\/templates\/img\/imagenes_axa_one\/axa_logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -335,6 +336,8 @@
       "initialSize" : 12343,
       "fileType" : 8192
     },
+=======
+>>>>>>> 58d3ef7de3c8daa830d8cd793e662518e3148ce9
     "\/templates\/js\/vendor\/jquery-1.8.3.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -790,6 +793,7 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
     "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -800,6 +804,18 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
       "initialSize" : 5124,
       "fileType" : 8192
+=======
+    "\/templates\/js\/vendor\/jquery.tools.custom.min.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.custom.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.custom.min-ck.js",
+      "fileType" : 64
+>>>>>>> 58d3ef7de3c8daa830d8cd793e662518e3148ce9
     },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
@@ -830,6 +846,7 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
     "\/templates\/js\/vendor\/jquery.tools.custom.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -840,6 +857,18 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.custom.min-ck.js",
       "fileType" : 64
+=======
+    "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "initialSize" : 5124,
+      "fileType" : 8192
+>>>>>>> 58d3ef7de3c8daa830d8cd793e662518e3148ce9
     },
     "\/snippets\/controller.php" : {
       "ignoreWasSetByUser" : 0,
