@@ -14,15 +14,15 @@ class Mailer {
         $this->_mailer = new PHPMailer( true );
         $this->_mailer->isHTML( true );
         $this->_mailer->IsSMTP( );
-        $this->_mailer->Port        = $config[ 'mail_service' ][ 'port' ];
-        $this->_mailer->Host        = $config[ 'mail_service' ][ 'smtp_host' ];
+        $this->_mailer->Port        = $config['mail_service']['port'] ;
+        $this->_mailer->Host        = $config['mail_service']['smtp_host'] ;
         $this->_mailer->SMTPAuth    = true;
-        $this->_mailer->CharSet     = $config[ 'mail_service' ][ 'char_set' ];
-        $this->_mailer->Username    = $config[ 'mail_service' ][ 'smtp_user' ];
-        $this->_mailer->Password    = $config[ 'mail_service' ][ 'smtp_password' ];
+        $this->_mailer->CharSet     = $config['mail_service']['char_set'] ;
+        $this->_mailer->Username    = $config['mail_service']['smtp_user'] ;
+        $this->_mailer->Password    = $config['mail_service']['smtp_password'] ;
             //De:
-        $this->_mailer->From        = $config[ 'mail_service' ][ 'sender_mail' ];
-        $this->_mailer->FromName    = $config[ 'mail_service' ][ 'sender_name' ];
+        $this->_mailer->From        = $config['mail_service']['sender_mail']  ;
+        $this->_mailer->FromName    = $config['mail_service']['sender_name'] ;
         $this->_mailer->ClearAddresses();
     }
     
