@@ -1,8 +1,9 @@
 #wrapper_one{
     @extend .clearfix;
-    display: block;
-    height: auto;
+    display: table;
+    height: 100%;
     margin: 0 auto;
+    width: 100%;
     .left_side, .right_side, .container{height: 100%;}
     .left_side, .right_side{
         position: absolute;
@@ -16,7 +17,7 @@
         display: block;
         margin: 0 auto;
         position: relative;
-        width: em( 800, 16 );
+        width: em( 1024, 16 );
         z-index: 5;
     }
     header,#principal,#video_e_learning,#advices_best_practices,#create_avatar_feature,footer{
@@ -30,18 +31,97 @@
     }
     h1{font-family: normal 1em/1em $arial;}
     #principal_container{
-        height: em( 632, 16 );
+        height: em( 520, 16 );
         header{
-            height: em( 80, 16 );
+            height: em( 520, 16 );
             @include position( relative, 0 0 0 0 );
+            width: 100%;
             z-index: 1;
             .left_side{}
             .container{
-                background: url("../img/imagenes_axa_one/axa_logo.png") no-repeat scroll 2.937em 1.7em transparent;
-                h1{
+                height: em( 520, 16);
+                position: relative;
+                h1, h2{
                     @include hide-text;
                     height: em( 56, 16 );
                     width: em( 286, 16 );
+                    position: relative;
+                    z-index: 11;
+                }
+                .logo_image{
+                    position: absolute;
+                    top: em( 60, 16 );
+                    z-index: 11;
+                }
+                .title_image{
+                    position: relative;
+                    top: em( 217, 16 );
+                    z-index: 11;
+                }
+                .division{
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    z-index: 10;
+                }
+                .header_carrousel{
+                    height: 100%;
+                    left: 0;
+                    overflow: hidden;
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                    z-index: 0;
+                    #header_scrollable{
+                        height: 100%;
+                        position: relative;
+                        z-index: 5;
+                        .items{
+                            height: 100%;
+                            position:absolute;
+                            width:20000em;
+                            div{
+                                float: left;
+                                img{
+                                    position: relative;
+                                    z-index: 5;
+                                }
+                                .title_wrapper{
+                                    bottom: em( 95, 16 );
+                                    display: block;
+                                    height: em( 64, 16 );
+                                    left: 0;
+                                    position: absolute;
+                                    width: 100%;
+                                    z-index: 10;
+                                    h3{
+                                        color: #FFF;
+                                        font: normal 2.437em/1.641em $futura;
+                                        margin: 0;
+                                        padding: 0;
+                                        text-align: right;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .navi{
+                        @extend .clearfix;
+                        position: absolute;
+                        top: em( 480, 16 );
+                        right: 0;
+                        z-index: 10;
+                        a{
+                            background: url('../img/imagenes_descubre_one/header_navigation.png') no-repeat scroll 0 0 transparent;
+                            display: inline-block;
+                            float: left;
+                            height:17px;
+                            margin: 0 10px 0 0;
+                            width:17px;
+                            &:hover{ background-position:0px -17px; }
+                        }
+                        .active{ background-position:0px -17px; }
+                    }
                 }
             }
             .right_side{}
