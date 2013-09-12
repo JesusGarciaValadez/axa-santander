@@ -596,15 +596,31 @@
         
         if ( $( '#wrapper_one' ).exists() ) {
             
-            AxaS.inicializeCarrousel( $( '.scrollable' ), {
+            AxaS.inicializeCarrousel( $( '#header_scrollable' ), {
                 speed: 1000, 
-                circular: true
+                circular: true, 
+                keyboard: false, 
+                
+            }, {
+                steps: 1, 
+                interval: 5000, 
+                autoplay: true, 
+                autopause: true
+            }, {
+                navi: ".navi"
+            } );
+            AxaS.inicializeCarrousel( $( '#tips_scrollable' ), {
+                speed: 1000, 
+                circular: true, 
+                keyboard: false, 
+                next: ".next", 
+                prev: ".prev"
             }, {
                 steps: 1, 
                 interval: 1000, 
                 autoplay: true, 
                 autopause: true
-            } );
+            }, {} );
         }
     } );
     
