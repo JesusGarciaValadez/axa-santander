@@ -46,6 +46,17 @@ if ( ! empty( $_GET['action'] ) ) {
             case 'agentFormSubmitFour': 
                 
                 $cc = array( 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'fourth_review' );
+                $doInsert   = $doInsert->insertReview( $_POST, 'envio_inventario_fourth.html', 'Encuesta ONE / Cuarto Review', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'ambassadorFormSubmitOne': 
+                
+                $cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
@@ -53,8 +64,22 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'vdavila@cmv.com.mx', 
                         'name'  => 'Vico') );
                 
-                $doInsert   = new Review( $dbh, 'fourth_review' );
-                $doInsert   = $doInsert->insertReview( $_POST, 'envio_inventario_fourth.html', 'Encuesta ONE / Cuarto Review', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = new Review( $dbh, 'first_review_ambassador' );
+                $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_first_doubles.html', 'Encuesta ONE / Primer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'managerNetworkFormSubmitOne': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'first_review_manager_network' );
+                $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_first_doubles.html', 'Encuesta ONE / Primer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
         }

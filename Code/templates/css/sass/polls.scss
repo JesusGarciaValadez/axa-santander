@@ -147,17 +147,17 @@
                     
                     input{}
                     label{}
-                    textarea{
-                        border-radius: 5px;
-                        height: 6.437em;
-                        max-height: 6.437em;
-                        max-width: 15em;
-                        min-height: 6.437em;
-                        min-width: 15em;
-                        resize: none;
-                        width: 15em;
-                    }
                 }
+            }
+            textarea{
+                border-radius: 5px;
+                height: 6.437em;
+                max-height: 6.437em;
+                max-width: 15em;
+                min-height: 6.437em;
+                min-width: 15em;
+                resize: none;
+                width: 15em;
             }
             #submit_wrapper{
                 clear: both;
