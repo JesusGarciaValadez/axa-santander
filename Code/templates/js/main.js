@@ -929,7 +929,7 @@
                     _comment = String( $( e.currentTarget ).val() ).toLowerCase();
                     if ( ( _comment == _placeholder ) || ( _comment == "" ) ) {
                         
-                        $( e.currentTarget ).val( "" ).css( {
+                        $( e.currentTarget ).val( "Ninguno" ).css( {
                             color: '#aaa'
                         } );
                         return false;
@@ -1060,16 +1060,19 @@
         //  Handler de contenido de textarea
         if ( $( 'textarea' ).exists() ) {
             
+            $( 'textarea' ).val( 'Ninguno' );
             AxaS.toggleValue( 'textarea', "Ninguno" );
         }
         
+        //  Carruseles y efectos del Home
         if ( $( '#wrapper_one' ).exists() ) {
             
             AxaS.inicializeCarrousel( $( '#header_scrollable' ), {
                 speed: 1000, 
                 circular: true, 
                 keyboard: false, 
-                
+                next: '', 
+                prev: ''
             }, {
                 steps: 1, 
                 interval: 5000, 
@@ -1090,6 +1093,18 @@
                 autoplay: true, 
                 autopause: true
             }, {} );
+            
+            var leftSide    = $( '.carrousel_container' ).offset().left - $( '.browser.prev' ).width();
+            var rightSide   = leftSide + ( $( '.carrousel_container').width() ) + ( $( '.browser.next' ).width() );
+            
+            $( '.browser.prev' ).css( 'left', leftSide + 'px'  );
+            
+            var leftS       = $( '#advices_best_practices .right_side' ).width();
+            var widthS      = $( '.carrousel_container' ).width() / 2;
+            var widthA      = $( '.browser.next' ).width();
+            var rightVal    = Math.abs( widthS - leftS + widthA )
+            
+            $( '.browser.next' ).css( 'right', rightVal + 'px' );
         }
     } );
     

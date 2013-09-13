@@ -138,7 +138,7 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_third_doubles.html', 'Encuesta ONE / Tercer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
-            case 'ambassadorFormSubmitFour': 
+            case 'ambassadorFormSubmitFourth': 
                 
                 $cc = array( 
                     array( 
@@ -152,7 +152,7 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_doubles.html', 'Encuesta ONE / Cuarto Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
-            case 'managerNetworkFormSubmitFour': 
+            case 'managerNetworkFormSubmitFourth': 
                 
                 $cc = array( 
                     array( 

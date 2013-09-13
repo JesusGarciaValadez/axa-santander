@@ -118,7 +118,7 @@ CREATE TABLE IF NOT EXISTS `fourth_review_ambassador`
   ten VARCHAR( 60 ) NOT NULL, 
   eleven VARCHAR( 140 ) DEFAULT 'Ninguno', 
   twelve VARCHAR( 60 ) NOT NULL, 
-  thirdteen VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  thirteen VARCHAR( 140 ) DEFAULT 'Ninguno', 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -136,6 +136,6 @@ CREATE TABLE IF NOT EXISTS `fourth_review_manager_network`
   ten VARCHAR( 60 ) NOT NULL, 
   eleven VARCHAR( 140 ) DEFAULT 'Ninguno', 
   twelve VARCHAR( 60 ) NOT NULL, 
-  thirdteen VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  thirteen VARCHAR( 140 ) DEFAULT 'Ninguno', 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
