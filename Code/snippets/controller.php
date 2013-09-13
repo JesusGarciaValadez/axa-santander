@@ -82,6 +82,91 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_first_doubles.html', 'Encuesta ONE / Primer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            case 'ambassadorFormSubmitTwo': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'second_review_ambassador' );
+                $doInsert   = $doInsert->insertReviewSecondDoubles( $_POST, 'envio_inventario_second_doubles.html', 'Encuesta ONE / Segundo Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'managerNetworkFormSubmitTwo': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'second_review_manager_network' );
+                $doInsert   = $doInsert->insertReviewSecondDoubles( $_POST, 'envio_inventario_second_doubles.html', 'Encuesta ONE / Segundo Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'ambassadorFormSubmitThree': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'third_review_ambassador' );
+                $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_third_doubles.html', 'Encuesta ONE / Tercer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'managerNetworkFormSubmitThree': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'third_review_manager_network' );
+                $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_third_doubles.html', 'Encuesta ONE / Tercer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'ambassadorFormSubmitFour': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'fourth_review_ambassador' );
+                $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_doubles.html', 'Encuesta ONE / Cuarto Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'managerNetworkFormSubmitFour': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico') );
+                
+                $doInsert   = new Review( $dbh, 'fourth_review_manager_network' );
+                
+                $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_doubles.html', 'Encuesta ONE / Cuarto Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
         }
         echo $data;
         
