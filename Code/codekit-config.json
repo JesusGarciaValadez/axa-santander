@@ -211,21 +211,21 @@
       "initialSize" : 1880,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/templates\/confirmacion_registro.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/confirmacion_registro.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/templates\/confirmacion_registro.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/confirmacion_registro.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -338,21 +338,21 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/Common.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/Common.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets_bak\/libs\/templates\/excel_inventario.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/Common.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/Common.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -472,15 +472,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/js\/vendor\/jquery-1.8.3.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -491,6 +482,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery-1.8.3.min-ck.js",
       "fileType" : 64
+    },
+    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/edos_financieros_admin.html" : {
       "ignoreWasSetByUser" : 0,
@@ -523,21 +523,21 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods-ck.js",
       "fileType" : 64
     },
-    "\/templates\/second_review_manager_network.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/second_review_manager_network.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets_bak\/controller.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets_bak\/controller.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/ParserTemplate.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/ParserTemplate.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -553,12 +553,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/snippets\/libs\/ParserTemplate.php" : {
+    "\/templates\/second_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/ParserTemplate.php",
+      "inputAbbreviatedPath" : "\/templates\/second_review_manager_network.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -613,15 +613,6 @@
       "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck-ck.js",
       "fileType" : 64
     },
-    "\/snippets\/libs\/templates\/envio_contacto.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_contacto.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -630,6 +621,15 @@
       "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/snippets\/libs\/templates\/envio_contacto.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_contacto.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
@@ -713,15 +713,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/css\/main.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -730,6 +721,15 @@
       "inputAbbreviatedPath" : "\/templates\/css\/main.css",
       "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
+    },
+    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/envio_inventario_second_doubles.html" : {
       "ignoreWasSetByUser" : 0,
@@ -793,14 +793,16 @@
       "initialSize" : 8773,
       "fileType" : 8192
     },
-    "\/templates\/404.html" : {
+    "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/404.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png",
+      "initialSize" : 16157,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_morado\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -844,17 +846,6 @@
       "initialSize" : 1786,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png",
-      "initialSize" : 16157,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -865,6 +856,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png",
       "initialSize" : 6177,
       "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/phpmailer\/class.phpmailer.php" : {
       "ignoreWasSetByUser" : 0,
@@ -884,12 +884,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html" : {
+    "\/templates\/404.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html",
+      "inputAbbreviatedPath" : "\/templates\/404.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -951,6 +951,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_morado\/one_lateral.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
+      "initialSize" : 4305,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -961,15 +972,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png",
       "initialSize" : 10346,
       "fileType" : 8192
-    },
-    "\/snippets\/libs\/templates\/edos_financieros_user.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/edos_financieros_user.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/snippets_bak\/libs\/phpmailer\/class.phpmailer.php" : {
       "ignoreWasSetByUser" : 0,
@@ -991,25 +993,23 @@
       "initialSize" : 12010,
       "fileType" : 4096
     },
-    "\/templates\/css\/fonts\/futura\/stylesheet.css" : {
+    "\/snippets\/libs\/templates\/edos_financieros_user.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/stylesheet.css",
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/edos_financieros_user.html",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 2048
     },
-    "\/templates\/images\/header.png" : {
+    "\/snippets\/libs\/templates\/fila_documento_nuevo.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/images\/header.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/images\/header.png",
-      "initialSize" : 298958,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_documento_nuevo.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets_bak\/libs\/templates\/envio_contacto.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1031,14 +1031,16 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.custom.min-ck.js",
       "fileType" : 64
     },
-    "\/snippets\/libs\/Validator.php" : {
+    "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/Validator.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
+      "initialSize" : 89609,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1050,6 +1052,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_contenido.jpg",
       "initialSize" : 329,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/Validator.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/Validator.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/fourth_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1078,15 +1089,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/header_navigation.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/header_navigation.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/snippets\/libs\/templates\/envio_reporte.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1105,14 +1107,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/fila_documento_nuevo.html" : {
+    "\/templates\/css\/fonts\/futura\/stylesheet.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_documento_nuevo.html",
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/stylesheet.css",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "fileType" : 16
     },
     "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1136,26 +1138,24 @@
       "initialSize" : 4779,
       "fileType" : 8192
     },
-    "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/header_navigation.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
-      "initialSize" : 89609,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/header_navigation.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
-    "\/templates\/img\/imagenes_morado\/one_lateral.png" : {
+    "\/templates\/images\/header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
+      "inputAbbreviatedPath" : "\/templates\/images\/header.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
-      "initialSize" : 4305,
+      "outputAbbreviatedPath" : "\/templates\/images\/header.png",
+      "initialSize" : 298958,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_descubre_one\/flechas_degradado.jpg" : {
@@ -1449,15 +1449,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/templates\/mail_encuesta.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/mail_encuesta.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/libs\/templates\/restablecer_password.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1467,14 +1458,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/envio_inventario_third.html" : {
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_third.html",
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_descubre_one\/lineaheader.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
+      "initialSize" : 1034,
+      "fileType" : 8192
     },
     "\/templates\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1487,16 +1489,14 @@
       "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck.js",
       "fileType" : 64
     },
-    "\/templates\/img\/imagenes_descubre_one\/lineaheader.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/browser_arrows.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
-      "initialSize" : 1034,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/browser_arrows.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/templates\/img\/imagenes_descubre_one\/avatar_cara.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1518,14 +1518,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/browser_arrows.css" : {
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/browser_arrows.css",
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer.html",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 2048
     },
     "\/templates\/third_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1536,14 +1536,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/envio_inventario_second.html" : {
+    "\/templates\/img\/imagenes_morado\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_second.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
+      "initialSize" : 1876,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1556,16 +1558,14 @@
       "initialSize" : 298,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_morado\/tip_lateral.png" : {
+    "\/snippets\/libs\/templates\/envio_inventario_third.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
-      "initialSize" : 1876,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_third.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1585,12 +1585,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
+    "\/snippets\/libs\/templates\/envio_inventario_second.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_second.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1605,12 +1605,12 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer.html" : {
+    "\/templates\/mail_encuesta.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer.html",
+      "inputAbbreviatedPath" : "\/templates\/mail_encuesta.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1664,15 +1664,6 @@
       "initialSize" : 1475,
       "fileType" : 8192
     },
-    "\/templates\/first_review_ambassador.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/first_review_ambassador.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/css\/fonts\/futura\/specimen_files\/grid_12-825-55-15.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1681,6 +1672,17 @@
       "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/grid_12-825-55-15.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/templates\/img\/imagenes_morado\/left_medium.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/left_medium.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/left_medium.jpg",
+      "initialSize" : 13393,
+      "fileType" : 4096
     },
     "\/templates\/images\/Mailing01.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1693,16 +1695,14 @@
       "initialSize" : 5521,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_morado\/left_medium.jpg" : {
+    "\/templates\/first_review_ambassador.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/left_medium.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/left_medium.jpg",
-      "initialSize" : 13393,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/templates\/first_review_ambassador.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1722,15 +1722,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/mailer.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/mailer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_descubre_one\/iconos_tips_2.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1742,15 +1733,6 @@
       "initialSize" : 6995,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/Common.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/Common.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1761,6 +1743,24 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
       "initialSize" : 1016,
       "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/Common.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/Common.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/mailer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/mailer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 1,
@@ -1931,26 +1931,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/avatar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar.png",
-      "initialSize" : 11795,
-      "fileType" : 8192
-    },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1961,6 +1941,26 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg",
       "initialSize" : 1210,
       "fileType" : 4096
+    },
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_descubre_one\/avatar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar.png",
+      "initialSize" : 11795,
+      "fileType" : 8192
     },
     "\/snippets_bak\/libs\/phpmailer\/class.pop3.php" : {
       "ignoreWasSetByUser" : 0,
@@ -2009,6 +2009,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_descubre_one\/flecha_izq.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_izq.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_izq.png",
+      "initialSize" : 4108,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_descubre_one\/degradado_bg_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2031,17 +2042,6 @@
       "initialSize" : 1134,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_descubre_one\/flecha_izq.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_izq.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_izq.png",
-      "initialSize" : 4108,
-      "fileType" : 8192
-    },
     "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2050,35 +2050,6 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png",
-      "initialSize" : 13486,
-      "fileType" : 8192
-    },
-    "\/snippets\/libs\/phpmailer\/class.pop3.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.pop3.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/css\/normalize.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/templates\/img\/imagenes_azul\/btn_ONE.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2089,6 +2060,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/btn_ONE.png",
       "initialSize" : 4709,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png",
+      "initialSize" : 13486,
       "fileType" : 8192
     },
     "\/templates\/js\/vendor\/jquery.tools.min.js" : {
@@ -2112,6 +2094,24 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/circulo_header.png",
       "initialSize" : 1710,
       "fileType" : 8192
+    },
+    "\/templates\/css\/normalize.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/snippets\/libs\/phpmailer\/class.pop3.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.pop3.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets_bak\/libs\/templates\/edos_financieros_admin.html" : {
       "ignoreWasSetByUser" : 0,
