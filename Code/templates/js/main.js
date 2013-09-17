@@ -1094,17 +1094,7 @@
                 autopause: true
             }, {} );
             
-            var leftSide    = $( '.carrousel_container' ).offset().left - $( '.browser.prev' ).width();
-            var rightSide   = leftSide + ( $( '.carrousel_container').width() ) + ( $( '.browser.next' ).width() );
             
-            $( '.browser.prev' ).css( 'left', leftSide + 'px'  );
-            
-            var leftS       = $( '#advices_best_practices .right_side' ).width();
-            var widthS      = $( '.carrousel_container' ).width() / 2;
-            var widthA      = $( '.browser.next' ).width();
-            var rightVal    = Math.abs( widthS - leftS + widthA )
-            
-            $( '.browser.next' ).css( 'right', rightVal + 'px' );
         }
     } );
     

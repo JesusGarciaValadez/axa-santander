@@ -151,20 +151,35 @@
             display: inline-block;
             height: em( 80, 16 );
             width: 50%;
-            .browser{
-                background: url("../img/imagenes_descubre_one/browser_arrows.png") no-repeat scroll 0 0 transparent;
+        }
+        .left_side{}
+        .right_side{}
+        .background{
+            background-color: #303030;
+            height: em( 118, 16 );
+            position: absolute;
+            top: em( 137, 16 );
+            width: 100%;
+        }
+        .left_button{}
+        .right_button{}
+        .container{
+            background-color: #FFF;
+            .browse{
+                background: url("../img/imagenes_descubre_one/browser_arrows.png") no-repeat scroll 0 0 #FFF;
                 height: em( 118, 16 );
                 position: absolute;
-                top: em( 134, 16 );
+                top: em( 137, 16 );
                 width: em( 130, 16 );
             }
-        }
-        .left_side{
-            
-            a{ background-position: -136px 0px !important; }
-        }
-        .container{
-            
+            a.prev{ 
+                background-position: -136px 0px !important;
+                left: -130px;
+            }
+            a.next{
+                background-position: 0 0;
+                right: -130px;
+            }
             h3{
                 background: #F8F8F8;
                 clear: both;
@@ -277,14 +292,10 @@
                 }
             }
         }
-        .right_side{
-            
-            a{ background-position: 0 0; }
-        }
     }
     #create_avatar_feature{
         height: em( 255, 16 );
-        .left_side{ background: url("../img/imagenes_descubre_one/BG_avatar.png") repeat-x scroll 0 0 transparent; }
+        .left_side{ background: url("../img/imagenes_descubre_one/BG_Degradado_avatar.png") repeat-x scroll 0 0 transparent; }
         .container{
             @extend .clearfix;
             background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent;
@@ -374,10 +385,10 @@
                 .big_face{
                     height: em( 216, 16 );
                     padding: em( 7, 16 ) 0 em( 11, 16 );
-                    width: em( 173, 16 );
+                    width: em( 172, 16 );
                     img{ padding: 0 0 em( 15, 16 ); }
                     p{ 
-                        font-size: 1.20em;
+                        font-size: 1.171em;
                         line-height: 1.06em;
                         padding: 0;
                     }
