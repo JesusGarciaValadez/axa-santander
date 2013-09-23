@@ -127,6 +127,8 @@ class Avatar {
      *  @author Jesús Antonio García Valadez @_Chucho_
      *  @var    string _baseimage. Name of the background image (canvas)
      *  @see    bool imagepng( resource $image [, string $filename [, int $quality [, int $filters ]]] )
+     *  @see    resource fopen ( string $filename , string $mode [, bool $use_include_path = false [, resource $context ]] )
+     *  @see    void passthru ( string $command [, int &$return_var ] )
      *
      */
     private function _forceImageOutput () {
