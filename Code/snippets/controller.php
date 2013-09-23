@@ -167,6 +167,18 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_doubles.html', 'Encuesta ONE / Cuarto Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            case 'obtainAvatar': 
+                
+                $face   = ( isset( $_GET[ 'face' ] ) && !empty( $_GET[ 'face' ] ) ) ? ( string ) $_GET[ 'face' ] . '.png' : "avatar_cara.png";
+                $shirt  = ( isset( $_GET[ 'shirt' ] ) && !empty( $_GET[ 'shirt' ] ) ) ? ( string ) $_GET[ 'shirt' ] . '.png' : "avatar_playera.png";
+                $pants  = ( isset( $_GET[ 'pants' ] ) && !empty( $_GET[ 'pants' ] ) ) ? ( string ) $_GET[ 'pants' ] . '.png' : "avatar_pantalones.png";
+                
+                $avatar = new Avatar( $face, $shirt, $pants );
+                $avatar->createAvatar();
+                $data   = json_encode( [ 
+                    "success" => true, 
+                    "message" => "Avatar enviado" ] );
+                break;
         }
         echo $data;
         

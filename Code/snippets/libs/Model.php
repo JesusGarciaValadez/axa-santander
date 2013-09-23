@@ -317,7 +317,7 @@ abstract class Model{
         
         self::prepareDataToSave($data);
         
-        $id = (int) $data[$this->_primaryKey];        
+        $id = (int) $data[$this->_primaryKey];
         $where = ( !empty ($where) )? (string) $where : "{$this->_primaryKey}={$id}";
         $fields = array();
         
