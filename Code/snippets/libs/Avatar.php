@@ -28,37 +28,48 @@ class Avatar {
     public function createAvatar () {
         
         //Creamos la base de la imagen donde colocaremos luego las otras dos
-        $baseimagen     = imagecreatetruecolor( 105, 217 ) or die( 'Cannot Initilize new GD image stream' );
-        //Le damos un color a la base, en este caso se utiliza el negro
-        $black          = imagecolorallocate( $baseimagen, 250, 250, 250 );
-        
-        //Cargamos la segunda imagen(pantalones)
-        $avatarPants    = imagecreatefrompng( $this->_pants );
-        
-        //Juntamos la tercera imagen con la imagen base
-        imagecopymerge( $baseimagen, $avatarPants, 16, 149, 0, 0, 73, 68, 100 );
+        $baseimagen         = imagecreatetruecolor( 108, 217 ) or die( 'Cannot Initialize new GD image stream' );
         
         //Cargamos la segunda imagen(cuerpo)
-        $avatarShirt    = imagecreatefrompng( $this->_shirt );
+        $avatarSilouette    = imagecreatefrompng( IMAGE_PATH . "avatar.png" );
         
         //Juntamos la segunda imagen con la imagen base
-        imagecopymerge( $baseimagen, $avatarShirt, 10, 100, 0, 0, 81, 69, 100 );
+        imagecopyresampled( $baseimagen, $avatarSilouette, 0, 8, 0, 0, 105, 217, 105, 217 );
         
-        //Cargamos la primera imagen(cabecera)
-        $avatarHead     = imagecreatefrompng( $this->_head );
+        //Cargamos la segunda imagen(cuerpo)
+        $avatarShirt        = imagecreatefrompng( $this->_shirt );
+        
+        //Juntamos la segunda imagen con la imagen base
+        imagecopyresampled( $baseimagen, $avatarShirt, 15, 110, 0, 0, 81, 69, 81, 69 );
+        
+        //Cargamos la primera imagen(cabeza)
+        $avatarHead         = imagecreatefrompng( $this->_head );
         
         //Unimos la primera imagen con la imagen base
-        imagecopymerge( $baseimagen, $avatarHead, 0, 0, 0, 0, 108, 115, 100 );
+        imagecopyresampled( $baseimagen, $avatarHead, 0, 5, 0, 0, 108, 115, 108, 115 );
+        
+        //Cargamos la segunda imagen(pantalones)
+        $avatarPants        = imagecreatefrompng( $this->_pants );
+        
+        //Juntamos la tercera imagen con la imagen base
+        imagecopyresampled( $baseimagen, $avatarPants, 16, 145, 0, 0, 73, 68, 73, 68 );
         
         //Mostramos la imagen en el navegador
         header( "Content-Type: image/png" );
         
-        //ImagePng( image, filename, quality, filters )
+        //imagepng( image, filename, quality, filters )
+        imagesavealpha( $baseimagen, true );
         imagepng( $baseimagen );
         
-        //Limpiamos la memoria utilizada con las imagenes
-        imagedestroy( $logo );
-        imagedestroy( $ts_viewer );
+        //Limpiamos la memoria utilizada con las imagenes y los colores
+        imagecolordeallocate( $baseimagen, $white );
+        imagecolordeallocate( $baseimagen, $red );
+        imagecolordeallocate( $baseimagen, $green );
+        imagecolordeallocate( $baseimagen, $blue );
+        
+        imagedestroy( $avatarShirt );
+        imagedestroy( $avatarPants );
+        imagedestroy( $avatarHead );
         imagedestroy( $baseimagen );
     }
 }

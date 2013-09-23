@@ -18,6 +18,7 @@ CREATE TABLE IF NOT EXISTS `first_review_ambassador`
   ten VARCHAR( 140 ) DEFAULT 'Ninguno', 
   eleven VARCHAR( 60 ) NOT NULL, 
   twelve VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -35,6 +36,7 @@ CREATE TABLE IF NOT EXISTS `first_review_manager_network`
   ten VARCHAR( 140 ) DEFAULT 'Ninguno', 
   eleven VARCHAR( 60 ) NOT NULL, 
   twelve VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -51,6 +53,7 @@ CREATE TABLE IF NOT EXISTS `second_review_ambassador`
   nine VARCHAR( 140 ) DEFAULT 'Ninguno', 
   ten VARCHAR( 60 ) NOT NULL, 
   eleven VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -67,6 +70,7 @@ CREATE TABLE IF NOT EXISTS `second_review_manager_network`
   nine VARCHAR( 140 ) DEFAULT 'Ninguno', 
   ten VARCHAR( 60 ) NOT NULL, 
   eleven VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -84,6 +88,7 @@ CREATE TABLE IF NOT EXISTS `third_review_ambassador`
   ten VARCHAR( 140 ) DEFAULT 'Ninguno', 
   eleven VARCHAR( 60 ) NOT NULL, 
   twelve VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -101,6 +106,7 @@ CREATE TABLE IF NOT EXISTS `third_review_manager_network`
   ten VARCHAR( 140 ) DEFAULT 'Ninguno', 
   eleven VARCHAR( 60 ) NOT NULL, 
   twelve VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -119,6 +125,7 @@ CREATE TABLE IF NOT EXISTS `fourth_review_ambassador`
   eleven VARCHAR( 140 ) DEFAULT 'Ninguno', 
   twelve VARCHAR( 60 ) NOT NULL, 
   thirteen VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
 
@@ -137,5 +144,6 @@ CREATE TABLE IF NOT EXISTS `fourth_review_manager_network`
   eleven VARCHAR( 140 ) DEFAULT 'Ninguno', 
   twelve VARCHAR( 60 ) NOT NULL, 
   thirteen VARCHAR( 140 ) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';

@@ -189,6 +189,8 @@ class Review extends Model {
                 
                 $this->_PDOConn->beginTransaction();
                 
+                $info[ 'date_answer' ] = date( "Y/m/d" );
+                
                 $success    = $this->insert( $info );
                 
                 if ( $success ) {
@@ -311,6 +313,8 @@ class Review extends Model {
             try {
                 
                 $this->_PDOConn->beginTransaction();
+                
+                $info[ 'date_answer' ] = date( "Y/m/d" );
                 
                 $success    = $this->insert( $info );
                 
@@ -437,6 +441,8 @@ class Review extends Model {
             try {
                 
                 $this->_PDOConn->beginTransaction();
+                
+                $info[ 'date_answer' ] = date( "Y/m/d" );
                 
                 $success    = $this->insert( $info );
                 
