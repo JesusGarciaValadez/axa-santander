@@ -1071,15 +1071,17 @@
                 speed: 1000, 
                 circular: true, 
                 keyboard: false, 
-                next: '', 
-                prev: ''
+                next: null, 
+                prev: null
             }, {
                 steps: 1, 
                 interval: 5000, 
                 autoplay: true, 
                 autopause: true
             }, {
-                navi: ".navi"
+                activeClass: "active", 
+                navi: ".navi", 
+                naviItem: "a"
             } );
             AxaS.inicializeCarrousel( $( '#tips_scrollable' ), {
                 speed: 1000, 
@@ -1092,9 +1094,11 @@
                 interval: 1000, 
                 autoplay: true, 
                 autopause: true
-            }, {} );
-            
-            
+            }, {
+                activeClass: "li_Active", 
+                navi: "ul.tabs", 
+                naviItem: "li"
+            } );
         }
     } );
     

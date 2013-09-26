@@ -215,19 +215,19 @@
                         height: 100%;
                         position:absolute;
                         width:20000em;
-                        div{
+                        > div{
                             background: url("../img/imagenes_descubre_one/separador_linea.png") no-repeat scroll right center transparent;
                             float:left;
                             height: em( 197, 16 );
                             margin: 0;
                             padding: em( 14, 16 ) em( 15.5, 16 );
                             position: relative;
-                            width: em( 311.333, 16 );
+                            width: em( 312.333, 16 );
                             h4{
                                 clear: both;
                                 color: #6D6D6D;
                                 display: block;
-                                font: normal 1.062em/1em $franklin;
+                                font: normal 0.968em/1em $franklin;
                                 margin: 0 auto;
                                 padding: 0.625em 0 0.937em;
                                 text-align: center;;
@@ -238,18 +238,24 @@
                                     font-weight: bold;
                                 }
                             }
-                            p{
-                                color: #000;
-                                font: normal 0.812em/1em $franklin;
-                                text-align: justify;
+                            div{
+                                max-height: em( 117, 16 );
+                                overflow: hidden;
+                                text-overflow: ellipsis;
+                                p{
+                                    color: #000;
+                                    font: normal 0.812em/1em $franklin;
+                                    text-align: justify;
+                                }
                             }
                             ul{
+                                clear: both;
                                 display: inline-block;
                                 float: right;
                                 height: em( 27, 16 );
                                 margin: 0;
                                 padding: 0;
-                                width: em( 126, 16 );
+                                width: auto;
                                 li{
                                     float: left;
                                     height: em( 27, 16 );

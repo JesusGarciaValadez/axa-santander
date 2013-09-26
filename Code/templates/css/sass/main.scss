@@ -145,6 +145,11 @@ $franklin: "franklingothicsketchdemi",helvetica,Arial,Verdana;
 $futura: "futura_lt_btlight_italic",Helvetica,Arial,Verdana;
 $blue: #0C4D93;
 
+a,input,div,p,span,strong,em,form,fieldset,textarea,hr,img,select,option,button,
+header,body,aside,video,audio,footer,section,article,code,canvas,ul,ol,li,menu,
+menuitem,nav,iframe{
+    outline: none;
+}
 .alert_background {
     background: url('../img/background_lightbox.png') repeat scroll 0 0 transparent;
     display: none;
