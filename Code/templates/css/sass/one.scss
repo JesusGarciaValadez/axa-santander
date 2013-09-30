@@ -103,16 +103,14 @@
                                     h3{
                                         color: #FFF;
                                         display: block;
-                                        float: left;
-                                        font: normal 2.437em/1.641em $futura;
+                                        float: right;
+                                        font: normal 2.437em/1.641em $arial;
                                         margin: 0;
-                                        padding: 0;
+                                        padding: 0 1em 0 0;
                                         position: relative;
                                         text-align: right;
                                         width: 100%;
-                                        strong{ 
-                                            font-family: $franklin !important;
-                                            font-style: normal !important;
+                                        strong{
                                             font-weight: bold !important;
                                         }
                                     }
@@ -185,8 +183,7 @@
                 clear: both;
                 color: $blue;
                 float: left;
-                font: bold 1.8em/3em $franklin;
-                height: 2.755em;
+                font: bold 2em/2.5em $arial;
                 margin: 0;
                 padding: 0;
                 text-transform: uppercase;
@@ -225,11 +222,13 @@
                             width: em( 312.333, 16 );
                             h4{
                                 clear: both;
-                                color: #6D6D6D;
+                                color: #6B6B6B;
                                 display: block;
-                                font: normal 0.968em/1em $franklin;
+                                font: normal 1em/1em $arial;
+                                height: em( 60, 20 );
                                 margin: 0 auto;
-                                padding: 0.625em 0 0.937em;
+                                padding: 0.625em 0 0;
+                                //padding: 0.625em 0 0.937em;
                                 text-align: center;;
                                 text-transform: uppercase;
                                 width: 100%;
@@ -243,9 +242,9 @@
                                 overflow: hidden;
                                 text-overflow: ellipsis;
                                 p{
-                                    color: #000;
-                                    font: normal 0.812em/1em $franklin;
-                                    text-align: justify;
+                                    color: #6B6B6B;
+                                    font: normal 0.75em/1em $arial;
+                                    text-align: left;
                                 }
                             }
                             ul{
@@ -316,13 +315,16 @@
                 color: #BDBDBD;
                 display: inline-block;
                 float: left;
-                font: normal 2.6em/0.9em $franklin;
+                font: normal 2.5em/0.9em $arial;
                 margin: 0;
-                padding: 1.634em 0 0.73em;
+                padding: 1.634em 0 0.45em;
+                //padding: 1.634em 0 0.73em;
                 text-transform: uppercase;
-                width: 8.5em;
+                width: em( 355, 40 );
                 span{
+                    clear: none;
                     color: #FFF;
+                    float: none;
                     font-weight: bold;
                 }
             }
@@ -335,18 +337,18 @@
                 height: 1px;
                 margin: 0;
                 padding: 0;
-                width: em( 340, 16 );
+                width: em( 355, 16 );
             }
             p{
                 clear: left;
                 color: #CBCBCD;
                 display: inline-block;
                 float: left;
-                font: normal 0.75em/1em $franklin;
+                font: normal 0.812em/1.2em $arial;
                 text-align: center;
                 margin: 0;
                 padding: 1.333em 0 0;
-                width: 28.333em;
+                width: em( 355, 13 );
             }
             .avatar_example{
                 margin: 0;
@@ -366,7 +368,7 @@
                     float: left;
                     list-style: none inside;
                     margin: 0;
-                    padding: 0 0 0 em( 43, 16 );
+                    padding: 0 0 0 em( 16, 16 );
                     img{
                         clear: both;
                         display: block;
@@ -380,7 +382,7 @@
                     p{
                         color: #BABFC3;
                         display: block;
-                        font: normal 1.16em/1em $franklin;
+                        font: normal 1.16em/1em $arial;
                         margin: 0 auto;
                         padding: 0.2em 0 0;
                         text-align: center;
@@ -389,12 +391,14 @@
                     }
                 }
                 .big_face{
+                    background: url("../img/imagenes_descubre_one/linaVertical_avatar.jpg") no-repeat scroll right center transparent;
                     height: em( 216, 16 );
-                    padding: em( 7, 16 ) 0 em( 11, 16 );
+                    padding: em( 7, 16 ) em( 16, 16 ) em( 11, 16 ) 0;
                     width: em( 172, 16 );
                     img{ padding: 0 0 em( 15, 16 ); }
                     p{ 
-                        font-size: 1.171em;
+                        //font-size: 1.171em;
+                        font-size: 1em;
                         line-height: 1.06em;
                         padding: 0;
                     }
@@ -415,7 +419,7 @@
                 clear: both;
                 color: #6D6D6D;
                 display: block;
-                font: normal 1.88em/0.8em $franklin;
+                font: normal 1.88em/0.8em $arial;
                 margin: 0;
                 padding: 0;
                 position: relative;
