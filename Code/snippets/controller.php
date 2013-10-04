@@ -19,8 +19,8 @@ function __autoload( $className ) {
 
 require_once SNIPPETS_PATH . 'db/connection.php';
 
-/*error_reporting(E_ALL | E_STRICT);
-ini_set('display_errors', 1);*/
+error_reporting(E_ALL | E_STRICT);
+ini_set('display_errors', 1);
 
 if ( ! empty( $_GET['action'] ) ) {
     
@@ -146,10 +146,14 @@ if ( ! empty( $_GET['action'] ) ) {
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico'), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel')
+                    );
                 
                 $doInsert   = new Review( $dbh, 'fourth_review_ambassador' );
-                $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_doubles.html', 'Encuesta ONE / Cuarto Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_ambassador.html', 'Encuesta ONE / Cuarto Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
             case 'managerNetworkFormSubmitFourth': 
@@ -160,11 +164,15 @@ if ( ! empty( $_GET['action'] ) ) {
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico'), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel')
+                    );
                 
                 $doInsert   = new Review( $dbh, 'fourth_review_manager_network' );
                 
-                $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_doubles.html', 'Encuesta ONE / Cuarto Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_manager_network.html', 'Encuesta ONE / Cuarto Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
             case 'obtainAvatar': 
@@ -175,9 +183,9 @@ if ( ! empty( $_GET['action'] ) ) {
                 
                 $avatar = new Avatar( $face, $shirt, $pants );
                 $avatar->createAvatar();
-                $data   = json_encode( [ 
+                $data   = json_encode( array(  
                     "success" => true, 
-                    "message" => "Avatar enviado" ] );
+                    "message" => "Avatar enviado" ) );
                 break;
         }
         echo $data;
