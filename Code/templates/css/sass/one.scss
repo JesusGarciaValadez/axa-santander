@@ -1,3 +1,38 @@
+.overlay {
+    background:url("../img/overlay/white.png") no-repeat scroll 0 0 transparent;
+    display:none;
+    font-size: em( 11, 11 );
+    height: em( 456, 16 );
+    padding:em( 35, 16 );
+    width: em( 586, 16 );
+    .details{
+        
+        iframe, video{
+            display: block;
+            margin: 0 auto;
+            width: em( 560, 16 );
+        }
+    }
+}
+.overlay .close {
+    background:url("../img/overlay/apple-close.png") no-repeat scroll 0 0 transparent;
+    cursor:pointer;
+    height:em( 35, 16 );
+    position:absolute; 
+    right:em( 2, 16 ); 
+    top:em( 12, 16 );
+    width:em( 35, 16 );
+}
+.overlay.black {
+    background:url("../img/overlay/transparent.png") no-repeat scroll 0 0 transparent !important;
+    color:#FFF;
+}
+#video_container{
+    
+    .details{
+        
+    }
+}
 #wrapper_one{
     @extend .clearfix;
     display: table;
@@ -238,7 +273,7 @@
                                 }
                             }
                             div{
-                                max-height: em( 117, 16 );
+                                max-height: em( 110, 16 );
                                 overflow: hidden;
                                 text-overflow: ellipsis;
                                 p{

@@ -815,8 +815,10 @@
          */
         //  !Hace un efecto de overlay sobre un elemento determinado
         doOverlay:  function ( selector, options ) {
+            var _selector   = ( typeof( selector ) == "string" )? $( selector ) : ( ( typeof( selector ) == "object" )? selector : $( '*' ) );
+            var _options    = ( typeof( options )   == "object" )? options : {};
             
-            selector.overlay( options );
+            _selector.overlay( _options );
         }, 
         //  !Abre un cuadro de diálogo con un mensaje
         openAlert:  function ( title, markupMessage ) {
@@ -1026,6 +1028,29 @@
             AxaS.overlay    = $( '.alert_trigger' ).data( 'overlay' );
             
             $( '.alert_background' ).height( $( 'body' ).height() );
+        }
+        
+        if ( $( '.overlay.black' ).exists() ) {
+            
+            $( '.overlay.black' ).centerWidth();
+            AxaS.doOverlay( 'img[rel]', {
+                effect: 'apple', 
+                // custom top position
+                //top: 260,
+                // some mask tweaks suitable for facebox-looking dialogs
+                mask: {
+                    // you might also consider a "transparent" color for the mask
+                    color: '#FFF',
+                    // load mask a little faster
+                    loadSpeed: 200,
+                    // very transparent
+                    opacity: 0.5
+                },
+                // disable this for modal dialog-type of overlays
+                closeOnClick: false,
+                // load it immediately after the construction
+                load: true
+            } );
         }
         
         // Validación de los formularios
