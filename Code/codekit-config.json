@@ -238,21 +238,21 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/phpmailer\/class.pop3.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.pop3.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/libs\/Review.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/libs\/Review.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/phpmailer\/class.pop3.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.pop3.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -320,14 +320,16 @@
       "initialSize" : 194076,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
+    "\/templates\/images\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/restablecer_password.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
+      "initialSize" : 6944,
+      "fileType" : 8192
     },
     "\/templates\/img\/btn_enviar.png" : {
       "ignoreWasSetByUser" : 0,
@@ -340,16 +342,14 @@
       "initialSize" : 1153,
       "fileType" : 8192
     },
-    "\/templates\/images\/logo_footer.png" : {
+    "\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
-      "initialSize" : 6944,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/restablecer_password.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/Avatar.php" : {
       "ignoreWasSetByUser" : 0,
@@ -679,17 +679,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/js\/plugins.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck.js",
-      "fileType" : 64
-    },
     "\/templates\/AMBASSADOR\/mailing7\/mailing_7NP_Amb.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -700,6 +689,17 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/mailing_7NP_Amb.jpg",
       "initialSize" : 359306,
       "fileType" : 4096
+    },
+    "\/templates\/js\/plugins.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/plugins.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck.js",
+      "fileType" : 64
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -854,6 +854,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
+      "initialSize" : 6386,
+      "fileType" : 8192
+    },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -865,15 +876,6 @@
       "initialSize" : 1144,
       "fileType" : 8192
     },
-    "\/templates\/first_review_manager_network.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/first_review_manager_network.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -883,16 +885,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png" : {
+    "\/templates\/first_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
-      "initialSize" : 6386,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/templates\/first_review_manager_network.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js" : {
       "ignoreWasSetByUser" : 1,
@@ -1083,15 +1083,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_descubre_one\/logo_footer_Axa.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1113,6 +1104,15 @@
       "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurali-cleartype.png",
       "initialSize" : 84903,
       "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/envio_inventario_third.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1145,15 +1145,6 @@
       "initialSize" : 1263,
       "fileType" : 4096
     },
-    "\/snippets\/libs\/Common.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/Common.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1164,6 +1155,15 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_contenido.jpg",
       "initialSize" : 1443,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/Common.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/Common.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/fila_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1246,6 +1246,17 @@
       "initialSize" : 4779,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "initialSize" : 298,
+      "fileType" : 4096
+    },
     "\/templates\/css\/sass\/polls.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1257,17 +1268,6 @@
       "outputAbbreviatedPath" : "\/templates\/css\/polls.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
-      "initialSize" : 298,
-      "fileType" : 4096
     },
     "\/templates\/img\/overlay\/red.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1340,15 +1340,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/css\/main.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1359,6 +1350,15 @@
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip.jpg",
       "initialSize" : 5071,
       "fileType" : 4096
+    },
+    "\/templates\/css\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/templates\/img\/overlay\/white.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1482,17 +1482,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/separador_linea.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/separador_linea.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/separador_linea.png",
-      "initialSize" : 1017,
-      "fileType" : 8192
-    },
     "\/templates\/mailing_one_mng_net.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1510,6 +1499,17 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_inventario.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_descubre_one\/separador_linea.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/separador_linea.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/separador_linea.png",
+      "initialSize" : 1017,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_morado\/tip2_Network.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1533,6 +1533,15 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.custom.min-ck.js",
       "fileType" : 64
     },
+    "\/templates\/second_review_manager_network.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/second_review_manager_network.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/footer_personals.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1543,15 +1552,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/footer_personals.png",
       "initialSize" : 132419,
       "fileType" : 8192
-    },
-    "\/templates\/second_review_manager_network.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/second_review_manager_network.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1646,17 +1646,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/overlay\/gray.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
-      "initialSize" : 4907,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1666,6 +1655,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png",
       "initialSize" : 16157,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/overlay\/gray.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
+      "initialSize" : 4907,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/mailing_6NP_Net.jpg" : {
@@ -1970,6 +1970,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_descubre_one\/flecha_der.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
+      "initialSize" : 4144,
+      "fileType" : 8192
+    },
     "\/snippets\/libs\/Model.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1988,17 +1999,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
-      "initialSize" : 2108,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2010,15 +2010,15 @@
       "initialSize" : 13581,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
+    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
-      "initialSize" : 1016,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
+      "initialSize" : 2108,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png" : {
@@ -2043,15 +2043,15 @@
       "initialSize" : 165160,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_descubre_one\/flecha_der.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
-      "initialSize" : 4144,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
+      "initialSize" : 1016,
       "fileType" : 8192
     },
     "\/templates\/apple-touch-icon-144x144-precomposed.png" : {
@@ -2183,15 +2183,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/css\/normalize.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/snippets\/libs\/filter.input.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2200,6 +2191,15 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/filter.input.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/css\/normalize.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2276,6 +2276,15 @@
       "initialSize" : 287587,
       "fileType" : 4096
     },
+    "\/snippets_bak\/libs\/templates\/envio_inventario.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2295,15 +2304,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/cancelIcon.png",
       "initialSize" : 2875,
       "fileType" : 8192
-    },
-    "\/snippets_bak\/libs\/templates\/envio_inventario.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2365,28 +2365,27 @@
       "initialSize" : 12010,
       "fileType" : 4096
     },
-    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
+    "\/templates\/js\/vendor\/modernizr-2.6.2.min.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
+      "fileType" : 64
+    },
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
-      "initialSize" : 1443,
-      "fileType" : 4096
-    },
-    "\/templates\/css\/sass\/one.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/sass\/one.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/templates\/css\/one.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
+      "initialSize" : 8446,
+      "fileType" : 8192
     },
     "\/templates\/encuesta.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2428,6 +2427,15 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min-ck.js",
       "fileType" : 64
     },
+    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2439,17 +2447,6 @@
       "initialSize" : 1256,
       "fileType" : 8192
     },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
-      "initialSize" : 8446,
-      "fileType" : 8192
-    },
     "\/templates\/css\/fonts\/futura\/specimen_files\/grid_12-825-55-15.css" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -2459,16 +2456,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/templates\/js\/vendor\/modernizr-2.6.2.min.js" : {
-      "ignoreWasSetByUser" : 1,
+    "\/templates\/css\/sass\/one.scss" : {
+      "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/templates\/css\/sass\/one.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/templates\/css\/one.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2492,14 +2490,16 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
+    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "initialSize" : 1443,
+      "fileType" : 4096
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2607,17 +2607,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_morado\/liena_roja.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/liena_roja.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/liena_roja.png",
-      "initialSize" : 1134,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_azul\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2627,6 +2616,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/one_lateral.png",
       "initialSize" : 4298,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_morado\/liena_roja.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/liena_roja.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/liena_roja.png",
+      "initialSize" : 1134,
       "fileType" : 8192
     },
     "\/snippets_bak\/libs\/templates\/listCaptcha.html" : {
@@ -2711,17 +2711,6 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
-      "initialSize" : 13129,
-      "fileType" : 4096
-    },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2733,72 +2722,23 @@
       "initialSize" : 1443,
       "fileType" : 4096
     },
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "initialSize" : 13129,
+      "fileType" : 4096
+    },
     "\/snippets_bak\/libs\/phpmailer\/class.smtp.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/phpmailer\/class.smtp.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/js\/main-ck.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/main-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/main-ck-ck.js",
-      "fileType" : 64
-    },
-    "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/js\/vendor\/jquery.validate-ck.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate-ck-ck.js",
-      "fileType" : 64
-    },
-    "\/snippets\/libs\/templates\/excel_inventario.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_inventario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
-      "initialSize" : 11450,
-      "fileType" : 8192
-    },
-    "\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_transferencia.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2813,6 +2753,37 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.min-ck.js",
       "fileType" : 64
     },
+    "\/templates\/js\/vendor\/jquery.validate-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate-ck-ck.js",
+      "fileType" : 64
+    },
+    "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
+      "initialSize" : 11450,
+      "fileType" : 8192
+    },
+    "\/snippets\/libs\/templates\/excel_inventario.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2823,6 +2794,35 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_header.jpg",
       "initialSize" : 13129,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/js\/main-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/main-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/main-ck-ck.js",
+      "fileType" : 64
     },
     "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg" : {
       "ignoreWasSetByUser" : 0,

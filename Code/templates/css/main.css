@@ -295,7 +295,7 @@ textarea {
 
 a, input, div, p, span, strong, em, form, fieldset, textarea, hr, img, select, option, button,
 header, body, aside, video, audio, footer, section, article, code, canvas, ul, ol, li, menu,
-menuitem, nav, iframe {
+menuitem, nav, iframe, embed, object {
   outline: none; }
 
 .alert_background {
@@ -427,7 +427,7 @@ menuitem, nav, iframe {
   height: 28.5em;
   padding: 2.1875em;
   width: 36.625em; }
-  .overlay .details iframe, .overlay .details video {
+  .overlay .details iframe, .overlay .details video, .overlay .details object, .overlay #details iframe, .overlay #details video, .overlay #details object {
     display: block;
     margin: 0 auto;
     width: 35em; }

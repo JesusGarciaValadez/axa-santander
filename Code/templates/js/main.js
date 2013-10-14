@@ -1049,7 +1049,38 @@
                 // disable this for modal dialog-type of overlays
                 closeOnClick: false,
                 // load it immediately after the construction
-                load: true
+                load: true, 
+                onBeforeClose: function ( e ) {
+                    
+                    var player;
+                    function onYouTubeIframeAPIReady() {
+                        
+                        player  = new window.YT.Player( 'ytplayer', {
+                            events: {
+                                'onReady': onPlayerReady,
+                                'onStateChange': onPlayerStateChange
+                            }
+                        });
+                    }
+                    
+                    function onPlayerReady( event ) {
+                        
+                        event.target.playVideo();
+                    }
+                    
+                    var done = false;
+                    function onPlayerStateChange( event ) {
+                        
+                        if ( event.data == YT.PlayerState.PLAYING ) {
+                            
+                            stopVideo();
+                        }
+                    }
+                    function stopVideo() {
+                        
+                        player.stopVideo();
+                    }
+                }
             } );
         }
         
@@ -1125,6 +1156,7 @@
                 naviItem: "li"
             } );
         }
+        
     } );
     
 } )( jQuery, window );
