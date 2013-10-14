@@ -1121,7 +1121,7 @@
         }
         
         //  Carruseles y efectos del Home
-        if ( $( '#wrapper_one' ).exists() ) {
+        if ( $( '#one' ).exists() ) {
             
             AxaS.inicializeCarrousel( $( '#header_scrollable' ), {
                 speed: 1000, 
@@ -1155,6 +1155,8 @@
                 navi: "ul.tabs", 
                 naviItem: "li"
             } );
+            
+            //$( '.navi' ).
         }
         
     } );

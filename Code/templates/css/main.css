@@ -445,356 +445,75 @@ menuitem, nav, iframe, embed, object {
   background: url("../img/overlay/transparent.png") no-repeat scroll 0 0 transparent !important;
   color: #FFF; }
 
-#wrapper_one {
+.div_container, #one #principal, #one #video_e_learning, #one #advices_best_practices, #one #create_avatar_feature, #avatar #principal_container, #avatar #avatar_creator {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  z-index: 5; }
+
+.wrapper {
   display: table;
   height: 100%;
   margin: 0 auto;
   width: 100%; }
-  #wrapper_one .left_side, #wrapper_one .right_side, #wrapper_one .container {
+  .wrapper .container {
+    margin: 0 auto;
+    position: relative;
+    width: 64em;
+    z-index: 2; }
+  .wrapper .left_side, .wrapper .right_side, .wrapper .container {
     height: 100%; }
-  #wrapper_one .left_side, #wrapper_one .right_side {
+  .wrapper .left_side, .wrapper .right_side {
     position: absolute;
     top: 0;
     width: 50%;
     z-index: 1; }
-  #wrapper_one .left_side {
+  .wrapper .left_side {
     left: 0; }
-  #wrapper_one .right_side {
+  .wrapper .right_side {
     right: 0; }
-  #wrapper_one .container {
-    display: block;
-    margin: 0 auto;
-    position: relative;
-    width: 64em;
-    z-index: 5; }
-  #wrapper_one header, #wrapper_one #principal, #wrapper_one #video_e_learning, #wrapper_one #advices_best_practices, #wrapper_one #create_avatar_feature, #wrapper_one footer {
+  .wrapper header, .wrapper footer {
     clear: both;
     display: block;
     margin: 0;
     padding: 0;
     position: relative;
     width: 100%; }
-  #wrapper_one h1 {
+  .wrapper h1 {
     font-family: normal 1em/1em Arial, Helvetica, Verdana, "sans-serif"; }
-  #wrapper_one #principal_container {
-    background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
-    height: 32.5em; }
-    #wrapper_one #principal_container header {
-      height: 32.5625em;
-      position: relative;
-      width: 100%;
-      z-index: 1; }
-      #wrapper_one #principal_container header .container {
-        height: 32.5em;
-        position: relative; }
-        #wrapper_one #principal_container header .container h1, #wrapper_one #principal_container header .container h2 {
-          color: transparent;
-          font: 0/0 a;
-          text-shadow: none;
-          height: 3.5em;
-          width: 17.875em;
-          position: relative;
-          z-index: 11; }
-        #wrapper_one #principal_container header .container .logo_image {
-          position: absolute;
-          top: 4.1875em;
-          z-index: 11; }
-        #wrapper_one #principal_container header .container .title_image {
-          position: relative;
-          top: 15.25em;
-          z-index: 11; }
-        #wrapper_one #principal_container header .container .division {
-          position: absolute;
-          top: -3px;
-          left: 0;
-          z-index: 10; }
-        #wrapper_one #principal_container header .container .header_carrousel {
-          height: 100%;
-          left: 0;
-          overflow: hidden;
-          position: absolute;
-          top: 0;
-          width: 100%;
-          z-index: 0; }
-          #wrapper_one #principal_container header .container .header_carrousel #header_scrollable {
-            height: 100%;
-            position: relative;
-            z-index: 5; }
-            #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items {
-              height: 100%;
-              position: absolute;
-              width: 20000em; }
-              #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div {
-                float: left;
-                height: 100%;
-                position: relative;
-                width: 63.875em; }
-                #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div img {
-                  position: relative;
-                  z-index: 5; }
-                #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper {
-                  background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
-                  bottom: 5.9375em;
-                  display: block;
-                  height: 4em;
-                  left: 0;
-                  position: absolute;
-                  width: 100%;
-                  z-index: 10; }
-                  #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 {
-                    color: #FFF;
-                    display: block;
-                    float: right;
-                    font: normal 2.437em/1.641em Arial, Helvetica, Verdana, "sans-serif";
-                    margin: 0;
-                    padding: 0 1em 0 0;
-                    position: relative;
-                    text-align: right;
-                    width: 100%; }
-                    #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 strong {
-                      font-weight: bold !important; }
-          #wrapper_one #principal_container header .container .header_carrousel .navi {
-            position: absolute;
-            top: 30em;
-            right: 0;
-            z-index: 10; }
-            #wrapper_one #principal_container header .container .header_carrousel .navi a {
-              background: url("../img/imagenes_descubre_one/header_navigation.png") no-repeat scroll 0 0 transparent;
-              display: inline-block;
-              float: left;
-              height: 17px;
-              margin: 0 10px 0 0;
-              width: 17px; }
-              #wrapper_one #principal_container header .container .header_carrousel .navi a:hover {
-                background-position: 0px -17px; }
-            #wrapper_one #principal_container header .container .header_carrousel .navi .active {
-              background-position: 0px -17px; }
-      #wrapper_one #principal_container header .right_side {
-        background: url("../img/imagenes_descubre_one/degradado_bg_header.jpg") repeat-x scroll 0 0 transparent; }
-  #wrapper_one #advices_best_practices {
-    height: 19.25em; }
-    #wrapper_one #advices_best_practices .left_side, #wrapper_one #advices_best_practices .right_side {
-      background: #F8F8F8;
-      display: inline-block;
-      height: 5em;
-      width: 50%; }
-    #wrapper_one #advices_best_practices .background {
-      background-color: #303030;
-      height: 7.375em;
-      position: absolute;
-      top: 8.5625em;
-      width: 100%; }
-    #wrapper_one #advices_best_practices .container {
-      background-color: #FFF; }
-      #wrapper_one #advices_best_practices .container .browse {
-        background: url("../img/imagenes_descubre_one/browser_arrows.png") no-repeat scroll 0 0 white;
-        height: 7.375em;
+  .wrapper div header {
+    height: 32.5625em;
+    position: relative;
+    width: 100%;
+    z-index: 1; }
+    .wrapper div header .container {
+      height: 32.5em;
+      position: relative; }
+      .wrapper div header .container h1, .wrapper div header .container h2 {
+        color: transparent;
+        font: 0/0 a;
+        text-shadow: none;
+        height: 3.5em;
+        width: 17.875em;
+        position: relative;
+        z-index: 11; }
+      .wrapper div header .container .logo_image {
         position: absolute;
-        top: 8.5625em;
-        width: 8.125em; }
-      #wrapper_one #advices_best_practices .container a.prev {
-        background-position: -136px 0px !important;
-        left: -130px; }
-      #wrapper_one #advices_best_practices .container a.next {
-        background-position: 0 0;
-        right: -130px; }
-      #wrapper_one #advices_best_practices .container h3 {
-        background: #F8F8F8;
-        clear: both;
-        color: #0c4d93;
-        float: left;
-        font: bold 2em/2.5em Arial, Helvetica, Verdana, "sans-serif";
-        margin: 0;
-        padding: 0;
-        text-transform: uppercase;
-        width: 100%; }
-        #wrapper_one #advices_best_practices .container h3 span {
-          color: #BDBDBD;
-          font-weight: normal; }
-      #wrapper_one #advices_best_practices .container .carrousel_container {
-        clear: both;
-        height: 13em;
-        margin: 0 auto 1.8em;
-        padding: 0;
-        width: 100%; }
-        #wrapper_one #advices_best_practices .container .carrousel_container .scrollable {
-          overflow: hidden;
-          position: relative; }
-        #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable {
-          display: block;
-          height: 100%;
-          margin: 0 auto;
-          width: 64em; }
-          #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items {
-            height: 100%;
-            position: absolute;
-            width: 20000em; }
-            #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div {
-              background: url("../img/imagenes_descubre_one/separador_linea.png") no-repeat scroll right center transparent;
-              float: left;
-              height: 12.3125em;
-              margin: 0;
-              padding: 0.875em 0.96875em;
-              position: relative;
-              width: 19.52081em; }
-              #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div h4 {
-                clear: both;
-                color: #6B6B6B;
-                display: block;
-                font: normal 1em/1em Arial, Helvetica, Verdana, "sans-serif";
-                height: 3em;
-                margin: 0 auto;
-                padding: 0.625em 0 0;
-                text-align: center;
-                text-transform: uppercase;
-                width: 100%; }
-                #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div h4 span {
-                  color: #0c4d93;
-                  font-weight: bold; }
-              #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div div {
-                max-height: 6.875em;
-                overflow: hidden;
-                text-overflow: ellipsis; }
-                #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div div p {
-                  color: #6B6B6B;
-                  font: normal 0.75em/1em Arial, Helvetica, Verdana, "sans-serif";
-                  text-align: left; }
-              #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul {
-                clear: both;
-                display: inline-block;
-                float: right;
-                height: 1.6875em;
-                margin: 0;
-                padding: 0;
-                width: auto; }
-                #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li {
-                  float: left;
-                  height: 1.6875em;
-                  list-style: none;
-                  margin: 0 0.468em;
-                  width: 1.6875em; }
-                  #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li a {
-                    background: url("../img/imagenes_descubre_one/iconos_tips.png") no-repeat scroll 0 0 transparent;
-                    color: transparent;
-                    display: block;
-                    height: 1.6875em;
-                    margin: 0;
-                    padding: 0;
-                    text-decoration: none;
-                    text-indent: -9999em;
-                    width: 1.6875em; }
-                  #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .help:hover {
-                    background-position: 0 -62px; }
-                  #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .demo {
-                    background-position: -35px 0; }
-                    #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .demo:hover {
-                      background-position: -35px -31px; }
-                  #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .script {
-                    background-position: -68px -31px; }
-                    #wrapper_one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .script:hover {
-                      background-position: -68px 0; }
-  #wrapper_one #create_avatar_feature {
-    height: 15.9375em; }
-    #wrapper_one #create_avatar_feature .left_side {
-      background: url("../img/imagenes_descubre_one/BG_Degradado_avatar.png") repeat-x scroll 0 0 transparent; }
-    #wrapper_one #create_avatar_feature .container {
-      background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent;
-      height: 100%; }
-      #wrapper_one #create_avatar_feature .container .background {
-        left: 0;
+        z-index: 11; }
+      .wrapper div header .container .title_image {
+        position: relative;
+        z-index: 11; }
+      .wrapper div header .container .division {
         position: absolute;
-        top: 0;
-        z-index: -1; }
-      #wrapper_one #create_avatar_feature .container h5 {
-        color: #BDBDBD;
-        display: inline-block;
-        float: left;
-        font: normal 2.5em/0.9em Arial, Helvetica, Verdana, "sans-serif";
-        margin: 0;
-        padding: 1.634em 0 0.45em;
-        text-transform: uppercase;
-        width: 8.875em; }
-        #wrapper_one #create_avatar_feature .container h5 span {
-          clear: none;
-          color: #FFF;
-          float: none;
-          font-weight: bold; }
-      #wrapper_one #create_avatar_feature .container hr {
-        background: url("../img/imagenes_descubre_one/linaHorizontal_avatar.jpg") no-repeat scroll 0 center transparent;
-        border: 0 none transparent;
-        clear: left;
-        display: inline-block;
-        float: left;
-        height: 1px;
-        margin: 0;
-        padding: 0;
-        width: 22.1875em; }
-      #wrapper_one #create_avatar_feature .container p {
-        clear: left;
-        color: #CBCBCD;
-        display: inline-block;
-        float: left;
-        font: normal 0.812em/1.2em Arial, Helvetica, Verdana, "sans-serif";
-        text-align: center;
-        margin: 0;
-        padding: 1.333em 0 0;
-        width: 27.30769em; }
-      #wrapper_one #create_avatar_feature .container .avatar_example {
-        margin: 0;
-        padding: 2.375em 0 0 11.5em; }
-      #wrapper_one #create_avatar_feature .container ul {
-        float: right;
-        display: inline-block;
-        height: 13.9375em;
-        margin: 0;
-        padding: 1.875em 0 0 1.375em;
-        position: absolute;
-        width: 21.5625em; }
-        #wrapper_one #create_avatar_feature .container ul li {
-          float: left;
-          list-style: none inside;
-          margin: 0;
-          padding: 0 0 0 1em; }
-          #wrapper_one #create_avatar_feature .container ul li img {
-            clear: both;
-            display: block;
-            margin: 0 auto;
-            padding: 0; }
-          #wrapper_one #create_avatar_feature .container ul li .pants {
-            padding: 0 0 0.1875em; }
-          #wrapper_one #create_avatar_feature .container ul li .shirt {
-            padding: 1.25em 0 0.4375em; }
-          #wrapper_one #create_avatar_feature .container ul li p {
-            color: #BABFC3;
-            display: block;
-            font: normal 1.16em/1em Arial, Helvetica, Verdana, "sans-serif";
-            margin: 0 auto;
-            padding: 0.2em 0 0;
-            text-align: center;
-            width: 100%; }
-            #wrapper_one #create_avatar_feature .container ul li p span {
-              color: #0c4d93;
-              font-weight: bold; }
-        #wrapper_one #create_avatar_feature .container ul .big_face {
-          background: url("../img/imagenes_descubre_one/linaVertical_avatar.jpg") no-repeat scroll right center transparent;
-          height: 13.5em;
-          padding: 0.4375em 1em 0.6875em 0;
-          width: 10.75em; }
-          #wrapper_one #create_avatar_feature .container ul .big_face img {
-            padding: 0 0 0.9375em; }
-          #wrapper_one #create_avatar_feature .container ul .big_face p {
-            font-size: 1em;
-            line-height: 1.06em;
-            padding: 0; }
-    #wrapper_one #create_avatar_feature .right_side {
-      background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent; }
-  #wrapper_one footer {
+        z-index: 10; }
+  .wrapper footer {
     height: 10em; }
-    #wrapper_one footer .container {
+    .wrapper footer .container {
       background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
       height: 100%;
       position: relative; }
-      #wrapper_one footer .container p {
+      .wrapper footer .container p {
         clear: both;
         color: #6D6D6D;
         display: block;
@@ -807,24 +526,470 @@ menuitem, nav, iframe, embed, object {
         text-transform: uppercase;
         top: 0.533em;
         z-index: 10; }
-        #wrapper_one footer .container p span {
+        .wrapper footer .container p span {
           color: #0c4d93;
           font-weight: bold; }
-      #wrapper_one footer .container img {
+      .wrapper footer .container img {
         position: absolute; }
-      #wrapper_one footer .container .banner {
+      .wrapper footer .container .banner {
         bottom: 0;
         left: 0;
         z-index: 5; }
-      #wrapper_one footer .container .phrase {
+      .wrapper footer .container .phrase {
         bottom: 2.6875em;
         right: 5.9375em; }
-      #wrapper_one footer .container .icon {
+      .wrapper footer .container .icon {
         bottom: 2.5em;
         right: 0.4375em; }
-    #wrapper_one footer .right_side {
+    .wrapper footer .right_side {
       background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
       height: 100%; }
+
+#one #principal_container {
+  background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
+  height: 26.5625em; }
+  #one #principal_container header {
+    height: 26.5625em;
+    position: relative;
+    width: 100%;
+    z-index: 1; }
+    #one #principal_container header .container {
+      height: 26.5625em;
+      position: relative; }
+      #one #principal_container header .container h1, #one #principal_container header .container h2 {
+        color: transparent;
+        font: 0/0 a;
+        text-shadow: none;
+        height: 3.5em;
+        width: 17.875em;
+        position: relative;
+        z-index: 11; }
+      #one #principal_container header .container .logo_image {
+        top: 4.1875em; }
+      #one #principal_container header .container .title_image {
+        top: 13.25em; }
+      #one #principal_container header .container .division {
+        top: -3px;
+        left: 0; }
+      #one #principal_container header .container .header_carrousel {
+        height: 100%;
+        left: 0;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 0; }
+        #one #principal_container header .container .header_carrousel #header_scrollable {
+          height: 100%;
+          position: relative;
+          z-index: 5; }
+          #one #principal_container header .container .header_carrousel #header_scrollable .items {
+            height: 100%;
+            position: absolute;
+            width: 20000em; }
+            #one #principal_container header .container .header_carrousel #header_scrollable .items div {
+              float: left;
+              height: 100%;
+              position: relative;
+              width: 63.875em; }
+              #one #principal_container header .container .header_carrousel #header_scrollable .items div img {
+                position: relative;
+                z-index: 5; }
+              #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper {
+                background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
+                bottom: 5.9375em;
+                display: block;
+                height: 4em;
+                left: 0;
+                position: absolute;
+                width: 100%;
+                z-index: 10; }
+                #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 {
+                  color: #FFF;
+                  display: block;
+                  float: right;
+                  font: normal 2.437em/1.641em Arial, Helvetica, Verdana, "sans-serif";
+                  margin: 0;
+                  padding: 0 1em 0 0;
+                  position: relative;
+                  text-align: right;
+                  width: 100%; }
+                  #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 strong {
+                    font-weight: bold !important; }
+        #one #principal_container header .container .header_carrousel .navi {
+          height: 1.0625em;
+          position: absolute;
+          top: 24.375em;
+          right: 0;
+          z-index: 10; }
+          #one #principal_container header .container .header_carrousel .navi a {
+            background: url("../img/imagenes_descubre_one/header_navigation.png") no-repeat scroll 0 0 transparent;
+            display: inline-block;
+            float: left;
+            height: 1.0625em;
+            margin: 0 10px 0 0;
+            width: 1.0625em; }
+            #one #principal_container header .container .header_carrousel .navi a:hover {
+              background-position: 0 -1.0625em; }
+          #one #principal_container header .container .header_carrousel .navi .active {
+            background-position: 0 -1.0625em; }
+    #one #principal_container header .right_side {
+      background: url("../img/imagenes_descubre_one/degradado_bg_header.jpg") repeat-x scroll 0 0 transparent; }
+#one #advices_best_practices {
+  height: 23.75em; }
+  #one #advices_best_practices .left_side, #one #advices_best_practices .right_side {
+    background: #F8F8F8;
+    display: inline-block;
+    height: 5em;
+    width: 50%; }
+  #one #advices_best_practices .left_side {
+    left: 0; }
+  #one #advices_best_practices .right_side {
+    right: 0; }
+  #one #advices_best_practices .background {
+    background-color: #303030;
+    height: 7.375em;
+    position: absolute;
+    top: 8.5625em;
+    width: 100%;
+    z-index: 1; }
+  #one #advices_best_practices .container {
+    background-color: #FFF;
+    position: relative;
+    z-index: 2; }
+    #one #advices_best_practices .container .browse {
+      background: url("../img/imagenes_descubre_one/browser_arrows.png") no-repeat scroll 0 0 white;
+      height: 7.375em;
+      position: absolute;
+      top: 8.5625em;
+      width: 8.125em; }
+    #one #advices_best_practices .container a.prev {
+      background-position: -136px 0px !important;
+      left: -130px; }
+    #one #advices_best_practices .container a.next {
+      background-position: 0 0;
+      right: -130px; }
+    #one #advices_best_practices .container h3 {
+      background: #F8F8F8;
+      clear: both;
+      color: #0c4d93;
+      float: left;
+      font: bold 2em/2.5em Arial, Helvetica, Verdana, "sans-serif";
+      margin: 0;
+      padding: 0;
+      text-transform: uppercase;
+      width: 100%; }
+      #one #advices_best_practices .container h3 span {
+        color: #BDBDBD;
+        font-weight: normal; }
+    #one #advices_best_practices .container .carrousel_container {
+      clear: both;
+      height: 16.875em;
+      margin: 0 auto 1.8em;
+      padding: 0;
+      width: 100%; }
+      #one #advices_best_practices .container .carrousel_container .scrollable {
+        overflow: hidden;
+        position: relative; }
+      #one #advices_best_practices .container .carrousel_container #tips_scrollable {
+        display: block;
+        height: 100%;
+        margin: 0 auto;
+        width: 64em; }
+        #one #advices_best_practices .container .carrousel_container #tips_scrollable .items {
+          height: 100%;
+          position: absolute;
+          width: 20000em; }
+          #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div {
+            background: url("../img/imagenes_descubre_one/separador_linea.png") no-repeat scroll right center transparent;
+            float: left;
+            height: 15em;
+            margin: 0;
+            padding: 0.875em 0.96875em;
+            position: relative;
+            width: 19.52081em; }
+            #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div h4 {
+              clear: both;
+              color: #6B6B6B;
+              display: block;
+              font: normal 1em/1em Arial, Helvetica, Verdana, "sans-serif";
+              height: 3em;
+              margin: 0 auto;
+              padding: 0.625em 0 0;
+              text-align: center;
+              text-transform: uppercase;
+              width: 100%; }
+              #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div h4 span {
+                color: #0c4d93;
+                font-weight: bold; }
+            #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div div {
+              max-height: 9.6875em;
+              overflow: hidden;
+              text-overflow: ellipsis; }
+              #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div div p {
+                color: #6B6B6B;
+                font: normal 0.75em/1em Arial, Helvetica, Verdana, "sans-serif";
+                text-align: left; }
+            #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul {
+              bottom: 0.8125em;
+              clear: both;
+              display: inline-block;
+              float: right;
+              height: 1.6875em;
+              margin: 0;
+              padding: 0;
+              position: absolute;
+              right: 0.8125em;
+              width: auto; }
+              #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li {
+                float: left;
+                height: 1.6875em;
+                list-style: none;
+                margin: 0 0.468em;
+                width: 1.6875em; }
+                #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li a {
+                  background: url("../img/imagenes_descubre_one/iconos_tips.png") no-repeat scroll 0 0 transparent;
+                  color: transparent;
+                  display: block;
+                  height: 1.6875em;
+                  margin: 0;
+                  padding: 0;
+                  text-decoration: none;
+                  text-indent: -9999em;
+                  width: 1.6875em; }
+                #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .help:hover {
+                  background-position: 0 -62px; }
+                #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .demo {
+                  background-position: -35px 0; }
+                  #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .demo:hover {
+                    background-position: -35px -31px; }
+                #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .script {
+                  background-position: -68px -31px; }
+                  #one #advices_best_practices .container .carrousel_container #tips_scrollable .items > div ul li .script:hover {
+                    background-position: -68px 0; }
+#one #create_avatar_feature {
+  height: 15.9375em; }
+  #one #create_avatar_feature .left_side, #one #create_avatar_feature .right_side {
+    position: absolute;
+    z-index: -1; }
+  #one #create_avatar_feature .left_side {
+    background: url("../img/imagenes_descubre_one/BG_Degradado_avatar.png") repeat-x scroll 0 0 transparent; }
+  #one #create_avatar_feature .container {
+    background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent;
+    height: 100%;
+    position: relative; }
+    #one #create_avatar_feature .container .background {
+      left: 0;
+      position: absolute;
+      top: 0;
+      z-index: -1; }
+    #one #create_avatar_feature .container h5 {
+      color: #BDBDBD;
+      display: inline-block;
+      float: left;
+      font: normal 2.5em/0.9em Arial, Helvetica, Verdana, "sans-serif";
+      margin: 0;
+      padding: 1.634em 0 0.45em;
+      text-transform: uppercase;
+      width: 8.875em; }
+      #one #create_avatar_feature .container h5 span {
+        clear: none;
+        color: #FFF;
+        float: none;
+        font-weight: bold; }
+    #one #create_avatar_feature .container hr {
+      background: url("../img/imagenes_descubre_one/linaHorizontal_avatar.jpg") no-repeat scroll 0 center transparent;
+      border: 0 none transparent;
+      clear: left;
+      display: inline-block;
+      float: left;
+      height: 1px;
+      margin: 0;
+      padding: 0;
+      width: 22.1875em; }
+    #one #create_avatar_feature .container p {
+      clear: left;
+      color: #CBCBCD;
+      display: inline-block;
+      float: left;
+      font: normal 0.812em/1.2em Arial, Helvetica, Verdana, "sans-serif";
+      text-align: center;
+      margin: 0;
+      padding: 1.333em 0 0;
+      width: 27.30769em; }
+    #one #create_avatar_feature .container .avatar_example {
+      margin: 0;
+      padding: 2.375em 0 0 11.5em; }
+    #one #create_avatar_feature .container ul {
+      float: right;
+      display: inline-block;
+      height: 13.9375em;
+      margin: 0;
+      padding: 1.875em 0 0 1.375em;
+      position: absolute;
+      width: 21.5625em; }
+      #one #create_avatar_feature .container ul li {
+        float: left;
+        list-style: none inside;
+        margin: 0;
+        padding: 0 0 0 1em; }
+        #one #create_avatar_feature .container ul li img {
+          clear: both;
+          display: block;
+          margin: 0 auto;
+          padding: 0; }
+        #one #create_avatar_feature .container ul li .pants {
+          padding: 0 0 0.1875em; }
+        #one #create_avatar_feature .container ul li .shirt {
+          padding: 1.25em 0 0.4375em; }
+        #one #create_avatar_feature .container ul li p {
+          color: #BABFC3;
+          display: block;
+          font: normal 1.16em/1em Arial, Helvetica, Verdana, "sans-serif";
+          margin: 0 auto;
+          padding: 0.2em 0 0;
+          text-align: center;
+          width: 100%; }
+          #one #create_avatar_feature .container ul li p span {
+            color: #0c4d93;
+            font-weight: bold; }
+      #one #create_avatar_feature .container ul .big_face {
+        background: url("../img/imagenes_descubre_one/linaVertical_avatar.jpg") no-repeat scroll right center transparent;
+        height: 13.5em;
+        padding: 0.4375em 1em 0.6875em 0;
+        width: 10.75em; }
+        #one #create_avatar_feature .container ul .big_face img {
+          padding: 0 0 0.9375em; }
+        #one #create_avatar_feature .container ul .big_face p {
+          font-size: 1em;
+          line-height: 1.06em;
+          padding: 0; }
+  #one #create_avatar_feature .right_side {
+    background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent; }
+
+#avatar #principal_container {
+  height: 24.375em; }
+  #avatar #principal_container header {
+    height: 24.375em;
+    position: relative;
+    width: 100%;
+    z-index: 1; }
+    #avatar #principal_container header .container {
+      height: 24.375em;
+      position: relative; }
+      #avatar #principal_container header .container h1, #avatar #principal_container header .container h2 {
+        color: transparent;
+        font: 0/0 a;
+        text-shadow: none;
+        height: 3.5em;
+        width: 17.875em;
+        position: relative;
+        z-index: 11; }
+      #avatar #principal_container header .container .logo_image {
+        top: 2.375em; }
+      #avatar #principal_container header .container .title_image {
+        top: 3.75em; }
+      #avatar #principal_container header .container .division {
+        top: -3px;
+        left: 0; }
+      #avatar #principal_container header .container .header_carrousel {
+        height: 100%;
+        left: 0;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 0; }
+        #avatar #principal_container header .container .header_carrousel #header_scrollable {
+          height: 100%;
+          position: relative;
+          z-index: 5; }
+          #avatar #principal_container header .container .header_carrousel #header_scrollable .items {
+            height: 100%;
+            position: absolute;
+            width: 20000em; }
+            #avatar #principal_container header .container .header_carrousel #header_scrollable .items div {
+              float: left;
+              height: 100%;
+              position: relative;
+              width: 63.875em; }
+              #avatar #principal_container header .container .header_carrousel #header_scrollable .items div img {
+                position: relative;
+                z-index: 5; }
+              #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper {
+                background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
+                bottom: 5.9375em;
+                display: block;
+                height: 4em;
+                left: 0;
+                position: absolute;
+                width: 100%;
+                z-index: 10; }
+                #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 {
+                  color: #FFF;
+                  display: block;
+                  float: right;
+                  font: normal 2.437em/1.641em Arial, Helvetica, Verdana, "sans-serif";
+                  margin: 0;
+                  padding: 0 1em 0 0;
+                  position: relative;
+                  text-align: right;
+                  width: 100%; }
+                  #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 strong {
+                    font-weight: bold !important; }
+        #avatar #principal_container header .container .header_carrousel .navi {
+          position: absolute;
+          top: 30em;
+          right: 0;
+          z-index: 10; }
+          #avatar #principal_container header .container .header_carrousel .navi a {
+            background: url("../img/imagenes_descubre_one/header_navigation.png") no-repeat scroll 0 0 transparent;
+            display: inline-block;
+            float: left;
+            height: 17px;
+            margin: 0 10px 0 0;
+            width: 17px; }
+            #avatar #principal_container header .container .header_carrousel .navi a:hover {
+              background-position: 0px -17px; }
+          #avatar #principal_container header .container .header_carrousel .navi .active {
+            background-position: 0px -17px; }
+    #avatar #principal_container header .right_side {
+      background: url("../img/imagenes_avatar/degradado_banner.jpg") repeat-x scroll 0 0 transparent; }
+#avatar #avatar_creator .left_side, #avatar #avatar_creator .right_side {
+  background: #F8F8F8;
+  display: inline-block;
+  height: 1.875em;
+  position: absolute;
+  width: 50%;
+  z-index: 1; }
+#avatar #avatar_creator .left_side {
+  left: 0; }
+#avatar #avatar_creator .right_side {
+  right: 0; }
+#avatar #avatar_creator .container h3 {
+  background: #F8F8F8;
+  clear: both;
+  color: #0c4d93;
+  float: left;
+  font-family: Arial, Helvetica, Verdana, "sans-serif";
+  font-size: 1.875em;
+  font-weight: normal;
+  line-height: 1em;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  width: 100%; }
+  #avatar #avatar_creator .container h3 span {
+    color: #BDBDBD;
+    font-weight: normal; }
+#avatar #avatar_creator .container #image_preview {
+  border-color: red;
+  float: left;
+  height: 12.6875em;
+  width: 14.375em; }
+#avatar #avatar_creator .container #avatar_creator_wrapper .tabs {
+  margin: 0;
+  padding: 0; }
 
 /* ==========================================================================
    Media Queries
@@ -870,31 +1035,36 @@ menuitem, nav, iframe, embed, object {
 .invisible {
   visibility: hidden; }
 
-.clearfix:before, .alert_box:before, #wrapper form fieldset .question div:before, #wrapper footer:before, #wrapper_one:before, #wrapper_one header:before, #wrapper_one #principal:before, #wrapper_one #video_e_learning:before, #wrapper_one #advices_best_practices:before, #wrapper_one #create_avatar_feature:before, #wrapper_one footer:before, #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #wrapper_one #principal_container header .container .header_carrousel .navi:before, #wrapper_one #create_avatar_feature .container:before, #wrapper_one #create_avatar_feature .container ul:before, #wrapper_one #create_avatar_feature .container ul li:before, #wrapper_one footer .container:before,
+.clearfix:before, .alert_box:before, #wrapper form fieldset .question div:before, #wrapper footer:before, .div_container:before, #one #principal:before, #one #video_e_learning:before, #one #advices_best_practices:before, #one #create_avatar_feature:before, #avatar #principal_container:before, #avatar #avatar_creator:before, .wrapper:before, .wrapper header:before, .wrapper footer:before, .wrapper footer .container:before, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #one #principal_container header .container .header_carrousel .navi:before, #one #create_avatar_feature .container:before, #one #create_avatar_feature .container ul:before, #one #create_avatar_feature .container ul li:before, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #avatar #principal_container header .container .header_carrousel .navi:before,
 .clearfix:after,
 .alert_box:after,
 #wrapper form fieldset .question div:after,
 #wrapper footer:after,
-#wrapper_one:after,
-#wrapper_one header:after,
-#wrapper_one #principal:after,
-#wrapper_one #video_e_learning:after,
-#wrapper_one #advices_best_practices:after,
-#wrapper_one #create_avatar_feature:after,
-#wrapper_one footer:after,
-#wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after,
-#wrapper_one #principal_container header .container .header_carrousel .navi:after,
-#wrapper_one #create_avatar_feature .container:after,
-#wrapper_one #create_avatar_feature .container ul:after,
-#wrapper_one #create_avatar_feature .container ul li:after,
-#wrapper_one footer .container:after {
+.div_container:after,
+#one #principal:after,
+#one #video_e_learning:after,
+#one #advices_best_practices:after,
+#one #create_avatar_feature:after,
+#avatar #principal_container:after,
+#avatar #avatar_creator:after,
+.wrapper:after,
+.wrapper header:after,
+.wrapper footer:after,
+.wrapper footer .container:after,
+#one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after,
+#one #principal_container header .container .header_carrousel .navi:after,
+#one #create_avatar_feature .container:after,
+#one #create_avatar_feature .container ul:after,
+#one #create_avatar_feature .container ul li:after,
+#avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after,
+#avatar #principal_container header .container .header_carrousel .navi:after {
   content: " ";
   display: table; }
 
-.clearfix:after, .alert_box:after, #wrapper form fieldset .question div:after, #wrapper footer:after, #wrapper_one:after, #wrapper_one header:after, #wrapper_one #principal:after, #wrapper_one #video_e_learning:after, #wrapper_one #advices_best_practices:after, #wrapper_one #create_avatar_feature:after, #wrapper_one footer:after, #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #wrapper_one #principal_container header .container .header_carrousel .navi:after, #wrapper_one #create_avatar_feature .container:after, #wrapper_one #create_avatar_feature .container ul:after, #wrapper_one #create_avatar_feature .container ul li:after, #wrapper_one footer .container:after {
+.clearfix:after, .alert_box:after, #wrapper form fieldset .question div:after, #wrapper footer:after, .div_container:after, #one #principal:after, #one #video_e_learning:after, #one #advices_best_practices:after, #one #create_avatar_feature:after, #avatar #principal_container:after, #avatar #avatar_creator:after, .wrapper:after, .wrapper header:after, .wrapper footer:after, .wrapper footer .container:after, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #one #principal_container header .container .header_carrousel .navi:after, #one #create_avatar_feature .container:after, #one #create_avatar_feature .container ul:after, #one #create_avatar_feature .container ul li:after, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #avatar #principal_container header .container .header_carrousel .navi:after {
   clear: both; }
 
-.clearfix, .alert_box, #wrapper form fieldset .question div, #wrapper footer, #wrapper_one, #wrapper_one header, #wrapper_one #principal, #wrapper_one #video_e_learning, #wrapper_one #advices_best_practices, #wrapper_one #create_avatar_feature, #wrapper_one footer, #wrapper_one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #wrapper_one #principal_container header .container .header_carrousel .navi, #wrapper_one #create_avatar_feature .container, #wrapper_one #create_avatar_feature .container ul, #wrapper_one #create_avatar_feature .container ul li, #wrapper_one footer .container {
+.clearfix, .alert_box, #wrapper form fieldset .question div, #wrapper footer, .div_container, #one #principal, #one #video_e_learning, #one #advices_best_practices, #one #create_avatar_feature, #avatar #principal_container, #avatar #avatar_creator, .wrapper, .wrapper header, .wrapper footer, .wrapper footer .container, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #one #principal_container header .container .header_carrousel .navi, #one #create_avatar_feature .container, #one #create_avatar_feature .container ul, #one #create_avatar_feature .container ul li, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #avatar #principal_container header .container .header_carrousel .navi {
   *zoom: 1; }
 
 /* ==========================================================================

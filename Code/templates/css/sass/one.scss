@@ -27,18 +27,27 @@
     background:url("../img/overlay/transparent.png") no-repeat scroll 0 0 transparent !important;
     color:#FFF;
 }
+.div_container{
+    @extend .clearfix;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    z-index: 5;
+}
 #video_container{
     
     .details{
         
     }
 }
-#wrapper_one{
+.wrapper{
     @extend .clearfix;
     display: table;
     height: 100%;
     margin: 0 auto;
     width: 100%;
+    .container{ margin:0 auto; position: relative; width: em( 1024, 16 ); z-index: 2; }
     .left_side, .right_side, .container{height: 100%;}
     .left_side, .right_side{
         position: absolute;
@@ -48,14 +57,7 @@
     }
     .left_side{left:0;}
     .right_side{right:0;}
-    .container{
-        display: block;
-        margin: 0 auto;
-        position: relative;
-        width: em( 1024, 16 );
-        z-index: 5;
-    }
-    header,#principal,#video_e_learning,#advices_best_practices,#create_avatar_feature,footer{
+    header,footer{
         @extend .clearfix;
         clear: both;
         display: block;
@@ -65,9 +67,8 @@
         width: 100%;
     }
     h1{font-family: normal 1em/1em $arial;}
-    #principal_container{
-        background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
-        height: em( 520, 16 );
+    div {
+        
         header{
             height: em( 521, 16 );
             @include position( relative, 0 0 0 0 );
@@ -86,19 +87,98 @@
                 }
                 .logo_image{
                     position: absolute;
-                    top: em( 67, 16 );
                     z-index: 11;
                 }
                 .title_image{
                     position: relative;
-                    top: em( 244, 16 );
                     z-index: 11;
                 }
                 .division{
                     position: absolute;
+                    z-index: 10;
+                }
+            }
+            .right_side{}
+        }
+    }
+    footer{
+        height: em( 160, 16 );
+        .left_side{}
+        .container{
+            @extend .clearfix;
+            background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
+            height: 100%;
+            position: relative;
+            p{
+                clear: both;
+                color: #6D6D6D;
+                display: block;
+                font: normal 1.88em/0.8em $arial;
+                margin: 0;
+                padding: 0;
+                position: relative;
+                text-align: left;
+                text-indent: em( 19, 16 );
+                text-transform: uppercase;
+                top: 0.533em;
+                z-index: 10;
+                span{
+                    color: $blue;
+                    font-weight: bold;
+                }
+            }
+            img{ position: absolute; }
+            .banner{
+                bottom: 0;
+                left: 0;
+                z-index: 5;
+            }
+            .phrase{ 
+                bottom: em( 43, 16 );
+                right: em( 95, 16 );
+            }
+            .icon{
+                bottom: em( 40, 16 );
+                right: em( 7, 16 );
+            }
+        }
+        .right_side{
+            background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
+            height: 100%;
+        }
+    }
+}
+#one{
+    
+    #principal,#video_e_learning,#advices_best_practices,#create_avatar_feature{ @extend .div_container; }
+    #principal_container{
+        background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
+        height: em( 425, 16 );
+        header{
+            height: em( 425, 16 );
+            @include position( relative, 0 0 0 0 );
+            width: 100%;
+            z-index: 1;
+            .left_side{}
+            .container{
+                height: em( 425, 16);
+                position: relative;
+                h1, h2{
+                    @include hide-text;
+                    height: em( 56, 16 );
+                    width: em( 286, 16 );
+                    position: relative;
+                    z-index: 11;
+                }
+                .logo_image{
+                    top: em( 67, 16 );
+                }
+                .title_image{
+                    top: em( 212, 16 );
+                }
+                .division{
                     top: -3px;
                     left: 0;
-                    z-index: 10;
                 }
                 .header_carrousel{
                     height: 100%;
@@ -155,20 +235,21 @@
                     }
                     .navi{
                         @extend .clearfix;
+                        height: em( 17, 16 );
                         position: absolute;
-                        top: em( 480, 16 );
+                        top: em( 390, 16 );
                         right: 0;
                         z-index: 10;
                         a{
                             background: url('../img/imagenes_descubre_one/header_navigation.png') no-repeat scroll 0 0 transparent;
                             display: inline-block;
                             float: left;
-                            height:17px;
+                            height: em( 17, 16 );
                             margin: 0 10px 0 0;
-                            width:17px;
-                            &:hover{ background-position:0px -17px; }
+                            width: em( 17, 16 );
+                            &:hover{ background-position:0 em( -17, 16 ); }
                         }
-                        .active{ background-position:0px -17px; }
+                        .active{ background-position:0 em( -17, 16 ); }
                     }
                 }
             }
@@ -178,26 +259,29 @@
         }
     }
     #advices_best_practices{
-        height: em( 308, 16 );
+        height: em( 380, 16 );
         .left_side, .right_side{
             background: #F8F8F8;
             display: inline-block;
             height: em( 80, 16 );
             width: 50%;
         }
-        .left_side{}
-        .right_side{}
+        .left_side{left: 0;}
+        .right_side{right: 0;}
         .background{
             background-color: #303030;
             height: em( 118, 16 );
             position: absolute;
             top: em( 137, 16 );
             width: 100%;
+            z-index: 1;
         }
         .left_button{}
         .right_button{}
         .container{
             background-color: #FFF;
+            position: relative;
+            z-index: 2;
             .browse{
                 background: url("../img/imagenes_descubre_one/browser_arrows.png") no-repeat scroll 0 0 #FFF;
                 height: em( 118, 16 );
@@ -230,7 +314,7 @@
             }
             .carrousel_container{
                 clear: both;
-                height: em( 208, 16 );
+                height: em( 270, 16 );
                 margin: 0 auto 1.8em;
                 padding: 0;
                 width: 100%;
@@ -250,7 +334,7 @@
                         > div{
                             background: url("../img/imagenes_descubre_one/separador_linea.png") no-repeat scroll right center transparent;
                             float:left;
-                            height: em( 197, 16 );
+                            height: em( 240, 16 );
                             margin: 0;
                             padding: em( 14, 16 ) em( 15.5, 16 );
                             position: relative;
@@ -273,7 +357,7 @@
                                 }
                             }
                             div{
-                                max-height: em( 110, 16 );
+                                max-height: em( 155, 16 );
                                 overflow: hidden;
                                 text-overflow: ellipsis;
                                 p{
@@ -283,12 +367,15 @@
                                 }
                             }
                             ul{
+                                bottom: em( 13, 16 );
                                 clear: both;
                                 display: inline-block;
                                 float: right;
                                 height: em( 27, 16 );
                                 margin: 0;
                                 padding: 0;
+                                position: absolute;
+                                right: em( 13, 16 );
                                 width: auto;
                                 li{
                                     float: left;
@@ -335,11 +422,16 @@
     }
     #create_avatar_feature{
         height: em( 255, 16 );
+        .left_side, .right_side{
+            position: absolute;
+            z-index: -1;
+        }
         .left_side{ background: url("../img/imagenes_descubre_one/BG_Degradado_avatar.png") repeat-x scroll 0 0 transparent; }
         .container{
             @extend .clearfix;
             background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent;
             height: 100%;
+            position: relative;
             .background{
                 left: 0;
                 position: absolute;
@@ -442,50 +534,182 @@
         }
         .right_side{ background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent; }
     }
-    footer{
-        height: em( 160, 16 );
-        .left_side{}
-        .container{
-            @extend .clearfix;
-            background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
-            height: 100%;
-            position: relative;
-            p{
-                clear: both;
-                color: #6D6D6D;
-                display: block;
-                font: normal 1.88em/0.8em $arial;
-                margin: 0;
-                padding: 0;
+}
+#avatar{
+    
+    #principal_container, #avatar_creator{ @extend .div_container; }
+    #principal_container{
+        height: em( 390, 16 );
+        header{
+            height: em( 390, 16 );
+            @include position( relative, 0 0 0 0 );
+            width: 100%;
+            z-index: 1;
+            .left_side{}
+            .container{
+                height: em( 390, 16);
                 position: relative;
-                text-align: left;
-                text-indent: em( 19, 16 );
-                text-transform: uppercase;
-                top: 0.533em;
-                z-index: 10;
-                span{
-                    color: $blue;
-                    font-weight: bold;
+                h1, h2{
+                    @include hide-text;
+                    height: em( 56, 16 );
+                    width: em( 286, 16 );
+                    position: relative;
+                    z-index: 11;
+                }
+                .logo_image{
+                    top: em( 38, 16 );
+                }
+                .title_image{
+                    top: em( 60, 16 );
+                }
+                .division{
+                    top: -3px;
+                    left: 0;
+                }
+                .header_carrousel{
+                    height: 100%;
+                    left: 0;
+                    overflow: hidden;
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                    z-index: 0;
+                    #header_scrollable{
+                        height: 100%;
+                        position: relative;
+                        z-index: 5;
+                        .items{
+                            height: 100%;
+                            position:absolute;
+                            width:20000em;
+                            div{
+                                float: left;
+                                height: 100%;
+                                position: relative;
+                                width: em( 1022, 16 );
+                                img{
+                                    position: relative;
+                                    z-index: 5;
+                                }
+                                .title_wrapper{
+                                    @extend .clearfix;
+                                    background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
+                                    bottom: em( 95, 16 );
+                                    display: block;
+                                    height: em( 64, 16 );
+                                    left: 0;
+                                    position: absolute;
+                                    width: 100%;
+                                    z-index: 10;
+                                    h3{
+                                        color: #FFF;
+                                        display: block;
+                                        float: right;
+                                        font: normal 2.437em/1.641em $arial;
+                                        margin: 0;
+                                        padding: 0 1em 0 0;
+                                        position: relative;
+                                        text-align: right;
+                                        width: 100%;
+                                        strong{
+                                            font-weight: bold !important;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .navi{
+                        @extend .clearfix;
+                        position: absolute;
+                        top: em( 480, 16 );
+                        right: 0;
+                        z-index: 10;
+                        a{
+                            background: url('../img/imagenes_descubre_one/header_navigation.png') no-repeat scroll 0 0 transparent;
+                            display: inline-block;
+                            float: left;
+                            height:17px;
+                            margin: 0 10px 0 0;
+                            width:17px;
+                            &:hover{ background-position:0px -17px; }
+                        }
+                        .active{ background-position:0px -17px; }
+                    }
                 }
             }
-            img{ position: absolute; }
-            .banner{
-                bottom: 0;
-                left: 0;
-                z-index: 5;
-            }
-            .phrase{ 
-                bottom: em( 43, 16 );
-                right: em( 95, 16 );
-            }
-            .icon{
-                bottom: em( 40, 16 );
-                right: em( 7, 16 );
+            .right_side{
+                background: url("../img/imagenes_avatar/degradado_banner.jpg") repeat-x scroll 0 0 transparent;
             }
         }
-        .right_side{
-            background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
-            height: 100%;
+    }
+    #avatar_creator{
+        
+        .left_side, .right_side{
+            background: #F8F8F8;
+            display: inline-block;
+            height: em( 30, 16 );
+            position: absolute;
+            width: 50%;
+            z-index: 1;
+        }
+        .left_side{left:0;}
+        .right_side{right:0;}
+        .container{
+            
+            h3{
+                background: #F8F8F8;
+                clear: both;
+                color: $blue;
+                float: left;
+                font-family: $arial;
+                font-size: em( 30, 16);
+                font-weight: normal;
+                line-height: em( 30, 30 ); 
+                margin: 0;
+                padding: 0;
+                text-transform: uppercase;
+                width: 100%;
+                span{
+                    color: #BDBDBD;
+                    font-weight: normal;
+                }
+            }
+            #image_preview{
+                border-color: red;
+                float: left;
+                height: em( 203, 16 );
+                width: em( 230, 16 );
+                img{}
+                a{}
+            }
+            #avatar_creator_wrapper{
+                
+                .tabs{
+                    margin: 0;
+                    padding: 0;
+                    li{
+                        
+                        a{
+                            
+                        }
+                    }
+                }
+                .panes{
+                    
+                    div{
+                        
+                        ul{
+                            
+                            li{
+                                
+                                img{}
+                                p{}
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
