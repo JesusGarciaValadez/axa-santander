@@ -1019,21 +1019,21 @@ menuitem, nav, iframe, embed, object {
     padding: 0;
     position: relative;
     width: 37.5em; }
-    #avatar #avatar_creator .container #avatar_creator_wrapper h4 {
-      display: block;
-      font-weight: normal;
-      text-indent: 2.5em; }
-      #avatar #avatar_creator .container #avatar_creator_wrapper h4 span {
-        font-weight: bold; }
     #avatar #avatar_creator .container #avatar_creator_wrapper .panes {
       clear: left; }
-      #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul {
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender h4 {
+        display: block;
+        font-weight: normal;
+        text-indent: 2.5em; }
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender h4 span {
+          font-weight: bold; }
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul {
         margin: 0;
         left: 10.9375em;
         padding: 0;
         position: absolute;
         top: 5.625em; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul li {
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul li {
           float: left;
           height: 18.75em;
           list-style: none outside;
@@ -1042,7 +1042,7 @@ menuitem, nav, iframe, embed, object {
           position: relative;
           overflow: hidden;
           width: 6em; }
-          #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul li p {
+          #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul li p {
             background: url("../img/imagenes_avatar/circulo_avatar_sprite.png") no-repeat scroll 0 0.375em transparent;
             bottom: 0;
             cursor: pointer;
@@ -1051,22 +1051,22 @@ menuitem, nav, iframe, embed, object {
             padding: 0;
             position: absolute;
             text-indent: 1.25em; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .men {
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .men {
           background: url("../img/imagenes_avatar/avatar_H_sprite.png") no-repeat scroll 0 0 transparent; }
-          #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .men p {
+          #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .men p {
             left: 0.4375em;
             width: 5em; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .women {
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .women {
           background: url("../img/imagenes_avatar/avatar_M_sprite.png") no-repeat scroll 0 0.625em transparent;
           margin: 0; }
-          #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .women p {
+          #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .women p {
             left: 0.9375em;
             width: 4.0625em; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .men.active {
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .men.active {
           background-position: -7.25em top !important; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .women.active {
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .women.active {
           background-position: -6.25em 0.625em !important; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .active p {
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .active p {
           background-position: 0 -0.625em;
           display: block; }
   #avatar #avatar_creator .container .tabs {
@@ -1074,12 +1074,12 @@ menuitem, nav, iframe, embed, object {
     margin: 0;
     padding: 2.1875em 0 0; }
     #avatar #avatar_creator .container .tabs li {
-      background: url("../img/imagenes_avatar/btn_contenido.png") no-repeat scroll 0 0 transparent;
       height: 3em;
       list-style: none outside;
       margin: 0.3125em 0;
       width: 10.25em; }
       #avatar #avatar_creator .container .tabs li a {
+        background: url("../img/imagenes_avatar/btn_contenido.png") no-repeat scroll 0 0 transparent;
         color: #0c4d93;
         display: block;
         font-family: Arial, Helvetica, Verdana, "sans-serif";
@@ -1090,13 +1090,12 @@ menuitem, nav, iframe, embed, object {
         text-decoration: none;
         text-indent: 1.66667em;
         width: 100%; }
-    #avatar #avatar_creator .container .tabs .first {
-      margin: 0 0 0.3125em; }
-    #avatar #avatar_creator .container .tabs .active {
-      background-position: -10.25em 0; }
-      #avatar #avatar_creator .container .tabs .active a {
+      #avatar #avatar_creator .container .tabs li .current {
+        background-position: -10.93333em 0;
         color: #FFF;
         font-weight: normal; }
+    #avatar #avatar_creator .container .tabs .first {
+      margin: 0 0 0.3125em; }
 
 /* ==========================================================================
    Media Queries
@@ -1142,7 +1141,7 @@ menuitem, nav, iframe, embed, object {
 .invisible {
   visibility: hidden; }
 
-.clearfix:before, .alert_box:before, #wrapper form fieldset .question div:before, #wrapper footer:before, .div_container:before, #one #principal:before, #one #video_e_learning:before, #one #advices_best_practices:before, #one #create_avatar_feature:before, #avatar #principal_container:before, #avatar #avatar_creator:before, .wrapper:before, .wrapper header:before, .wrapper footer:before, .wrapper footer .container:before, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #one #principal_container header .container .header_carrousel .navi:before, #one #create_avatar_feature .container:before, #one #create_avatar_feature .container ul:before, #one #create_avatar_feature .container ul li:before, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #avatar #principal_container header .container .header_carrousel .navi:before, #avatar #avatar_creator .container:before, #avatar #avatar_creator .container #avatar_creator_wrapper:before, #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul:before, #avatar #avatar_creator .container .tabs:before,
+.clearfix:before, .alert_box:before, #wrapper form fieldset .question div:before, #wrapper footer:before, .div_container:before, #one #principal:before, #one #video_e_learning:before, #one #advices_best_practices:before, #one #create_avatar_feature:before, #avatar #principal_container:before, #avatar #avatar_creator:before, .wrapper:before, .wrapper header:before, .wrapper footer:before, .wrapper footer .container:before, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #one #principal_container header .container .header_carrousel .navi:before, #one #create_avatar_feature .container:before, #one #create_avatar_feature .container ul:before, #one #create_avatar_feature .container ul li:before, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #avatar #principal_container header .container .header_carrousel .navi:before, #avatar #avatar_creator .container:before, #avatar #avatar_creator .container #avatar_creator_wrapper:before, #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul:before, #avatar #avatar_creator .container .tabs:before,
 .clearfix:after,
 .alert_box:after,
 #wrapper form fieldset .question div:after,
@@ -1167,15 +1166,15 @@ menuitem, nav, iframe, embed, object {
 #avatar #principal_container header .container .header_carrousel .navi:after,
 #avatar #avatar_creator .container:after,
 #avatar #avatar_creator .container #avatar_creator_wrapper:after,
-#avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul:after,
+#avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul:after,
 #avatar #avatar_creator .container .tabs:after {
   content: " ";
   display: table; }
 
-.clearfix:after, .alert_box:after, #wrapper form fieldset .question div:after, #wrapper footer:after, .div_container:after, #one #principal:after, #one #video_e_learning:after, #one #advices_best_practices:after, #one #create_avatar_feature:after, #avatar #principal_container:after, #avatar #avatar_creator:after, .wrapper:after, .wrapper header:after, .wrapper footer:after, .wrapper footer .container:after, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #one #principal_container header .container .header_carrousel .navi:after, #one #create_avatar_feature .container:after, #one #create_avatar_feature .container ul:after, #one #create_avatar_feature .container ul li:after, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #avatar #principal_container header .container .header_carrousel .navi:after, #avatar #avatar_creator .container:after, #avatar #avatar_creator .container #avatar_creator_wrapper:after, #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul:after, #avatar #avatar_creator .container .tabs:after {
+.clearfix:after, .alert_box:after, #wrapper form fieldset .question div:after, #wrapper footer:after, .div_container:after, #one #principal:after, #one #video_e_learning:after, #one #advices_best_practices:after, #one #create_avatar_feature:after, #avatar #principal_container:after, #avatar #avatar_creator:after, .wrapper:after, .wrapper header:after, .wrapper footer:after, .wrapper footer .container:after, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #one #principal_container header .container .header_carrousel .navi:after, #one #create_avatar_feature .container:after, #one #create_avatar_feature .container ul:after, #one #create_avatar_feature .container ul li:after, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #avatar #principal_container header .container .header_carrousel .navi:after, #avatar #avatar_creator .container:after, #avatar #avatar_creator .container #avatar_creator_wrapper:after, #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul:after, #avatar #avatar_creator .container .tabs:after {
   clear: both; }
 
-.clearfix, .alert_box, #wrapper form fieldset .question div, #wrapper footer, .div_container, #one #principal, #one #video_e_learning, #one #advices_best_practices, #one #create_avatar_feature, #avatar #principal_container, #avatar #avatar_creator, .wrapper, .wrapper header, .wrapper footer, .wrapper footer .container, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #one #principal_container header .container .header_carrousel .navi, #one #create_avatar_feature .container, #one #create_avatar_feature .container ul, #one #create_avatar_feature .container ul li, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #avatar #principal_container header .container .header_carrousel .navi, #avatar #avatar_creator .container, #avatar #avatar_creator .container #avatar_creator_wrapper, #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul, #avatar #avatar_creator .container .tabs {
+.clearfix, .alert_box, #wrapper form fieldset .question div, #wrapper footer, .div_container, #one #principal, #one #video_e_learning, #one #advices_best_practices, #one #create_avatar_feature, #avatar #principal_container, #avatar #avatar_creator, .wrapper, .wrapper header, .wrapper footer, .wrapper footer .container, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #one #principal_container header .container .header_carrousel .navi, #one #create_avatar_feature .container, #one #create_avatar_feature .container ul, #one #create_avatar_feature .container ul li, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #avatar #principal_container header .container .header_carrousel .navi, #avatar #avatar_creator .container, #avatar #avatar_creator .container #avatar_creator_wrapper, #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul, #avatar #avatar_creator .container .tabs {
   *zoom: 1; }
 
 /* ==========================================================================

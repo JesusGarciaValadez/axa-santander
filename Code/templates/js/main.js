@@ -1187,7 +1187,7 @@
                 
                 if ( $( '.gender ul li.active' ).exists() ) {
                     
-                    AxaS.toggleClass( $( '.gender ul li' ), "active" );
+                    AxaS.toggleClass( $( '.gender ul li.active' ), "active" );
                 } else {
                     
                     AxaS.toggleClass( $( e.currentTarget ), "active" );

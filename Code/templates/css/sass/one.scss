@@ -716,18 +716,19 @@
                 padding: 0;
                 position: relative;
                 width: em( 600, 16 ); 
-                h4{
-                    display: block;
-                    font-weight: normal;
-                    text-indent: em( 40, 16 );
-                    span{
-                        font-weight: bold;
-                    }
-                }
                 .panes{
                     clear: left;
-                    div{
+                    div{}
+                    .gender{
                         
+                        h4{
+                            display: block;
+                            font-weight: normal;
+                            text-indent: em( 40, 16 );
+                            span{
+                                font-weight: bold;
+                            }
+                        }
                         ul{
                             @extend .clearfix;
                             margin: 0;
@@ -780,12 +781,12 @@
                 margin: 0;
                 padding: em( 35, 16 ) 0 0;
                 li{
-                    background: url("../img/imagenes_avatar/btn_contenido.png") no-repeat scroll 0 0 transparent;
                     height: em( 48, 16 );
                     list-style: none outside;
                     margin: em( 5, 16 ) 0;
                     width: em( 164, 16 );
                     a{
+                        background: url("../img/imagenes_avatar/btn_contenido.png") no-repeat scroll 0 0 transparent;
                         color: $blue;
                         display: block;
                         font-family: $arial;
@@ -797,15 +798,13 @@
                         text-indent: em( 25, 15 );
                         width: 100%;
                     }
-                }
-                .first{margin: 0 0 em( 5, 16 );}
-                .active{
-                    background-position:em( -164, 16 ) 0;
-                    a{
+                    .current{
+                        background-position:em( -164, 15 ) 0;
                         color: #FFF;
                         font-weight: normal;
                     }
                 }
+                .first{margin: 0 0 em( 5, 16 );}
             }
         }
     }
