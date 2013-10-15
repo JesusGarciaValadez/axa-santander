@@ -537,6 +537,14 @@
 }
 #avatar{
     
+    ::-moz-selection {
+        background: transparent;
+        text-shadow: none;
+    }
+    ::selection {
+        background: transparent;
+        text-shadow: none;
+    }
     #principal_container, #avatar_creator{ @extend .div_container; }
     #principal_container{
         height: em( 390, 16 );

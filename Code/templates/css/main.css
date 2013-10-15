@@ -867,6 +867,12 @@ menuitem, nav, iframe, embed, object {
   #one #create_avatar_feature .right_side {
     background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent; }
 
+#avatar ::-moz-selection {
+  background: transparent;
+  text-shadow: none; }
+#avatar ::selection {
+  background: transparent;
+  text-shadow: none; }
 #avatar #principal_container {
   height: 24.375em; }
   #avatar #principal_container header {
