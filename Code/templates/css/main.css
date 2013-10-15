@@ -1027,6 +1027,10 @@ menuitem, nav, iframe, embed, object {
     width: 37.5em; }
     #avatar #avatar_creator .container #avatar_creator_wrapper .panes {
       clear: left; }
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes div .male {
+        display: none; }
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes div .female {
+        display: none; }
       #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender h4 {
         display: block;
         font-weight: normal;

@@ -726,7 +726,11 @@
                 width: em( 600, 16 ); 
                 .panes{
                     clear: left;
-                    div{}
+                    div{
+                        
+                        .male{ display: none; }
+                        .female{ display: none; }
+                    }
                     .gender{
                         
                         h4{

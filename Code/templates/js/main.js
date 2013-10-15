@@ -1182,15 +1182,30 @@
         
         if ( $( "#avatar" ).exists() ) {
             
+            //  Crea la funcionalidad de tabs para cada tipo de categoría para el avatar
             $( 'ul.tabs' ).tabs("div.panes > div");
+            
+            //  Event handler para seleccionar el género para el avatar y mostrar
+            //  los tipos de ropa, piel y cabello de acuerdo al género escogido
             $( '.gender ul li' ).on( 'click', function ( e ) {
                 
+                //  Revisa si hay algún género seleccionado y lo deselecciona
                 if ( $( '.gender ul li.active' ).exists() ) {
                     
                     AxaS.toggleClass( $( '.gender ul li.active' ), "active" );
-                } else {
+                    $( '.panes div' ).not( '.panes div.gender' ).children( ).hide( 300 );
+                }
+                
+                //  Selecciona el género escogido por el usuario y muestra los elementos
+                //  correspondientes al género
+                AxaS.toggleClass( $( e.currentTarget ), "active" );
+                
+                if ( $( '.panes .gender ul li.men' ).hasClass( 'active' ) ) {
                     
-                    AxaS.toggleClass( $( e.currentTarget ), "active" );
+                    $( '.panes div' ).not( '.panes div.gender' ).children( '.male' ).show( 300 );
+                } else if ( $( '.panes .gender ul li.women' ).hasClass( 'active' ) ) {
+                    
+                    $( '.panes div' ).not( '.panes div.gender' ).children( '.female' ).show( 300 );
                 }
             } );
         }
