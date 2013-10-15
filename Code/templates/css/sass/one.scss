@@ -648,7 +648,7 @@
         .left_side, .right_side{
             background: #F8F8F8;
             display: inline-block;
-            height: em( 30, 16 );
+            height: em( 80, 16 );
             position: absolute;
             width: 50%;
             z-index: 1;
@@ -656,7 +656,10 @@
         .left_side{left:0;}
         .right_side{right:0;}
         .container{
-            
+            @extend .clearfix;
+            height: em( 600, 16 );
+            margin: 0 auto;
+            padding: 0;
             h3{
                 background: #F8F8F8;
                 clear: both;
@@ -665,7 +668,7 @@
                 font-family: $arial;
                 font-size: em( 30, 16);
                 font-weight: normal;
-                line-height: em( 30, 30 ); 
+                line-height: em( 80, 30 ); 
                 margin: 0;
                 padding: 0;
                 text-transform: uppercase;
@@ -675,38 +678,132 @@
                     font-weight: normal;
                 }
             }
+            .help{
+                background: url("../img/imagenes_avatar/btn_Ayuda.png") no-repeat scroll 0 0 transparent;
+                display: block;
+                height: em( 26, 16 );
+                position: absolute;
+                text-indent: -2000em;
+                top: em( 25, 16 );
+                right: 0;
+                width: em( 25, 16 );
+            }
             #image_preview{
                 border-color: red;
                 float: left;
-                height: em( 203, 16 );
+                margin: 0 em( 30, 16 ) 0 0;
+                padding: em( 35, 16 ) 0 0;
                 width: em( 230, 16 );
-                img{}
-                a{}
+                img{
+                    height: em( 203, 16 );
+                    width: em( 230, 16 );
+                }
+                a{
+                    background: url("../img/imagenes_avatar/btn_descarga_avatar.jpg") no-repeat scroll 0 0 transparent;
+                    display: block;
+                    height: em( 42, 16 );
+                    margin: 0 auto;
+                    text-indent: -2000em;
+                    width: em( 230, 16 );
+                }
             }
             #avatar_creator_wrapper{
-                
-                .tabs{
-                    margin: 0;
-                    padding: 0;
-                    li{
-                        
-                        a{
-                            
-                        }
+                @extend .clearfix;
+                background: url("../img/imagenes_avatar/contenido.jpg") no-repeat scroll 0 0 transparent;
+                float: left;
+                height: em( 600, 16 );
+                margin: em( 35, 16 ) 0 0;
+                padding: 0;
+                position: relative;
+                width: em( 600, 16 ); 
+                h4{
+                    display: block;
+                    font-weight: normal;
+                    text-indent: em( 40, 16 );
+                    span{
+                        font-weight: bold;
                     }
                 }
                 .panes{
-                    
+                    clear: left;
                     div{
                         
                         ul{
-                            
+                            @extend .clearfix;
+                            margin: 0;
+                            left: em( 175, 16 );
+                            padding: 0;
+                            position: absolute;
+                            top: em( 90, 16 );
                             li{
+                                float: left;
+                                height: em( 300, 16 );
+                                list-style: none outside;
+                                margin: 0 em( 124, 16 ) 0 0;
+                                padding: 0;
+                                position: relative;
+                                overflow: hidden;
+                                width: em( 96, 16 );
+                                p{
+                                    background: url("../img/imagenes_avatar/circulo_avatar_sprite.png") no-repeat scroll 0 em( 6, 16 ) transparent;
+                                    bottom: 0;
+                                    cursor: pointer;
+                                    display: block;
+                                    margin: 0 auto;
+                                    padding: 0;
+                                    position: absolute;
+                                    text-indent: em( 20, 16 );
+                                }
+                            }
+                            .men{ 
+                                background: url("../img/imagenes_avatar/avatar_H_sprite.png") no-repeat scroll 0 0 transparent;
+                                p{ left: em( 7, 16 ); width: em( 80, 16 );}
+                            }
+                            .women{ 
+                                background: url("../img/imagenes_avatar/avatar_M_sprite.png") no-repeat scroll 0 em( 10, 16) transparent;
+                                margin: 0;
+                                p{ left: em( 15, 16 ); width: em( 65, 16 ); }
+                            }
+                            .men.active{ background-position: em( -116, 16 ) top !important; }
+                            .women.active{ background-position: em( -100, 16 ) em( 10, 16 ) !important; }
+                            .active{
                                 
-                                img{}
-                                p{}
+                                p{ background-position: 0 em( -10, 16 ); display: block; }
                             }
                         }
+                    }
+                }
+            }
+            .tabs{
+                @extend .clearfix;
+                float: right;
+                margin: 0;
+                padding: em( 35, 16 ) 0 0;
+                li{
+                    background: url("../img/imagenes_avatar/btn_contenido.png") no-repeat scroll 0 0 transparent;
+                    height: em( 48, 16 );
+                    list-style: none outside;
+                    margin: em( 5, 16 ) 0;
+                    width: em( 164, 16 );
+                    a{
+                        color: $blue;
+                        display: block;
+                        font-family: $arial;
+                        font-size: em( 15, 16 );
+                        font-weight: bold;
+                        line-height: em( 48, 15 );
+                        text-align: left;
+                        text-decoration: none;
+                        text-indent: em( 25, 15 );
+                        width: 100%;
+                    }
+                }
+                .first{margin: 0 0 em( 5, 16 );}
+                .active{
+                    background-position:em( -164, 16 ) 0;
+                    a{
+                        color: #FFF;
+                        font-weight: normal;
                     }
                 }
             }

@@ -975,6 +975,28 @@
             }
             $( selector ).scrollable( optionsScrollable ).navigator( optionsNavigator ).autoscroll( optionsAutoscroll );
         }, 
+        /**
+         *
+         *  @function:  !toggleClass
+         *  @description:   Toggle an HTML class
+         *  @params jQuery selector.- A jQuery Selector 
+         *  @params String className.- A class to toggle to the target
+         *  @author: @_Chucho_
+         *
+         */
+        //  !Hace toggle de una clase a un selector específico
+        toggleClass: function ( selector, className ) {
+            
+            _selector       = ( typeof( selector )  == "undefined" ) ? "*" : selector;
+            _selector       = ( typeof( _selector ) == "object" )    ? _selector : $( _selector );
+            _class          = ( typeof( className ) == "undefined" ) ? ".active" : className;
+            _class          = ( typeof( _class )    == "string" )    ? _class : String( _class );
+            
+            if ( selector.exists() ) {
+                
+                _selector.toggleClass( _class );
+            }
+        }
     };
     
     // Give the init function the AxaS prototype for later instantiation
@@ -1156,7 +1178,21 @@
                 naviItem: "li"
             } );
             
-            //$( '.navi' ).
+        }
+        
+        if ( $( "#avatar" ).exists() ) {
+            
+            $( 'ul.tabs' ).tabs("div.panes > div");
+            $( '.gender ul li' ).on( 'click', function ( e ) {
+                
+                if ( $( '.gender ul li.active' ).exists() ) {
+                    
+                    AxaS.toggleClass( $( '.gender ul li' ), "active" );
+                } else {
+                    
+                    AxaS.toggleClass( $( e.currentTarget ), "active" );
+                }
+            } );
         }
         
     } );

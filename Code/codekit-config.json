@@ -33,12 +33,12 @@
       "initialSize" : 298958,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
+    "\/snippets\/libs\/templates\/envio_contacto.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_contacto.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -53,23 +53,23 @@
       "initialSize" : 1243,
       "fileType" : 4096
     },
-    "\/snippets\/libs\/templates\/envio_contacto.html" : {
+    "\/snippets\/libs\/templates\/excel_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_contacto.html",
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_transferencia.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png" : {
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
       "initialSize" : 5594,
       "fileType" : 8192
     },
@@ -85,14 +85,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png" : {
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
       "initialSize" : 5594,
       "fileType" : 8192
     },
@@ -184,7 +184,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/one_footer.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/one_footer.png",
       "initialSize" : 11674,
       "fileType" : 8192
@@ -197,6 +197,17 @@
       "inputAbbreviatedPath" : "\/templates\/mail_encuesta2.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/avatar_H_sprite.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_H_sprite.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_H_sprite.png",
+      "initialSize" : 19081,
+      "fileType" : 8192
     },
     "\/templates\/images\/link.png" : {
       "ignoreWasSetByUser" : 0,
@@ -258,15 +269,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/phpmailer\/class.pop3.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.pop3.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/libs\/Review.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -276,13 +278,22 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/snippets\/libs\/phpmailer\/class.pop3.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.pop3.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_3.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_3.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_3.png",
       "initialSize" : 6917,
       "fileType" : 8192
@@ -293,7 +304,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_1.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_1.png",
       "initialSize" : 23031,
       "fileType" : 8192
@@ -357,21 +368,10 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg",
       "initialSize" : 103885,
       "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_avatar\/logo_header.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/logo_header.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/logo_header.png",
-      "initialSize" : 7341,
-      "fileType" : 8192
     },
     "\/templates\/img\/overlay\/flowplayer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -384,27 +384,36 @@
       "initialSize" : 194076,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/logo_header.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/logo_header.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/logo_header.png",
+      "initialSize" : 7341,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
       "initialSize" : 11486,
       "fileType" : 8192
     },
-    "\/templates\/images\/logo_footer.png" : {
+    "\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
-      "initialSize" : 6944,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/restablecer_password.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/img\/btn_enviar.png" : {
       "ignoreWasSetByUser" : 0,
@@ -417,14 +426,16 @@
       "initialSize" : 1153,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
+    "\/templates\/images\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/restablecer_password.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
+      "initialSize" : 6944,
+      "fileType" : 8192
     },
     "\/snippets\/libs\/Avatar.php" : {
       "ignoreWasSetByUser" : 0,
@@ -450,7 +461,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_2.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_2.png",
       "initialSize" : 3791,
       "fileType" : 8192
@@ -492,9 +503,20 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_H_azul.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_H_azul.png",
       "initialSize" : 10813,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png",
+      "initialSize" : 7078,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_footer.png" : {
@@ -506,17 +528,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_footer.png",
       "initialSize" : 6386,
-      "fileType" : 8192
-    },
-    "\/snippets\/libs\/avatar\/avatar_cara.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
-      "initialSize" : 18953,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/INDEX_manager_7.html" : {
@@ -550,6 +561,17 @@
       "initialSize" : 1880,
       "fileType" : 8192
     },
+    "\/snippets\/libs\/avatar\/avatar_cara.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
+      "initialSize" : 18953,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_descubre_one\/degradado_bg_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -560,15 +582,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_bg_header.jpg",
       "initialSize" : 1509,
       "fileType" : 4096
-    },
-    "\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/notificacion_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/img\/imagenes_descubre_one\/h1_header_banner.png" : {
       "ignoreWasSetByUser" : 0,
@@ -581,16 +594,14 @@
       "initialSize" : 37401,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png" : {
+    "\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png",
-      "initialSize" : 7078,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/notificacion_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_1.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -598,21 +609,10 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_1.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_1.jpg",
       "initialSize" : 14617,
       "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png",
-      "initialSize" : 6667,
-      "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -624,6 +624,17 @@
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
       "initialSize" : 157209,
       "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png",
+      "initialSize" : 6667,
+      "fileType" : 8192
     },
     "\/templates\/apple-touch-icon-114x114-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
@@ -660,7 +671,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_1.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_1.png",
       "initialSize" : 41877,
       "fileType" : 8192
@@ -693,7 +704,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_1.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_1.jpg",
       "initialSize" : 13104,
       "fileType" : 4096
@@ -733,10 +744,21 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_2.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_2.jpg",
       "initialSize" : 13484,
       "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png",
+      "initialSize" : 42101,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/btn_ONE.png" : {
       "ignoreWasSetByUser" : 0,
@@ -747,17 +769,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/btn_ONE.png",
       "initialSize" : 4709,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png",
-      "initialSize" : 42101,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/tip.jpg" : {
@@ -777,10 +788,19 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_3.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_3.jpg",
       "initialSize" : 14730,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -793,35 +813,26 @@
       "initialSize" : 1144,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg",
-      "initialSize" : 13633,
-      "fileType" : 4096
-    },
-    "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_4.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_4.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_4.jpg",
       "initialSize" : 12451,
+      "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg",
+      "initialSize" : 13633,
       "fileType" : 4096
     },
     "\/templates\/img\/imagenes_descubre_one\/BG_Degradado_avatar.png" : {
@@ -863,7 +874,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_3.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_3.jpg",
       "initialSize" : 12964,
       "fileType" : 4096
@@ -936,7 +947,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/pleca_roja_header.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/pleca_roja_header.png",
       "initialSize" : 12797,
       "fileType" : 8192
@@ -952,22 +963,13 @@
       "initialSize" : 5592,
       "fileType" : 8192
     },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/INDEX_ambassador_6.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/INDEX_ambassador_6.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_1.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_1.jpg",
       "initialSize" : 15304,
       "fileType" : 4096
@@ -981,13 +983,22 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/INDEX_ambassador_6.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/INDEX_ambassador_6.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_2.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_2.jpg",
       "initialSize" : 12727,
       "fileType" : 4096
@@ -1032,17 +1043,6 @@
       "initialSize" : 5594,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/avatar\/mi_avatar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/avatar\/mi_avatar.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/snippets\/libs\/avatar\/mi_avatar.png",
-      "initialSize" : 29999,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_descubre_one\/one_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1052,6 +1052,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/one_footer.png",
       "initialSize" : 11674,
+      "fileType" : 8192
+    },
+    "\/snippets\/libs\/avatar\/mi_avatar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/avatar\/mi_avatar.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/snippets\/libs\/avatar\/mi_avatar.png",
+      "initialSize" : 29999,
       "fileType" : 8192
     },
     "\/snippets_bak\/libs\/templates\/envio_reporte.html" : {
@@ -1074,17 +1085,6 @@
       "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/easytabs-ck.js",
       "fileType" : 64
     },
-    "\/templates\/img\/imagenes_avatar\/btn_contenido.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
-      "initialSize" : 2299,
-      "fileType" : 8192
-    },
     "\/snippets_bak\/libs\/templates\/fila_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1093,6 +1093,17 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/fila_transferencia.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
+      "initialSize" : 6386,
+      "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1105,21 +1116,63 @@
       "initialSize" : 1144,
       "fileType" : 8192
     },
-    "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/first_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/first_review_manager_network.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
+      "initialSize" : 1659,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/btn_contenido.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
+      "initialSize" : 2299,
+      "fileType" : 8192
+    },
+    "\/templates\/mailing_one_abm.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/mailing_one_abm.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/circulo_avatar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar.png",
+      "initialSize" : 1523,
+      "fileType" : 8192
+    },
+    "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1133,48 +1186,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min-ck.js",
       "fileType" : 64
-    },
-    "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
-      "initialSize" : 1659,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_avatar\/circulo_avatar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar.png",
-      "initialSize" : 1523,
-      "fileType" : 8192
-    },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png",
-      "initialSize" : 6386,
-      "fileType" : 8192
-    },
-    "\/templates\/mailing_one_abm.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/mailing_one_abm.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/css\/fonts\/franklin\/specimen_files\/specimen_stylesheet.css" : {
       "ignoreWasSetByUser" : 1,
@@ -1238,7 +1249,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/contenido.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/contenido.jpg",
       "initialSize" : 7313,
       "fileType" : 4096
@@ -1269,7 +1280,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_H_gris.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_H_gris.png",
       "initialSize" : 10029,
       "fileType" : 8192
@@ -1316,17 +1327,6 @@
       "initialSize" : 329,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_morado\/btn_perfil.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/btn_perfil.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/btn_perfil.png",
-      "initialSize" : 5878,
-      "fileType" : 8192
-    },
     "\/templates\/img\/overlay\/apple.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1336,6 +1336,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/overlay\/apple.png",
       "initialSize" : 8697,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_morado\/btn_perfil.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/btn_perfil.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/btn_perfil.png",
+      "initialSize" : 5878,
       "fileType" : 8192
     },
     "\/snippets_bak\/libs\/templates\/private_circulars_and_notices_panel.html" : {
@@ -1358,24 +1369,6 @@
       "initialSize" : 1620,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/confirmacion_registro.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/confirmacion_registro.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_descubre_one\/logo_footer_Axa.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1387,6 +1380,15 @@
       "initialSize" : 7178,
       "fileType" : 4096
     },
+    "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futurali-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1397,6 +1399,15 @@
       "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurali-cleartype.png",
       "initialSize" : 84903,
       "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/templates\/confirmacion_registro.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/confirmacion_registro.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/envio_inventario_third.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1429,15 +1440,6 @@
       "initialSize" : 1263,
       "fileType" : 4096
     },
-    "\/snippets\/libs\/Common.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/Common.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1448,6 +1450,15 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_contenido.jpg",
       "initialSize" : 1443,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/Common.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/Common.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/templates\/fila_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1487,7 +1498,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_1.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_1.png",
       "initialSize" : 37568,
       "fileType" : 8192
@@ -1498,19 +1509,10 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_2.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_2.jpg",
       "initialSize" : 13702,
       "fileType" : 4096
-    },
-    "\/snippets\/libs\/ParserTemplate.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/ParserTemplate.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/snippets\/controller.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1518,6 +1520,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/controller.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/ParserTemplate.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/ParserTemplate.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1536,21 +1547,32 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/degradado_banner.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/degradado_banner.jpg",
       "initialSize" : 1585,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_azul\/linea_roja.png" : {
+    "\/templates\/img\/imagenes_morado\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/logo_footer.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
-      "initialSize" : 1134,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/logo_footer.png",
+      "initialSize" : 4779,
       "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "initialSize" : 298,
+      "fileType" : 4096
     },
     "\/templates\/css\/sass\/polls.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1564,26 +1586,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
+    "\/templates\/img\/imagenes_azul\/linea_roja.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
-      "initialSize" : 298,
-      "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_morado\/logo_footer.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/logo_footer.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/logo_footer.png",
-      "initialSize" : 4779,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
+      "initialSize" : 1134,
       "fileType" : 8192
     },
     "\/templates\/img\/overlay\/red.png" : {
@@ -1657,6 +1668,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/css\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1668,14 +1688,16 @@
       "initialSize" : 5071,
       "fileType" : 4096
     },
-    "\/templates\/css\/main.css" : {
+    "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
+      "initialSize" : 89609,
+      "fileType" : 8192
     },
     "\/templates\/img\/overlay\/white.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1686,17 +1708,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/overlay\/white.png",
       "initialSize" : 4233,
-      "fileType" : 8192
-    },
-    "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurak-cleartype.png",
-      "initialSize" : 89609,
       "fileType" : 8192
     },
     "\/templates\/img\/overlay\/white_chromebutton.png" : {
@@ -1779,6 +1790,15 @@
       "initialSize" : 1412,
       "fileType" : 4096
     },
+    "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/INDEX_ambassador_7.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/INDEX_ambassador_7.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1789,15 +1809,6 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
       "initialSize" : 129399,
       "fileType" : 4096
-    },
-    "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/INDEX_ambassador_7.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/INDEX_ambassador_7.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/img\/imagenes_descubre_one\/separador_linea.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1810,21 +1821,21 @@
       "initialSize" : 1017,
       "fileType" : 8192
     },
-    "\/templates\/mailing_one_mng_net.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/mailing_one_mng_net.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/libs\/templates\/fila_inventario.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/mailing_one_mng_net.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/mailing_one_mng_net.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1850,15 +1861,6 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.custom.min-ck.js",
       "fileType" : 64
     },
-    "\/templates\/second_review_manager_network.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/second_review_manager_network.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_descubre_one\/footer_personals.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1870,16 +1872,14 @@
       "initialSize" : 132419,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg" : {
+    "\/templates\/second_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg",
-      "initialSize" : 24704,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/templates\/second_review_manager_network.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1891,6 +1891,17 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png",
       "initialSize" : 5592,
       "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg",
+      "initialSize" : 24704,
+      "fileType" : 4096
     },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1914,17 +1925,6 @@
       "initialSize" : 2108,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png",
-      "initialSize" : 44887,
-      "fileType" : 8192
-    },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futurabi-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1934,6 +1934,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/futurabi-cleartype.png",
       "initialSize" : 84925,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png",
+      "initialSize" : 44887,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_descubre_one\/iconos_tips_2.png" : {
@@ -1985,17 +1996,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/overlay\/gray.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
-      "initialSize" : 4907,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2005,6 +2005,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png",
       "initialSize" : 16157,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/overlay\/gray.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/overlay\/gray.png",
+      "initialSize" : 4907,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/mailing_6NP_Net.jpg" : {
@@ -2044,6 +2055,17 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_transferencia.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "initialSize" : 21579,
+      "fileType" : 8192
     },
     "\/templates\/img\/overlay\/white_close.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2096,12 +2118,12 @@
       "initialSize" : 10944,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/templates\/confirmacion_registro.html" : {
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/confirmacion_registro.html",
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2114,12 +2136,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html" : {
+    "\/snippets\/libs\/templates\/confirmacion_registro.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html",
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/confirmacion_registro.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2134,6 +2156,17 @@
       "initialSize" : 3538,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_avatar\/switch.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/switch.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/switch.png",
+      "initialSize" : 6105,
+      "fileType" : 8192
+    },
     "\/templates\/img\/overlay\/apple-close.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2143,17 +2176,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/overlay\/apple-close.png",
       "initialSize" : 1394,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_avatar\/switch.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/switch.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/switch.png",
-      "initialSize" : 6105,
       "fileType" : 8192
     },
     "\/snippets\/libs\/avatar\/avatar_pantalones.png" : {
@@ -2173,7 +2195,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header_video.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header_video.png",
       "initialSize" : 409113,
       "fileType" : 8192
@@ -2224,7 +2246,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_2.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_2.png",
       "initialSize" : 36827,
       "fileType" : 8192
@@ -2277,7 +2299,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/star.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/star.png",
       "initialSize" : 2073,
       "fileType" : 8192
@@ -2297,7 +2319,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/barra_gris.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/barra_gris.png",
       "initialSize" : 2718,
       "fileType" : 8192
@@ -2339,7 +2361,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_3.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_3.jpg",
       "initialSize" : 14551,
       "fileType" : 4096
@@ -2364,16 +2386,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/flecha_der.png" : {
+    "\/snippets\/libs\/Model.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
-      "initialSize" : 4144,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets\/libs\/Model.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/404.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2406,15 +2426,15 @@
       "initialSize" : 13581,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/flecha_der.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
-      "initialSize" : 1016,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/flecha_der.png",
+      "initialSize" : 4144,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png" : {
@@ -2428,15 +2448,6 @@
       "initialSize" : 10346,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/Model.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/Model.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_azul\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2447,6 +2458,17 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/banner_header.jpg",
       "initialSize" : 165160,
       "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png",
+      "initialSize" : 1016,
+      "fileType" : 8192
     },
     "\/templates\/apple-touch-icon-144x144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2476,19 +2498,10 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_2.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_2.jpg",
       "initialSize" : 12594,
       "fileType" : 4096
-    },
-    "\/snippets\/libs\/templates\/solicitud_transfer.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2501,6 +2514,37 @@
       "initialSize" : 1412,
       "fileType" : 4096
     },
+    "\/snippets\/libs\/templates\/solicitud_transfer.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png",
+      "initialSize" : 1294,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/sitio_avatars_1024x768_Wireframe.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/sitio_avatars_1024x768_Wireframe.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/sitio_avatars_1024x768_Wireframe.jpg",
+      "initialSize" : 325237,
+      "fileType" : 4096
+    },
     "\/snippets\/libs\/mailer.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2509,17 +2553,6 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/mailer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_avatar\/sitio_avatars_1024x768_Wireframe.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/sitio_avatars_1024x768_Wireframe.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/sitio_avatars_1024x768_Wireframe.jpg",
-      "initialSize" : 325237,
-      "fileType" : 4096
     },
     "\/snippets\/db\/connection.php" : {
       "ignoreWasSetByUser" : 0,
@@ -2539,13 +2572,24 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/js\/plugins-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/plugins-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck-ck.js",
+      "fileType" : 64
+    },
     "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_2.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_2.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_2.png",
       "initialSize" : 25661,
       "fileType" : 8192
@@ -2567,17 +2611,6 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/controller.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/js\/plugins-ck.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/plugins-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck-ck.js",
-      "fileType" : 64
     },
     "\/templates\/img\/imagenes_morado\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2610,15 +2643,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/filter.input.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/filter.input.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/css\/normalize.css" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -2628,15 +2652,24 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
+    "\/snippets\/libs\/filter.input.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
-      "initialSize" : 11487,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/filter.input.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/background_lightbox.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/background_lightbox.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/background_lightbox.png",
+      "initialSize" : 923,
       "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg" : {
@@ -2661,15 +2694,15 @@
       "initialSize" : 1210,
       "fileType" : 4096
     },
-    "\/templates\/img\/background_lightbox.png" : {
+    "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/background_lightbox.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/background_lightbox.png",
-      "initialSize" : 923,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
+      "initialSize" : 11487,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/linea_contenido.jpg" : {
@@ -2689,7 +2722,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
       "initialSize" : 208292,
       "fileType" : 4096
@@ -2714,6 +2747,15 @@
       "initialSize" : 287587,
       "fileType" : 4096
     },
+    "\/snippets_bak\/libs\/templates\/envio_inventario.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2734,15 +2776,6 @@
       "initialSize" : 2875,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/envio_inventario.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2754,21 +2787,21 @@
       "outputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs-ck.js",
       "fileType" : 64
     },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/libs\/templates\/envio_reporte.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_reporte.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2844,26 +2877,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png",
-      "initialSize" : 1256,
-      "fileType" : 8192
-    },
-    "\/templates\/js\/vendor\/jquery.validate.min.js" : {
+    "\/templates\/js\/vendor\/additional-methods.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min.js",
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min-ck.js",
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods-ck.js",
       "fileType" : 64
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png" : {
@@ -2897,16 +2919,25 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
       "fileType" : 64
     },
-    "\/templates\/js\/vendor\/additional-methods.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
+    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png",
+      "initialSize" : 1146,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2930,35 +2961,26 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+    "\/templates\/js\/vendor\/jquery.validate.min.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min-ck.js",
+      "fileType" : 64
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png",
-      "initialSize" : 41947,
-      "fileType" : 8192
-    },
-    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png",
-      "initialSize" : 1144,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.png",
+      "initialSize" : 1256,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/banner_header.jpg" : {
@@ -2971,6 +2993,28 @@
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/banner_header.jpg",
       "initialSize" : 129399,
       "fileType" : 4096
+    },
+    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png",
+      "initialSize" : 1144,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png",
+      "initialSize" : 41947,
+      "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/mailing_7NP_Net.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3014,17 +3058,6 @@
       "initialSize" : 11795,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_morado\/tip_lateral.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
-      "initialSize" : 1876,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_morado\/left_medium.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3036,13 +3069,24 @@
       "initialSize" : 13393,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_morado\/tip_lateral.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip_lateral.png",
+      "initialSize" : 1876,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_3.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_3.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_3.png",
       "initialSize" : 43546,
       "fileType" : 8192
@@ -3064,7 +3108,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_descarga_avatar.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_descarga_avatar.jpg",
       "initialSize" : 7152,
       "fileType" : 4096
@@ -3124,7 +3168,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_Ayuda.png",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_Ayuda.png",
       "initialSize" : 1732,
       "fileType" : 8192
@@ -3151,15 +3195,6 @@
       "outputAbbreviatedPath" : "\/templates\/js\/main-ck.js",
       "fileType" : 64
     },
-    "\/snippets\/libs\/templates\/restablecer_password.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/restablecer_password.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_azul\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3170,6 +3205,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/logo_header.jpg",
       "initialSize" : 12010,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/templates\/restablecer_password.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/restablecer_password.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3193,17 +3237,6 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg",
-      "initialSize" : 1443,
-      "fileType" : 4096
-    },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3213,6 +3246,28 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
       "initialSize" : 13129,
+      "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/circulo_avatar_filled.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_filled.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_filled.png",
+      "initialSize" : 1103,
+      "fileType" : 8192
+    },
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg",
+      "initialSize" : 1443,
       "fileType" : 4096
     },
     "\/snippets_bak\/libs\/phpmailer\/class.smtp.php" : {
@@ -3255,16 +3310,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
+    "\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
-      "initialSize" : 11450,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3277,15 +3330,6 @@
       "initialSize" : 13129,
       "fileType" : 4096
     },
-    "\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/excel_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/js\/vendor\/jquery.tools.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3297,6 +3341,17 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.min-ck.js",
       "fileType" : 64
     },
+    "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
+      "initialSize" : 11450,
+      "fileType" : 8192
+    },
     "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3305,6 +3360,17 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg",
+      "initialSize" : 275453,
+      "fileType" : 4096
     },
     "\/snippets\/libs\/templates\/envio_inventario_fourth_ambassador.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3325,17 +3391,6 @@
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/one_lateral.png",
       "initialSize" : 5529,
       "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg",
-      "initialSize" : 275453,
-      "fileType" : 4096
     },
     "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3370,7 +3425,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/logo_footer_Axa.jpg",
-      "processed" : 0,
+      "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/logo_footer_Axa.jpg",
       "initialSize" : 7178,
       "fileType" : 4096
