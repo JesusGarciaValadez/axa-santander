@@ -996,6 +996,28 @@
                 
                 _selector.toggleClass( _class );
             }
+        }, 
+        createAvatarPreview:    function ( gender, skin, hair, clothes ) {
+            
+            _gender     = ( typeof( gender ) != "undefined" )? gender : "";
+            _skin       = ( typeof( skin ) != "undefined" )? skin : "";
+            _hair       = ( typeof( hair ) != "undefined" )? hair : "";
+            _clothes    = ( typeof( clothes ) != "undefined" )? clothes : "";
+            
+            var _path   = ( _gender == "male" )? "img/imagenes_avatar/man/" : "img/imagenes_avatar/woman/";
+            
+            if ( _skin != "" ) {
+                
+                $( '#image_preview .skin' ).attr( 'src', _path + 'skin/' + _skin ).addClass( 'active' ).fadeIn( 300 );
+            }
+            if ( _hair != "" ) {
+                
+                $( '#image_preview .hair' ).attr( 'src', _path + 'hair/' + _hair ).addClass( 'active' ).fadeIn( 300 );
+            }
+            if ( _clothes != "" ) {
+                
+                $( '#image_preview .clothes' ).attr( 'src', _path + 'clothes/' + _clothes ).addClass( 'active' ).fadeIn( 300 );
+            }
         }
     };
     
@@ -1052,9 +1074,15 @@
             $( '.alert_background' ).height( $( 'body' ).height() );
         }
         
+        //  Crea una instancia de jQuery Overlay para el home de descubreone.mx
+        //  Calcula la distancia entre el margen izquierdo para posicionar
+        //  la capa del video. Si en menor de 0 (ocurre en iPhone) utiliza 
+        //  el ancho del body en vez del ancho de la ventana para hacer 
+        //  el cálculo
         if ( $( '.overlay.black' ).exists() ) {
             
             $( '.overlay.black' ).centerWidth();
+            
             AxaS.doOverlay( 'img[rel]', {
                 effect: 'apple', 
                 // custom top position
@@ -1102,6 +1130,21 @@
                         
                         player.stopVideo();
                     }
+                }
+            } );
+            
+            $( window ).on( {
+                resize: function ( e ) {
+                    
+                    $( '.overlay.black' ).centerWidth();
+                },
+                touchstart: function ( e ) {
+                    
+                    $( '.overlay.black' ).centerWidth();
+                }, 
+                touchend: function ( e ) {
+                    
+                    $( '.overlay.black' ).centerWidth();
                 }
             } );
         }
@@ -1153,7 +1196,7 @@
                 prev: null
             }, {
                 steps: 1, 
-                interval: 5000, 
+                interval: 10000, 
                 autoplay: true, 
                 autopause: true
             }, {
@@ -1169,7 +1212,7 @@
                 prev: ".prev"
             }, {
                 steps: 1, 
-                interval: 1000, 
+                interval: 15000, 
                 autoplay: true, 
                 autopause: true
             }, {
@@ -1181,6 +1224,9 @@
         }
         
         if ( $( "#avatar" ).exists() ) {
+            
+            //  Declaración de variables para obtención de las imágenes
+            var gender, skin, hair, clothes, avatar;
             
             //  Crea la funcionalidad de tabs para cada tipo de categoría para el avatar
             $( 'ul.tabs' ).tabs("div.panes > div");
@@ -1194,6 +1240,16 @@
                     
                     AxaS.toggleClass( $( '.gender ul li.active' ), "active" );
                     $( '.panes div' ).not( '.panes div.gender' ).children( ).hide( 300 );
+                    gender  = "";
+                    skin    = "";
+                    hair    = "";
+                    clothes = "";
+                    avatar  = "";
+                    
+                    $( '#image_preview img' ).fadeOut( 300, function ( ) {
+                        
+                        $( '#image_preview img' ).removeClass( 'active' );
+                    } );
                 }
                 
                 //  Selecciona el género escogido por el usuario y muestra los elementos
@@ -1203,9 +1259,45 @@
                 if ( $( '.panes .gender ul li.men' ).hasClass( 'active' ) ) {
                     
                     $( '.panes div' ).not( '.panes div.gender' ).children( '.male' ).show( 300 );
+                    gender  = "male";
                 } else if ( $( '.panes .gender ul li.women' ).hasClass( 'active' ) ) {
                     
                     $( '.panes div' ).not( '.panes div.gender' ).children( '.female' ).show( 300 );
+                    gender  = "female";
+                }
+            } );
+            
+            $( '.panes div ul li' ).on( 'click', function ( e ) {
+                
+                e.preventDefault();
+                e.stopPropagation();
+                
+                $( e.currentTarget ).siblings( 'li' ).removeClass( 'active' );
+                $( e.currentTarget ).addClass( 'active' );
+                
+                var _typeOfCategorie    = $( e.currentTarget ).parent( 'ul' ).parent( 'div' ).attr( "class" );
+                var _temporalValue      = $( e.currentTarget ).children( 'img' ).attr( 'rel' );
+                
+                switch ( _typeOfCategorie ) {
+                    case "skin":
+                        skin    = _temporalValue;
+                        break;
+                    case "hair":
+                        hair    = _temporalValue;
+                        break;
+                    case "clothes":
+                        clothes = _temporalValue;
+                        break;
+                    default:
+                        break;
+                }
+                
+                if ( $( e.currentTarget ).parent( 'ul' ).parent( 'div' ).hasClass( 'gender' ) ) {
+                    
+                    return false;
+                } else {
+                    
+                    AxaS.createAvatarPreview( gender, skin, hair, clothes );
                 }
             } );
         }

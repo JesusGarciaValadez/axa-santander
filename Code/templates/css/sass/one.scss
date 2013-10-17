@@ -153,15 +153,15 @@
     #principal,#video_e_learning,#advices_best_practices,#create_avatar_feature{ @extend .div_container; }
     #principal_container{
         background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
-        height: em( 425, 16 );
+        height: em( 361, 16 );
         header{
-            height: em( 425, 16 );
+            height: em( 362, 16 );
             @include position( relative, 0 0 0 0 );
             width: 100%;
             z-index: 1;
             .left_side{}
             .container{
-                height: em( 425, 16);
+                height: em( 362, 16);
                 position: relative;
                 h1, h2{
                     @include hide-text;
@@ -171,14 +171,14 @@
                     z-index: 11;
                 }
                 .logo_image{
-                    top: em( 67, 16 );
+                    top: em( 40, 16 );
                 }
                 .title_image{
-                    top: em( 212, 16 );
+                    top: em( 155, 16 );
                 }
                 .division{
-                    top: -3px;
-                    left: 0;
+                    top: em( -2, 16 );
+                    left: em( 0, 16 );
                 }
                 .header_carrousel{
                     height: 100%;
@@ -200,9 +200,10 @@
                                 float: left;
                                 height: 100%;
                                 position: relative;
-                                width: em( 1022, 16 );
+                                width: em( 1025, 16 );
                                 img{
-                                    position: relative;
+                                    position: absolute;
+                                    right: 0;
                                     z-index: 5;
                                 }
                                 .title_wrapper{
@@ -237,7 +238,7 @@
                         @extend .clearfix;
                         height: em( 17, 16 );
                         position: absolute;
-                        top: em( 390, 16 );
+                        top: em( 310, 16 );
                         right: 0;
                         z-index: 10;
                         a{
@@ -547,9 +548,9 @@
     }
     #principal_container, #avatar_creator{ @extend .div_container; }
     #principal_container{
-        height: em( 390, 16 );
+        height: em( 360, 16 );
         header{
-            height: em( 390, 16 );
+            height: em( 360, 16 );
             @include position( relative, 0 0 0 0 );
             width: 100%;
             z-index: 1;
@@ -568,82 +569,14 @@
                     top: em( 38, 16 );
                 }
                 .title_image{
-                    top: em( 60, 16 );
+                    top: em( 40, 16 );
                 }
                 .division{
-                    top: -3px;
+                    top: em( -2, 16 );
                     left: 0;
                 }
-                .header_carrousel{
-                    height: 100%;
-                    left: 0;
-                    overflow: hidden;
-                    position: absolute;
-                    top: 0;
-                    width: 100%;
-                    z-index: 0;
-                    #header_scrollable{
-                        height: 100%;
-                        position: relative;
-                        z-index: 5;
-                        .items{
-                            height: 100%;
-                            position:absolute;
-                            width:20000em;
-                            div{
-                                float: left;
-                                height: 100%;
-                                position: relative;
-                                width: em( 1022, 16 );
-                                img{
-                                    position: relative;
-                                    z-index: 5;
-                                }
-                                .title_wrapper{
-                                    @extend .clearfix;
-                                    background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
-                                    bottom: em( 95, 16 );
-                                    display: block;
-                                    height: em( 64, 16 );
-                                    left: 0;
-                                    position: absolute;
-                                    width: 100%;
-                                    z-index: 10;
-                                    h3{
-                                        color: #FFF;
-                                        display: block;
-                                        float: right;
-                                        font: normal 2.437em/1.641em $arial;
-                                        margin: 0;
-                                        padding: 0 1em 0 0;
-                                        position: relative;
-                                        text-align: right;
-                                        width: 100%;
-                                        strong{
-                                            font-weight: bold !important;
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                    .navi{
-                        @extend .clearfix;
-                        position: absolute;
-                        top: em( 480, 16 );
-                        right: 0;
-                        z-index: 10;
-                        a{
-                            background: url('../img/imagenes_descubre_one/header_navigation.png') no-repeat scroll 0 0 transparent;
-                            display: inline-block;
-                            float: left;
-                            height:17px;
-                            margin: 0 10px 0 0;
-                            width:17px;
-                            &:hover{ background-position:0px -17px; }
-                        }
-                        .active{ background-position:0px -17px; }
-                    }
+                .header_avatar{
+                    
                 }
             }
             .right_side{
@@ -701,10 +634,17 @@
                 float: left;
                 margin: 0 em( 30, 16 ) 0 0;
                 padding: em( 35, 16 ) 0 0;
+                position: relative;
                 width: em( 230, 16 );
-                img{
+                > div{
                     height: em( 203, 16 );
                     width: em( 230, 16 );
+                    img{ display: none; left: em( 0, 16 ); position: absolute; top: em( 0, 16 ) }
+                    .skin{ position:relative; z-index: 0; }
+                    .hair{ z-index: 1; }
+                    .clothes{ z-index: 1; }
+                    .hair, .clothes { top: em( 35, 16 ) }
+                    .active{ display: block; }
                 }
                 a{
                     background: url("../img/imagenes_avatar/btn_descarga_avatar.jpg") no-repeat scroll 0 0 transparent;
@@ -728,11 +668,6 @@
                     clear: left;
                     div{
                         
-                        .male{ display: none; }
-                        .female{ display: none; }
-                    }
-                    .gender{
-                        
                         h4{
                             display: block;
                             font-weight: normal;
@@ -741,14 +676,30 @@
                                 font-weight: bold;
                             }
                         }
-                        ul{
+                        .male{ display: none; }
+                        .female{ display: none; }
+                        ul {
                             @extend .clearfix;
                             margin: 0;
-                            left: em( 175, 16 );
+                            left: em( 34.5, 16 );
                             padding: 0;
                             position: absolute;
                             top: em( 90, 16 );
                             li{
+                                border: 1px solid #FFF;
+                                cursor: pointer;
+                                float: left;
+                                list-style: none inside;
+                            }
+                            .active{ border: 1px solid $blue; }
+                        }
+                    }
+                    .gender{
+                        
+                        ul{
+                            left: em( 175, 16 );
+                            li{
+                                border: 0 none transparent;
                                 float: left;
                                 height: em( 300, 16 );
                                 list-style: none outside;
@@ -780,7 +731,7 @@
                             .men.active{ background-position: em( -116, 16 ) top !important; }
                             .women.active{ background-position: em( -100, 16 ) em( 10, 16 ) !important; }
                             .active{
-                                
+                                border: 0 none transparent;
                                 p{ background-position: 0 em( -10, 16 ); display: block; }
                             }
                         }

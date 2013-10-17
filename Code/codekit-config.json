@@ -2,6 +2,17 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8326",
   "files" : {
+    "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_small.png",
+      "initialSize" : 8191,
+      "fileType" : 8192
+    },
     "\/templates\/create_avatar.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -10,17 +21,6 @@
       "inputAbbreviatedPath" : "\/templates\/create_avatar.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg",
-      "initialSize" : 1443,
-      "fileType" : 4096
     },
     "\/templates\/images\/header.png" : {
       "ignoreWasSetByUser" : 0,
@@ -53,23 +53,25 @@
       "initialSize" : 1243,
       "fileType" : 4096
     },
-    "\/snippets\/libs\/templates\/envio_contacto.html" : {
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_contacto.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg",
+      "initialSize" : 1443,
+      "fileType" : 4096
+    },
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
       "initialSize" : 5594,
       "fileType" : 8192
     },
@@ -85,14 +87,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png" : {
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png",
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png",
       "initialSize" : 5594,
       "fileType" : 8192
     },
@@ -105,6 +107,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png",
+      "initialSize" : 40862,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_azul\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -115,6 +128,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_lateral.jpg",
       "initialSize" : 298,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/templates\/envio_contacto.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_contacto.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -177,6 +199,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-ck.js",
       "fileType" : 64
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png",
+      "initialSize" : 11898,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_avatar\/one_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -287,28 +320,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_3.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_3.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_3.png",
-      "initialSize" : 6917,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_1.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_1.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_1.png",
-      "initialSize" : 23031,
-      "fileType" : 8192
-    },
     "\/templates\/js\/vendor\/jquery-1.9.0.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -395,15 +406,15 @@
       "initialSize" : 7341,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png" : {
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_2_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_2_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
-      "initialSize" : 11486,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_2_small.png",
+      "initialSize" : 18496,
       "fileType" : 8192
     },
     "\/templates\/images\/logo_footer.png" : {
@@ -415,6 +426,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/images\/logo_footer.png",
       "initialSize" : 6944,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
+      "initialSize" : 11486,
       "fileType" : 8192
     },
     "\/templates\/img\/btn_enviar.png" : {
@@ -455,15 +477,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_2.png" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_2.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_2.png",
-      "initialSize" : 3791,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_big.png",
+      "initialSize" : 11897,
       "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/logo_header.jpg" : {
@@ -508,6 +530,17 @@
       "initialSize" : 10813,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_descubre_one\/banner_video.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/banner_video.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/banner_video.png",
+      "initialSize" : 286108,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_descubre_one\/browser_arrows.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -519,6 +552,15 @@
       "initialSize" : 7078,
       "fileType" : 8192
     },
+    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/INDEX_manager_7.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/INDEX_manager_7.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -528,28 +570,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_footer.png",
       "initialSize" : 6386,
-      "fileType" : 8192
-    },
-    "\/snippets\/libs\/avatar\/avatar_cara.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
-      "initialSize" : 18953,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_morado\/one_lateral.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
-      "initialSize" : 4305,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/tip_lateral.png" : {
@@ -563,23 +583,16 @@
       "initialSize" : 1880,
       "fileType" : 8192
     },
-    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/INDEX_manager_7.html" : {
+    "\/snippets\/libs\/avatar\/avatar_cara.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/INDEX_manager_7.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/notificacion_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/snippets\/libs\/avatar\/avatar_cara.png",
+      "initialSize" : 18953,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_descubre_one\/degradado_bg_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -603,26 +616,24 @@
       "initialSize" : 37401,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_1.jpg" : {
+    "\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_1.jpg",
-      "initialSize" : 14617,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/notificacion_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png" : {
+    "\/templates\/img\/imagenes_morado\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/accesorio_1.png",
-      "initialSize" : 6667,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/one_lateral.png",
+      "initialSize" : 4305,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg" : {
@@ -634,6 +645,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
       "initialSize" : 157209,
+      "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_3.jpg",
+      "initialSize" : 12964,
       "fileType" : 4096
     },
     "\/templates\/apple-touch-icon-114x114-precomposed.png" : {
@@ -656,6 +678,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_descubre_one\/banner_colaborador.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/banner_colaborador.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/banner_colaborador.png",
+      "initialSize" : 243079,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_descubre_one\/header_navigation.css" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -665,15 +698,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_1.png" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_1.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_1.png",
-      "initialSize" : 41877,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png",
+      "initialSize" : 38766,
       "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/banner_header.jpg" : {
@@ -687,6 +720,28 @@
       "initialSize" : 157209,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_small.png",
+      "initialSize" : 19119,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/accesories\/lentes_1_grande.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_1_grande.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_1_grande.png",
+      "initialSize" : 8401,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_descubre_one\/avatar_playera.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -698,6 +753,17 @@
       "initialSize" : 13486,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_small.png",
+      "initialSize" : 9851,
+      "fileType" : 8192
+    },
     "\/templates\/third_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -706,17 +772,6 @@
       "inputAbbreviatedPath" : "\/templates\/third_review_manager_network.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_1.jpg",
-      "initialSize" : 13104,
-      "fileType" : 4096
     },
     "\/snippets_bak\/libs\/templates\/envio_contacto.html" : {
       "ignoreWasSetByUser" : 0,
@@ -738,28 +793,6 @@
       "initialSize" : 4779,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_2.jpg",
-      "initialSize" : 13484,
-      "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_4.png",
-      "initialSize" : 42101,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_azul\/btn_ONE.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -771,6 +804,17 @@
       "initialSize" : 4709,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_small.png",
+      "initialSize" : 4939,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_azul\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -780,17 +824,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/tip.jpg",
       "initialSize" : 5129,
-      "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_3.jpg",
-      "initialSize" : 14730,
       "fileType" : 4096
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/liena_roja.png" : {
@@ -812,28 +845,6 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_4.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_4.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/thumbs_piel_4.jpg",
-      "initialSize" : 12451,
-      "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_1.jpg",
-      "initialSize" : 13633,
-      "fileType" : 4096
     },
     "\/templates\/img\/imagenes_descubre_one\/BG_Degradado_avatar.png" : {
       "ignoreWasSetByUser" : 0,
@@ -868,16 +879,16 @@
       "initialSize" : 82042,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_3.jpg" : {
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_3.jpg",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_3.jpg",
-      "initialSize" : 12964,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png",
+      "initialSize" : 30377,
+      "fileType" : 8192
     },
     "\/templates\/second_review_ambassador.html" : {
       "ignoreWasSetByUser" : 0,
@@ -887,6 +898,17 @@
       "inputAbbreviatedPath" : "\/templates\/second_review_ambassador.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_descubre_one\/logo_axa_header.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/logo_axa_header.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/logo_axa_header.png",
+      "initialSize" : 6227,
+      "fileType" : 8192
     },
     "\/snippets\/libs\/templates\/envio_inventario_first_doubles.html" : {
       "ignoreWasSetByUser" : 0,
@@ -930,6 +952,17 @@
       "initialSize" : 1144,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/accesories\/barba_grande.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/barba_grande.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/barba_grande.png",
+      "initialSize" : 12541,
+      "fileType" : 8192
+    },
     "\/templates\/apple-touch-icon-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -963,6 +996,17 @@
       "initialSize" : 12797,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_small.png",
+      "initialSize" : 25735,
+      "fileType" : 8192
+    },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/INDEX_ambassador_6.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -972,17 +1016,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_1.jpg",
-      "initialSize" : 15304,
-      "fileType" : 4096
-    },
     "\/snippets\/libs\/FilterInput.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -991,17 +1024,6 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/FilterInput.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/thumbs_ropa_2.jpg",
-      "initialSize" : 12727,
-      "fileType" : 4096
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/INDEX_manager_6.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1021,6 +1043,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/lateral_ONEesmas.png",
       "initialSize" : 14155,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_3.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_3.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_3.png",
+      "initialSize" : 6917,
       "fileType" : 8192
     },
     "\/snippets_bak\/libs\/templates\/solicitud_transfer_rechazada.html" : {
@@ -1085,6 +1118,17 @@
       "outputAbbreviatedPath" : "\/templates\/css\/fonts\/futura\/specimen_files\/easytabs-ck.js",
       "fileType" : 64
     },
+    "\/templates\/img\/imagenes_avatar\/btn_contenido.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
+      "initialSize" : 2299,
+      "fileType" : 8192
+    },
     "\/snippets_bak\/libs\/templates\/fila_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1105,25 +1149,16 @@
       "initialSize" : 6386,
       "fileType" : 8192
     },
-    "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png",
-      "initialSize" : 1144,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_small.png",
+      "initialSize" : 19671,
       "fileType" : 8192
-    },
-    "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1136,16 +1171,16 @@
       "initialSize" : 1659,
       "fileType" : 8192
     },
-    "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
+    "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png",
+      "initialSize" : 1144,
+      "fileType" : 8192
     },
     "\/templates\/mailing_one_abm.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1167,6 +1202,15 @@
       "initialSize" : 1523,
       "fileType" : 8192
     },
+    "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/first_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1176,16 +1220,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/btn_contenido.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+    "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/btn_contenido.png",
-      "initialSize" : 2299,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min-ck.js",
+      "fileType" : 64
     },
     "\/templates\/css\/fonts\/franklin\/specimen_files\/specimen_stylesheet.css" : {
       "ignoreWasSetByUser" : 1,
@@ -1214,21 +1258,21 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/templates\/css\/fonts\/franklin\/stylesheet.css" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/stylesheet.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -1262,6 +1306,17 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/mailer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png",
+      "initialSize" : 8008,
+      "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1327,6 +1382,17 @@
       "initialSize" : 329,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_big.png",
+      "initialSize" : 24435,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_morado\/btn_perfil.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1369,6 +1435,24 @@
       "initialSize" : 1620,
       "fileType" : 8192
     },
+    "\/snippets_bak\/libs\/templates\/confirmacion_registro.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/confirmacion_registro.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/logo_footer_Axa.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1391,32 +1475,16 @@
       "initialSize" : 84903,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/confirmacion_registro.html" : {
+    "\/templates\/img\/imagenes_avatar\/accesories\/lentes_2_grande.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/confirmacion_registro.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/snippets_bak\/libs\/templates\/envio_inventario_second.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_second.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/snippets\/libs\/templates\/envio_inventario_third.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_third.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_2_grande.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_2_grande.png",
+      "initialSize" : 9858,
+      "fileType" : 8192
     },
     "\/templates\/js\/vendor\/jquery.validate.js" : {
       "ignoreWasSetByUser" : 1,
@@ -1428,6 +1496,26 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate-ck.js",
       "fileType" : 64
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png",
+      "initialSize" : 21499,
+      "fileType" : 8192
+    },
+    "\/snippets\/libs\/templates\/envio_inventario_third.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/envio_inventario_third.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/img\/imagenes_descubre_one\/degradado_avatar.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1460,6 +1548,28 @@
       "initialSize" : 1443,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
+      "initialSize" : 17242,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
+      "initialSize" : 12522,
+      "fileType" : 8192
+    },
     "\/snippets\/libs\/templates\/fila_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1468,6 +1578,17 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_transferencia.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_small.png",
+      "initialSize" : 17652,
+      "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing6\/mailing_6NP_Amb.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1492,27 +1613,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_1.png" : {
+    "\/snippets\/controller.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_1.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_1.png",
-      "initialSize" : 37568,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_2.jpg",
-      "initialSize" : 13702,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/snippets\/controller.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/libs\/ParserTemplate.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1520,15 +1628,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/libs\/ParserTemplate.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/snippets\/controller.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/controller.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1541,6 +1640,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_small.png",
+      "initialSize" : 30532,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_avatar\/degradado_banner.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1550,28 +1660,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/degradado_banner.jpg",
       "initialSize" : 1585,
-      "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_azul\/linea_roja.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
-      "initialSize" : 1134,
-      "fileType" : 8192
-    },
-    "\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
-      "initialSize" : 298,
       "fileType" : 4096
     },
     "\/templates\/css\/sass\/polls.scss" : {
@@ -1597,6 +1685,39 @@
       "initialSize" : 4779,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
+      "initialSize" : 298,
+      "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/banner_avatar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/banner_avatar.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/banner_avatar.png",
+      "initialSize" : 239753,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_azul\/linea_roja.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_roja.png",
+      "initialSize" : 1134,
+      "fileType" : 8192
+    },
     "\/templates\/img\/overlay\/red.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1617,6 +1738,28 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/btn_perfil.png",
       "initialSize" : 10906,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png",
+      "initialSize" : 34458,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_big.png",
+      "initialSize" : 12157,
       "fileType" : 8192
     },
     "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html" : {
@@ -1648,6 +1791,15 @@
       "initialSize" : 47984,
       "fileType" : 4096
     },
+    "\/snippets\/libs\/phpmailer\/class.phpmailer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.phpmailer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/CirculoRojo_header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1658,15 +1810,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/CirculoRojo_header.png",
       "initialSize" : 1786,
       "fileType" : 8192
-    },
-    "\/snippets\/libs\/phpmailer\/class.phpmailer.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.phpmailer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/css\/main.css" : {
       "ignoreWasSetByUser" : 0,
@@ -1741,21 +1884,21 @@
       "initialSize" : 8773,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/templates\/envio_inventario_third.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_third.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets_bak\/libs\/templates\/fila_documento_nuevo.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/fila_documento_nuevo.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets_bak\/libs\/templates\/envio_inventario_third.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/envio_inventario_third.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1768,16 +1911,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
-      "initialSize" : 1412,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_big.png",
+      "initialSize" : 24839,
+      "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1789,6 +1932,17 @@
       "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/logo_footer.png",
       "initialSize" : 6386,
       "fileType" : 8192
+    },
+    "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
+      "initialSize" : 1412,
+      "fileType" : 4096
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1810,6 +1964,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/snippets\/libs\/templates\/fila_inventario.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/separador_linea.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1827,15 +1990,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/mailing_one_mng_net.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/snippets\/libs\/templates\/fila_inventario.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/fila_inventario.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1881,6 +2035,17 @@
       "initialSize" : 132419,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png",
+      "initialSize" : 24338,
+      "fileType" : 8192
+    },
     "\/templates\/img\/imagenes_avatar\/titulo_banner.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1914,6 +2079,17 @@
       "initialSize" : 5071,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_2.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_2.jpg",
+      "initialSize" : 12594,
+      "fileType" : 4096
+    },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1925,15 +2101,15 @@
       "initialSize" : 2108,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png" : {
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_3.png",
-      "initialSize" : 44887,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_small.png",
+      "initialSize" : 18250,
       "fileType" : 8192
     },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futurabi-cleartype.png" : {
@@ -1987,6 +2163,26 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_big.png",
+      "initialSize" : 11354,
+      "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/ParserTemplate.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/ParserTemplate.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/BG_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2009,15 +2205,6 @@
       "initialSize" : 4907,
       "fileType" : 8192
     },
-    "\/snippets_bak\/libs\/ParserTemplate.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/ParserTemplate.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/MANAGER NETWORK\/mailing6\/mailing_6NP_Net.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2029,16 +2216,25 @@
       "initialSize" : 328355,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png" : {
+    "\/templates\/img\/imagenes_avatar\/accesories\/lentes_1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_1.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
-      "initialSize" : 21579,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_1.png",
+      "initialSize" : 3982,
       "fileType" : 8192
+    },
+    "\/snippets\/libs\/phpmailer\/class.smtp.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.smtp.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets_bak\/libs\/templates\/fila_inventario.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2058,14 +2254,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/phpmailer\/class.smtp.php" : {
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/phpmailer\/class.smtp.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_big.png",
+      "initialSize" : 14875,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "initialSize" : 21579,
+      "fileType" : 8192
     },
     "\/templates\/img\/overlay\/white_close.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2098,15 +2307,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/snippets\/libs\/templates\/listCaptcha.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/listCaptcha.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/libs\/avatar\/avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2118,12 +2318,30 @@
       "initialSize" : 10944,
       "fileType" : 8192
     },
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/snippets\/libs\/templates\/confirmacion_registro.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/confirmacion_registro.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/templates\/listCaptcha.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/listCaptcha.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2136,14 +2354,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html" : {
+    "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_destino.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_small.png",
+      "initialSize" : 8563,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_big.png",
+      "initialSize" : 13405,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_morado\/left_bottom.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2156,17 +2387,6 @@
       "initialSize" : 3538,
       "fileType" : 4096
     },
-    "\/templates\/img\/overlay\/apple-close.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/overlay\/apple-close.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/overlay\/apple-close.png",
-      "initialSize" : 1394,
-      "fileType" : 8192
-    },
     "\/templates\/img\/imagenes_avatar\/switch.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2176,6 +2396,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/switch.png",
       "initialSize" : 6105,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/overlay\/apple-close.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/overlay\/apple-close.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/overlay\/apple-close.png",
+      "initialSize" : 1394,
       "fileType" : 8192
     },
     "\/snippets\/libs\/avatar\/avatar_pantalones.png" : {
@@ -2198,6 +2429,28 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header_video.png",
       "initialSize" : 409113,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_big.png",
+      "initialSize" : 38985,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_big.png",
+      "initialSize" : 40694,
       "fileType" : 8192
     },
     "\/snippets\/control.php" : {
@@ -2229,6 +2482,28 @@
       "initialSize" : 3687,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_descubre_one\/degradado_banner.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_banner.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/degradado_banner.png",
+      "initialSize" : 1244,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_2_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_2_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_2_small.png",
+      "initialSize" : 19977,
+      "fileType" : 8192
+    },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2240,15 +2515,15 @@
       "initialSize" : 13129,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_2.png" : {
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_2_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_2.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_2_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_2.png",
-      "initialSize" : 36827,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_2_big.png",
+      "initialSize" : 35807,
       "fileType" : 8192
     },
     "\/snippets\/libs\/avatar\/avatar_playera.png" : {
@@ -2282,6 +2557,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_avatar\/accesories\/lentes_2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_2.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/lentes_2.png",
+      "initialSize" : 4453,
+      "fileType" : 8192
+    },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2304,14 +2590,27 @@
       "initialSize" : 2073,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/templates\/solicitud_transfer_admin.html" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_big.png",
+      "initialSize" : 44641,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_big.png",
+      "initialSize" : 35130,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_avatar\/barra_gris.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2323,6 +2622,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/barra_gris.png",
       "initialSize" : 2718,
       "fileType" : 8192
+    },
+    "\/snippets\/libs\/templates\/solicitud_transfer_admin.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/img\/logo_axa.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2344,17 +2652,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/thumbs_cabello_3.jpg",
-      "initialSize" : 14551,
-      "fileType" : 4096
-    },
     "\/templates\/img\/imagenes_descubre_one\/partners.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2364,6 +2661,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/partners.png",
       "initialSize" : 135210,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_small.png",
+      "initialSize" : 27625,
       "fileType" : 8192
     },
     "\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/one_lateral.png" : {
@@ -2397,15 +2705,6 @@
       "initialSize" : 4144,
       "fileType" : 8192
     },
-    "\/snippets\/libs\/Model.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/Model.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/404.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2415,15 +2714,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png" : {
+    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png",
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png",
-      "initialSize" : 13581,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
+      "initialSize" : 2108,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
@@ -2437,15 +2736,24 @@
       "initialSize" : 1016,
       "fileType" : 8192
     },
-    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png" : {
+    "\/snippets\/libs\/Model.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
+      "inputAbbreviatedPath" : "\/snippets\/libs\/Model.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/tip_lateral.png",
-      "initialSize" : 2108,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png",
+      "initialSize" : 10346,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/banner_header.jpg" : {
@@ -2459,15 +2767,15 @@
       "initialSize" : 165160,
       "fileType" : 4096
     },
-    "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/tip2_Ambassador2.png",
-      "initialSize" : 10346,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/plecaroja_header.png",
+      "initialSize" : 13581,
       "fileType" : 8192
     },
     "\/templates\/apple-touch-icon-144x144-precomposed.png" : {
@@ -2492,17 +2800,6 @@
       "initialSize" : 4108,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/accesorios\/thumbs_accesorio_2.jpg",
-      "initialSize" : 12594,
-      "fileType" : 4096
-    },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2520,6 +2817,26 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png",
+      "initialSize" : 35921,
+      "fileType" : 8192
+    },
+    "\/snippets\/libs\/mailer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/mailer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2545,15 +2862,6 @@
       "initialSize" : 325237,
       "fileType" : 4096
     },
-    "\/snippets\/libs\/mailer.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/mailer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/db\/connection.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2572,14 +2880,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets_bak\/controller.php" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/controller.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png",
+      "initialSize" : 18866,
+      "fileType" : 8192
     },
     "\/templates\/js\/plugins-ck.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2592,23 +2902,21 @@
       "outputAbbreviatedPath" : "\/templates\/js\/plugins-ck-ck.js",
       "fileType" : 64
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_2.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_2.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/ropa\/ropa_2.png",
-      "initialSize" : 25661,
-      "fileType" : 8192
-    },
     "\/snippets_bak\/libs\/phpmailer\/class.pop3.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/phpmailer\/class.pop3.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets_bak\/controller.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/controller.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2643,15 +2951,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/css\/normalize.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/snippets\/libs\/filter.input.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2661,27 +2960,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/switch_header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/switch_header.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
-      "initialSize" : 11487,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/switch_header.png",
+      "initialSize" : 11216,
       "fileType" : 8192
-    },
-    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
-      "initialSize" : 1412,
-      "fileType" : 4096
     },
     "\/templates\/img\/background_lightbox.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2694,16 +2982,36 @@
       "initialSize" : 923,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg" : {
+    "\/templates\/css\/normalize.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg",
-      "initialSize" : 1210,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_small.png",
+      "initialSize" : 30928,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
+      "initialSize" : 11487,
+      "fileType" : 8192
     },
     "\/templates\/img\/imagenes_azul\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2714,6 +3022,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/linea_contenido.jpg",
       "initialSize" : 329,
+      "fileType" : 4096
+    },
+    "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
+      "initialSize" : 1412,
       "fileType" : 4096
     },
     "\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg" : {
@@ -2727,6 +3046,17 @@
       "initialSize" : 208292,
       "fileType" : 4096
     },
+    "\/templates\/img\/imagenes_avatar\/accesories\/barba.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/barba.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/accesories\/barba.png",
+      "initialSize" : 5916,
+      "fileType" : 8192
+    },
     "\/snippets\/libs\/Validator.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2735,6 +3065,17 @@
       "inputAbbreviatedPath" : "\/snippets\/libs\/Validator.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg",
+      "initialSize" : 1210,
+      "fileType" : 4096
     },
     "\/templates\/img\/imagenes_descubre_one\/BG_header_2.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2756,15 +3097,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/cancelIcon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2775,6 +3107,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/cancelIcon.png",
       "initialSize" : 2875,
       "fileType" : 8192
+    },
+    "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2836,28 +3177,49 @@
       "initialSize" : 12010,
       "fileType" : 4096
     },
-    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
+    "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
-      "initialSize" : 1443,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_small.png",
+      "initialSize" : 19394,
+      "fileType" : 8192
     },
-    "\/templates\/css\/sass\/one.scss" : {
+    "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_1.png" : {
       "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_1.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_1.png",
+      "initialSize" : 6667,
+      "fileType" : 8192
+    },
+    "\/templates\/js\/vendor\/modernizr-2.6.2.min.js" : {
+      "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/css\/sass\/one.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/templates\/css\/one.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
+      "fileType" : 64
+    },
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
+      "initialSize" : 8446,
+      "fileType" : 8192
     },
     "\/templates\/encuesta.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2865,46 +3227,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/templates\/encuesta.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/fourth_review_manager_network.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/fourth_review_manager_network.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png",
-      "initialSize" : 1146,
-      "fileType" : 8192
-    },
-    "\/templates\/js\/vendor\/jquery.validate.min.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min-ck.js",
-      "fileType" : 64
-    },
-    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2919,6 +3241,40 @@
       "initialSize" : 1256,
       "fileType" : 8192
     },
+    "\/templates\/js\/vendor\/additional-methods.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods-ck.js",
+      "fileType" : 64
+    },
+    "\/templates\/js\/vendor\/jquery.validate.min.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate.min-ck.js",
+      "fileType" : 64
+    },
+    "\/templates\/css\/sass\/one.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/css\/sass\/one.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/templates\/css\/one.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/templates\/css\/fonts\/futura\/specimen_files\/grid_12-825-55-15.css" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -2928,27 +3284,34 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/templates\/js\/vendor\/modernizr-2.6.2.min.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
-      "fileType" : 64
-    },
-    "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png" : {
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png",
-      "initialSize" : 6177,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_big.png",
+      "initialSize" : 12598,
       "fileType" : 8192
+    },
+    "\/templates\/fourth_review_manager_network.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/fourth_review_manager_network.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/private_circulars_and_notices_panel.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/apple-touch-icon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2961,26 +3324,26 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
-    "\/templates\/js\/vendor\/additional-methods.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/additional-methods-ck.js",
-      "fileType" : 64
-    },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png" : {
+    "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png",
-      "initialSize" : 8446,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "initialSize" : 1443,
+      "fileType" : 4096
+    },
+    "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png",
+      "initialSize" : 1146,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/banner_header.jpg" : {
@@ -3005,15 +3368,15 @@
       "initialSize" : 1144,
       "fileType" : 8192
     },
-    "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png" : {
+    "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/piel\/piel_2.png",
-      "initialSize" : 41947,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/iconos_tips.png",
+      "initialSize" : 6177,
       "fileType" : 8192
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/mailing_7NP_Net.jpg" : {
@@ -3036,6 +3399,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_small.png",
+      "initialSize" : 14455,
+      "fileType" : 8192
+    },
     "\/templates\/img\/overlay\/black.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3047,6 +3421,17 @@
       "initialSize" : 6455,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_1.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_1.jpg",
+      "initialSize" : 13633,
+      "fileType" : 4096
+    },
     "\/templates\/img\/imagenes_descubre_one\/avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3056,6 +3441,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar.png",
       "initialSize" : 11795,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_descubre_one\/franja_gris_titulo_banner.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/franja_gris_titulo_banner.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/franja_gris_titulo_banner.png",
+      "initialSize" : 1628,
       "fileType" : 8192
     },
     "\/templates\/img\/imagenes_morado\/tip_lateral.png" : {
@@ -3079,17 +3475,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_morado\/left_medium.jpg",
       "initialSize" : 13393,
       "fileType" : 4096
-    },
-    "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_3.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_3.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/hombre\/cabello\/cabello_3.png",
-      "initialSize" : 43546,
-      "fileType" : 8192
     },
     "\/templates\/css\/fonts\/futura\/specimen_files\/futuraxk-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3195,15 +3580,6 @@
       "outputAbbreviatedPath" : "\/templates\/js\/main-ck.js",
       "fileType" : 64
     },
-    "\/snippets\/libs\/templates\/restablecer_password.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/restablecer_password.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/templates\/img\/imagenes_azul\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3214,6 +3590,15 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_azul\/logo_header.jpg",
       "initialSize" : 12010,
       "fileType" : 4096
+    },
+    "\/snippets\/libs\/templates\/restablecer_password.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/restablecer_password.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3237,6 +3622,17 @@
       "initialSize" : 730,
       "fileType" : 8192
     },
+    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "initialSize" : 13129,
+      "fileType" : 4096
+    },
     "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3259,16 +3655,16 @@
       "initialSize" : 1103,
       "fileType" : 8192
     },
-    "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
+    "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
-      "initialSize" : 13129,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_small.png",
+      "initialSize" : 29895,
+      "fileType" : 8192
     },
     "\/snippets_bak\/libs\/phpmailer\/class.smtp.php" : {
       "ignoreWasSetByUser" : 0,
@@ -3279,14 +3675,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/snippets\/libs\/templates\/excel_inventario.html" : {
+    "\/templates\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_inventario.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/templates\/js\/main-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/templates\/js\/main-ck-ck.js",
+      "fileType" : 64
     },
     "\/snippets\/libs\/templates\/envio_inventario_fourth_doubles.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3308,16 +3706,14 @@
       "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.validate-ck-ck.js",
       "fileType" : 64
     },
-    "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
+    "\/snippets\/libs\/templates\/excel_inventario.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
-      "initialSize" : 11450,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/snippets\/libs\/templates\/excel_inventario.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3330,16 +3726,38 @@
       "initialSize" : 13129,
       "fileType" : 4096
     },
-    "\/templates\/js\/vendor\/jquery.tools.min.js" : {
+    "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.min-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/avatar_pantalones.png",
+      "initialSize" : 11450,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png",
+      "initialSize" : 27641,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
+      "initialSize" : 38900,
+      "fileType" : 8192
     },
     "\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3350,15 +3768,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/templates\/js\/main-ck.js" : {
+    "\/templates\/js\/vendor\/jquery.tools.min.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/templates\/js\/main-ck.js",
+      "inputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/templates\/js\/main-ck-ck.js",
+      "outputAbbreviatedPath" : "\/templates\/js\/vendor\/jquery.tools.min-ck.js",
       "fileType" : 64
     },
     "\/snippets\/libs\/templates\/envio_inventario_fourth_ambassador.html" : {
@@ -3381,6 +3799,26 @@
       "initialSize" : 5529,
       "fileType" : 8192
     },
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_small.png",
+      "initialSize" : 20344,
+      "fileType" : 8192
+    },
+    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3391,15 +3829,6 @@
       "outputAbbreviatedPath" : "\/templates\/img\/imagenes_descubre_one\/BG_header.jpg",
       "initialSize" : 275453,
       "fileType" : 4096
-    },
-    "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/templates\/mail_encuesta3.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3438,6 +3867,28 @@
       "inputAbbreviatedPath" : "\/snippets_bak\/libs\/templates\/notificacion_transferencia.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_2_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_2_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_2_big.png",
+      "initialSize" : 39279,
+      "fileType" : 8192
+    },
+    "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_2.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_2.png",
+      "initialSize" : 3791,
+      "fileType" : 8192
     },
     "\/snippets\/libs\/templates\/solicitud_transfer_rechazada.html" : {
       "ignoreWasSetByUser" : 0,

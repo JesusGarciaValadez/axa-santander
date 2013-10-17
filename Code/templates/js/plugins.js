@@ -25,10 +25,16 @@
 
 jQuery.fn.exists         = function(){return this.length>0;}
 jQuery.fn.centerWidth    = function(){
-    var winWidth    = $( window ).width() / 2;
+    var winWidth    = window.innerWidth / 2;
     var elemWidth   = $( this ).width() / 2;
+    
+    if ( parseInt( winWidth - elemWidth ) < 100 ) {
+        
+        winWidth    = $( 'body' ).innerWidth() / 2;
+    }
+    
     var elemLeft    = winWidth - elemWidth;
-
+    
     this.css( 'left', elemLeft + 'px' );
 }
 jQuery.fn.centerHeight = function(){

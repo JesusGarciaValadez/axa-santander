@@ -547,14 +547,14 @@ menuitem, nav, iframe, embed, object {
 
 #one #principal_container {
   background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
-  height: 26.5625em; }
+  height: 22.5625em; }
   #one #principal_container header {
-    height: 26.5625em;
+    height: 22.625em;
     position: relative;
     width: 100%;
     z-index: 1; }
     #one #principal_container header .container {
-      height: 26.5625em;
+      height: 22.625em;
       position: relative; }
       #one #principal_container header .container h1, #one #principal_container header .container h2 {
         color: transparent;
@@ -565,12 +565,12 @@ menuitem, nav, iframe, embed, object {
         position: relative;
         z-index: 11; }
       #one #principal_container header .container .logo_image {
-        top: 4.1875em; }
+        top: 2.5em; }
       #one #principal_container header .container .title_image {
-        top: 13.25em; }
+        top: 9.6875em; }
       #one #principal_container header .container .division {
-        top: -3px;
-        left: 0; }
+        top: -0.125em;
+        left: 0em; }
       #one #principal_container header .container .header_carrousel {
         height: 100%;
         left: 0;
@@ -591,9 +591,10 @@ menuitem, nav, iframe, embed, object {
               float: left;
               height: 100%;
               position: relative;
-              width: 63.875em; }
+              width: 64.0625em; }
               #one #principal_container header .container .header_carrousel #header_scrollable .items div img {
-                position: relative;
+                position: absolute;
+                right: 0;
                 z-index: 5; }
               #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper {
                 background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
@@ -619,7 +620,7 @@ menuitem, nav, iframe, embed, object {
         #one #principal_container header .container .header_carrousel .navi {
           height: 1.0625em;
           position: absolute;
-          top: 24.375em;
+          top: 19.375em;
           right: 0;
           z-index: 10; }
           #one #principal_container header .container .header_carrousel .navi a {
@@ -874,9 +875,9 @@ menuitem, nav, iframe, embed, object {
   background: transparent;
   text-shadow: none; }
 #avatar #principal_container {
-  height: 24.375em; }
+  height: 22.5em; }
   #avatar #principal_container header {
-    height: 24.375em;
+    height: 22.5em;
     position: relative;
     width: 100%;
     z-index: 1; }
@@ -894,71 +895,10 @@ menuitem, nav, iframe, embed, object {
       #avatar #principal_container header .container .logo_image {
         top: 2.375em; }
       #avatar #principal_container header .container .title_image {
-        top: 3.75em; }
+        top: 2.5em; }
       #avatar #principal_container header .container .division {
-        top: -3px;
+        top: -0.125em;
         left: 0; }
-      #avatar #principal_container header .container .header_carrousel {
-        height: 100%;
-        left: 0;
-        overflow: hidden;
-        position: absolute;
-        top: 0;
-        width: 100%;
-        z-index: 0; }
-        #avatar #principal_container header .container .header_carrousel #header_scrollable {
-          height: 100%;
-          position: relative;
-          z-index: 5; }
-          #avatar #principal_container header .container .header_carrousel #header_scrollable .items {
-            height: 100%;
-            position: absolute;
-            width: 20000em; }
-            #avatar #principal_container header .container .header_carrousel #header_scrollable .items div {
-              float: left;
-              height: 100%;
-              position: relative;
-              width: 63.875em; }
-              #avatar #principal_container header .container .header_carrousel #header_scrollable .items div img {
-                position: relative;
-                z-index: 5; }
-              #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper {
-                background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
-                bottom: 5.9375em;
-                display: block;
-                height: 4em;
-                left: 0;
-                position: absolute;
-                width: 100%;
-                z-index: 10; }
-                #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 {
-                  color: #FFF;
-                  display: block;
-                  float: right;
-                  font: normal 2.437em/1.641em Arial, Helvetica, Verdana, "sans-serif";
-                  margin: 0;
-                  padding: 0 1em 0 0;
-                  position: relative;
-                  text-align: right;
-                  width: 100%; }
-                  #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper h3 strong {
-                    font-weight: bold !important; }
-        #avatar #principal_container header .container .header_carrousel .navi {
-          position: absolute;
-          top: 30em;
-          right: 0;
-          z-index: 10; }
-          #avatar #principal_container header .container .header_carrousel .navi a {
-            background: url("../img/imagenes_descubre_one/header_navigation.png") no-repeat scroll 0 0 transparent;
-            display: inline-block;
-            float: left;
-            height: 17px;
-            margin: 0 10px 0 0;
-            width: 17px; }
-            #avatar #principal_container header .container .header_carrousel .navi a:hover {
-              background-position: 0px -17px; }
-          #avatar #principal_container header .container .header_carrousel .navi .active {
-            background-position: 0px -17px; }
     #avatar #principal_container header .right_side {
       background: url("../img/imagenes_avatar/degradado_banner.jpg") repeat-x scroll 0 0 transparent; }
 #avatar #avatar_creator .left_side, #avatar #avatar_creator .right_side {
@@ -1006,10 +946,27 @@ menuitem, nav, iframe, embed, object {
     float: left;
     margin: 0 1.875em 0 0;
     padding: 2.1875em 0 0;
+    position: relative;
     width: 14.375em; }
-    #avatar #avatar_creator .container #image_preview img {
+    #avatar #avatar_creator .container #image_preview > div {
       height: 12.6875em;
       width: 14.375em; }
+      #avatar #avatar_creator .container #image_preview > div img {
+        display: none;
+        left: 0em;
+        position: absolute;
+        top: 0em; }
+      #avatar #avatar_creator .container #image_preview > div .skin {
+        position: relative;
+        z-index: 0; }
+      #avatar #avatar_creator .container #image_preview > div .hair {
+        z-index: 1; }
+      #avatar #avatar_creator .container #image_preview > div .clothes {
+        z-index: 1; }
+      #avatar #avatar_creator .container #image_preview > div .hair, #avatar #avatar_creator .container #image_preview > div .clothes {
+        top: 2.1875em; }
+      #avatar #avatar_creator .container #image_preview > div .active {
+        display: block; }
     #avatar #avatar_creator .container #image_preview a {
       background: url("../img/imagenes_avatar/btn_descarga_avatar.jpg") no-repeat scroll 0 0 transparent;
       display: block;
@@ -1027,23 +984,33 @@ menuitem, nav, iframe, embed, object {
     width: 37.5em; }
     #avatar #avatar_creator .container #avatar_creator_wrapper .panes {
       clear: left; }
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes div h4 {
+        display: block;
+        font-weight: normal;
+        text-indent: 2.5em; }
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div h4 span {
+          font-weight: bold; }
       #avatar #avatar_creator .container #avatar_creator_wrapper .panes div .male {
         display: none; }
       #avatar #avatar_creator .container #avatar_creator_wrapper .panes div .female {
         display: none; }
-      #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender h4 {
-        display: block;
-        font-weight: normal;
-        text-indent: 2.5em; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender h4 span {
-          font-weight: bold; }
-      #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul {
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul {
         margin: 0;
-        left: 10.9375em;
+        left: 2.15625em;
         padding: 0;
         position: absolute;
         top: 5.625em; }
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul li {
+          border: 1px solid #FFF;
+          cursor: pointer;
+          float: left;
+          list-style: none inside; }
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul .active {
+          border: 1px solid #0c4d93; }
+      #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul {
+        left: 10.9375em; }
         #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul li {
+          border: 0 none transparent;
           float: left;
           height: 18.75em;
           list-style: none outside;
@@ -1076,9 +1043,11 @@ menuitem, nav, iframe, embed, object {
           background-position: -7.25em top !important; }
         #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .women.active {
           background-position: -6.25em 0.625em !important; }
-        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .active p {
-          background-position: 0 -0.625em;
-          display: block; }
+        #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .active {
+          border: 0 none transparent; }
+          #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul .active p {
+            background-position: 0 -0.625em;
+            display: block; }
   #avatar #avatar_creator .container .tabs {
     float: right;
     margin: 0;
@@ -1151,7 +1120,7 @@ menuitem, nav, iframe, embed, object {
 .invisible {
   visibility: hidden; }
 
-.clearfix:before, .alert_box:before, #wrapper form fieldset .question div:before, #wrapper footer:before, .div_container:before, #one #principal:before, #one #video_e_learning:before, #one #advices_best_practices:before, #one #create_avatar_feature:before, #avatar #principal_container:before, #avatar #avatar_creator:before, .wrapper:before, .wrapper header:before, .wrapper footer:before, .wrapper footer .container:before, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #one #principal_container header .container .header_carrousel .navi:before, #one #create_avatar_feature .container:before, #one #create_avatar_feature .container ul:before, #one #create_avatar_feature .container ul li:before, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #avatar #principal_container header .container .header_carrousel .navi:before, #avatar #avatar_creator .container:before, #avatar #avatar_creator .container #avatar_creator_wrapper:before, #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul:before, #avatar #avatar_creator .container .tabs:before,
+.clearfix:before, .alert_box:before, #wrapper form fieldset .question div:before, #wrapper footer:before, .div_container:before, #one #principal:before, #one #video_e_learning:before, #one #advices_best_practices:before, #one #create_avatar_feature:before, #avatar #principal_container:before, #avatar #avatar_creator:before, .wrapper:before, .wrapper header:before, .wrapper footer:before, .wrapper footer .container:before, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:before, #one #principal_container header .container .header_carrousel .navi:before, #one #create_avatar_feature .container:before, #one #create_avatar_feature .container ul:before, #one #create_avatar_feature .container ul li:before, #avatar #avatar_creator .container:before, #avatar #avatar_creator .container #avatar_creator_wrapper:before, #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul:before, #avatar #avatar_creator .container .tabs:before,
 .clearfix:after,
 .alert_box:after,
 #wrapper form fieldset .question div:after,
@@ -1172,19 +1141,17 @@ menuitem, nav, iframe, embed, object {
 #one #create_avatar_feature .container:after,
 #one #create_avatar_feature .container ul:after,
 #one #create_avatar_feature .container ul li:after,
-#avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after,
-#avatar #principal_container header .container .header_carrousel .navi:after,
 #avatar #avatar_creator .container:after,
 #avatar #avatar_creator .container #avatar_creator_wrapper:after,
-#avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul:after,
+#avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul:after,
 #avatar #avatar_creator .container .tabs:after {
   content: " ";
   display: table; }
 
-.clearfix:after, .alert_box:after, #wrapper form fieldset .question div:after, #wrapper footer:after, .div_container:after, #one #principal:after, #one #video_e_learning:after, #one #advices_best_practices:after, #one #create_avatar_feature:after, #avatar #principal_container:after, #avatar #avatar_creator:after, .wrapper:after, .wrapper header:after, .wrapper footer:after, .wrapper footer .container:after, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #one #principal_container header .container .header_carrousel .navi:after, #one #create_avatar_feature .container:after, #one #create_avatar_feature .container ul:after, #one #create_avatar_feature .container ul li:after, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #avatar #principal_container header .container .header_carrousel .navi:after, #avatar #avatar_creator .container:after, #avatar #avatar_creator .container #avatar_creator_wrapper:after, #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul:after, #avatar #avatar_creator .container .tabs:after {
+.clearfix:after, .alert_box:after, #wrapper form fieldset .question div:after, #wrapper footer:after, .div_container:after, #one #principal:after, #one #video_e_learning:after, #one #advices_best_practices:after, #one #create_avatar_feature:after, #avatar #principal_container:after, #avatar #avatar_creator:after, .wrapper:after, .wrapper header:after, .wrapper footer:after, .wrapper footer .container:after, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper:after, #one #principal_container header .container .header_carrousel .navi:after, #one #create_avatar_feature .container:after, #one #create_avatar_feature .container ul:after, #one #create_avatar_feature .container ul li:after, #avatar #avatar_creator .container:after, #avatar #avatar_creator .container #avatar_creator_wrapper:after, #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul:after, #avatar #avatar_creator .container .tabs:after {
   clear: both; }
 
-.clearfix, .alert_box, #wrapper form fieldset .question div, #wrapper footer, .div_container, #one #principal, #one #video_e_learning, #one #advices_best_practices, #one #create_avatar_feature, #avatar #principal_container, #avatar #avatar_creator, .wrapper, .wrapper header, .wrapper footer, .wrapper footer .container, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #one #principal_container header .container .header_carrousel .navi, #one #create_avatar_feature .container, #one #create_avatar_feature .container ul, #one #create_avatar_feature .container ul li, #avatar #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #avatar #principal_container header .container .header_carrousel .navi, #avatar #avatar_creator .container, #avatar #avatar_creator .container #avatar_creator_wrapper, #avatar #avatar_creator .container #avatar_creator_wrapper .panes .gender ul, #avatar #avatar_creator .container .tabs {
+.clearfix, .alert_box, #wrapper form fieldset .question div, #wrapper footer, .div_container, #one #principal, #one #video_e_learning, #one #advices_best_practices, #one #create_avatar_feature, #avatar #principal_container, #avatar #avatar_creator, .wrapper, .wrapper header, .wrapper footer, .wrapper footer .container, #one #principal_container header .container .header_carrousel #header_scrollable .items div .title_wrapper, #one #principal_container header .container .header_carrousel .navi, #one #create_avatar_feature .container, #one #create_avatar_feature .container ul, #one #create_avatar_feature .container ul li, #avatar #avatar_creator .container, #avatar #avatar_creator .container #avatar_creator_wrapper, #avatar #avatar_creator .container #avatar_creator_wrapper .panes div ul, #avatar #avatar_creator .container .tabs {
   *zoom: 1; }
 
 /* ==========================================================================
