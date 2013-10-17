@@ -942,13 +942,13 @@ menuitem, nav, iframe, embed, object {
     right: 0;
     width: 1.5625em; }
   #avatar #avatar_creator .container #image_preview {
-    border-color: red;
     float: left;
     margin: 0 1.875em 0 0;
     padding: 2.1875em 0 0;
     position: relative;
     width: 14.375em; }
     #avatar #avatar_creator .container #image_preview > div {
+      border: 1px solid #DFDFDF;
       height: 12.6875em;
       width: 14.375em; }
       #avatar #avatar_creator .container #image_preview > div img {

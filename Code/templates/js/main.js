@@ -30,6 +30,10 @@
     };
     
     AxaS.overlay;
+    AxaS.gender;
+    AxaS.skin;
+    AxaS.hair;
+    AxaS.clothes;
     
     //  Object prototyping
     AxaS.fn = AxaS.prototype = {
@@ -997,6 +1001,18 @@
                 _selector.toggleClass( _class );
             }
         }, 
+        /**
+         *
+         *  @function:  !createAvatarPreview
+         *  @description:   Creates a visualization of the avatar image to download
+         *  @params String gender.- A string with the gender choosed
+         *  @params String skin.- A string with the filename of the skin choosed
+         *  @params String hair.- A string with the filename of the hair choosed
+         *  @params String clothes.- A string the filename of the clothes choosed
+         *  @author: @_Chucho_
+         *
+         */
+        //  !Crea una previsualización de la imágen de avatar que se va a descargar
         createAvatarPreview:    function ( gender, skin, hair, clothes ) {
             
             _gender     = ( typeof( gender ) != "undefined" )? gender : "";
@@ -1009,15 +1025,20 @@
             if ( _skin != "" ) {
                 
                 $( '#image_preview .skin' ).attr( 'src', _path + 'skin/' + _skin ).addClass( 'active' ).fadeIn( 300 );
+                AxaS.skin    = _path + 'skin/' + _skin;
             }
             if ( _hair != "" ) {
                 
                 $( '#image_preview .hair' ).attr( 'src', _path + 'hair/' + _hair ).addClass( 'active' ).fadeIn( 300 );
+                AxaS.hair    = _path + 'hair/' + _hair;
             }
             if ( _clothes != "" ) {
                 
                 $( '#image_preview .clothes' ).attr( 'src', _path + 'clothes/' + _clothes ).addClass( 'active' ).fadeIn( 300 );
+                AxaS.clothes = _path + 'clothes/' + _clothes;
             }
+            
+            AxaS.gender = _gender;
         }
     };
     
@@ -1267,6 +1288,8 @@
                 }
             } );
             
+            //  Event handler para obtener la ruta de las imágenes de cada thumbnail
+            //  y formar la previsualización
             $( '.panes div ul li' ).on( 'click', function ( e ) {
                 
                 e.preventDefault();
@@ -1299,6 +1322,49 @@
                     
                     AxaS.createAvatarPreview( gender, skin, hair, clothes );
                 }
+            } );
+            
+            
+            $( '#image_preview a' ).on( 'click', function ( e ) { 
+                
+                e.preventDefault();
+                e.stopPropagation();
+                
+                var avatarData  = {};
+                
+                $.ajax ( '../snippets/controller.php?action=obtainAvatar', { 
+                    beforeSend: function ( jqXHR, settings ) {
+                        
+                        if ( gender != "" && gender != undefined )
+                            avatarData.gender   = AxaS.gender;
+                        if ( skin != "" && skin != undefined )
+                            avatarData.skin     = AxaS.skin;
+                        if ( hair != "" && hair != undefined )
+                            avatarData.hair     = AxaS.hair; 
+                        if ( clothes != "" && clothes != undefined )
+                            avatarData.clothes  = AxaS.clothes;
+                    }, 
+                    cache: false, 
+                    complete: function ( jqXHR, textStatus ) {
+                        
+                    }, 
+                    contentType: "application/x-www-form-urlencoded",  
+                    converters: { 
+                        "* text":       window.String, 
+                        "text html":    true, 
+                        "text json":    $.parseJSON, 
+                        "text xml":     $.parseXML
+                    }, 
+                    data: avatarData, 
+                    error:  function ( jqXHR, textStatus, errorThrown ) {
+                        
+                    }, 
+                    success: function ( data, textStatus, jqXHR ) {
+                        
+                    }, 
+                    type: "POST"
+                } );
+                
             } );
         }
         

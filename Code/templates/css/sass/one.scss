@@ -630,13 +630,13 @@
                 width: em( 25, 16 );
             }
             #image_preview{
-                border-color: red;
                 float: left;
                 margin: 0 em( 30, 16 ) 0 0;
                 padding: em( 35, 16 ) 0 0;
                 position: relative;
                 width: em( 230, 16 );
                 > div{
+                    border: 1px solid #DFDFDF;
                     height: em( 203, 16 );
                     width: em( 230, 16 );
                     img{ display: none; left: em( 0, 16 ); position: absolute; top: em( 0, 16 ) }
