@@ -87,7 +87,7 @@ class Avatar {
         //  Juntamos la segunda imagen con la imagen base
         imagecopyresampled( $this->_baseImage, $this->_avatarSkin, 0, 0, 0, 0, 230, 203, 230, 203 );
         
-        if ( !empty( $this->_avatarHair ) ) {
+        if ( !empty( $this->_hair ) ) {
             
             //  Cargamos la primera imagen(hair)
             $this->_avatarHair      = imagecreatefrompng( $this->_hair );
