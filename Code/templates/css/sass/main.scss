@@ -146,8 +146,8 @@ $blue: #0C4D93;
 
 a,input,div,p,span,strong,em,form,fieldset,textarea,hr,img,select,option,button,
 header,body,aside,video,audio,footer,section,article,code,canvas,ul,ol,li,menu,
-menuitem,nav,iframe,embed,object{
-    outline: none;
+menuitem,nav,iframe,embed,object,*{
+    outline: transparent thin none;
 }
 .alert_background {
     background: url('../img/background_lightbox.png') repeat scroll 0 0 transparent;

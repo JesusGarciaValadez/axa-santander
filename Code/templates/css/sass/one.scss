@@ -689,7 +689,9 @@
                                 border: 1px solid #FFF;
                                 cursor: pointer;
                                 float: left;
+                                height: em( 153, 16 );
                                 list-style: none inside;
+                                width: em( 133, 16 );
                             }
                             .active{ border: 1px solid $blue; }
                         }
@@ -770,5 +772,9 @@
                 .first{margin: 0 0 em( 5, 16 );}
             }
         }
+    }
+    #secretIFrame{
+        display:none; 
+        visibility:hidden;
     }
 }

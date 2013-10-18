@@ -177,15 +177,38 @@ if ( ! empty( $_GET['action'] ) ) {
                 break;
             case 'obtainAvatar': 
                 
-                $face   = ( isset( $_GET[ 'face' ] ) && !empty( $_GET[ 'face' ] ) ) ? ( string ) $_GET[ 'face' ] . '.png' : "avatar_cara.png";
-                $shirt  = ( isset( $_GET[ 'shirt' ] ) && !empty( $_GET[ 'shirt' ] ) ) ? ( string ) $_GET[ 'shirt' ] . '.png' : "avatar_playera.png";
-                $pants  = ( isset( $_GET[ 'pants' ] ) && !empty( $_GET[ 'pants' ] ) ) ? ( string ) $_GET[ 'pants' ] . '.png' : "avatar_pantalones.png";
+                $skin       = ( isset( $_POST[ 'skin' ] ) && !empty( $_POST[ 'skin' ] ) ) ? ( string ) $_POST[ 'skin' ] : "avatar_cara.png";
+                $hair       = ( isset( $_POST[ 'hair' ] ) && !empty( $_POST[ 'hair' ] ) ) ? ( string ) $_POST[ 'hair' ] : "avatar_playera.png";
+                $clothes    = ( isset( $_POST[ 'clothes' ] ) && !empty( $_POST[ 'clothes' ] ) ) ? ( string ) $_POST[ 'clothes' ] : "avatar_pantalones.png";
                 
-                $avatar = new Avatar( $face, $shirt, $pants );
-                $avatar->createAvatar();
-                $data   = json_encode( array(  
-                    "success" => true, 
-                    "message" => "Avatar enviado" ) );
+                $avatar = new Avatar( $skin, $hair, $clothes );
+                $result = $avatar->createAvatar();
+                if ( file_exists( $result ) ) {
+                    
+                    $data   = json_encode( array(  
+                        "success" => true, 
+                        "message" => "Avatar enviado", 
+                        "file" => "img/imagenes_avatar/mi_avatar.png" ) );
+                } else {
+                    
+                    $data   = json_encode( array(  
+                        "success" => false, 
+                        "message" => "No se creó el avatar" ) );
+                }
+                
+                break;
+            case 'callImage':
+                $file   = imagecreatefrompng( IMAGE_PATH . $_GET[ 'file' ] );
+                header("Pragma: public");
+                header("Expires: 0");
+                header("Cache-Control: must-revalidate, post-check=0, pre-check=0"); 
+                //header("Content-Type: application/force-download");
+                //header("Content-Type: application/octet-stream");
+                //header("Content-Type: application/download");
+                header( "Content-Disposition: attachment;filename=mi_avatar.png" );
+                header("Content-Transfer-Encoding: binary ");
+                header( 'Content-Type: image/png' );
+                imagepng( $file );
                 break;
         }
         echo $data;

@@ -5,15 +5,15 @@ class Avatar {
     /**
      *  @var string _head. Name of the image that represents the head of the avatar
      */
-    private $_head;
+    private $_skin;
     /**
-     *  @var string _shirt. Name of the image that represents the shirt of the avatar
+     *  @var string _shirt. Name of the image that represents the hair of the avatar
      */
-    private $_shirt;
+    private $_hair;
     /**
-     *  @var string _pants. Name of the image that represents the pants of the avatar
+     *  @var string _pants. Name of the image that represents the clothes of the avatar
      */
-    private $_pants;
+    private $_clothes;
     /**
      *  @var string _baseImage. Name of the base image that act like a canvas
      */
@@ -24,36 +24,43 @@ class Avatar {
      */
     private $_avatarSilouette;
     /**
-     *  @var string _avatarShirt. Name of the image that represents the shirt of the 
+     *  @var string _avatarSkin. Name of the image that represents the head of the 
      *                            avatar in resample method.
      */
-    private $_avatarShirt;
+    private $_avatarSkin;
     /**
-     *  @var string _avatarHead. Name of the image that represents the head of the avatar
+     *  @var string _avatarHair. Name of the image that represents the hair of the avatar
      *                           in resample method.
      */
-    private $_avatarHead;
+    private $_avatarHair;
     /**
-     *  @var string _avatarPants. Name of the image that represents the pants of the avatar 
+     *  @var string _avatarClothes. Name of the image that represents the clothes of the avatar 
      *                            in resample method.
      */
-    private $_avatarPants;
+    private $_avatarClothes;
+    /**
+     *  @var string _file. Name of the image that represents  avatar 
+     *                            in resample method.
+     */
+    private $_file;
     
     /**
      *  
      *  @method __contruct() Obtain a series of names for the files wich will based the avatar
      *  @author Jesús Antonio García Valadez @_Chucho_
-     *  @param  string putHead. Name of the head image
-     *  @param  string putShirt. Name of the shirt image
-     *  @param  string putPants. Name of the pants image
+     *  @param  string putSkin. Name of the skin image
+     *  @param  string putHair. Name of the hair image
+     *  @param  string putClothes. Name of the clothes image
      *
      */
-    public function __construct ( $putHead = "avatar_cara.png", $putShirt = "avatar_playera.png", $putPants = "avatar_pantalones.png" ) {
+    public function __construct ( $putSkin = "img/avatar_cara.png", $putHair = "", $putClothes = "img/avatar_pantalones.png" ) {
         
-        $this->_head    = ( !empty( $putHead ) && is_string( $putHead ) && file_exists( IMAGE_PATH . $putHead ) ) ? IMAGE_PATH . $putHead : IMAGE_PATH . "avatar_cara.png";
-        $this->_shirt   = ( !empty( $putShirt ) && is_string( $putShirt ) && file_exists( IMAGE_PATH . $putShirt ) ) ? IMAGE_PATH . $putShirt : IMAGE_PATH . "avatar_playera.png";
-        $this->_pants   = ( !empty( $putPants ) & is_string( $putPants ) && file_exists( IMAGE_PATH . $putPants ) ) ? IMAGE_PATH . $putPants : IMAGE_PATH . "avatar_pantalones.png";
-        
+        $this->_skin    = ( !empty( $putSkin ) && is_string( $putSkin ) && file_exists( IMAGE_PATH . $putSkin ) ) ? IMAGE_PATH . $putSkin : IMAGE_PATH . "avatar_cara.png";
+        if ( !empty( $putHair ) ) {
+            
+            $this->_hair    = ( !empty( $putHair ) && is_string( $putHair ) && file_exists( IMAGE_PATH . $putHair ) ) ? IMAGE_PATH . $putHair : IMAGE_PATH . "avatar_playera.png";
+        }
+        $this->_clothes = ( !empty( $putClothes ) & is_string( $putClothes ) && file_exists( IMAGE_PATH . $putClothes ) ) ? IMAGE_PATH . $putClothes : IMAGE_PATH . "avatar_pantalones.png";
     }
     
     /**
@@ -70,30 +77,35 @@ class Avatar {
         
         $this->_setBaseImage();
         
-        //  Cargamos la primera imagen(silueta base )
+        /*//  Cargamos la primera imagen(silueta base )
         $this->_avatarSilouette    = imagecreatefrompng( IMAGE_PATH . "avatar.png" );
         //  Configuramos la imagen base (posición, altura y crop coordinates)
-        imagecopyresampled( $this->_baseimage, $this->_avatarSilouette, 0, 8, 0, 0, 105, 217, 105, 217 );
+        imagecopyresampled( $this->_baseimage, $this->_avatarSilouette, 0, 8, 0, 0, 105, 217, 105, 217 );*/
         
-        //  Cargamos la segunda imagen(playera)
-        $this->_avatarShirt        = imagecreatefrompng( $this->_shirt );
+        //  Cargamos la segunda imagen(Skin)
+        $this->_avatarSkin      = imagecreatefrompng( $this->_skin );
         //  Juntamos la segunda imagen con la imagen base
-        imagecopyresampled( $this->_baseimage, $this->_avatarShirt, 12, 110, 0, 0, 81, 69, 81, 69 );
+        imagecopyresampled( $this->_baseImage, $this->_avatarSkin, 0, 0, 0, 0, 230, 203, 230, 203 );
         
-        //  Cargamos la primera imagen(cabeza)
-        $this->_avatarHead         = imagecreatefrompng( $this->_head );
-        //  Unimos la primera imagen con la imagen base
-        imagecopyresampled( $this->_baseimage, $this->_avatarHead, 0, 5, 0, 0, 108, 115, 108, 115 );
+        if ( !empty( $this->_avatarHair ) ) {
+            
+            //  Cargamos la primera imagen(hair)
+            $this->_avatarHair      = imagecreatefrompng( $this->_hair );
+            //  Unimos la primera imagen con la imagen base
+            imagecopyresampled( $this->_baseImage, $this->_avatarHair, 0, 0, 0, 0, 230, 203, 230, 203 );
+        }
         
-        //  Cargamos la segunda imagen(pantalones)
-        $this->_avatarPants        = imagecreatefrompng( $this->_pants );
+        //  Cargamos la segunda imagen(clothes)
+        $this->_avatarClothes   = imagecreatefrompng( $this->_clothes );
         //  Juntamos la tercera imagen con la imagen base
-        imagecopyresampled( $this->_baseimage, $this->_avatarPants, 16, 150, 0, 0, 73, 68, 73, 68 );
+        imagecopyresampled( $this->_baseImage, $this->_avatarClothes, 0, 0, 0, 0, 230, 203, 230, 203 );
         
-        $this->_forceImageOutput();
-        //$this->_forceRedirectToImage();
+        //$this->_forceImageOutput();
+        $this->_forceRedirectToImage();
         
         $this->_cleanMemory();
+        
+        return $this->_file;
     }
     
     /**
@@ -111,14 +123,22 @@ class Avatar {
      */
     private function _setBaseImage () {
         
+        
         //  Creamos la base de la imagen definiendo ancho y alto ( w, h )
-        $this->_baseimage   = imagecreatetruecolor( 108, 217 ) or die( 'Cannot Initialize new GD image stream' );
+        $this->_baseImage   = imagecreatetruecolor( 230, 203 ) or die( 'Cannot Initialize new GD image stream' );
         
         //  Configuración del lienzo definiendo canal alpha
-        imagesavealpha( $this->_baseimage, true );
-        imagealphablending( $this->_baseimage, true );
-        $transparent        = imagecolorallocatealpha( $this->_baseimage, 0, 0, 0, 127 );
-        imagefill( $this->_baseimage, 0, 0, $transparent );
+        //imagealphablending( $this->_baseImage, true );
+        //  Cambiar a true settea el background a negro
+        imagesavealpha( $this->_baseImage, false );
+        //$transparent        = imagecolorallocatealpha( $this->_baseImage, 0, 0, 0, 127 );
+        
+        //imagefill( $this->_baseImage, 0, 0, $transparent );*/
+        
+        $colourBlack = imagecolorallocatealpha( $this->_baseImage, 0, 0, 0, 0 );
+        //$colourWhite = imagecolorallocatealpha( $this->_baseImage, 222, 222, 222, 0 );
+        imagecolortransparent( $this->_baseImage, $colourBlack );
+        // imagecolortransparent( $this->_baseImage, $colourWhite );
     }
     
     /**
@@ -161,28 +181,35 @@ class Avatar {
         
         //  Forma Dos
         //  Le decimos al navegador que el contenido es una imágen
-        imagepng( $this->_baseimage, IMAGE_PATH . 'mi_avatar.png', 2 );
+        //header( 'location:' . LOCAL_URL . 'Code' . DIRECTORY_SEPARATOR . 'templates' . DIRECTORY_SEPARATOR . 'img' . DIRECTORY_SEPARATOR . 'imagenes_avatar' . DIRECTORY_SEPARATOR . 'mi_avatar.png' );
+        $this->_file   = IMAGE_PATH . 'img' . DIRECTORY_SEPARATOR . 'imagenes_avatar' . DIRECTORY_SEPARATOR . 'mi_avatar.png';
         
-        header( 'location:' . LOCAL_URL . 'Code' . DIRECTORY_SEPARATOR . 'snippets' . DIRECTORY_SEPARATOR . 'libs' . DIRECTORY_SEPARATOR . 'avatar' . DIRECTORY_SEPARATOR . 'mi_avatar.png' );
+        imagepng( $this->_baseImage, $this->_file, 2 );
+        //readfile( $this->_file );
+        /*header( 'Content-Type: image/png' );
+        imagepng( $this->_baseImage );*/
     }
     
     /**
      *  
      *  @method _cleanMemory() Cleans the memory used by the images
      *  @author Jesús Antonio García Valadez @_Chucho_
-     *  @param  string _avatarShirt. Name of the head image
-     *  @param  string _avatarPants. Name of the shirt image
-     *  @param  string _avatarHead. Name of the pants image
+     *  @param  string _avatarSkin. Name of the skin image
+     *  @param  string _avatarHair. Name of the hair image
+     *  @param  string _avatarClothes. Name of the clothes image
      *  @param  string _baseimage. Name of the background image (canvas)
      *
      */
     private function _cleanMemory () {
         
         //  Limpiamos la memoria utilizada con las imagenes y los colores
-        imagedestroy( $this->_avatarShirt );
-        imagedestroy( $this->_avatarPants );
-        imagedestroy( $this->_avatarHead );
-        imagedestroy( $this->_baseimage );
+        imagedestroy( $this->_avatarSkin );
+        if ( !empty( $this->_avatarHair ) ) {
+            
+            imagedestroy( $this->_avatarHair );
+        }
+        imagedestroy( $this->_avatarClothes );
+        imagedestroy( $this->_baseImage );
     }
 }
 

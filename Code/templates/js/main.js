@@ -1332,23 +1332,42 @@
                 
                 var avatarData  = {};
                 
+                if ( gender != "" && gender != undefined ) {
+                    
+                    avatarData.gender   = AxaS.gender;
+                } else {
+                    
+                    alert( "Debe seleccionar un género" );
+                    return false;
+                }
+                if ( skin != "" && skin != undefined ) {
+                    
+                    avatarData.skin     = AxaS.skin;
+                } else {
+                    
+                    alert( "Debe seleccionar un tipo de piel" );
+                    return false;
+                }
+                if ( hair != "" && hair != undefined )
+                    avatarData.hair     = AxaS.hair; 
+                if ( clothes != "" && clothes != undefined ) {
+                    
+                    avatarData.clothes  = AxaS.clothes;
+                } else {
+                    
+                    alert( "Debe seleccionar un tipo de ropa" );
+                    return false;
+                }
+                
                 $.ajax ( '../snippets/controller.php?action=obtainAvatar', { 
                     beforeSend: function ( jqXHR, settings ) {
                         
-                        if ( gender != "" && gender != undefined )
-                            avatarData.gender   = AxaS.gender;
-                        if ( skin != "" && skin != undefined )
-                            avatarData.skin     = AxaS.skin;
-                        if ( hair != "" && hair != undefined )
-                            avatarData.hair     = AxaS.hair; 
-                        if ( clothes != "" && clothes != undefined )
-                            avatarData.clothes  = AxaS.clothes;
                     }, 
                     cache: false, 
                     complete: function ( jqXHR, textStatus ) {
                         
                     }, 
-                    contentType: "application/x-www-form-urlencoded",  
+                    contentType: "application/x-www-form-urlencoded", 
                     converters: { 
                         "* text":       window.String, 
                         "text html":    true, 
@@ -1361,6 +1380,11 @@
                     }, 
                     success: function ( data, textStatus, jqXHR ) {
                         
+                        data    = $.parseJSON( data );
+                        if ( data.success ) {
+                            
+                            $( "#secretIFrame" ).attr( "src", '../snippets/controller.php?action=callImage&file=' + data.file );
+                        }
                     }, 
                     type: "POST"
                 } );
