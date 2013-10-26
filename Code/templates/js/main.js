@@ -967,7 +967,10 @@
          */
         //  !Inicializador de un carrusel jQuery Tools
         inicializeCarrousel:    function ( selector, optionsScrollable, optionsNavigator, optionsAutoscroll ) {
-        
+            
+            _selector       = ( typeof( selector )  == "undefined" ) ? "*" : selector;
+            _selector       = ( typeof( _selector ) == "object" )    ? _selector : $( _selector );
+            
             if( !optionsScrollable || optionsScrollable == {} ) {
                 optionsScrollable = {};
             }
@@ -977,7 +980,8 @@
             if( !optionsAutoscroll || optionsAutoscroll == {} ) {
                 optionsAutoscroll = {};
             }
-            $( selector ).scrollable( optionsScrollable ).navigator( optionsNavigator ).autoscroll( optionsAutoscroll );
+            
+            _selector.scrollable( optionsScrollable ).navigator( optionsNavigator ).autoscroll( optionsAutoscroll );
         }, 
         /**
          *
@@ -1209,37 +1213,39 @@
         //  Carruseles y efectos del Home
         if ( $( '#one' ).exists() ) {
             
-            AxaS.inicializeCarrousel( $( '#header_scrollable' ), {
+            AxaS.inicializeCarrousel( '#header_scrollable', {
                 speed: 1000, 
                 circular: true, 
                 keyboard: false, 
                 next: null, 
                 prev: null
             }, {
+                activeClass: "active", 
+                navi: ".navi", 
+                naviItem: "a", 
+                indexed: false
+            }, {
                 steps: 1, 
                 interval: 10000, 
                 autoplay: true, 
                 autopause: true
-            }, {
-                activeClass: "active", 
-                navi: ".navi", 
-                naviItem: "a"
             } );
-            AxaS.inicializeCarrousel( $( '#tips_scrollable' ), {
+            AxaS.inicializeCarrousel( '#tips_scrollable', {
                 speed: 1000, 
                 circular: true, 
                 keyboard: false, 
                 next: ".next", 
                 prev: ".prev"
             }, {
+                activeClass: "active", 
+                navi: ".naviTabs", 
+                naviItem: "a", 
+                indexed: true
+            }, {
                 steps: 1, 
                 interval: 15000, 
                 autoplay: true, 
                 autopause: true
-            }, {
-                activeClass: "li_Active", 
-                navi: "ul.tabs", 
-                naviItem: "li"
             } );
             
         }
