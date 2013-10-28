@@ -1,6 +1,0 @@
-
-/* Start Sprite Master CSS */
-.flecha_der,.flecha_izq{display: inline-block;background-repeat: no-repeat;background-image: url('browser_arrows.png');}
-.flecha_der{background-position:0px 0px;width:136px;height:118px;}
-.flecha_izq{background-position:-136px 0px;width:130px;height:118px;}
-/* End Sprite Master CSS */

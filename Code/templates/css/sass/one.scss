@@ -78,7 +78,7 @@
             .container{
                 height: em( 520, 16);
                 position: relative;
-                h1, h2{
+                h1{
                     @include hide-text;
                     height: em( 56, 16 );
                     width: em( 286, 16 );
@@ -106,7 +106,6 @@
         .left_side{}
         .container{
             @extend .clearfix;
-            background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
             height: 100%;
             position: relative;
             p{
@@ -128,24 +127,12 @@
                 }
             }
             img{ position: absolute; }
-            .banner{
-                bottom: 0;
-                left: 0;
-                z-index: 5;
-            }
-            .phrase{ 
-                bottom: em( 43, 16 );
-                right: em( 95, 16 );
-            }
             .icon{
                 bottom: em( 40, 16 );
                 right: em( 7, 16 );
             }
         }
-        .right_side{
-            background: url("../img/imagenes_descubre_one/degradado_footer.png") repeat-x scroll left bottom transparent;
-            height: 100%;
-        }
+        .right_side{ height: 100%; }
     }
 }
 #one{
@@ -163,18 +150,31 @@
             .container{
                 height: em( 362, 16);
                 position: relative;
-                h1, h2{
+                h1{
                     @include hide-text;
                     height: em( 56, 16 );
                     width: em( 286, 16 );
                     position: relative;
                     z-index: 11;
                 }
-                .logo_image{
-                    top: em( 40, 16 );
-                }
-                .title_image{
-                    top: em( 155, 16 );
+                .title_image{ display: block; padding: em( 80, 16 ) 0 0; }
+                h2{
+                    color: $blue;
+                    display: inline-block;
+                    font-family: $arial;
+                    font-size: em( 30, 16 );
+                    font-weight: bold;
+                    margin: 0;
+                    padding: em( 80, 30 ) 0 0;
+                    position: relative;
+                    z-index: 11;
+                    span{
+                        clear: left;
+                        color: #BDBDBD;
+                        display: block;
+                        font-weight: normal;
+                        text-transform: uppercase;
+                    }
                 }
                 .division{
                     top: em( -2, 16 );
@@ -473,67 +473,37 @@
                 display: inline-block;
                 float: left;
                 font: normal 0.812em/1.2em $arial;
-                text-align: center;
+                text-align: left;
                 margin: 0;
                 padding: 1.333em 0 0;
                 width: em( 355, 13 );
             }
-            .avatar_example{
-                margin: 0;
-                padding: em( 38, 16 ) 0 0 11.5em;
-            }
-            ul{
-                float: right;
-                @extend .clearfix;
+            a{
+                background: url("../img/imagenes_descubre_one/daclick_btn.png") no-repeat scroll 0 0 transparent;
+                clear: left;
+                color: $blue;
                 display: inline-block;
-                height: em( 223, 16 );
-                margin: 0;
-                padding: em( 30, 16 ) 0 0 em( 22, 16 );
+                float: left;
+                font-size: em( 17, 16 );
+                height: em( 33, 17 );
+                line-height: em( 33, 17 );
+                padding: 0 em( 80, 17 ) 0 0;
+                position: relative;
+                text-align: right;
+                text-decoration: none;
+                top: em( 25, 17 );
+                width: em( 285, 17 );
+                span{
+                    font-weight: bold;
+                }
+            }
+            .avatar_banner{
                 position: absolute;
-                width: em( 345, 16 );
-                li{
-                    @extend .clearfix;
-                    float: left;
-                    list-style: none inside;
-                    margin: 0;
-                    padding: 0 0 0 em( 16, 16 );
-                    img{
-                        clear: both;
-                        display: block;
-                        margin: 0 auto;
-                        padding: 0;
-                    }
-                    .avatar_piece{}
-                    .face{}
-                    .pants{padding: 0 0 em( 3, 16 );}
-                    .shirt{padding: em( 20, 16 ) 0 em( 7, 16 );}
-                    p{
-                        color: #BABFC3;
-                        display: block;
-                        font: normal 1.16em/1em $arial;
-                        margin: 0 auto;
-                        padding: 0.2em 0 0;
-                        text-align: center;
-                        width: 100%;
-                        span{ color: $blue; font-weight: bold; }
-                    }
-                }
-                .big_face{
-                    background: url("../img/imagenes_descubre_one/linaVertical_avatar.jpg") no-repeat scroll right center transparent;
-                    height: em( 216, 16 );
-                    padding: em( 7, 16 ) em( 16, 16 ) em( 11, 16 ) 0;
-                    width: em( 172, 16 );
-                    img{ padding: 0 0 em( 15, 16 ); }
-                    p{ 
-                        //font-size: 1.171em;
-                        font-size: 1em;
-                        line-height: 1.06em;
-                        padding: 0;
-                    }
-                }
+                right: 0;
+                z-index: 10;
             }
         }
-        .right_side{ background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent; }
+        .right_side{ background: url("../img/imagenes_descubre_one/background_avatar_banner.png") repeat-x scroll 0 0 transparent; }
     }
 }
 #avatar{
@@ -558,25 +528,40 @@
             .container{
                 height: em( 390, 16);
                 position: relative;
-                h1, h2{
+                h1{
                     @include hide-text;
                     height: em( 56, 16 );
                     width: em( 286, 16 );
                     position: relative;
                     z-index: 11;
                 }
-                .logo_image{
-                    top: em( 38, 16 );
-                }
-                .title_image{
-                    top: em( 40, 16 );
+                .title_image{ display: block; padding: em( 80, 16 ) 0 0; }
+                h2{
+                    color: $blue;
+                    display: inline-block;
+                    font-family: $arial;
+                    font-size: em( 30, 16 );
+                    font-weight: bold;
+                    margin: 0;
+                    padding: em( 80, 30 ) 0 0;
+                    position: relative;
+                    z-index: 11;
+                    span{
+                        clear: left;
+                        color: #BDBDBD;
+                        display: block;
+                        font-weight: normal;
+                        text-transform: uppercase;
+                    }
                 }
                 .division{
                     top: em( -2, 16 );
                     left: 0;
                 }
                 .header_avatar{
-                    
+                    position: absolute;
+                    right: 0;
+                    top:0;
                 }
             }
             .right_side{
@@ -598,7 +583,7 @@
         .right_side{right:0;}
         .container{
             @extend .clearfix;
-            height: em( 600, 16 );
+            //height: em( 600, 16 );
             margin: 0 auto;
             padding: 0;
             h3{
@@ -659,15 +644,16 @@
                 @extend .clearfix;
                 background: url("../img/imagenes_avatar/contenido.jpg") no-repeat scroll 0 0 transparent;
                 float: left;
-                height: em( 600, 16 );
+                height: em( 400, 16 );
                 margin: em( 35, 16 ) 0 0;
                 padding: 0;
                 position: relative;
                 width: em( 600, 16 ); 
                 .panes{
+                    @extend .clearfix;
                     clear: left;
                     div{
-                        
+                        @extend .clearfix;
                         h4{
                             display: block;
                             font-weight: normal;
@@ -686,6 +672,7 @@
                             position: absolute;
                             top: em( 90, 16 );
                             li{
+                                @extend .clearfix;
                                 border: 1px solid #FFF;
                                 cursor: pointer;
                                 float: left;

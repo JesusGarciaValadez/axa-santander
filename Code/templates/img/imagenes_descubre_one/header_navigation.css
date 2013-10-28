@@ -1,6 +1,0 @@
-
-/* Start Sprite Master CSS */
-.circulo_header,.CirculoRojo_header{display: inline-block;background-repeat: no-repeat;background-image: url('header_navigation.png');}
-.circulo_header{background-position:0px 0px;width:17px;height:17px;}
-.CirculoRojo_header{background-position:0px -17px;width:17px;height:17px;}
-/* End Sprite Master CSS */

@@ -178,7 +178,7 @@ if ( ! empty( $_GET['action'] ) ) {
             case 'obtainAvatar': 
                 
                 $skin       = ( isset( $_POST[ 'skin' ] ) && !empty( $_POST[ 'skin' ] ) ) ? ( string ) $_POST[ 'skin' ] : "avatar_cara.png";
-                $hair       = ( isset( $_POST[ 'hair' ] ) && !empty( $_POST[ 'hair' ] ) ) ? ( string ) $_POST[ 'hair' ] : "avatar_playera.png";
+                $hair       = ( isset( $_POST[ 'hair' ] ) && !empty( $_POST[ 'hair' ] ) ) ? ( string ) $_POST[ 'hair' ] : "";
                 $clothes    = ( isset( $_POST[ 'clothes' ] ) && !empty( $_POST[ 'clothes' ] ) ) ? ( string ) $_POST[ 'clothes' ] : "avatar_pantalones.png";
                 
                 $avatar = new Avatar( $skin, $hair, $clothes );
