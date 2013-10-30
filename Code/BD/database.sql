@@ -147,3 +147,43 @@ CREATE TABLE IF NOT EXISTS `fourth_review_manager_network`
   date_answer DATE NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( review_id ) 
 ) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
+
+CREATE TABLE IF NOT EXISTS `first_review_golive_ambassador` 
+( golive_am_one_id SMALLINT UNSIGNED AUTO_INCREMENT, 
+  one VARCHAR( 140 ) NOT NULL, 
+  two VARCHAR( 140 ) NOT NULL, 
+  three VARCHAR( 140 ) NOT NULL, 
+  four VARCHAR( 140 ) NOT NULL, 
+  five VARCHAR( 140 ) NOT NULL, 
+  six VARCHAR( 140 ) NOT NULL, 
+  seven VARCHAR( 140 ) NOT NULL, 
+  eight VARCHAR( 140 ) NOT NULL, 
+  nine VARCHAR( 140 ) NOT NULL, 
+  ten VARCHAR( 255 ) DEFAULT 'Ninguno', 
+  eleven VARCHAR( 140 ) NOT NULL, 
+  twelve VARCHAR( 2 ) NOT NULL, 
+  thirteen VARCHAR( 2) NOT NULL, 
+  fourteen VARCHAR( 255) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
+  CONSTRAINT pk_golive_am_one PRIMARY KEY ( golive_am_one_id ) 
+) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';
+
+CREATE TABLE IF NOT EXISTS `first_review_golive_manager_network` 
+( golive_mn_one_id SMALLINT UNSIGNED AUTO_INCREMENT, 
+  one VARCHAR( 140 ) NOT NULL, 
+  two VARCHAR( 140 ) NOT NULL, 
+  three VARCHAR( 140 ) NOT NULL, 
+  four VARCHAR( 140 ) NOT NULL, 
+  five VARCHAR( 140 ) NOT NULL, 
+  six VARCHAR( 140 ) NOT NULL, 
+  seven VARCHAR( 140 ) NOT NULL, 
+  eight VARCHAR( 140 ) NOT NULL, 
+  nine VARCHAR( 140 ) NOT NULL, 
+  ten VARCHAR( 255 ) DEFAULT 'Ninguno', 
+  eleven VARCHAR( 140 ) NOT NULL, 
+  twelve VARCHAR( 2 ) NOT NULL, 
+  thirteen VARCHAR( 2) NOT NULL, 
+  fourteen VARCHAR( 255) DEFAULT 'Ninguno', 
+  date_answer DATE NOT NULL, 
+  CONSTRAINT pk_golive_mn_one PRIMARY KEY ( golive_mn_one_id ) 
+) ENGINE = InnoDB DEFAULT CHARSET = 'utf8';

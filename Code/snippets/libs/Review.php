@@ -525,4 +525,93 @@ class Review extends Model {
         }
         return $response;
     }
+    public function insertGoLive ( $info, $validations = array(), $template, $placeholders, $subject, $correo, $cc = array() ) {
+        
+        //  Validación de los datos
+        $parameters = $validations;
+        
+        $form = new Validator( $info, $parameters );
+        
+        // Si el formulario no es válido
+        if ( !$form->validate() ) {
+            
+            $response = array( 
+                'success' => 'false',
+                'message'=> $form->getMessage() 
+            );
+        } else {
+            
+            try {
+                
+                $this->_PDOConn->beginTransaction();
+                
+                $info[ 'date_answer' ] = date( "Y/m/d" );
+                
+                $success    = $this->insert( $info );
+                
+                if ( $success ) {
+                    
+                    $emails = explode( ',' , $correo );
+                    $to     = array();
+                    
+                    foreach ($emails as $email) {
+                        
+                        $params = array(
+                            'mail' => array(
+                                'requerido' => 1 ,'validador' => 'esEmail', 'mensaje' => utf8_encode( 'El correo no es válido.' ) )
+                        );
+                        
+                        $destinatario = array(
+                            'name' => $email,
+                            'mail' => $email
+                        );
+                        
+                        $form   = new Validator( $destinatario, $params );
+                        if ( ( $form->validate() ) === false ) {
+                            
+                            throw new Exception('El correo ' . $email . ' no es válido.');
+                        }
+                        $to[] = $destinatario;
+                    }
+                    
+                    $vars = $placeholders;
+                    $tpl = ParserTemplate::parseTemplate( $template, $vars );
+                    
+                    $_cc    = $cc;
+                    
+                    if ( Mailer::sendMail( $subject, $tpl, $to , '' , $_cc ) ) {
+                        
+                        $response       = array (
+                            'success' => 'true',
+                            'message' => utf8_encode( 'Muchas gracias por contestar esta encuesta.' )
+                        );
+                    } else {
+                        
+                        $response = array (
+                            'success'=>'false',
+                            'message'=>utf8_encode( 'El servicio de correo no esta disponible' )
+                        );
+                    }
+                } else {
+                    
+                    $response = array(
+                        'success' => 'false', 
+                        'message' => utf8_encode('No fue posible guardar la información.')
+                    );
+                }
+                
+                $this->_PDOConn->commit();
+                
+            } catch ( PDOException $e ) {
+                
+                $this->_PDOConn->rollBack();
+                $response   = array ( 'success'=>'false', 'msg'=>'el servicio de DB no esta disponible' );
+            } catch ( phpmailerException $e ) {
+                
+                $this->_PDOConn->rollBack();
+                $response   = array ( 'success'=>'false', 'msg'=>'el servicio de correo no esta disponible' );
+            }
+        }
+        return $response;
+    }
 }

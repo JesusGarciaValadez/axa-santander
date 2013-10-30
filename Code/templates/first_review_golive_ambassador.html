@@ -37,7 +37,7 @@
                     <img src="img/header.jpg" alt="One / es más" width="586" height="86">
                 </a>
             </header>
-            <form action="../snippets/controller.php?action=managerNetworkFormSubmitOne" method="post" accept-charset="utf-8" id="first_review_manager_network" class="double">
+            <form action="../snippets/controller.php?action=goliveAmbassadorFormSubmitOne" method="post" accept-charset="utf-8" id="first_review_golive_ambassador" class="double">
                 <fieldset>
                     <h1>Primer Review</h1>
                     <div id="one" class="question left">
@@ -55,23 +55,19 @@
                             <label for="one">No, aún no creo mi perfil</label>
                         </div>
                     </div>
-                    <div id="eight" class="question right">
-                        <p>¿Cómo calificarías tu primer acercamiento a ONE?</p>
+                    <div id="nine" class="question right">
+                        <p>Consideras que ONE <strong>facilita tu labor de agente de cambio</strong> al hacer más <strong>eficientes y ágiles tus responsabilidades de comunicación en tu área:</strong></p>
                         <div>
-                            <input type="radio" name="eight" value="Bueno, la herramienta es muy amigable y fácil de usar">
-                            <label for="eight">Bueno, la herramienta es muy amigable y fácil de usar</label>
+                            <input type="radio" name="nine" value="Si, ONE facilita mi rol de agente de cambio">
+                            <label for="nine">Si, ONE facilita mi rol de agente de cambio</label>
                         </div>
                         <div>
-                            <input type="radio" name="eight" value="Regular, la herramienta es un poco complicada de usar">
-                            <label for="eight">Regular, la herramienta es un poco complicada de usar</label>
+                            <input type="radio" name="nine" value="Regular, no entiendo del todo como aprovechar ONE al máximo">
+                            <label for="nine">Regular, no entiendo del todo como aprovechar ONE al máximo</label>
                         </div>
                         <div>
-                            <input type="radio" name="eight" value="ONE me parece muy compleja">
-                            <label for="eight">ONE me parece muy compleja</label>
-                        </div>
-                        <div>
-                            <input type="radio" name="eight" value="No he utilizado ONE">
-                            <label for="eight">No he utilizado ONE</label>
+                            <input type="radio" name="nine" value="No, no encuentro el valor de ONE">
+                            <label for="nine">No, no encuentro el valor de ONE</label>
                         </div>
                     </div>
                     <div id="two" class="question left">
@@ -93,19 +89,10 @@
                             <label for="two">No, aún no creo mi perfil</label>
                         </div>
                     </div>
-                    <div id="nine" class="question right">
-                        <p>¿Consideras que ONE te ofrece herramientas para <strong>facilitar tu trabajo como Manager</strong>?</p>
+                    <div id="ten" class="question right">
+                        <p>¿Que herramienta te fue de mayor utilidad en tu rol de agente de cambio?</p>
                         <div>
-                            <input type="radio" name="nine" value="Si, ONE facilita mi trabajo">
-                            <label for="nine">Si, ONE facilita mi trabajo</label>
-                        </div>
-                        <div>
-                            <input type="radio" name="nine" value="Regular, no entiendo del todo como aprovechar ONE al máximo">
-                            <label for="nine">Regular, no entiendo del todo como aprovechar ONE al máximo</label>
-                        </div>
-                        <div>
-                            <input type="radio" name="nine" value="No, no encuentro el valor de ONE">
-                            <label for="nine">No, no encuentro el valor de ONE</label>
+                            <textarea name="ten" placeholder="Ninguno" value="Ninguno" maxlength="255"></textarea>
                         </div>
                     </div>
                     <div id="three" class="question left">
@@ -121,27 +108,6 @@
                         <div>
                             <input type="radio" name="three" value="No he cambiado mi estatus">
                             <label for="three">No he cambiado mi estatus</label>
-                        </div>
-                    </div>
-                    <div id="ten" class="question right">
-                        <p>¿Que herramienta de ONE te fue de mayor utilidad?</p>
-                        <div>
-                            <textarea name="ten" placeholder="Ninguno" value="Ninguno"></textarea>
-                        </div>
-                    </div>
-                    <div id="four" class="question left">
-                        <p>¿Cuántos contactos tienes en tu red?</p>
-                        <div>
-                            <input type="radio" name="four" value="Ninguno">
-                            <label for="four">Ninguno</label>
-                        </div>
-                        <div>
-                            <input type="radio" name="four" value="De 1 a 3">
-                            <label for="four">De 1 a 3</label>
-                        </div>
-                        <div>
-                            <input type="radio" name="four" value="Agregué a mi equipo">
-                            <label for="four">Agregué a mi equipo</label>
                         </div>
                     </div>
                     <div id="eleven" class="question right">
@@ -163,11 +129,37 @@
                             <label for="eleven">Malo, no pude realizar ninguna actividad</label>
                         </div>
                     </div>
+                    <div id="four" class="question left">
+                        <p>¿Cuántos contactos tienes en tu red?</p>
+                        <div>
+                            <input type="radio" name="four" value="Agregué a mis compañeros de la brigada y a otros compañeros de mi área">
+                            <label for="four">Agregué a mis compañeros de la brigada y a otros compañeros de mi área.</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="four" value="De 1 a 3">
+                            <label for="four">De 1 a 3</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="four" value="Ninguno">
+                            <label for="four">Ninguno</label>
+                        </div>
+                    </div>
+                    <div id="twelve" class="question right">
+                        <p>¿Crees que has recibido información suficiente del lanzamiento de ONE?</p>
+                        <div>
+                            <input type="radio" name="twelve" value="Si">
+                            <label for="twelve">Si</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="twelve" value="No">
+                            <label for="twelve">No</label>
+                        </div>
+                    </div>
                     <div id="five" class="question left">
                         <p>¿Cuántas búsquedas realizaste?</p>
                         <div>
-                            <input type="radio" name="five" value="Más de 3">
-                            <label for="five">Más de 3</label>
+                            <input type="radio" name="five" value="Más de 3 y brindé soporte a algunos compañeros">
+                            <label for="five">Más de 3 y brindé soporte a algunos compañeros</label>
                         </div>
                         <div>
                             <input type="radio" name="five" value="De 1 a 3">
@@ -178,10 +170,15 @@
                             <label for="five">No he utilizado el buscador</label>
                         </div>
                     </div>
-                    <div id="twelve" class="question right">
-                        <p>Déjanos tus comentarios, para ONE es importante tu opinión:</p>
+                    <div id="thirteen" class="question right">
+                        <p>¿Sabes a quién contactar para solicitar soporte de ONE?</p>
                         <div>
-                            <textarea name="twelve" placeholder="Ninguno" value="Ninguno"></textarea>
+                            <input type="radio" name="thirteen" value="Si">
+                            <label for="thirteen">Si</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="thirteen" value="No">
+                            <label for="thirteen">No</label>
                         </div>
                     </div>
                     <div id="six" class="question left">
@@ -202,8 +199,14 @@
                             <input type="radio" name="six" value="No he utilizado el buscador">
                             <label for="six">No he utilizado el buscador</label>
                         </div>
-                    </div> 
-                    <div id="seven" class="question left">
+                    </div>
+                    <div id="fourteen" class="question right">
+                        <p>Déjanos tus comentarios, para ONE es importante saber tu opinión:</p>
+                        <div>
+                            <textarea name="fourteen" placeholder="Ninguno" value="Ninguno" maxlength="255"></textarea>
+                        </div>
+                    </div>
+                    <div id="seven" class="question left"> 
                         <p>¿Fue fácil realizar tus búsquedas?</p>
                         <div>
                             <input type="radio" name="seven" value="Si">
@@ -222,11 +225,31 @@
                             <label for="seven">No he utilizado el buscador</label>
                         </div>
                     </div>
+                    <div id="eight" class="question left">
+                        <p>¿Cómo calificarías tu primer acercamiento a ONE?</p>
+                        <div>
+                            <input type="radio" name="eight" value="Bueno, la herramienta es muy amigable y fácil de usar">
+                            <label for="eight">Bueno, la herramienta es muy amigable y fácil de usar</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="eight" value="Regular, la herramienta es un poco complicada de usar">
+                            <label for="eight">Regular, la herramienta es un poco complicada de usar</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="eight" value="ONE me parece muy compleja">
+                            <label for="eight">ONE me parece muy compleja</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="eight" value="No he utilizado ONE">
+                            <label for="eight">No he utilizado ONE</label>
+                        </div>
+                    </div>
                     <div id="submit_wrapper">
                         <input type="submit" title="Enviar" value="Enviar">
                     </div>
                 </fieldset>
             </form>
+            <p>Tip: Revisa constantemente los <em>Foros de discusión</em> ya que daremos respuesta a tus solicitudes dentro de la <em>Comunidad <strong>Todos en ONE</strong></em></p>
             <footer>
                 <img src="img/logo_axa.png" alt="logo_axa" width="195" height="55">
             </footer>

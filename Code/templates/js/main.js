@@ -806,6 +806,167 @@
                 }*/
             } ); 
         }, 
+        validateGoLiveAmbassadorOne:    function ( ) {
+            var formActive = $( 'form' ).validate( { 
+                onfocusout: false,
+                onclick: true, 
+                onkeyup: false,
+                onsubmit: true, 
+                focusCleanup: true, 
+                focusInvalid: false, 
+                errorClass: "error", 
+                validClass: "valid", 
+                errorElement: "label", 
+                ignore: "", 
+                /*showErrors: function( errorMap, errorList ) {
+                    $('#message').empty().removeClass();
+                    $("#message").html('<p>Error al ingresar la información.</p><p>Verifique que sus datos están correctos o que no falte ningún dato.</p><p>Por favor, vuelvalo a intentar.</p>');
+                    $('#message').addClass('wrong').show('fast', function(){
+                        $('#message').show('fast');
+                    });
+                    this.defaultShowErrors();
+                },*/
+                errorPlacement: function(error, element) {
+                    error.prependTo( element.parent() );
+                },
+                //debug:true, 
+                rules: { 
+                    one: {
+                        required: true
+                    }, 
+                    two: {
+                        required: true
+                    }, 
+                    three: {
+                        required: true
+                    }, 
+                    four: {
+                        required: true
+                    }, 
+                    five: {
+                        required: true
+                    }, 
+                    six: {
+                        required: true
+                    }, 
+                    seven: {
+                        required: true
+                    }, 
+                    eight: {
+                        required: true
+                    }, 
+                    nine: {
+                        required: true
+                    }, 
+                    ten: {
+                        required: false,
+                        maxlength: 255
+                    }, 
+                    eleven: {
+                        required: true
+                    }, 
+                    twelve: {
+                        required: true
+                    }, 
+                    thirteen: {
+                        required:true
+                    }, 
+                    fourteen: {
+                        required: false,
+                        maxlength: 255
+                    }
+                },
+                messages: {
+                    one: "Por favor, selecciona una opción", 
+                    two: "Por favor, selecciona una opción", 
+                    three: "Por favor, selecciona una opción", 
+                    four: "Por favor, selecciona una opción", 
+                    five: "Por favor, selecciona una opción", 
+                    six: "Por favor, selecciona una opción", 
+                    seven: "Por favor, selecciona una opción", 
+                    eight: "Por favor, selecciona una opción", 
+                    nine: "Por favor, selecciona una opción", 
+                    ten: "Por favor, selecciona una opción", 
+                    eleven: "Por favor, selecciona una opción", 
+                    twelve: "Por favor, selecciona una opción", 
+                    thirteen: "Por favor, selecciona una opción", 
+                    fourteen: "Por favor, selecciona una opción", 
+                    required: "Por favor, selecciona una opción", 
+                    minlength: "Por favor, haga su respuesta más amplia.", 
+                    maxlength: "Por favor, acorte su respuesta", 
+                    email: "Escriba un email válido",
+                    number: "Escriba solo números", 
+                    digits: "Escriba solo números", 
+                }, 
+                ignore: 'textarea', 
+                highlight: function( element, errorClass, validClass ) {
+                    $( element ).parent().addClass( 'error_wrapper' );
+                },
+                unhighlight: function( element, errorClass ) {
+                    $( element ).parent().removeClass( 'error_wrapper' );
+                }, 
+                submitHandler: function( form ) {
+                    // Form submit
+                    $( form ).ajaxSubmit( {
+                        //    Before submitting the form
+                        beforeSubmit: function showRequestLogin( arr, form, options ) {
+                            
+                            $('.error_indicator').remove();
+                            if ( $('textarea' ).val() == "" ) {
+                                
+                                $('textarea' ).val( 'Ninguno' );
+                            }
+                        },
+                        //  !Function for handle data from server
+                        success: function showResponseLogin( responseText, statusText, xhr, form ) {
+                            
+                            //console.log(responseText.success);
+                            responseText    = $.parseJSON( responseText );
+                            
+                            if( responseText && ( responseText.success == 'true' || responseText.success == true ) ) {
+                                
+                                $( '.alert_box' ).addClass( 'thank_you_message' );
+                                var _title      = 'Gracias';
+                                var _markup     = '<p>Muchas gracias por haber contestado esta encuesta.</p>';
+                                AxaS.openAlert( _title, _markup );
+                                $( 'input[type="radio"]' ).removeAttr( 'checked');
+                                $( 'textarea' ).val( "" );
+                                $( form ).fadeOut( 300 );
+                            } else {
+                                
+                                $( '.alert_box' ).addClass( 'error_message' );
+                                var _title  = 'Error';
+                                var _markup = '<p>La encuesta no fue procesada correctamente. Por favor, contacta al administrador.</p>';
+                                AxaS.openAlert( _title, _markup );
+                            }
+                            AxaS.smoothScroll( 'body' );
+                        }, 
+                        resetForm: false, 
+                        clearForm: false, 
+                        //   If something is wrong
+                        error: function( jqXHR, textStatus, errorThrown ) {
+                            //console.log(textStatus);
+                            //console.log(errorThrown);
+                            $( '.alert_box' ).addClass( 'error' );
+                            var _title  = 'Error';
+                            var _markup = '<p>La encuesta no fue procesada correctamente. Por favor, reporta este error al administrador.</p>';
+                            AxaS.openAlert( _title, _markup );
+                        }, 
+                        cache: false
+                    } );
+                }, 
+                /*invalidHandler: function(form, validator) {
+                    var errors = validator.numberOfInvalids();
+                    if (errors) {
+                        var message = errors == 1 ? 'You missed 1 field. It has been highlighted' : 'You missed ' + errors + ' fields. They have been highlighted';
+                        $("div#summary").html(message);
+                        $("div#summary").show();
+                    } else {
+                        $("div#summary").hide();
+                    }
+                }*/
+            } ); 
+        }, 
         /**
          *
          *  @function:  doOverlay
@@ -1200,6 +1361,10 @@
             if ( $( '#fourth_review_ambassador' ).exists() || $( '#fourth_review_manager_network' ).exists() ) {
                 
                 AxaS.validateFormDoublesThree();
+            }
+            if( $( '#first_review_golive_ambassador' ).exists() || $( '#first_review_golive_manager_network' ).exists() ) {
+                
+                AxaS.validateGoLiveAmbassadorOne();
             }
         }
         

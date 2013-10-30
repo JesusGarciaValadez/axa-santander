@@ -245,16 +245,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_12.jpg" : {
+    "\/Code\/templates\/img\/imagenes_azul\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_12.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/tip_lateral.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_12.jpg",
-      "initialSize" : 13709,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/tip_lateral.png",
+      "initialSize" : 1880,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -267,16 +267,16 @@
       "initialSize" : 6157,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_azul\/tip_lateral.png" : {
+    "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_12.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/tip_lateral.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_12.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/tip_lateral.png",
-      "initialSize" : 1880,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_12.jpg",
+      "initialSize" : 13709,
+      "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/iconos_tips.png" : {
       "ignoreWasSetByUser" : 0,
@@ -300,21 +300,21 @@
       "initialSize" : 12010,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/libs\/Avatar.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/Avatar.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/snippets\/libs\/Avatar.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/Avatar.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -329,16 +329,16 @@
       "initialSize" : 9644,
       "fileType" : 8192
     },
-    "\/Code\/templates\/js\/plugins-ck.js" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/flecha_azul.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/js\/plugins-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/js\/plugins-ck-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/flecha_azul.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/flecha_azul.png",
+      "initialSize" : 1247,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/overlay\/apple.png" : {
       "ignoreWasSetByUser" : 0,
@@ -350,6 +350,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/apple.png",
       "initialSize" : 6637,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/js\/plugins-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/js\/plugins-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/js\/plugins-ck-ck.js",
+      "fileType" : 64
     },
     "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_11.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -442,17 +453,6 @@
       "initialSize" : 87500,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_07.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_07.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_07.jpg",
-      "initialSize" : 5301,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/images\/tip.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -463,6 +463,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/images\/tip.png",
       "initialSize" : 6907,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_07.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_07.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_07.jpg",
+      "initialSize" : 5301,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_15.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -486,16 +497,16 @@
       "initialSize" : 2383,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/banner_avatar.png" : {
+    "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_27.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_avatar.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_27.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_avatar.png",
-      "initialSize" : 232258,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_27.jpg",
+      "initialSize" : 6406,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_05.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -517,16 +528,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_27.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/banner_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_27.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_avatar.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_27.jpg",
-      "initialSize" : 6406,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_avatar.png",
+      "initialSize" : 232258,
+      "fileType" : 8192
     },
     "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -661,6 +672,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar_izq.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar_izq.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar_izq.png",
+      "initialSize" : 1003,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/overlay\/white_close.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -671,17 +693,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/white_close.png",
       "initialSize" : 4867,
       "fileType" : 8192
-    },
-    "\/Code\/templates\/img\/header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/header.jpg",
-      "initialSize" : 13287,
-      "fileType" : 4096
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
@@ -694,6 +705,15 @@
       "initialSize" : 4142,
       "fileType" : 8192
     },
+    "\/Code\/templates\/second_review_ambassador.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/second_review_ambassador.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_22.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -703,6 +723,35 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_22.jpg",
       "initialSize" : 6336,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 1,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/Code\/snippets\/libs\/templates\/envio_inventario_third_doubles.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_third_doubles.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_21.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_21.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_21.jpg",
+      "initialSize" : 1255,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_04\/Golive_Colaboradores_4_06.jpg" : {
@@ -716,32 +765,16 @@
       "initialSize" : 2672,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/libs\/templates\/envio_inventario_third_doubles.html" : {
+    "\/Code\/templates\/img\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_third_doubles.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/templates\/second_review_ambassador.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/second_review_ambassador.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 1,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/header.jpg",
+      "initialSize" : 13287,
+      "fileType" : 4096
     },
     "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
@@ -754,15 +787,15 @@
       "initialSize" : 4193,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/one_footer.png" : {
+    "\/apple-touch-icon-57x57-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/one_footer.png",
+      "inputAbbreviatedPath" : "\/apple-touch-icon-57x57-precomposed.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/one_footer.png",
-      "initialSize" : 11341,
+      "outputAbbreviatedPath" : "\/apple-touch-icon-57x57-precomposed.png",
+      "initialSize" : 730,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_02.jpg" : {
@@ -776,15 +809,15 @@
       "initialSize" : 2132,
       "fileType" : 4096
     },
-    "\/apple-touch-icon-57x57-precomposed.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/one_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/apple-touch-icon-57x57-precomposed.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/one_footer.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/apple-touch-icon-57x57-precomposed.png",
-      "initialSize" : 730,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/one_footer.png",
+      "initialSize" : 11341,
       "fileType" : 8192
     },
     "\/Code\/templates\/css\/fonts\/franklin\/stylesheet.css" : {
@@ -795,15 +828,6 @@
       "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/franklin\/stylesheet.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/Code\/snippets\/libs\/FilterInput.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/FilterInput.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/Code\/templates\/css\/fonts\/futura\/specimen_files\/futuraxk-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
@@ -816,6 +840,15 @@
       "initialSize" : 68737,
       "fileType" : 8192
     },
+    "\/Code\/snippets\/libs\/FilterInput.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/FilterInput.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_04.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -827,16 +860,14 @@
       "initialSize" : 1806,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png" : {
+    "\/Code\/snippets\/libs\/templates\/envio_reporte.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png",
-      "initialSize" : 34561,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_reporte.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/snippets_bak\/libs\/Common.php" : {
       "ignoreWasSetByUser" : 0,
@@ -856,14 +887,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/snippets\/libs\/templates\/envio_reporte.html" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_reporte.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_big.png",
+      "initialSize" : 34561,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_big.png" : {
       "ignoreWasSetByUser" : 0,
@@ -876,15 +909,15 @@
       "initialSize" : 11392,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_16.jpg" : {
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_25.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_16.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_16.jpg",
-      "initialSize" : 10065,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_25.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_25.jpg",
+      "initialSize" : 1285,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/iconos_tips_2.png" : {
@@ -920,6 +953,17 @@
       "initialSize" : 10861,
       "fileType" : 8192
     },
+    "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_16.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_16.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_16.jpg",
+      "initialSize" : 10065,
+      "fileType" : 4096
+    },
     "\/Code\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -929,25 +973,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_07.jpg" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/buscar_icono.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_07.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_07.jpg",
-      "initialSize" : 5033,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/buscar_icono.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/buscar_icono.png",
+      "initialSize" : 1216,
+      "fileType" : 8192
     },
-    "\/Code\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 1,
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_06.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_06.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_06.jpg",
+      "initialSize" : 1215,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_18.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -960,6 +1006,26 @@
       "initialSize" : 7700,
       "fileType" : 4096
     },
+    "\/Code\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 1,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/franklin\/specimen_files\/grid_12-825-55-15.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_07.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_07.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_07.jpg",
+      "initialSize" : 5033,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_08.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -970,6 +1036,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_08.jpg",
       "initialSize" : 6354,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/avatar_camisa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_camisa.png",
+      "initialSize" : 5271,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1002,15 +1079,6 @@
       "initialSize" : 8023,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/colaboradores\/mailing_04.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/mailing_04.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -1021,6 +1089,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-ck.js",
       "fileType" : 64
+    },
+    "\/Code\/templates\/goLive\/colaboradores\/mailing_04.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/mailing_04.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/header_navigation.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1053,6 +1130,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
       "initialSize" : 17000,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/sombra.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/sombra.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/sombra.png",
+      "initialSize" : 25808,
       "fileType" : 8192
     },
     "\/Code\/snippets_bak\/libs\/templates\/excel_inventario.html" : {
@@ -1139,24 +1227,6 @@
       "initialSize" : 3338,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/excel_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/snippets_bak\/libs\/templates\/private_circulars_and_notices_panel.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/private_circulars_and_notices_panel.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/css\/sass\/normalize.min.scss" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -1169,6 +1239,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/Code\/snippets_bak\/libs\/templates\/private_circulars_and_notices_panel.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/private_circulars_and_notices_panel.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_06.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1179,6 +1258,15 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_06.jpg",
       "initialSize" : 2164,
       "fileType" : 4096
+    },
+    "\/Code\/snippets\/libs\/templates\/excel_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_big.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1253,15 +1341,15 @@
       "initialSize" : 329,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/degradado_mujer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
-      "initialSize" : 21470,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/degradado_mujer.png",
+      "initialSize" : 124404,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_05.jpg" : {
@@ -1275,6 +1363,17 @@
       "initialSize" : 3415,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png",
+      "initialSize" : 21470,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_4_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1286,17 +1385,6 @@
       "initialSize" : 17091,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_descubre_one\/lineaheader.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
-      "initialSize" : 1001,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/img\/btn_enviar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1306,6 +1394,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/btn_enviar.png",
       "initialSize" : 1153,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_descubre_one\/lineaheader.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/lineaheader.png",
+      "initialSize" : 1001,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_06.jpg" : {
@@ -1370,16 +1469,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png" : {
+    "\/Code\/snippets\/control.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png",
-      "initialSize" : 24005,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/Code\/snippets\/control.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_10.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1392,14 +1489,16 @@
       "initialSize" : 6094,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/control.php" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/control.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_2_small.png",
+      "initialSize" : 24005,
+      "fileType" : 8192
     },
     "\/Code\/snippets_bak\/libs\/templates\/solicitud_transfer_admins.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1421,15 +1520,15 @@
       "initialSize" : 5085,
       "fileType" : 8192
     },
-    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/btn_perfil.png" : {
+    "\/apple-touch-icon-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/btn_perfil.png",
+      "inputAbbreviatedPath" : "\/apple-touch-icon-precomposed.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/btn_perfil.png",
-      "initialSize" : 6480,
+      "outputAbbreviatedPath" : "\/apple-touch-icon-precomposed.png",
+      "initialSize" : 730,
       "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_azul\/one_lateral.png" : {
@@ -1454,15 +1553,15 @@
       "initialSize" : 6337,
       "fileType" : 4096
     },
-    "\/apple-touch-icon-precomposed.png" : {
+    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/btn_perfil.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/apple-touch-icon-precomposed.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/btn_perfil.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/apple-touch-icon-precomposed.png",
-      "initialSize" : 730,
+      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/btn_perfil.png",
+      "initialSize" : 6480,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_09.jpg" : {
@@ -1476,26 +1575,24 @@
       "initialSize" : 1456,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_19.jpg" : {
+    "\/Code\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_19.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_19.jpg",
-      "initialSize" : 2988,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/notificacion_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/Code\/templates\/img\/imagenes_morado\/logo_header.jpg" : {
+    "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_12.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_morado\/logo_header.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_12.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_morado\/logo_header.jpg",
-      "initialSize" : 12010,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_12.jpg",
+      "initialSize" : 10322,
       "fileType" : 4096
     },
     "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
@@ -1527,25 +1624,49 @@
       "initialSize" : 4040,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_12.jpg" : {
+    "\/Code\/templates\/img\/imagenes_morado\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_12.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_morado\/logo_header.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_12.jpg",
-      "initialSize" : 10322,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_morado\/logo_header.jpg",
+      "initialSize" : 12010,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
+    "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_19.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/notificacion_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_19.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_19.jpg",
+      "initialSize" : 2988,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_11.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_11.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_11.jpg",
+      "initialSize" : 1342,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/video_1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/video_1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/video_1.jpg",
+      "initialSize" : 39632,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_07.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1608,6 +1729,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/degradado_bg_header.jpg",
       "initialSize" : 598,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/_bg_buscar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/_bg_buscar.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/_bg_buscar.png",
+      "initialSize" : 1190,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_04.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1730,15 +1862,15 @@
       "initialSize" : 10944,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_14.jpg" : {
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_19.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_14.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_14.jpg",
-      "initialSize" : 3899,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_19.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_19.jpg",
+      "initialSize" : 6508,
       "fileType" : 4096
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_footer.png" : {
@@ -1751,6 +1883,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/logo_footer.png",
       "initialSize" : 4779,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_14.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_14.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_14.jpg",
+      "initialSize" : 3899,
+      "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_azul\/linea_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1860,15 +2003,6 @@
       "initialSize" : 59526,
       "fileType" : 4096
     },
-    "\/Code\/templates\/mailing_one_abm.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/mailing_one_abm.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1880,15 +2014,15 @@
       "initialSize" : 4142,
       "fileType" : 8192
     },
-    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png",
-      "initialSize" : 4193,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar.png",
+      "initialSize" : 1003,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_15.jpg" : {
@@ -1901,6 +2035,26 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_15.jpg",
       "initialSize" : 21957,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/one_lateral.png",
+      "initialSize" : 4193,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/mailing_one_abm.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/mailing_one_abm.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/snippets_bak\/libs\/templates\/edos_financieros_user.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2040,17 +2194,6 @@
       "initialSize" : 16196,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png",
-      "initialSize" : 39825,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -2061,6 +2204,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/modernizr-2.6.2.min-ck.js",
       "fileType" : 64
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_big.png",
+      "initialSize" : 39825,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_03.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2084,17 +2238,6 @@
       "initialSize" : 33059,
       "fileType" : 4096
     },
-    "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
-      "initialSize" : 12010,
-      "fileType" : 4096
-    },
     "\/Code\/snippets\/libs\/templates\/fila_documento_nuevo.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2103,6 +2246,17 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/fila_documento_nuevo.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/pleca_gris.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/pleca_gris.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/pleca_gris.jpg",
+      "initialSize" : 738,
+      "fileType" : 4096
     },
     "\/Code\/templates\/img\/overlay\/white_chromebutton.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2115,6 +2269,24 @@
       "initialSize" : 5444,
       "fileType" : 8192
     },
+    "\/Code\/snippets_bak\/libs\/templates\/edos_financieros_admin.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/edos_financieros_admin.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/snippets\/libs\/Model.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/Model.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2126,15 +2298,6 @@
       "initialSize" : 189711,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/libs\/Model.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/Model.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/snippets_bak\/libs\/templates\/solicitud_transfer_rechazada.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2144,14 +2307,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/snippets_bak\/libs\/templates\/edos_financieros_admin.html" : {
+    "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/edos_financieros_admin.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/logo_header.jpg",
+      "initialSize" : 12010,
+      "fileType" : 4096
     },
     "\/Code\/snippets\/libs\/Common.php" : {
       "ignoreWasSetByUser" : 0,
@@ -2173,17 +2338,6 @@
       "initialSize" : 20413,
       "fileType" : 4096
     },
-    "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png",
-      "initialSize" : 730,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/colaboradores\/images_01\/Golive_Colaboradores_1_01.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2194,6 +2348,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_01\/Golive_Colaboradores_1_01.jpg",
       "initialSize" : 2434,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png",
+      "initialSize" : 730,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/accesories\/lentes_2.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2226,6 +2391,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_04\/Golive_Colaboradores_4_11.jpg",
       "initialSize" : 22928,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_20.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_20.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_20.jpg",
+      "initialSize" : 1293,
       "fileType" : 4096
     },
     "\/Code\/snippets\/libs\/templates\/confirmacion_registro.html" : {
@@ -2343,6 +2519,17 @@
       "initialSize" : 274633,
       "fileType" : 4096
     },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_24.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_24.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_24.jpg",
+      "initialSize" : 1221,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_17.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2387,6 +2574,15 @@
       "initialSize" : 9827,
       "fileType" : 8192
     },
+    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_05.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2397,15 +2593,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_05.jpg",
       "initialSize" : 3287,
       "fileType" : 4096
-    },
-    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/Code\/templates\/css\/sass\/main.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2560,6 +2747,15 @@
       "initialSize" : 353,
       "fileType" : 4096
     },
+    "\/Code\/snippets_bak\/controller.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/controller.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/snippets\/libs\/templates\/envio_inventario_fourth.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2599,15 +2795,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/one_lateral.png",
       "initialSize" : 4193,
       "fileType" : 8192
-    },
-    "\/Code\/snippets_bak\/controller.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/controller.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_13.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2706,14 +2893,16 @@
       "initialSize" : 11815,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/degradado_header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/degradado_header.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/degradado_header.png",
+      "initialSize" : 1402,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2732,6 +2921,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/mailing_02.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2786,15 +2984,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/snippets\/libs\/templates\/envio_contacto.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_contacto.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/img\/imagenes_morado\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2806,12 +2995,12 @@
       "initialSize" : 4305,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/controller.php" : {
+    "\/Code\/snippets\/libs\/templates\/envio_contacto.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/controller.php",
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_contacto.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2821,6 +3010,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/mailing_02.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/snippets\/controller.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/controller.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2853,15 +3051,15 @@
       "initialSize" : 8084,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png",
-      "initialSize" : 6052,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
+      "initialSize" : 10223,
       "fileType" : 8192
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_lateral.jpg" : {
@@ -2874,17 +3072,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/linea_lateral.jpg",
       "initialSize" : 298,
       "fileType" : 4096
-    },
-    "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
-      "initialSize" : 10223,
-      "fileType" : 8192
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2906,6 +3093,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_small.png",
       "initialSize" : 25565,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_3_big.png",
+      "initialSize" : 6052,
       "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_2_small.png" : {
@@ -2985,6 +3183,17 @@
       "initialSize" : 46958,
       "fileType" : 4096
     },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_10.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_10.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_10.jpg",
+      "initialSize" : 1227,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/img\/imagenes_morado\/lateral_ONEesmas.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3016,17 +3225,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png",
-      "initialSize" : 10971,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_20.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3037,6 +3235,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_20.jpg",
       "initialSize" : 47896,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_4_big.png",
+      "initialSize" : 10971,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_03.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3089,24 +3298,6 @@
       "initialSize" : 3079,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/libs\/templates\/envio_inventario_second.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_second.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/templates\/goLive\/ambassador\/mailing_01.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/mailing_01.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_14.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3117,6 +3308,26 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_14.jpg",
       "initialSize" : 2493,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/ambassador\/mailing_01.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/mailing_01.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png",
+      "initialSize" : 18548,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/overlay\/petrol.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3129,16 +3340,14 @@
       "initialSize" : 4840,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png" : {
+    "\/Code\/snippets\/libs\/templates\/envio_inventario_second.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_4_small.png",
-      "initialSize" : 18548,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_second.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_2.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3162,15 +3371,6 @@
       "initialSize" : 12791,
       "fileType" : 8192
     },
-    "\/Code\/snippets_bak\/libs\/templates\/notificacion_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/notificacion_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_07.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3181,6 +3381,15 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_07.jpg",
       "initialSize" : 2855,
       "fileType" : 4096
+    },
+    "\/Code\/snippets_bak\/libs\/templates\/notificacion_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/notificacion_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_sprite.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3246,17 +3455,6 @@
       "initialSize" : 1759,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg",
-      "initialSize" : 102914,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_10.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3266,6 +3464,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_10.jpg",
       "initialSize" : 1370,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg",
+      "initialSize" : 102914,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_avatar\/degradado_banner.jpg" : {
@@ -3321,16 +3530,14 @@
       "initialSize" : 47984,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png" : {
+    "\/Code\/templates\/goLive\/ambassador\/mailing_03.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
-      "initialSize" : 1378,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/mailing_03.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3343,24 +3550,35 @@
       "initialSize" : 4193,
       "fileType" : 8192
     },
-    "\/Code\/snippets_bak\/libs\/mailer.php" : {
+    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_rechazada.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/mailer.php",
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_rechazada.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_19.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_19.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_19.jpg",
-      "initialSize" : 6652,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png",
+      "initialSize" : 26866,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_12.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_12.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_12.jpg",
+      "initialSize" : 13797,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_azul\/logo_footer.png" : {
@@ -3374,26 +3592,6 @@
       "initialSize" : 4779,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_rechazada.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_rechazada.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_14.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_14.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_14.jpg",
-      "initialSize" : 2879,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/img\/imagenes_azul\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3403,17 +3601,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/logo_header.jpg",
       "initialSize" : 12010,
-      "fileType" : 4096
-    },
-    "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_12.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_12.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_12.jpg",
-      "initialSize" : 13797,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_3_small.png" : {
@@ -3427,6 +3614,28 @@
       "initialSize" : 30503,
       "fileType" : 8192
     },
+    "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_19.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_19.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_19.jpg",
+      "initialSize" : 6652,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/btn_contenido_gris.png",
+      "initialSize" : 1378,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_empty.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3438,25 +3647,25 @@
       "initialSize" : 1037,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png" : {
+    "\/Code\/snippets_bak\/libs\/mailer.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png",
-      "initialSize" : 26866,
-      "fileType" : 8192
-    },
-    "\/Code\/templates\/goLive\/ambassador\/mailing_03.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/mailing_03.html",
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/mailer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_14.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_14.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_14.jpg",
+      "initialSize" : 2879,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_04\/Golive_Colaboradores_4_09.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3480,17 +3689,6 @@
       "initialSize" : 34708,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png",
-      "initialSize" : 10487,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_06.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3502,16 +3700,16 @@
       "initialSize" : 1261,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_13.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_13.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_13.jpg",
-      "initialSize" : 10908,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png",
+      "initialSize" : 10487,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_18.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3522,6 +3720,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_18.jpg",
       "initialSize" : 5352,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_13.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_13.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_13.jpg",
+      "initialSize" : 10908,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_14.jpg" : {
@@ -3575,6 +3784,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_axa_one\/imagen_banner_footer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/imagen_banner_footer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/imagen_banner_footer.png",
+      "initialSize" : 64605,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_17.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3619,14 +3839,16 @@
       "initialSize" : 4414,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/libs\/templates\/envio_inventario_second_doubles.html" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/pleca_roja.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_second_doubles.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/pleca_roja.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/pleca_roja.png",
+      "initialSize" : 3920,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_04\/Golive_Colaboradores_4_07.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3649,6 +3871,15 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
       "initialSize" : 100679,
       "fileType" : 4096
+    },
+    "\/Code\/snippets\/libs\/templates\/envio_inventario_second_doubles.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_second_doubles.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/apple-touch-icon-144x144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3734,6 +3965,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_axa_one\/sombra_video.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/sombra_video.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/sombra_video.png",
+      "initialSize" : 5574,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores\/mailing_01.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3763,17 +4005,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/accesories\/barba_grande.png",
       "initialSize" : 11931,
-      "fileType" : 8192
-    },
-    "\/Code\/templates\/img\/imagenes_descubre_one\/banner_video.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_video.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_video.png",
-      "initialSize" : 280650,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_08.jpg" : {
@@ -3809,6 +4040,28 @@
       "initialSize" : 14224,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_descubre_one\/banner_video.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_video.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_video.png",
+      "initialSize" : 280650,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_23.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_23.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_23.jpg",
+      "initialSize" : 6336,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_04.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3818,6 +4071,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_04.jpg",
       "initialSize" : 4010,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/linea_h1_azul.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_h1_azul.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_h1_azul.jpg",
+      "initialSize" : 312,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_16.jpg" : {
@@ -3884,15 +4148,15 @@
       "initialSize" : 12010,
       "fileType" : 4096
     },
-    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg" : {
+    "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_02.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_02.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
-      "initialSize" : 128294,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_02.jpg",
+      "initialSize" : 9470,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_avatar\/accesories\/barba.png" : {
@@ -3928,15 +4192,15 @@
       "initialSize" : 11023,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_02.jpg" : {
+    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_02.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_02.jpg",
-      "initialSize" : 9470,
+      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
+      "initialSize" : 128294,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_15.jpg" : {
@@ -3948,6 +4212,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_15.jpg",
       "initialSize" : 1782,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_08.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_08.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_08.jpg",
+      "initialSize" : 1356,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_morado\/left_medium.jpg" : {
@@ -3979,17 +4254,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/img\/logo_axa.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/logo_axa.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/logo_axa.png",
-      "initialSize" : 2479,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_12.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4000,6 +4264,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_12.jpg",
       "initialSize" : 12656,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/logo_axa.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/logo_axa.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/logo_axa.png",
+      "initialSize" : 2479,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_06.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -4117,6 +4392,17 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/db\/connection.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/avatar_cara.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_cara.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_cara.png",
+      "initialSize" : 4403,
+      "fileType" : 8192
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4473,6 +4759,17 @@
       "initialSize" : 6183,
       "fileType" : 4096
     },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_13.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_13.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_13.jpg",
+      "initialSize" : 12965,
+      "fileType" : 4096
+    },
     "\/Code\/snippets_bak\/libs\/filter.input.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4491,6 +4788,28 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/apple-touch-icon.png",
       "initialSize" : 730,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/avatar_completo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_completo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_completo.png",
+      "initialSize" : 17045,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/axa_logo_banner.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/axa_logo_banner.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/axa_logo_banner.png",
+      "initialSize" : 4465,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_19.jpg" : {
@@ -4535,6 +4854,17 @@
       "initialSize" : 298,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_axa_one\/axa_logo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/axa_logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/axa_logo.png",
+      "initialSize" : 5456,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_01\/Golive_Ambassador_1_15.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4557,23 +4887,21 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/franklin\/specimen_files\/easytabs-ck.js",
       "fileType" : 64
     },
-    "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_03.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_03.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_03.jpg",
-      "initialSize" : 1607,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/first_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/templates\/first_review_manager_network.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/templates\/mailing_one_mng_net.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/mailing_one_mng_net.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -4599,14 +4927,16 @@
       "initialSize" : 14584,
       "fileType" : 4096
     },
-    "\/Code\/templates\/mailing_one_mng_net.html" : {
+    "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/mailing_one_mng_net.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_03.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_03.jpg",
+      "initialSize" : 1607,
+      "fileType" : 4096
     },
     "\/Code\/templates\/js\/vendor\/additional-methods.js" : {
       "ignoreWasSetByUser" : 1,
@@ -4619,6 +4949,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/additional-methods-ck.js",
       "fileType" : 64
     },
+    "\/Code\/templates\/img\/imagenes_axa_one\/bg_mujer.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/bg_mujer.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/bg_mujer.jpg",
+      "initialSize" : 253169,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/first_review_ambassador.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4627,6 +4968,17 @@
       "inputAbbreviatedPath" : "\/Code\/templates\/first_review_ambassador.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/avatar_piernas.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_piernas.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/avatar_piernas.png",
+      "initialSize" : 4330,
+      "fileType" : 8192
     },
     "\/Code\/snippets\/libs\/Validator.php" : {
       "ignoreWasSetByUser" : 0,
@@ -4646,6 +4998,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_small.png",
       "initialSize" : 7994,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/linea_gris_vertical.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_gris_vertical.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/linea_gris_vertical.png",
+      "initialSize" : 995,
       "fileType" : 8192
     },
     "\/Code\/templates\/mail_encuesta.html" : {
@@ -4721,17 +5084,6 @@
       "initialSize" : 22759,
       "fileType" : 8192
     },
-    "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
-      "initialSize" : 329,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/goLive\/colaboradores\/images_01\/Golive_Colaboradores_1_04.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4741,6 +5093,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_01\/Golive_Colaboradores_1_04.jpg",
       "initialSize" : 2238,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
+      "initialSize" : 329,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/overlay\/flowplayer.png" : {
@@ -4796,16 +5159,16 @@
       "initialSize" : 1473,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_17.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/logo_header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_17.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/logo_header.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_17.jpg",
-      "initialSize" : 13057,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/logo_header.png",
+      "initialSize" : 5432,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_22.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -4816,6 +5179,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_22.jpg",
       "initialSize" : 6405,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_17.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_17.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_17.jpg",
+      "initialSize" : 13057,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_04\/Golive_Ambassador_4_07.jpg" : {
@@ -4829,17 +5203,6 @@
       "initialSize" : 2177,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/logo_header.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/logo_header.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/logo_header.png",
-      "initialSize" : 5432,
-      "fileType" : 8192
-    },
     "\/Code\/snippets\/libs\/phpmailer\/class.pop3.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4848,17 +5211,6 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/phpmailer\/class.pop3.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/Code\/templates\/img\/imagenes_descubre_one\/one_header.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/one_header.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/one_header.png",
-      "initialSize" : 26200,
-      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/logo_footer_Axa.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -4870,6 +5222,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/logo_footer_Axa.jpg",
       "initialSize" : 6270,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_descubre_one\/one_header.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/one_header.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/one_header.png",
+      "initialSize" : 26200,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4893,17 +5256,6 @@
       "initialSize" : 1134,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/libs\/avatar\/mi_avatar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/avatar\/mi_avatar.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Code\/snippets\/libs\/avatar\/mi_avatar.png",
-      "initialSize" : 25024,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/img\/imagenes_descubre_one\/background_avatar_banner.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4913,6 +5265,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/background_avatar_banner.png",
       "initialSize" : 1101,
+      "fileType" : 8192
+    },
+    "\/Code\/snippets\/libs\/avatar\/mi_avatar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/avatar\/mi_avatar.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/snippets\/libs\/avatar\/mi_avatar.png",
+      "initialSize" : 25024,
       "fileType" : 8192
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/mailing_6NP_Net.jpg" : {
@@ -4948,17 +5311,6 @@
       "initialSize" : 34315,
       "fileType" : 4096
     },
-    "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
-      "initialSize" : 156085,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/img\/imagenes_avatar\/btn_Ayuda.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4992,6 +5344,17 @@
       "initialSize" : 6241,
       "fileType" : 4096
     },
+    "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
+      "initialSize" : 156085,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/colaboradores\/images_01\/Golive_Colaboradores_1_02.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5003,14 +5366,16 @@
       "initialSize" : 100974,
       "fileType" : 4096
     },
-    "\/Code\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png",
+      "initialSize" : 1215,
+      "fileType" : 8192
     },
     "\/Code\/templates\/css\/normalize.css" : {
       "ignoreWasSetByUser" : 1,
@@ -5021,15 +5386,26 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png" : {
+    "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_15.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_15.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/circulo_avatar_sprite.png",
-      "initialSize" : 1215,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_15.jpg",
+      "initialSize" : 6801,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_azul\/btn_ONE.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/btn_ONE.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/btn_ONE.png",
+      "initialSize" : 4709,
       "fileType" : 8192
     },
     "\/apple-touch-icon-144x144-precomposed.png" : {
@@ -5043,17 +5419,6 @@
       "initialSize" : 1475,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_15.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_15.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_15.jpg",
-      "initialSize" : 6801,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/img\/imagenes_avatar\/accesories\/lentes_1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5065,16 +5430,14 @@
       "initialSize" : 3797,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_azul\/btn_ONE.png" : {
+    "\/Code\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/btn_ONE.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_azul\/btn_ONE.png",
-      "initialSize" : 4709,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/franklin\/franklingothicsketch-demioblique-demo.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_04\/Golive_Colaboradores_4_12.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5277,16 +5640,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_13.jpg" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/mujer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_13.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_13.jpg",
-      "initialSize" : 29426,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/mujer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/mujer.png",
+      "initialSize" : 305910,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png",
+      "initialSize" : 1330,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png" : {
       "ignoreWasSetByUser" : 0,
@@ -5298,6 +5672,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
       "initialSize" : 11564,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_13.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_13.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/Golive_Colaboradores_3_13.jpg",
+      "initialSize" : 29426,
+      "fileType" : 4096
     },
     "\/Code\/templates\/css\/sass\/one.scss" : {
       "ignoreWasSetByUser" : 1,
@@ -5344,17 +5729,6 @@
       "initialSize" : 343232,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
-      "initialSize" : 37458,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_15.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5365,6 +5739,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_01\/Golive_Network_1_15.jpg",
       "initialSize" : 1461,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
+      "initialSize" : 37458,
+      "fileType" : 8192
     },
     "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js" : {
       "ignoreWasSetByUser" : 1,
@@ -5395,6 +5780,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/contenido.jpg",
       "initialSize" : 6403,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_07.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_07.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/Golive_Network_3_07.jpg",
+      "initialSize" : 2187,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/Golive_Colaboradores_review_05.jpg" : {
@@ -5428,45 +5824,16 @@
       "initialSize" : 4791,
       "fileType" : 4096
     },
-    "\/apple-touch-icon-72x72-precomposed.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/apple-touch-icon-72x72-precomposed.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/apple-touch-icon-72x72-precomposed.png",
-      "initialSize" : 854,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png",
+      "initialSize" : 16990,
       "fileType" : 8192
-    },
-    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/favicon.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/favicon.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/favicon.png",
-      "initialSize" : 2372,
-      "fileType" : 8192
-    },
-    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_02\/Golive_Colaboradores_2_14.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5479,6 +5846,37 @@
       "initialSize" : 18754,
       "fileType" : 4096
     },
+    "\/favicon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/favicon.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/favicon.png",
+      "initialSize" : 2372,
+      "fileType" : 8192
+    },
+    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/apple-touch-icon-72x72-precomposed.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/apple-touch-icon-72x72-precomposed.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/apple-touch-icon-72x72-precomposed.png",
+      "initialSize" : 854,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_23.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5490,16 +5888,14 @@
       "initialSize" : 6336,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png" : {
+    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_big.png",
-      "initialSize" : 16990,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_22.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5540,6 +5936,28 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_first_doubles.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/banner_footer_2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/banner_footer_2.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/banner_footer_2.png",
+      "initialSize" : 71322,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_axa_one\/degradado_banner_footer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/degradado_banner_footer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/degradado_banner_footer.png",
+      "initialSize" : 1260,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/Golive_Network_4_03.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5647,17 +6065,6 @@
       "initialSize" : 7658,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png",
-      "initialSize" : 29909,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_02.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5668,6 +6075,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_02\/Golive_Network_2_02.jpg",
       "initialSize" : 2132,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_small.png",
+      "initialSize" : 29909,
+      "fileType" : 8192
     },
     "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -5766,17 +6184,6 @@
       "initialSize" : 2362,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_09.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_09.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_09.jpg",
-      "initialSize" : 2171,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/goLive\/colaboradores\/images_01\/Golive_Colaboradores_1_13.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5788,6 +6195,17 @@
       "initialSize" : 35226,
       "fileType" : 4096
     },
+    "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_09.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_09.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/Golive_Ambassador_3_09.jpg",
+      "initialSize" : 2171,
+      "fileType" : 4096
+    },
     "\/Code\/snippets\/libs\/templates\/edos_financieros_user.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5796,6 +6214,17 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/edos_financieros_user.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_gris.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
+      "initialSize" : 9284,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_2_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -5817,6 +6246,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/snippets\/libs\/templates\/listCaptcha.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/listCaptcha.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_14.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5827,26 +6265,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_02\/Golive_Ambassador_2_14.jpg",
       "initialSize" : 2940,
       "fileType" : 4096
-    },
-    "\/Code\/snippets\/libs\/templates\/listCaptcha.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/listCaptcha.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_gris.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_gris.png",
-      "initialSize" : 9284,
-      "fileType" : 8192
     },
     "\/Code\/snippets\/libs\/templates\/envio_inventario_fourth_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
