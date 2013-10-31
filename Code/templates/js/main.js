@@ -1362,7 +1362,7 @@
                 
                 AxaS.validateFormDoublesThree();
             }
-            if( $( '#first_review_golive_ambassador' ).exists() || $( '#first_review_golive_manager_network' ).exists() ) {
+            if( $( '#first_review_golive_ambassador' ).exists() || $( '#first_review_golive_manager_network' ).exists() || $( '#first_review_golive_colaboradores' ).exists() ) {
                 
                 AxaS.validateGoLiveAmbassadorOne();
             }
