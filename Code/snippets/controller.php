@@ -180,8 +180,9 @@ if ( ! empty( $_GET['action'] ) ) {
                 $skin       = ( isset( $_POST[ 'skin' ] ) && !empty( $_POST[ 'skin' ] ) ) ? ( string ) $_POST[ 'skin' ] : "avatar_cara.png";
                 $hair       = ( isset( $_POST[ 'hair' ] ) && !empty( $_POST[ 'hair' ] ) ) ? ( string ) $_POST[ 'hair' ] : "";
                 $clothes    = ( isset( $_POST[ 'clothes' ] ) && !empty( $_POST[ 'clothes' ] ) ) ? ( string ) $_POST[ 'clothes' ] : "avatar_pantalones.png";
+                $glasses       = ( isset( $_POST[ 'glasses' ] ) && !empty( $_POST[ 'glasses' ] ) ) ? ( string ) $_POST[ 'glasses' ] : "";
                 
-                $avatar = new Avatar( $skin, $hair, $clothes );
+                $avatar = new Avatar( $skin, $hair, $clothes, $glasses );
                 $result = $avatar->createAvatar();
                 if ( file_exists( $result ) ) {
                     

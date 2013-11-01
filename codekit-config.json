@@ -161,6 +161,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_10_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_10_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_10_big.png",
+      "initialSize" : 38549,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_01.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -212,6 +223,17 @@
       "initialSize" : 131782,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_11_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_11_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_11_small.png",
+      "initialSize" : 18066,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_02.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -256,6 +278,28 @@
       "initialSize" : 1134,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_6_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_6_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_6_big.png",
+      "initialSize" : 25891,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_9_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_9_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_9_small.png",
+      "initialSize" : 17900,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -289,15 +333,15 @@
       "initialSize" : 995,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip_lateral.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip_lateral.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip_lateral.png",
-      "initialSize" : 2213,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
+      "initialSize" : 11564,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/linea-contenido.jpg" : {
@@ -322,15 +366,26 @@
       "initialSize" : 5534,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_6_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_6_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_big.png",
-      "initialSize" : 11564,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_6_small.png",
+      "initialSize" : 20550,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip_lateral.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip_lateral.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip_lateral.png",
+      "initialSize" : 2213,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_review\/linea_lateral.jpg" : {
@@ -343,6 +398,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/linea_lateral.jpg",
       "initialSize" : 1412,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_14_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_14_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_14_big.png",
+      "initialSize" : 39250,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_review\/linea-contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -372,7 +438,7 @@
       "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_small.png",
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_1_small.png",
-      "initialSize" : 7994,
+      "initialSize" : 8187,
       "fileType" : 8192
     },
     "\/Code\/templates\/css\/sass\/polls.scss" : {
@@ -398,16 +464,16 @@
       "initialSize" : 5241,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_07.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_8_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_07.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_8_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_07.jpg",
-      "initialSize" : 2187,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_8_big.png",
+      "initialSize" : 27866,
+      "fileType" : 8192
     },
     "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/mailing_6NP_Net.png" : {
       "ignoreWasSetByUser" : 0,
@@ -429,6 +495,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_13.jpg",
       "initialSize" : 12965,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_07.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_07.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_07.jpg",
+      "initialSize" : 2187,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_small.png" : {
@@ -550,15 +627,6 @@
       "initialSize" : 10971,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/images\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -569,6 +637,15 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/images\/logo_footer.png",
       "initialSize" : 5732,
       "fileType" : 8192
+    },
+    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admins.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/manager_network\/images_review\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -757,7 +834,7 @@
       "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_small.png",
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_2_small.png",
-      "initialSize" : 8084,
+      "initialSize" : 7943,
       "fileType" : 8192
     },
     "\/Code\/templates\/img\/overlay\/close.png" : {
@@ -769,6 +846,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/close.png",
       "initialSize" : 1842,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_13_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_13_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_13_big.png",
+      "initialSize" : 44464,
       "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_1_small.png" : {
@@ -802,6 +890,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_sprite.png",
       "initialSize" : 19013,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_8_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_8_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_8_small.png",
+      "initialSize" : 20595,
       "fileType" : 8192
     },
     "\/Code\/snippets\/libs\/templates\/envio_inventario_fourth.html" : {
@@ -1100,6 +1199,17 @@
       "initialSize" : 2372,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_11_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_11_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_11_small.png",
+      "initialSize" : 8306,
+      "fileType" : 8192
+    },
     "\/Code\/snippets\/libs\/Avatar.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1173,15 +1283,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/snippets_bak\/libs\/ParserTemplate.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/ParserTemplate.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_22.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1193,12 +1294,12 @@
       "initialSize" : 6336,
       "fileType" : 4096
     },
-    "\/Code\/snippets\/controller.php" : {
+    "\/Code\/snippets_bak\/libs\/ParserTemplate.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/controller.php",
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/ParserTemplate.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1212,6 +1313,26 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/one_lateral.jpg",
       "initialSize" : 6440,
       "fileType" : 4096
+    },
+    "\/Code\/snippets\/controller.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/controller.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_12_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_12_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_12_big.png",
+      "initialSize" : 36306,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_04\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1312,15 +1433,15 @@
       "initialSize" : 11392,
       "fileType" : 8192
     },
-    "\/apple-touch-icon-144x144-precomposed.png" : {
+    "\/Code\/templates\/img\/overlay\/transparent.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/apple-touch-icon-144x144-precomposed.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/transparent.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/apple-touch-icon-144x144-precomposed.png",
-      "initialSize" : 1475,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/transparent.png",
+      "initialSize" : 5085,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador\/images_02\/one_lateral.jpg" : {
@@ -1334,15 +1455,15 @@
       "initialSize" : 7739,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/overlay\/transparent.png" : {
+    "\/apple-touch-icon-144x144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/transparent.png",
+      "inputAbbreviatedPath" : "\/apple-touch-icon-144x144-precomposed.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/transparent.png",
-      "initialSize" : 5085,
+      "outputAbbreviatedPath" : "\/apple-touch-icon-144x144-precomposed.png",
+      "initialSize" : 1475,
       "fileType" : 8192
     },
     "\/Code\/snippets\/libs\/templates\/notificacion_transferencia.html" : {
@@ -1405,6 +1526,28 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/plugins-ck-ck.js",
       "fileType" : 64
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_12_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_12_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_12_small.png",
+      "initialSize" : 19194,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_6_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_6_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_6_big.png",
+      "initialSize" : 36943,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores\/images_01\/logo_header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1433,9 +1576,9 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
-      "processed" : 1,
+      "processed" : 0,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_big.png",
-      "initialSize" : 37458,
+      "initialSize" : 39397,
       "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/degradado_titulo_bannerheader.png" : {
@@ -1491,6 +1634,17 @@
       "initialSize" : 4616,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_10_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_10_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_10_big.png",
+      "initialSize" : 35879,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_02.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1501,6 +1655,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_02.jpg",
       "initialSize" : 98840,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_9_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_9_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_9_big.png",
+      "initialSize" : 36994,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/avatar_H_azul.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1627,6 +1792,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_lateral.jpg",
       "initialSize" : 298,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_16_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_16_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_16_small.png",
+      "initialSize" : 20415,
+      "fileType" : 8192
     },
     "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1767,6 +1943,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_10_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_10_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_10_small.png",
+      "initialSize" : 19778,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/imagenes_descubre_one\/degradado_banner.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1851,6 +2038,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_4_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_4_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_4_small.png",
+      "initialSize" : 8501,
+      "fileType" : 8192
+    },
     "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_rechazar_destino.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1869,6 +2067,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/apple-touch-icon-57x57-precomposed.png",
       "initialSize" : 730,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_5_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_5_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_5_big.png",
+      "initialSize" : 25263,
       "fileType" : 8192
     },
     "\/Code\/templates\/css\/normalize.css" : {
@@ -1908,6 +2117,17 @@
       "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/mailing_03.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_13_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_13_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_13_big.png",
+      "initialSize" : 39211,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_axa_one\/avatar_completo.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1997,6 +2217,17 @@
       "initialSize" : 2848,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_16_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_16_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_16_big.png",
+      "initialSize" : 49025,
+      "fileType" : 8192
+    },
     "\/Code\/snippets\/libs\/mailer.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2005,6 +2236,17 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/mailer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_14_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_14_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_14_small.png",
+      "initialSize" : 19779,
+      "fileType" : 8192
     },
     "\/Code\/templates\/css\/fonts\/futura\/specimen_files\/futurab-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2111,6 +2353,28 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_03\/one_lateral.jpg",
       "initialSize" : 16223,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_5_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_5_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_5_small.png",
+      "initialSize" : 8764,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_5_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_5_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_5_big.png",
+      "initialSize" : 38910,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/clothes\/clothes_1_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2240,6 +2504,17 @@
       "initialSize" : 1426,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_12_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_12_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_12_big.png",
+      "initialSize" : 46168,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores\/images_01\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2283,6 +2558,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_14.jpg",
       "initialSize" : 18754,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_7_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_7_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_7_big.png",
+      "initialSize" : 38427,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_03\/Golive_Colaboradores_3_02.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2425,15 +2711,15 @@
       "initialSize" : 1231,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_8_big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_8_big.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png",
-      "initialSize" : 164292,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_8_big.png",
+      "initialSize" : 8153,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_01.jpg" : {
@@ -2446,6 +2732,28 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_01.jpg",
       "initialSize" : 51655,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_avatar_small.png",
+      "initialSize" : 164292,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_6_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_6_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_6_small.png",
+      "initialSize" : 8452,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/cancelIcon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2557,6 +2865,15 @@
       "initialSize" : 1134,
       "fileType" : 8192
     },
+    "\/Code\/templates\/goLive\/manager_network\/mailing_01.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/mailing_01.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_21.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2567,15 +2884,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_21.jpg",
       "initialSize" : 6337,
       "fileType" : 4096
-    },
-    "\/Code\/templates\/goLive\/manager_network\/mailing_01.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/mailing_01.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/mailing_02.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2619,16 +2927,36 @@
       "initialSize" : 25808,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_24.jpg" : {
+    "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_07.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_24.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_07.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_24.jpg",
-      "initialSize" : 1221,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_07.jpg",
+      "initialSize" : 4040,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min-ck.js",
+      "fileType" : 64
+    },
+    "\/Code\/templates\/goLive\/manager_network_bak\/mailing_02.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/mailing_02.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_02.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2641,36 +2969,16 @@
       "initialSize" : 2132,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_07.jpg" : {
+    "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_24.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_07.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_24.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_07.jpg",
-      "initialSize" : 4040,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_24.jpg",
+      "initialSize" : 1221,
       "fileType" : 4096
-    },
-    "\/Code\/templates\/goLive\/manager_network_bak\/mailing_02.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/mailing_02.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min-ck.js",
-      "fileType" : 64
     },
     "\/Code\/templates\/img\/imagenes_morado\/tip_lateral.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2953,6 +3261,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_9_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_9_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_9_big.png",
+      "initialSize" : 38612,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/css\/fonts\/franklin\/stylesheet.css" : {
       "ignoreWasSetByUser" : 1,
       "ignore" : 1,
@@ -3035,6 +3354,17 @@
       "initialSize" : 5843,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_12_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_12_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_12_big.png",
+      "initialSize" : 18681,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/mailing_6NP_Net.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3075,14 +3405,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_8_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_8_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_8_small.png",
+      "initialSize" : 11193,
+      "fileType" : 8192
     },
     "\/Code\/templates\/js\/vendor\/additional-methods.js" : {
       "ignoreWasSetByUser" : 1,
@@ -3094,6 +3426,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/additional-methods-ck.js",
       "fileType" : 64
+    },
+    "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/solicitud_transfer_admin_aceptar_origen.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/goLive\/ambassador\/images_04\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3157,6 +3498,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/banner_colaborador.png",
       "initialSize" : 215889,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_6_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_6_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_6_small.png",
+      "initialSize" : 10432,
       "fileType" : 8192
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/mailing_6NP_Net.png" : {
@@ -3393,6 +3745,17 @@
       "initialSize" : 3259,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_7_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_7_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_7_small.png",
+      "initialSize" : 4965,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/imagenes_descubre_one\/linaVertical_avatar.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3552,15 +3915,15 @@
       "initialSize" : 2860,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_13_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png",
-      "initialSize" : 31954,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_13_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_13_small.png",
+      "initialSize" : 18540,
       "fileType" : 8192
     },
     "\/Code\/templates\/js\/vendor\/jquery.validate.min.js" : {
@@ -3573,6 +3936,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery.validate.min-ck.js",
       "fileType" : 64
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_big.png",
+      "initialSize" : 31954,
+      "fileType" : 8192
     },
     "\/Code\/snippets_bak\/libs\/templates\/edos_financieros_user.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3636,17 +4010,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
-      "initialSize" : 298,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3656,6 +4019,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/linea_contenido.jpg",
       "initialSize" : 329,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_lateral.jpg",
+      "initialSize" : 298,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/overlay\/white_close.png" : {
@@ -3782,6 +4156,17 @@
       "initialSize" : 295,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_15_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_15_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_15_small.png",
+      "initialSize" : 19354,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_02\/Golive_Ambassador_2_15.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3804,6 +4189,17 @@
       "initialSize" : 1260,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_8_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_8_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_8_small.png",
+      "initialSize" : 5014,
+      "fileType" : 8192
+    },
     "\/apple-touch-icon-72x72-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3814,17 +4210,6 @@
       "outputAbbreviatedPath" : "\/apple-touch-icon-72x72-precomposed.png",
       "initialSize" : 854,
       "fileType" : 8192
-    },
-    "\/Code\/templates\/goLive\/ambassador\/images_review\/header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/header.jpg",
-      "initialSize" : 123606,
-      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_02.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3881,6 +4266,17 @@
       "initialSize" : 30917,
       "fileType" : 4096
     },
+    "\/Code\/templates\/goLive\/ambassador\/images_review\/header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_review\/header.jpg",
+      "initialSize" : 123606,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/css\/sass\/main.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3935,6 +4331,28 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_1_small.png",
       "initialSize" : 17602,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_5_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_5_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_5_big.png",
+      "initialSize" : 24840,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_16_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_16_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_16_big.png",
+      "initialSize" : 39149,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_06.jpg" : {
@@ -4008,6 +4426,17 @@
       "initialSize" : 2493,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_10_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_10_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_10_big.png",
+      "initialSize" : 20892,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_20.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4018,6 +4447,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_20.jpg",
       "initialSize" : 1293,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_11_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_11_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_11_small.png",
+      "initialSize" : 19653,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_axa_one\/linea_avatar_izq.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4041,17 +4481,6 @@
       "initialSize" : 2009,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_03.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_03.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_03.jpg",
-      "initialSize" : 2131,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/img\/imagenes_morado\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4061,6 +4490,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_morado\/linea_lateral.jpg",
       "initialSize" : 298,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_03.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_03.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_03.jpg",
+      "initialSize" : 2131,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_07.jpg" : {
@@ -4116,6 +4556,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_7_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_7_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_7_big.png",
+      "initialSize" : 36640,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4126,6 +4577,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_lateral.jpg",
       "initialSize" : 1412,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_12_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_12_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_12_big.png",
+      "initialSize" : 38804,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/accesories\/lentes_2.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4204,6 +4666,28 @@
       "initialSize" : 59306,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_15_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_15_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_15_big.png",
+      "initialSize" : 46406,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_10_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_10_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_10_small.png",
+      "initialSize" : 17743,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/manager_network\/images_01\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4267,6 +4751,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/tip.jpg",
       "initialSize" : 37123,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_5_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_5_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_5_small.png",
+      "initialSize" : 20472,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/banner_header_avatars.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -4352,17 +4847,6 @@
       "initialSize" : 6157,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_15.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_15.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_15.jpg",
-      "initialSize" : 2383,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4373,6 +4857,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_3_small.png",
       "initialSize" : 19143,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_15.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_15.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_15.jpg",
+      "initialSize" : 2383,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_review\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -4433,9 +4928,9 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_small.png",
-      "processed" : 1,
+      "processed" : 0,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_1_small.png",
-      "initialSize" : 18837,
+      "initialSize" : 19743,
       "fileType" : 8192
     },
     "\/Code\/snippets\/libs\/templates\/restablecer_password.html" : {
@@ -4520,6 +5015,28 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_12_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_12_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_12_small.png",
+      "initialSize" : 17608,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_7_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_7_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_7_big.png",
+      "initialSize" : 26033,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4529,6 +5046,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/liena_roja.png",
       "initialSize" : 1134,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_11_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_11_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_11_big.png",
+      "initialSize" : 43169,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_07.jpg" : {
@@ -4575,6 +5103,17 @@
       "initialSize" : 2940,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_6_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_6_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_6_big.png",
+      "initialSize" : 22036,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_14.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4617,6 +5156,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_9_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_9_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_9_big.png",
+      "initialSize" : 40694,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_06.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4650,16 +5200,16 @@
       "initialSize" : 12965,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_27.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_9_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_27.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_9_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_27.jpg",
-      "initialSize" : 6406,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_9_small.png",
+      "initialSize" : 4996,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/review.html" : {
       "ignoreWasSetByUser" : 0,
@@ -4679,6 +5229,28 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/apple-touch-icon.png",
       "initialSize" : 730,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_27.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_27.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_27.jpg",
+      "initialSize" : 6406,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_9_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_9_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_9_small.png",
+      "initialSize" : 19628,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_15.jpg" : {
@@ -4764,6 +5336,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_01\/Golive_Network_1_16.jpg",
       "initialSize" : 47940,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_7_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_7_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_7_small.png",
+      "initialSize" : 20375,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_02\/Golive_Ambassador_2_18.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -4858,17 +5441,6 @@
       "initialSize" : 41095,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_09.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_09.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_09.jpg",
-      "initialSize" : 2171,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4879,6 +5451,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_azul.png",
       "initialSize" : 10223,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_09.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_09.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_09.jpg",
+      "initialSize" : 2171,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_04\/btn_ONE.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4977,26 +5560,6 @@
       "initialSize" : 4616,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_descubre_one\/daclick_btn.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/daclick_btn.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/daclick_btn.png",
-      "initialSize" : 2362,
-      "fileType" : 8192
-    },
-    "\/Code\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/restablecer_password.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/img\/imagenes_descubre_one\/degradado_avatar.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5008,15 +5571,24 @@
       "initialSize" : 353,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/avatar.png" : {
+    "\/Code\/snippets_bak\/libs\/templates\/restablecer_password.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar.png",
+      "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/restablecer_password.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_descubre_one\/daclick_btn.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/daclick_btn.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar.png",
-      "initialSize" : 10944,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/daclick_btn.png",
+      "initialSize" : 2362,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_07.jpg" : {
@@ -5030,15 +5602,26 @@
       "initialSize" : 2969,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_13.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/avatar.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_13.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_13.jpg",
-      "initialSize" : 10908,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/avatar.png",
+      "initialSize" : 10944,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
+      "initialSize" : 100679,
       "fileType" : 4096
     },
     "\/Code\/templates\/MANAGER NETWORK\/mailing6\/html_Mailing6_Net\/imagenes\/btn_perfil.png" : {
@@ -5072,15 +5655,15 @@
       "initialSize" : 1412,
       "fileType" : 4096
     },
-    "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg" : {
+    "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_13.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_13.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/BG_header_video.jpg",
-      "initialSize" : 100679,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_13.jpg",
+      "initialSize" : 10908,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_small.png" : {
@@ -5092,6 +5675,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_3_small.png",
       "initialSize" : 18225,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_11_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_11_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_11_big.png",
+      "initialSize" : 37420,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_12.jpg" : {
@@ -5156,6 +5750,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_01\/lateral_pico.png",
       "initialSize" : 2328,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_10_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_10_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_10_small.png",
+      "initialSize" : 8613,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/mailing_03.html" : {
@@ -5251,6 +5856,17 @@
       "initialSize" : 1607,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_9_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_9_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_9_big.png",
+      "initialSize" : 8154,
+      "fileType" : 8192
+    },
     "\/Code\/snippets_bak\/libs\/templates\/fila_inventario.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5259,6 +5875,17 @@
       "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/fila_inventario.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_14_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_14_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_14_small.png",
+      "initialSize" : 20096,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_01\/Golive_Colaboradores_1_13.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5348,6 +5975,17 @@
       "initialSize" : 1189,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_12_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_12_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_12_small.png",
+      "initialSize" : 8084,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/css\/fonts\/futura\/specimen_files\/futuraxk-cleartype.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5425,6 +6063,17 @@
       "initialSize" : 72183,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_10_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_10_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_10_small.png",
+      "initialSize" : 18840,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores\/images_02\/btn_perfil.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5447,15 +6096,6 @@
       "initialSize" : 4967,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/colaboradores\/mailing_03.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/mailing_03.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/snippets_bak\/libs\/templates\/confirmacion_registro.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5464,6 +6104,17 @@
       "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/confirmacion_registro.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_02.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_02.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_02.jpg",
+      "initialSize" : 2135,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_01\/tip.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5485,16 +6136,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_02.jpg" : {
+    "\/Code\/templates\/goLive\/colaboradores\/mailing_03.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_02.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_02.jpg",
-      "initialSize" : 2135,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/mailing_03.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/Code\/templates\/img\/imagenes_axa_one\/pleca_gris.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5571,14 +6220,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/snippets\/libs\/templates\/edos_financieros_user.html" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_12_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/edos_financieros_user.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_12_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_12_small.png",
+      "initialSize" : 19676,
+      "fileType" : 8192
     },
     "\/Code\/snippets_bak\/libs\/templates\/excel_transferencia.html" : {
       "ignoreWasSetByUser" : 0,
@@ -5586,6 +6237,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/Code\/snippets_bak\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Code\/snippets\/libs\/templates\/edos_financieros_user.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/edos_financieros_user.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -5600,16 +6260,16 @@
       "initialSize" : 3415,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador\/images_03\/logo_footer.png" : {
+    "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_11.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/logo_footer.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_11.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/logo_footer.png",
-      "initialSize" : 5534,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_11.jpg",
+      "initialSize" : 1333,
+      "fileType" : 4096
     },
     "\/Code\/templates\/img\/overlay\/apple-close.png" : {
       "ignoreWasSetByUser" : 0,
@@ -5622,16 +6282,16 @@
       "initialSize" : 1337,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_11.jpg" : {
+    "\/Code\/templates\/goLive\/ambassador\/images_03\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_11.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/logo_footer.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_02\/Golive_Network_2_11.jpg",
-      "initialSize" : 1333,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador\/images_03\/logo_footer.png",
+      "initialSize" : 5534,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/avatar_M_sprite.png" : {
       "ignoreWasSetByUser" : 0,
@@ -5655,6 +6315,17 @@
       "initialSize" : 24005,
       "fileType" : 8192
     },
+    "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
+      "initialSize" : 298,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_02\/Golive_Ambassador_2_07.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5676,17 +6347,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_02\/lateral_pico.png",
       "initialSize" : 2009,
       "fileType" : 8192
-    },
-    "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/linea_lateral.jpg",
-      "initialSize" : 298,
-      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_09.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5812,15 +6472,6 @@
       "initialSize" : 5534,
       "fileType" : 8192
     },
-    "\/Code\/snippets\/libs\/templates\/excel_transferencia.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/excel_transferencia.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_04.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5832,6 +6483,15 @@
       "initialSize" : 1806,
       "fileType" : 4096
     },
+    "\/Code\/snippets\/libs\/templates\/excel_transferencia.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/excel_transferencia.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/Code\/snippets\/libs\/templates\/envio_inventario_second.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5840,17 +6500,6 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/templates\/envio_inventario_second.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png",
-      "initialSize" : 37466,
-      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/images_review\/btn_clic.png" : {
       "ignoreWasSetByUser" : 0,
@@ -5861,6 +6510,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network\/images_review\/btn_clic.png",
       "initialSize" : 7284,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_4_big.png",
+      "initialSize" : 37466,
       "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network\/mailing_04.html" : {
@@ -5912,36 +6572,16 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery-1.8.3.min-ck.js",
       "fileType" : 64
     },
-    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_16_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_16_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
-      "initialSize" : 128294,
-      "fileType" : 4096
-    },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_18.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_18.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_18.jpg",
-      "initialSize" : 23771,
-      "fileType" : 4096
-    },
-    "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 1,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_16_small.png",
+      "initialSize" : 19577,
+      "fileType" : 8192
     },
     "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js" : {
       "ignoreWasSetByUser" : 1,
@@ -5954,6 +6594,26 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-ck.js",
       "fileType" : 64
     },
+    "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 1,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/css\/fonts\/futura\/stylesheet.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_18.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_18.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_18.jpg",
+      "initialSize" : 23771,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_04\/Golive_Network_4_18.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5963,6 +6623,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/images_04\/Golive_Network_4_18.jpg",
       "initialSize" : 5352,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/banner_header.jpg",
+      "initialSize" : 128294,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_02.jpg" : {
@@ -6051,16 +6722,16 @@
       "initialSize" : 34708,
       "fileType" : 8192
     },
-    "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png" : {
+    "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_contenido.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png",
-      "initialSize" : 1330,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_contenido.jpg",
+      "initialSize" : 1443,
+      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_15.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -6073,16 +6744,27 @@
       "initialSize" : 6415,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_contenido.jpg" : {
+    "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_contenido.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/linea_contenido.jpg",
-      "initialSize" : 1443,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_axa_one\/log_in.png",
+      "initialSize" : 1330,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_15_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_15_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_15_big.png",
+      "initialSize" : 39359,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_15.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -6177,6 +6859,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_5_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_5_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_5_big.png",
+      "initialSize" : 36661,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/imagenes_descubre_one\/franja_gris_titulo_banner.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6199,17 +6892,6 @@
       "initialSize" : 11341,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_03.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_03.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_03.jpg",
-      "initialSize" : 5220,
-      "fileType" : 4096
-    },
     "\/Code\/templates\/AMBASSADOR\/mailing6\/html_Mailing6_Amb\/imagenes\/linea_contenido.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6221,6 +6903,17 @@
       "initialSize" : 329,
       "fileType" : 4096
     },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_03.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_03.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_03.jpg",
+      "initialSize" : 5220,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/goLive\/manager_network_bak\/mailing_03.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6229,6 +6922,17 @@
       "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/manager_network_bak\/mailing_03.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_5_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_5_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_5_small.png",
+      "initialSize" : 18349,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_big.png" : {
       "ignoreWasSetByUser" : 0,
@@ -6239,17 +6943,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_3_big.png",
       "initialSize" : 13737,
-      "fileType" : 8192
-    },
-    "\/Code\/templates\/img\/overlay\/black.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/black.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/black.png",
-      "initialSize" : 4855,
       "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_axa_one\/imagen_banner_footer.png" : {
@@ -6263,6 +6956,17 @@
       "initialSize" : 64605,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/overlay\/black.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/black.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/black.png",
+      "initialSize" : 4855,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/MANAGER NETWORK\/mailing7\/mailing_7NP_Net.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6272,6 +6976,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/mailing_7NP_Net.jpg",
       "initialSize" : 361244,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_07.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_07.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_07.jpg",
+      "initialSize" : 5968,
       "fileType" : 4096
     },
     "\/Code\/templates\/img\/imagenes_descubre_one\/background_avatar_banner.png" : {
@@ -6284,17 +6999,6 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_descubre_one\/background_avatar_banner.png",
       "initialSize" : 1101,
       "fileType" : 8192
-    },
-    "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_07.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_07.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_07.jpg",
-      "initialSize" : 5968,
-      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_03\/Golive_Network_3_19.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -6351,6 +7055,17 @@
       "initialSize" : 10802,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_11_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_11_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_11_big.png",
+      "initialSize" : 38247,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/second_review_manager_network.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6402,6 +7117,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_03\/liena_roja.png",
       "initialSize" : 1144,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_14_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_14_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_14_big.png",
+      "initialSize" : 46405,
       "fileType" : 8192
     },
     "\/Code\/templates\/css\/main.css" : {
@@ -6497,6 +7223,17 @@
       "initialSize" : 333,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_6_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_6_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_6_big.png",
+      "initialSize" : 38955,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_05.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6564,15 +7301,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_05.jpg" : {
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_19.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_05.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_19.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_05.jpg",
-      "initialSize" : 78200,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_19.jpg",
+      "initialSize" : 2988,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_04\/Golive_Network_4_16.jpg" : {
@@ -6586,16 +7323,16 @@
       "initialSize" : 9106,
       "fileType" : 4096
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_19.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_6_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_19.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_6_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_01\/Golive_Ambassador_1_19.jpg",
-      "initialSize" : 2988,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_6_small.png",
+      "initialSize" : 17997,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_04\/Golive_Network_4_22.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -6617,6 +7354,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_05.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_05.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_05.jpg",
+      "initialSize" : 78200,
+      "fileType" : 4096
+    },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6626,17 +7374,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/accesories\/thumbs_accesorio_1.jpg",
       "initialSize" : 12708,
-      "fileType" : 4096
-    },
-    "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_13.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_13.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_13.jpg",
-      "initialSize" : 22940,
       "fileType" : 4096
     },
     "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/tip_lateral.png" : {
@@ -6649,6 +7386,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/tip_lateral.png",
       "initialSize" : 1738,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_13.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_13.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_02\/Golive_Colaboradores_2_13.jpg",
+      "initialSize" : 22940,
+      "fileType" : 4096
     },
     "\/Code\/snippets\/libs\/templates\/envio_inventario_third_doubles.html" : {
       "ignoreWasSetByUser" : 0,
@@ -6689,6 +7437,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/linea_contenido.jpg",
       "initialSize" : 1443,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_8_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_8_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_8_big.png",
+      "initialSize" : 39012,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_03\/one_lateral.png" : {
       "ignoreWasSetByUser" : 0,
@@ -6754,6 +7513,17 @@
       "initialSize" : 61211,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_10_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_10_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_10_big.png",
+      "initialSize" : 43664,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_02\/Golive_Ambassador_2_16.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6773,17 +7543,6 @@
       "inputAbbreviatedPath" : "\/Code\/snippets\/libs\/FilterInput.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip.jpg",
-      "initialSize" : 5129,
-      "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador\/images_03\/one_lateral.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -6805,6 +7564,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_11.jpg",
       "initialSize" : 1817,
+      "fileType" : 4096
+    },
+    "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores\/images_review\/tip.jpg",
+      "initialSize" : 5129,
       "fileType" : 4096
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_02\/Golive_Ambassador_2_22.jpg" : {
@@ -6859,6 +7629,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/tip.jpg",
       "initialSize" : 5071,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_8_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_8_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_8_big.png",
+      "initialSize" : 37135,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_1_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -7147,6 +7928,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_9_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_9_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_9_small.png",
+      "initialSize" : 17209,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_04\/Golive_Ambassador_4_18.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7178,6 +7970,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_7_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_7_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_7_small.png",
+      "initialSize" : 10557,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_13.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7188,6 +7991,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_13.jpg",
       "initialSize" : 3305,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_4_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_4_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_4_big.png",
+      "initialSize" : 24364,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_08.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -7220,6 +8034,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/overlay\/white.png",
       "initialSize" : 3338,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_5_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_5_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_5_small.png",
+      "initialSize" : 9866,
       "fileType" : 8192
     },
     "\/Code\/snippets\/libs\/avatar\/mi_avatar.png" : {
@@ -7282,17 +8107,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
-      "initialSize" : 17000,
-      "fileType" : 8192
-    },
     "\/Code\/templates\/goLive\/manager_network_bak\/images_04\/Golive_Network_4_14.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7314,6 +8128,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/MANAGER NETWORK\/mailing7\/html_Mailing7_Net\/imagenes\/banner_header.jpg",
       "initialSize" : 156085,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_3_small.png",
+      "initialSize" : 17000,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/clothes\/clothes_4_small.png" : {
       "ignoreWasSetByUser" : 0,
@@ -7472,6 +8297,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_15_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_15_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_15_small.png",
+      "initialSize" : 20102,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7482,6 +8318,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/colaboradores_bak\/images_04\/Golive_Colaboradores_4_03.jpg",
       "initialSize" : 1642,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_7_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_7_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_7_small.png",
+      "initialSize" : 18322,
+      "fileType" : 8192
     },
     "\/Code\/templates\/img\/imagenes_axa_one\/linea_h1_azul.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -7515,6 +8362,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/AMBASSADOR\/mailing7\/html_Mailing7_Amb\/imagenes\/logo_header.jpg",
       "initialSize" : 12010,
       "fileType" : 4096
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_11_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_11_big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_11_big.png",
+      "initialSize" : 20832,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_review\/Golive_Colaboradores_review_15.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -7764,6 +8622,17 @@
       "initialSize" : 4298,
       "fileType" : 8192
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_11_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_11_small.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/hair\/hair_11_small.png",
+      "initialSize" : 18798,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/goLive\/ambassador_bak\/images_02\/Golive_Ambassador_2_05.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7850,6 +8719,28 @@
       "initialSize" : 4889,
       "fileType" : 4096
     },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_7_big.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_7_big.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/hair\/hair_7_big.png",
+      "initialSize" : 7985,
+      "fileType" : 8192
+    },
+    "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_8_small.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_8_small.png",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/man\/skin\/skin_8_small.png",
+      "initialSize" : 18450,
+      "fileType" : 8192
+    },
     "\/Code\/templates\/img\/imagenes_avatar\/man\/accesories\/accesorio_1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7872,16 +8763,16 @@
       "initialSize" : 5878,
       "fileType" : 8192
     },
-    "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_02.jpg" : {
+    "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_13_small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_02.jpg",
+      "inputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_13_small.png",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_02.jpg",
-      "initialSize" : 2139,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/Code\/templates\/img\/imagenes_avatar\/woman\/skin\/skin_13_small.png",
+      "initialSize" : 19688,
+      "fileType" : 8192
     },
     "\/Code\/templates\/goLive\/colaboradores\/images_03\/logo_footer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -7904,6 +8795,17 @@
       "outputAbbreviatedPath" : "\/Code\/templates\/img\/star.png",
       "initialSize" : 2062,
       "fileType" : 8192
+    },
+    "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_02.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_02.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/Code\/templates\/goLive\/ambassador_bak\/images_03\/Golive_Ambassador_3_02.jpg",
+      "initialSize" : 2139,
+      "fileType" : 4096
     },
     "\/Code\/snippets_bak\/libs\/templates\/solicitud_transfer_admin_rechazar_origen.html" : {
       "ignoreWasSetByUser" : 0,

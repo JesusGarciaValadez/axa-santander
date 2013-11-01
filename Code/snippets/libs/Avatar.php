@@ -3,17 +3,21 @@
 class Avatar {
     
     /**
-     *  @var string _head. Name of the image that represents the head of the avatar
+     *  @var string _skin. Name of the image that represents the head of the avatar
      */
     private $_skin;
     /**
-     *  @var string _shirt. Name of the image that represents the hair of the avatar
+     *  @var string _hair. Name of the image that represents the hair of the avatar
      */
     private $_hair;
     /**
-     *  @var string _pants. Name of the image that represents the clothes of the avatar
+     *  @var string _clothes. Name of the image that represents the clothes of the avatar
      */
     private $_clothes;
+    /**
+     *  @var string _glasses. Name of the image that represents the clothes of the avatar
+     */
+    private $_glasses;
     /**
      *  @var string _baseImage. Name of the base image that act like a canvas
      */
@@ -39,6 +43,11 @@ class Avatar {
      */
     private $_avatarClothes;
     /**
+     *  @var string _avatarGlasses. Name of the image that represents the clothes of the avatar 
+     *                            in resample method.
+     */
+    private $_avatarGlasses;
+    /**
      *  @var string _file. Name of the image that represents  avatar 
      *                            in resample method.
      */
@@ -51,9 +60,10 @@ class Avatar {
      *  @param  string putSkin. Name of the skin image
      *  @param  string putHair. Name of the hair image
      *  @param  string putClothes. Name of the clothes image
+     *  @param  string putGlasses. Name of the glasses image
      *
      */
-    public function __construct ( $putSkin = "img/avatar_cara.png", $putHair = "", $putClothes = "img/avatar_pantalones.png" ) {
+    public function __construct ( $putSkin = "img/avatar_cara.png", $putHair = "", $putClothes = "img/avatar_pantalones.png", $putGlasses = "" ) {
         
         $this->_skin    = ( !empty( $putSkin ) && is_string( $putSkin ) && file_exists( IMAGE_PATH . $putSkin ) ) ? IMAGE_PATH . $putSkin : IMAGE_PATH . "avatar_cara.png";
         if ( !empty( $putHair ) ) {
@@ -61,6 +71,10 @@ class Avatar {
             $this->_hair    = ( !empty( $putHair ) && is_string( $putHair ) && file_exists( IMAGE_PATH . $putHair ) ) ? IMAGE_PATH . $putHair : IMAGE_PATH . "avatar_playera.png";
         }
         $this->_clothes = ( !empty( $putClothes ) & is_string( $putClothes ) && file_exists( IMAGE_PATH . $putClothes ) ) ? IMAGE_PATH . $putClothes : IMAGE_PATH . "avatar_pantalones.png";
+        if ( !empty( $putGlasses ) ) {
+            
+            $this->_glasses    = ( !empty( $putGlasses ) && is_string( $putGlasses ) && file_exists( IMAGE_PATH . $putGlasses ) ) ? IMAGE_PATH . $putGlasses : IMAGE_PATH . "avatar_lentes.png";
+        }
     }
     
     /**
@@ -99,6 +113,14 @@ class Avatar {
         $this->_avatarClothes   = imagecreatefrompng( $this->_clothes );
         //  Juntamos la tercera imagen con la imagen base
         imagecopyresampled( $this->_baseImage, $this->_avatarClothes, 0, 0, 0, 0, 230, 203, 230, 203 );
+        
+        if ( !empty( $this->_glasses ) ) {
+            
+            //  Cargamos la primera imagen(hair)
+            $this->_avatarGlasses      = imagecreatefrompng( $this->_glasses );
+            //  Unimos la primera imagen con la imagen base
+            imagecopyresampled( $this->_baseImage, $this->_avatarGlasses, 0, 0, 0, 0, 230, 203, 230, 203 );
+        }
         
         //$this->_forceImageOutput();
         $this->_forceRedirectToImage();
@@ -209,6 +231,10 @@ class Avatar {
             imagedestroy( $this->_avatarHair );
         }
         imagedestroy( $this->_avatarClothes );
+        if ( !empty( $this->_avatarGlasses ) ) {
+            
+            imagedestroy( $this->_avatarGlasses );
+        }
         imagedestroy( $this->_baseImage );
     }
 }

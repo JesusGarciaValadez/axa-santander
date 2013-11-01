@@ -644,7 +644,6 @@
                 @extend .clearfix;
                 background: url("../img/imagenes_avatar/contenido.jpg") no-repeat scroll 0 0 transparent;
                 float: left;
-                height: em( 400, 16 );
                 margin: em( 35, 16 ) 0 0;
                 padding: 0;
                 position: relative;
@@ -654,6 +653,7 @@
                     clear: left;
                     div{
                         @extend .clearfix;
+                        height: em( 720, 16 );
                         h4{
                             display: block;
                             font-weight: normal;

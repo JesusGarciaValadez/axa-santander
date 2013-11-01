@@ -1218,6 +1218,12 @@
     
     $( document ).on( 'ready', function ( e ) {
         
+        if ( $( ".loader" ).exists() ) {
+            
+            $( '.alert_background' ).fadeOut( 300 );
+            $( ".loader" ).fadeOut( 300 );
+        }
+        
         //  !Crea una instancia de jQuery Overlay
         if ( $( '.alert_box' ).exists() ) {
             
@@ -1230,6 +1236,7 @@
                 fixed: false,
                 onBeforeLoad: function ( e ) {
                     
+                    $( '.alert_background' ).height( '100%' );
                     $( '.alert_box' ).centerWidth();
                     $( '.alert_box' ).centerHeight();
                 },
@@ -1418,7 +1425,7 @@
         if ( $( "#avatar" ).exists() ) {
             
             //  Declaración de variables para obtención de las imágenes
-            var gender, skin, hair, clothes, avatar;
+            var gender, skin, hair, clothes, glasses, avatar;
             
             //  Crea la funcionalidad de tabs para cada tipo de categoría para el avatar
             $( 'ul.tabs' ).tabs("div.panes > div");
@@ -1436,6 +1443,7 @@
                     skin    = "";
                     hair    = "";
                     clothes = "";
+                    glasses = "";
                     avatar  = "";
                     
                     $( '#image_preview img' ).fadeOut( 300, function ( ) {
@@ -1482,6 +1490,9 @@
                     case "clothes":
                         clothes = _temporalValue;
                         break;
+                    case "glasses":
+                        glasses = _temporalValue;
+                        break;
                     default:
                         break;
                 }
@@ -1491,7 +1502,7 @@
                     return false;
                 } else {
                     
-                    AxaS.createAvatarPreview( gender, skin, hair, clothes );
+                    AxaS.createAvatarPreview( gender, skin, hair, clothes, glasses );
                 }
             } );
             
@@ -1529,15 +1540,13 @@
                     alert( "Debe seleccionar un tipo de ropa" );
                     return false;
                 }
+                if ( glasses != "" && glasses != undefined )
+                    avatarData.glasses     = AxaS.glasses; 
                 
                 $.ajax ( '../snippets/controller.php?action=obtainAvatar', { 
-                    beforeSend: function ( jqXHR, settings ) {
-                        
-                    }, 
+                    beforeSend: function ( jqXHR, settings ) {}, 
                     cache: false, 
-                    complete: function ( jqXHR, textStatus ) {
-                        
-                    }, 
+                    complete: function ( jqXHR, textStatus ) {}, 
                     contentType: "application/x-www-form-urlencoded", 
                     converters: { 
                         "* text":       window.String, 
@@ -1546,9 +1555,7 @@
                         "text xml":     $.parseXML
                     }, 
                     data: avatarData, 
-                    error:  function ( jqXHR, textStatus, errorThrown ) {
-                        
-                    }, 
+                    error:  function ( jqXHR, textStatus, errorThrown ) {}, 
                     success: function ( data, textStatus, jqXHR ) {
                         
                         data    = $.parseJSON( data );

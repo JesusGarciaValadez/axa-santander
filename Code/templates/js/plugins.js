@@ -25,7 +25,15 @@
 
 jQuery.fn.exists         = function(){return this.length>0;}
 jQuery.fn.centerWidth    = function(){
-    var winWidth    = window.innerWidth / 2;
+    var winWidth;
+    if ( $.browser.msie && $.browser.version == '8.0' ) {
+        
+        winWidth    = $(window).width() / 2;
+    } else {
+        
+        winWidth    = window.innerWidth / 2;
+    }
+    
     var elemWidth   = $( this ).width() / 2;
     
     if ( parseInt( winWidth - elemWidth ) < 100 ) {
@@ -38,7 +46,15 @@ jQuery.fn.centerWidth    = function(){
     this.css( 'left', elemLeft + 'px' );
 }
 jQuery.fn.centerHeight = function(){
-    var winHeight = $(window).height() / 2;
+    var winHeight;
+    if ( $.browser.msie && $.browser.version == '8.0' ) {
+        
+        winHeight = $(window).height() / 2;
+    } else {
+        
+        winHeight = window.innerHeight / 2;
+    }
+    
     var elemHeight = $( this ).height() / 2;
     var elemTop = winHeight - elemHeight;
 

@@ -151,8 +151,9 @@ menuitem,nav,iframe,embed,object,*{
 }
 .alert_background {
     background: url('../img/background_lightbox.png') repeat scroll 0 0 transparent;
-    display: none;
+    display: block;
     height: 100%;
+    min-height: em( 1720, 16 );
     position: absolute;
     width: 100%;
     z-index: 16;
@@ -196,8 +197,18 @@ menuitem,nav,iframe,embed,object,*{
     }
 }
 .alert_trigger{
+    display: none;
     opacity: 0;
     filter: alpha(opacity = 0);
+}
+.loader{ 
+    display: block; 
+    height: em( 32, 16 );
+    margin: 0 auto;
+    position: relative;
+    top: em( 273, 16 );
+    width: em( 32, 16 );
+    z-index: 17;
 }
 @import "polls.scss";
 @import "one.scss";
