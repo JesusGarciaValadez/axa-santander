@@ -461,6 +461,501 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_one.html', $placeholders, 'Encuesta ONE / Primer Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            case 'goliveAmbassadorFormSubmitTwo': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'
+                    ), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico'
+                    ), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel'
+                    )
+                );
+                
+                $doInsert   = new Review( $dbh, 'second_review_golive_ambassador' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                );
+                
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_two.html', $placeholders, 'Encuesta ONE / Segundo Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'goLiveManagerNetworkFormSubmitTwo': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'
+                    ), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico'
+                    ), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel'
+                    )
+                );
+                
+                $doInsert   = new Review( $dbh, 'second_review_golive_manager_network' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                );
+                
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_two.html', $placeholders, 'Encuesta ONE / Segundo Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'goLiveColaboradoresFormSubmitTwo': 
+                
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'
+                    ), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico'
+                    ), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel'
+                    )
+                );
+                
+                $doInsert   = new Review( $dbh, 'second_review_golive_colaboradores' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                );
+                
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_two.html', $placeholders, 'Encuesta ONE / Segundo Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'goliveAmbassadorFormSubmitThree': 
+                
+                /*
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'
+                    ), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico'
+                    ), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel'
+                    )
+                );
+                */
+                
+                $doInsert   = new Review( $dbh, 'third_review_golive_ambassador' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta es obligatoria.') 
+                    ), 
+                    'fourteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La catorseava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                    , 'fourteen' => $_POST['fourteen'] 
+                );
+                
+                //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_three.html', $placeholders, 'Encuesta ONE / Tercer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_three.html', $placeholders, 'Encuesta ONE / Tercer Review Ambassador', 'jgarcia@cmvasfalto.com.mx' );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'goLiveManagerNetworkFormSubmitThree': 
+                
+                /*
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'
+                    ), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico'
+                    ), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel'
+                    )
+                );
+                */
+                
+                $doInsert   = new Review( $dbh, 'third_review_golive_manager_network' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta es obligatoria.') 
+                    ), 
+                    'fourteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La catorseava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                    , 'fourteen' => $_POST['fourteen'] 
+                );
+                
+                //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_three.html', $placeholders, 'Encuesta ONE / Tercer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_three.html', $placeholders, 'Encuesta ONE / Tercer Review Manager Network', 'jgarcia@cmvasfalto.com.mx' );
+                $data       = json_encode ( $doInsert );
+                break;
+            case 'goLiveColaboradoresFormSubmitThree': 
+                
+                /*
+                $cc = array( 
+                    array( 
+                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
+                        'name'  => 'Jesús'
+                    ), 
+                    array(
+                        'mail'  => 'vdavila@cmv.com.mx', 
+                        'name'  => 'Vico'
+                    ), 
+                    array(
+                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
+                        'name'  => 'Mariel'
+                    )
+                );
+                */
+                
+                $doInsert   = new Review( $dbh, 'third_review_golive_colaboradores' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta es obligatoria.') 
+                    ), 
+                    'fourteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La catorseava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                    , 'fourteen' => $_POST['fourteen'] 
+                );
+                
+                //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_three.html', $placeholders, 'Encuesta ONE / Tercer Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_three.html', $placeholders, 'Encuesta ONE / Tercer Review Colaboradores', 'jgarcia@cmvasfalto.com.mx' );
+                $data       = json_encode ( $doInsert );
+                break;
         }
         echo $data;
         
