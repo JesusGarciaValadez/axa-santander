@@ -5,16 +5,18 @@ body
         width: 8px
 .wrapper
 .center
-    max-width: 305px
-    width: 305px
+    max-width: 95.3125%
+    width: 95.3125% !important
 .desktop
     display: none !important
 .mobile
-    display: block
+    display: block !important
 .create-profile-landing
     header
+        background-size: 1000% 100%
+        background-position: center top
+        height: 450px !important
         div
-            background-position: -1110px 0
             img.header-ceil
                 clear: both
                 display: block
@@ -53,6 +55,7 @@ body
                         color: $text-black-color
             h2, h3, h4, h5, h6
                 margin: 140px auto 0
+                width: 100%
                 z-index: 1
                 &:before,&:after
                     content: ""
