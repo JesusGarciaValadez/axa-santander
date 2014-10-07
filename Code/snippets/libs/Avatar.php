@@ -145,7 +145,6 @@ class Avatar {
      */
     private function _setBaseImage () {
         
-        
         //  Creamos la base de la imagen definiendo ancho y alto ( w, h )
         $this->_baseImage   = imagecreatetruecolor( 230, 203 ) or die( 'Cannot Initialize new GD image stream' );
         
@@ -153,14 +152,16 @@ class Avatar {
         //imagealphablending( $this->_baseImage, true );
         //  Cambiar a true settea el background a negro
         imagesavealpha( $this->_baseImage, false );
-        //$transparent        = imagecolorallocatealpha( $this->_baseImage, 0, 0, 0, 127 );
+        /*$transparent        = imagecolorallocatealpha( $this->_baseImage, 0, 0, 0, 127 );
         
-        //imagefill( $this->_baseImage, 0, 0, $transparent );*/
+        imagefill( $this->_baseImage, 0, 0, $transparent );*/
         
         $colourBlack = imagecolorallocatealpha( $this->_baseImage, 0, 0, 0, 0 );
-        //$colourWhite = imagecolorallocatealpha( $this->_baseImage, 222, 222, 222, 0 );
+        $colourWhite = imagecolorallocate( $this->_baseImage, 255, 255, 255 );
         imagecolortransparent( $this->_baseImage, $colourBlack );
-        // imagecolortransparent( $this->_baseImage, $colourWhite );
+        
+        imagefilledrectangle( $this->_baseImage, 0, 0, 230, 203, $colourWhite );
+        //imagecolortransparent( $this->_baseImage, $colourWhite );
     }
     
     /**
@@ -207,6 +208,7 @@ class Avatar {
         $this->_file   = IMAGE_PATH . 'img' . DIRECTORY_SEPARATOR . 'imagenes_avatar' . DIRECTORY_SEPARATOR . 'mi_avatar.png';
         
         imagepng( $this->_baseImage, $this->_file, 2 );
+        //imagejpeg( $this->_baseImage, $this->_file, 75 );
         //readfile( $this->_file );
         /*header( 'Content-Type: image/png' );
         imagepng( $this->_baseImage );*/

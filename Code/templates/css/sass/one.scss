@@ -26,6 +26,7 @@
 .overlay.black {
     background:url("../img/overlay/transparent.png") no-repeat scroll 0 0 transparent !important;
     color:#FFF;
+    height: em( 385, 16 ) !important;
 }
 .div_container{
     @extend .clearfix;
@@ -39,6 +40,10 @@
     
     .details{
         
+        video{
+            height: 315px;
+            width: 560px;
+        }
     }
 }
 .wrapper{
@@ -518,15 +523,15 @@
     }
     #principal_container, #avatar_creator{ @extend .div_container; }
     #principal_container{
-        height: em( 360, 16 );
+        height: em( 364, 16 );
         header{
-            height: em( 360, 16 );
+            height: em( 364, 16 );
             @include position( relative, 0 0 0 0 );
             width: 100%;
             z-index: 1;
             .left_side{}
             .container{
-                height: em( 390, 16);
+                height: em( 364, 16);
                 position: relative;
                 h1{
                     @include hide-text;
@@ -555,7 +560,7 @@
                     }
                 }
                 .division{
-                    top: em( -2, 16 );
+                    top: em( 0, 16 );
                     left: 0;
                 }
                 .header_avatar{
@@ -653,7 +658,7 @@
                     clear: left;
                     div{
                         @extend .clearfix;
-                        height: em( 720, 16 );
+                        height: em( 870, 16 );
                         h4{
                             display: block;
                             font-weight: normal;
@@ -664,7 +669,7 @@
                         }
                         .male{ display: none; }
                         .female{ display: none; }
-                        ul {
+                        ul{
                             @extend .clearfix;
                             margin: 0;
                             left: em( 34.5, 16 );
@@ -683,7 +688,7 @@
                             .active{ border: 1px solid $blue; }
                         }
                     }
-                    .gender{
+                    .gender{ 
                         
                         ul{
                             left: em( 175, 16 );

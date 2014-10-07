@@ -1,0 +1,772 @@
+.overlay {
+    background:url("../img/overlay/white.png") no-repeat scroll 0 0 transparent;
+    display:none;
+    font-size: em( 11, 11 );
+    height: em( 456, 16 );
+    padding:em( 35, 16 );
+    width: em( 586, 16 );
+    .details, #details{
+        
+        iframe, video, object{
+            display: block;
+            margin: 0 auto;
+            width: em( 560, 16 );
+        }
+    }
+}
+.overlay .close {
+    background:url("../img/overlay/apple-close.png") no-repeat scroll 0 0 transparent;
+    cursor:pointer;
+    height:em( 35, 16 );
+    position:absolute; 
+    right:em( 2, 16 ); 
+    top:em( 12, 16 );
+    width:em( 35, 16 );
+}
+.overlay.black {
+    background:url("../img/overlay/transparent.png") no-repeat scroll 0 0 transparent !important;
+    color:#FFF;
+    height: em( 385, 16 ) !important;
+}
+.div_container{
+    @extend .clearfix;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    z-index: 5;
+}
+#video_container{
+    
+    .details{
+        
+        video{
+            height: 315px;
+            width: 560px;
+        }
+    }
+}
+.wrapper{
+    @extend .clearfix;
+    display: table;
+    height: 100%;
+    margin: 0 auto;
+    width: 100%;
+    .container{ margin:0 auto; position: relative; width: em( 1024, 16 ); z-index: 2; }
+    .left_side, .right_side, .container{height: 100%;}
+    .left_side, .right_side{
+        position: absolute;
+        top: 0;
+        width: 50%;
+        z-index: 1;
+    }
+    .left_side{left:0;}
+    .right_side{right:0;}
+    header,footer{
+        @extend .clearfix;
+        clear: both;
+        display: block;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        width: 100%;
+    }
+    h1{font-family: normal 1em/1em $arial;}
+    div {
+        
+        header{
+            height: em( 521, 16 );
+            @include position( relative, 0 0 0 0 );
+            width: 100%;
+            z-index: 1;
+            .left_side{}
+            .container{
+                height: em( 520, 16);
+                position: relative;
+                h1{
+                    @include hide-text;
+                    height: em( 56, 16 );
+                    width: em( 286, 16 );
+                    position: relative;
+                    z-index: 11;
+                }
+                .logo_image{
+                    position: absolute;
+                    z-index: 11;
+                }
+                .title_image{
+                    position: relative;
+                    z-index: 11;
+                }
+                .division{
+                    position: absolute;
+                    z-index: 10;
+                }
+            }
+            .right_side{}
+        }
+    }
+    footer{
+        height: em( 160, 16 );
+        .left_side{}
+        .container{
+            @extend .clearfix;
+            height: 100%;
+            position: relative;
+            p{
+                clear: both;
+                color: #6D6D6D;
+                display: block;
+                font: normal 1.88em/0.8em $arial;
+                margin: 0;
+                padding: 0;
+                position: relative;
+                text-align: left;
+                text-indent: em( 19, 16 );
+                text-transform: uppercase;
+                top: 0.533em;
+                z-index: 10;
+                span{
+                    color: $blue;
+                    font-weight: bold;
+                }
+            }
+            img{ position: absolute; }
+            .icon{
+                bottom: em( 40, 16 );
+                right: em( 7, 16 );
+            }
+        }
+        .right_side{ height: 100%; }
+    }
+}
+#one{
+    
+    #principal,#video_e_learning,#advices_best_practices,#create_avatar_feature{ @extend .div_container; }
+    #principal_container{
+        background: url("../img/imagenes_descubre_one/lineaheader.png") repeat-x scroll left bottom transparent;
+        height: em( 361, 16 );
+        header{
+            height: em( 362, 16 );
+            @include position( relative, 0 0 0 0 );
+            width: 100%;
+            z-index: 1;
+            .left_side{}
+            .container{
+                height: em( 362, 16);
+                position: relative;
+                h1{
+                    @include hide-text;
+                    height: em( 56, 16 );
+                    width: em( 286, 16 );
+                    position: relative;
+                    z-index: 11;
+                }
+                .title_image{ display: block; padding: em( 80, 16 ) 0 0; }
+                h2{
+                    color: $blue;
+                    display: inline-block;
+                    font-family: $arial;
+                    font-size: em( 30, 16 );
+                    font-weight: bold;
+                    margin: 0;
+                    padding: em( 80, 30 ) 0 0;
+                    position: relative;
+                    z-index: 11;
+                    span{
+                        clear: left;
+                        color: #BDBDBD;
+                        display: block;
+                        font-weight: normal;
+                        text-transform: uppercase;
+                    }
+                }
+                .division{
+                    top: em( -2, 16 );
+                    left: em( 0, 16 );
+                }
+                .header_carrousel{
+                    height: 100%;
+                    left: 0;
+                    overflow: hidden;
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                    z-index: 0;
+                    #header_scrollable{
+                        height: 100%;
+                        position: relative;
+                        z-index: 5;
+                        .items{
+                            height: 100%;
+                            position:absolute;
+                            width:20000em;
+                            div{
+                                float: left;
+                                height: 100%;
+                                position: relative;
+                                width: em( 1025, 16 );
+                                img{
+                                    position: absolute;
+                                    right: 0;
+                                    z-index: 5;
+                                }
+                                .title_wrapper{
+                                    @extend .clearfix;
+                                    background: url("../img/imagenes_descubre_one/degradado_titulo_bannerheader.png") repeat scroll 0 0 transparent;
+                                    bottom: em( 95, 16 );
+                                    display: block;
+                                    height: em( 64, 16 );
+                                    left: 0;
+                                    position: absolute;
+                                    width: 100%;
+                                    z-index: 10;
+                                    h3{
+                                        color: #FFF;
+                                        display: block;
+                                        float: right;
+                                        font: normal 2.437em/1.641em $arial;
+                                        margin: 0;
+                                        padding: 0 1em 0 0;
+                                        position: relative;
+                                        text-align: right;
+                                        width: 100%;
+                                        strong{
+                                            font-weight: bold !important;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .navi{
+                        @extend .clearfix;
+                        height: em( 17, 16 );
+                        position: absolute;
+                        top: em( 310, 16 );
+                        right: 0;
+                        z-index: 10;
+                        a{
+                            background: url('../img/imagenes_descubre_one/header_navigation.png') no-repeat scroll 0 0 transparent;
+                            display: inline-block;
+                            float: left;
+                            height: em( 17, 16 );
+                            margin: 0 10px 0 0;
+                            width: em( 17, 16 );
+                            &:hover{ background-position:0 em( -17, 16 ); }
+                        }
+                        .active{ background-position:0 em( -17, 16 ); }
+                    }
+                }
+            }
+            .right_side{
+                background: url("../img/imagenes_descubre_one/degradado_bg_header.jpg") repeat-x scroll 0 0 transparent;
+            }
+        }
+    }
+    #advices_best_practices{
+        height: em( 380, 16 );
+        .left_side, .right_side{
+            background: #F8F8F8;
+            display: inline-block;
+            height: em( 80, 16 );
+            width: 50%;
+        }
+        .left_side{left: 0;}
+        .right_side{right: 0;}
+        .background{
+            background-color: #303030;
+            height: em( 118, 16 );
+            position: absolute;
+            top: em( 137, 16 );
+            width: 100%;
+            z-index: 1;
+        }
+        .left_button{}
+        .right_button{}
+        .container{
+            background-color: #FFF;
+            position: relative;
+            z-index: 2;
+            .browse{
+                background: url("../img/imagenes_descubre_one/browser_arrows.png") no-repeat scroll 0 0 #FFF;
+                height: em( 118, 16 );
+                position: absolute;
+                top: em( 137, 16 );
+                width: em( 130, 16 );
+            }
+            a.prev{ 
+                background-position: -136px 0px !important;
+                left: -130px;
+            }
+            a.next{
+                background-position: 0 0;
+                right: -130px;
+            }
+            h3{
+                background: #F8F8F8;
+                clear: both;
+                color: $blue;
+                float: left;
+                font: bold 2em/2.5em $arial;
+                margin: 0;
+                padding: 0;
+                text-transform: uppercase;
+                width: 100%;
+                span{
+                    color: #BDBDBD;
+                    font-weight: normal;
+                }
+            }
+            .carrousel_container{
+                clear: both;
+                height: em( 270, 16 );
+                margin: 0 auto 1.8em;
+                padding: 0;
+                width: 100%;
+                .scrollable{
+                    overflow:hidden;
+                    position:relative;
+                }
+                #tips_scrollable{
+                    display: block;
+                    height: 100%;
+                    margin: 0 auto;
+                    width: em( 1024, 16 );
+                    .items{
+                        height: 100%;
+                        position:absolute;
+                        width:20000em;
+                        > div{
+                            background: url("../img/imagenes_descubre_one/separador_linea.png") no-repeat scroll right center transparent;
+                            float:left;
+                            height: em( 240, 16 );
+                            margin: 0;
+                            padding: em( 14, 16 ) em( 15.5, 16 );
+                            position: relative;
+                            width: em( 312.333, 16 );
+                            h4{
+                                clear: both;
+                                color: #6B6B6B;
+                                display: block;
+                                font: normal 1em/1em $arial;
+                                height: em( 60, 20 );
+                                margin: 0 auto;
+                                padding: 0.625em 0 0;
+                                //padding: 0.625em 0 0.937em;
+                                text-align: center;;
+                                text-transform: uppercase;
+                                width: 100%;
+                                span{
+                                    color: $blue;
+                                    font-weight: bold;
+                                }
+                            }
+                            div{
+                                max-height: em( 155, 16 );
+                                overflow: hidden;
+                                text-overflow: ellipsis;
+                                p{
+                                    color: #6B6B6B;
+                                    font: normal 0.75em/1em $arial;
+                                    text-align: left;
+                                }
+                            }
+                            ul{
+                                bottom: em( 13, 16 );
+                                clear: both;
+                                display: inline-block;
+                                float: right;
+                                height: em( 27, 16 );
+                                margin: 0;
+                                padding: 0;
+                                position: absolute;
+                                right: em( 13, 16 );
+                                width: auto;
+                                li{
+                                    float: left;
+                                    height: em( 27, 16 );
+                                    list-style: none;
+                                    margin: 0 0.468em;
+                                    width: em( 27, 16 );
+                                    a{
+                                        background: url("../img/imagenes_descubre_one/iconos_tips.png") no-repeat scroll 0 0 transparent;
+                                        color: transparent;
+                                        display: block;
+                                        height: em( 27, 16 );
+                                        margin: 0;
+                                        padding: 0;
+                                        text-decoration: none;
+                                        text-indent: -9999em;
+                                        width:  em( 27, 16 );
+                                    }
+                                    .help{
+                                        
+                                        &:hover{
+                                            background-position: 0 -62px;
+                                        }
+                                    }
+                                    .demo{
+                                        background-position: -35px 0;
+                                        &:hover{
+                                            background-position: -35px -31px;
+                                        }
+                                    }
+                                    .script{
+                                        background-position: -68px -31px;
+                                        &:hover{
+                                            background-position: -68px 0;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    #create_avatar_feature{
+        height: em( 255, 16 );
+        .left_side, .right_side{
+            position: absolute;
+            z-index: -1;
+        }
+        .left_side{ background: url("../img/imagenes_descubre_one/BG_Degradado_avatar.png") repeat-x scroll 0 0 transparent; }
+        .container{
+            @extend .clearfix;
+            background: url("../img/imagenes_descubre_one/degradado_avatar.jpg") repeat-x scroll 0 0 transparent;
+            height: 100%;
+            position: relative;
+            .background{
+                left: 0;
+                position: absolute;
+                top: 0;
+                z-index: -1;
+            }
+            h5{
+                color: #BDBDBD;
+                display: inline-block;
+                float: left;
+                font: normal 2.5em/0.9em $arial;
+                margin: 0;
+                padding: 1.634em 0 0.45em;
+                //padding: 1.634em 0 0.73em;
+                text-transform: uppercase;
+                width: em( 355, 40 );
+                span{
+                    clear: none;
+                    color: #FFF;
+                    float: none;
+                    font-weight: bold;
+                }
+            }
+            hr{
+                background: url("../img/imagenes_descubre_one/linaHorizontal_avatar.jpg") no-repeat scroll 0 center transparent;
+                border: 0 none transparent;
+                clear: left;
+                display: inline-block;
+                float: left;
+                height: 1px;
+                margin: 0;
+                padding: 0;
+                width: em( 355, 16 );
+            }
+            p{
+                clear: left;
+                color: #CBCBCD;
+                display: inline-block;
+                float: left;
+                font: normal 0.812em/1.2em $arial;
+                text-align: left;
+                margin: 0;
+                padding: 1.333em 0 0;
+                width: em( 355, 13 );
+            }
+            a{
+                background: url("../img/imagenes_descubre_one/daclick_btn.png") no-repeat scroll 0 0 transparent;
+                clear: left;
+                color: $blue;
+                display: inline-block;
+                float: left;
+                font-size: em( 17, 16 );
+                height: em( 33, 17 );
+                line-height: em( 33, 17 );
+                padding: 0 em( 80, 17 ) 0 0;
+                position: relative;
+                text-align: right;
+                text-decoration: none;
+                top: em( 25, 17 );
+                width: em( 285, 17 );
+                span{
+                    font-weight: bold;
+                }
+            }
+            .avatar_banner{
+                position: absolute;
+                right: 0;
+                z-index: 10;
+            }
+        }
+        .right_side{ background: url("../img/imagenes_descubre_one/background_avatar_banner.png") repeat-x scroll 0 0 transparent; }
+    }
+}
+#avatar{
+    
+    ::-moz-selection {
+        background: transparent;
+        text-shadow: none;
+    }
+    ::selection {
+        background: transparent;
+        text-shadow: none;
+    }
+    #principal_container, #avatar_creator{ @extend .div_container; }
+    #principal_container{
+        height: em( 360, 16 );
+        header{
+            height: em( 360, 16 );
+            @include position( relative, 0 0 0 0 );
+            width: 100%;
+            z-index: 1;
+            .left_side{}
+            .container{
+                height: em( 390, 16);
+                position: relative;
+                h1{
+                    @include hide-text;
+                    height: em( 56, 16 );
+                    width: em( 286, 16 );
+                    position: relative;
+                    z-index: 11;
+                }
+                .title_image{ display: block; padding: em( 80, 16 ) 0 0; }
+                h2{
+                    color: $blue;
+                    display: inline-block;
+                    font-family: $arial;
+                    font-size: em( 30, 16 );
+                    font-weight: bold;
+                    margin: 0;
+                    padding: em( 80, 30 ) 0 0;
+                    position: relative;
+                    z-index: 11;
+                    span{
+                        clear: left;
+                        color: #BDBDBD;
+                        display: block;
+                        font-weight: normal;
+                        text-transform: uppercase;
+                    }
+                }
+                .division{
+                    top: em( -2, 16 );
+                    left: 0;
+                }
+                .header_avatar{
+                    position: absolute;
+                    right: 0;
+                    top:0;
+                }
+            }
+            .right_side{
+                background: url("../img/imagenes_avatar/degradado_banner.jpg") repeat-x scroll 0 0 transparent;
+            }
+        }
+    }
+    #avatar_creator{
+        
+        .left_side, .right_side{
+            background: #F8F8F8;
+            display: inline-block;
+            height: em( 80, 16 );
+            position: absolute;
+            width: 50%;
+            z-index: 1;
+        }
+        .left_side{left:0;}
+        .right_side{right:0;}
+        .container{
+            @extend .clearfix;
+            //height: em( 600, 16 );
+            margin: 0 auto;
+            padding: 0;
+            h3{
+                background: #F8F8F8;
+                clear: both;
+                color: $blue;
+                float: left;
+                font-family: $arial;
+                font-size: em( 30, 16);
+                font-weight: normal;
+                line-height: em( 80, 30 ); 
+                margin: 0;
+                padding: 0;
+                text-transform: uppercase;
+                width: 100%;
+                span{
+                    color: #BDBDBD;
+                    font-weight: normal;
+                }
+            }
+            .help{
+                background: url("../img/imagenes_avatar/btn_Ayuda.png") no-repeat scroll 0 0 transparent;
+                display: block;
+                height: em( 26, 16 );
+                position: absolute;
+                text-indent: -2000em;
+                top: em( 25, 16 );
+                right: 0;
+                width: em( 25, 16 );
+            }
+            #image_preview{
+                float: left;
+                margin: 0 em( 30, 16 ) 0 0;
+                padding: em( 35, 16 ) 0 0;
+                position: relative;
+                width: em( 230, 16 );
+                > div{
+                    border: 1px solid #DFDFDF;
+                    height: em( 203, 16 );
+                    width: em( 230, 16 );
+                    img{ display: none; left: em( 0, 16 ); position: absolute; top: em( 0, 16 ) }
+                    .skin{ position:relative; z-index: 0; }
+                    .hair{ z-index: 1; }
+                    .clothes{ z-index: 1; }
+                    .hair, .clothes { top: em( 35, 16 ) }
+                    .active{ display: block; }
+                }
+                a{
+                    background: url("../img/imagenes_avatar/btn_descarga_avatar.jpg") no-repeat scroll 0 0 transparent;
+                    display: block;
+                    height: em( 42, 16 );
+                    margin: 0 auto;
+                    text-indent: -2000em;
+                    width: em( 230, 16 );
+                }
+            }
+            #avatar_creator_wrapper{
+                @extend .clearfix;
+                background: url("../img/imagenes_avatar/contenido.jpg") no-repeat scroll 0 0 transparent;
+                float: left;
+                margin: em( 35, 16 ) 0 0;
+                padding: 0;
+                position: relative;
+                width: em( 600, 16 ); 
+                .panes{
+                    @extend .clearfix;
+                    clear: left;
+                    div{
+                        @extend .clearfix;
+                        height: em( 870, 16 );
+                        h4{
+                            display: block;
+                            font-weight: normal;
+                            text-indent: em( 40, 16 );
+                            span{
+                                font-weight: bold;
+                            }
+                        }
+                        .male{ display: none; }
+                        .female{ display: none; }
+                        ul{
+                            @extend .clearfix;
+                            margin: 0;
+                            left: em( 34.5, 16 );
+                            padding: 0;
+                            position: absolute;
+                            top: em( 90, 16 );
+                            li{
+                                @extend .clearfix;
+                                border: 1px solid #FFF;
+                                cursor: pointer;
+                                float: left;
+                                height: em( 153, 16 );
+                                list-style: none inside;
+                                width: em( 133, 16 );
+                            }
+                            .active{ border: 1px solid $blue; }
+                        }
+                    }
+                    .gender{ 
+                        
+                        ul{
+                            left: em( 175, 16 );
+                            li{
+                                border: 0 none transparent;
+                                float: left;
+                                height: em( 300, 16 );
+                                list-style: none outside;
+                                margin: 0 em( 124, 16 ) 0 0;
+                                padding: 0;
+                                position: relative;
+                                overflow: hidden;
+                                width: em( 96, 16 );
+                                p{
+                                    background: url("../img/imagenes_avatar/circulo_avatar_sprite.png") no-repeat scroll 0 em( 6, 16 ) transparent;
+                                    bottom: 0;
+                                    cursor: pointer;
+                                    display: block;
+                                    margin: 0 auto;
+                                    padding: 0;
+                                    position: absolute;
+                                    text-indent: em( 20, 16 );
+                                }
+                            }
+                            .men{ 
+                                background: url("../img/imagenes_avatar/avatar_H_sprite.png") no-repeat scroll 0 0 transparent;
+                                p{ left: em( 7, 16 ); width: em( 80, 16 );}
+                            }
+                            .women{ 
+                                background: url("../img/imagenes_avatar/avatar_M_sprite.png") no-repeat scroll 0 em( 10, 16) transparent;
+                                margin: 0;
+                                p{ left: em( 15, 16 ); width: em( 65, 16 ); }
+                            }
+                            .men.active{ background-position: em( -116, 16 ) top !important; }
+                            .women.active{ background-position: em( -100, 16 ) em( 10, 16 ) !important; }
+                            .active{
+                                border: 0 none transparent;
+                                p{ background-position: 0 em( -10, 16 ); display: block; }
+                            }
+                        }
+                    }
+                }
+            }
+            .tabs{
+                @extend .clearfix;
+                float: right;
+                margin: 0;
+                padding: em( 35, 16 ) 0 0;
+                li{
+                    height: em( 48, 16 );
+                    list-style: none outside;
+                    margin: em( 5, 16 ) 0;
+                    width: em( 164, 16 );
+                    a{
+                        background: url("../img/imagenes_avatar/btn_contenido.png") no-repeat scroll 0 0 transparent;
+                        color: $blue;
+                        display: block;
+                        font-family: $arial;
+                        font-size: em( 15, 16 );
+                        font-weight: bold;
+                        line-height: em( 48, 15 );
+                        text-align: left;
+                        text-decoration: none;
+                        text-indent: em( 25, 15 );
+                        width: 100%;
+                    }
+                    .current{
+                        background-position:em( -164, 15 ) 0;
+                        color: #FFF;
+                        font-weight: normal;
+                    }
+                }
+                .first{margin: 0 0 em( 5, 16 );}
+            }
+        }
+    }
+    #secretIFrame{
+        display:none; 
+        visibility:hidden;
+    }
+}

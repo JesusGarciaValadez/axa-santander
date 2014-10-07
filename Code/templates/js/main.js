@@ -1375,6 +1375,10 @@
             
             $( '.overlay.black' ).centerWidth();
             
+            if ( $( '.video' ).exists() ) {
+                
+                var myVideo = document.getElementsByTagName( 'video' )[ 0 ];
+            }
             AxaS.doOverlay( 'img[rel]', {
                 effect: 'apple', 
                 // custom top position
@@ -1389,9 +1393,20 @@
                     opacity: 0.5
                 },
                 // disable this for modal dialog-type of overlays
-                closeOnClick: false,
+                closeOnClick: true,
+                closeOnEsc: true, 
                 // load it immediately after the construction
                 load: true, 
+                onBeforeLoad: function ( e ) {
+                    
+                }, 
+                onLoad: function ( e ) {
+                   
+                    if ( myVideo && myVideo.paused ) {
+                        
+                        myVideo.play();
+                    }
+                }, 
                 onBeforeClose: function ( e ) {
                     
                     var player;
@@ -1422,6 +1437,22 @@
                         
                         player.stopVideo();
                     }
+                }, 
+                onClose: function ( e ) {
+                    
+                    if ( myVideo ) {
+                        
+                        myVideo.pause();
+                    }
+                    /*if ( $( '#exposeMask:visible' ).is( ':visible' ) && $( 'object,embed' ).exists() ) {
+                        
+                        $( 'object,embed' ).css( {
+                            display: "none", 
+                            opacity: "0", 
+                            filter: "alpha(opacity=0)", 
+                            visibility: "none"
+                        } );
+                    }*/
                 }
             } );
             
@@ -1541,7 +1572,14 @@
                 
                 AxaS.validateGoLiveForms( rules, messages );
             }
-            if ( $( '#third_review_golive_ambassador' ).exists() || $( '#third_review_golive_manager_network' ).exists() || $( '#third_review_golive_colaboradores' ).exists() ) {
+            if ( 
+                    $( '#third_review_golive_ambassador' ).exists() ||
+                    $( '#third_review_golive_manager_network' ).exists() || 
+                    $( '#third_review_golive_colaboradores' ).exists() || 
+                    $( '#fourth_review_golive_ambassador' ).exists() || 
+                    $( '#fourth_review_golive_manager_network' ).exists() || 
+                    $( '#fourth_review_golive_colaboradores' ).exists() 
+                ) {
                 
                 var rules   = { 
                     one: {

@@ -28,12 +28,51 @@
     <body>
         <div class="overlay black" id="video_container">
             <div id="details">
-                <object width="560" height="315">
-                    <param name="movie" value="https://www.youtube.com/v/VpZmIiIXuZ0?version=3"></param>
-                    <param name="allowFullScreen" value="true"></param>
-                    <param name="allowScriptAccess" value="always"></param>
-                    <embed src="https://www.youtube.com/v/VpZmIiIXuZ0?enablejsapi=1&version=3&playerapiid=ytplayers" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="560" height="315"></embed>
-                </object>
+                <video poster="Code/templates/img/poster.jpg" width="560" height="315" autoplay controls buffer>
+                    <source src="Code/templates/assets/videos/axa_one.webm" type="video/webm">
+                    <source src="Code/templates/assets/videos/axa_one.ogg" type="video/ogg">
+                    <source src="Code/templates/assets/videos/axa_one.mp4" type="video/mp4">
+                    <!--object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0&#8243;" width="560" height="315">
+                        <param name="movie" value="Code/templates/assets/videos/axa_one.swf" />
+                        <param name="quality" value="high" />
+                        <param name="allowFullScreen" value="true"></param>
+                        <param name="allowScriptAccess" value="always"></param>
+                        <embed src="Code/templates/assets/videos/axa_one.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer&#8221;" type="application/x-shockwave-flash" width="560" height="315"></embed>
+                    </object-->
+                    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="315" id="videos/axa_one" align="middle" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0&#8243;">
+                        <param name="movie" value="Code/templates/assets/videos/axa_one.swf" />
+                        <param name="quality" value="high" />
+                        <param name="bgcolor" value="#000000" />
+                        <param name="play" value="true" />
+                        <param name="loop" value="false" />
+                        <param name="wmode" value="transparent" />
+                        <param name="scale" value="showall" />
+                        <param name="menu" value="true" />
+                        <param name="devicefont" value="false" />
+                        <param name="salign" value="" />
+                        <param name="allowScriptAccess" value="sameDomain" />
+                        <!--[if !IE]>-->
+                        <!--object type="application/x-shockwave-flash" data="Code/templates/assets/videos/axa_one.swf" width="560" height="315">
+                            <param name="movie" value="Code/templates/assets/videos/axa_one.swf" />
+                            <param name="quality" value="high" />
+                            <param name="bgcolor" value="#000000" />
+                            <param name="play" value="true" />
+                            <param name="loop" value="false" />
+                            <param name="wmode" value="transparent" />
+                            <param name="scale" value="showall" />
+                            <param name="menu" value="true" />
+                            <param name="devicefont" value="false" />
+                            <param name="salign" value="" />
+                            <param name="allowScriptAccess" value="sameDomain" /-->
+                        <!--<![endif]-->
+                            <a href="http://www.adobe.com/go/getflash">
+                                <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+                            </a>
+                        <!--[if !IE]>-->
+                        <!--/object-->
+                        <!--<![endif]-->
+                    </object>
+                </video>
             </div>
         </div>
         <div class="wrapper" id="one">
@@ -49,13 +88,19 @@
                             <div class="scrollable" id="header_scrollable">
                                 <div class="items">
                                     <div>
-                                        <img src="Code/templates/img/imagenes_descubre_one/banner_video.png" alt="Descubre ONE" width="686" height="360" rel="#video_container">
+                                        <img src="Code/templates/img/imagenes_descubre_one/BG_header_video.jpg" alt="Descubre ONE" width="686" height="360" rel="#video_container">
                                         <div class="title_wrapper">
                                             <h3>Descubre <strong>One</strong></h3>
                                         </div>
                                     </div>
                                     <div>
                                         <img src="Code/templates/img/imagenes_descubre_one/banner_colaborador.png" alt="Colaboradores" width="730" height="360">
+                                        <div class="title_wrapper">
+                                            <h3>Colaboradores</h3>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <img src="Code/templates/img/imagenes_descubre_one/BG_header_conecta.jpg" alt="Colaboradores" width="686" height="360">
                                         <div class="title_wrapper">
                                             <h3>Colaboradores</h3>
                                         </div>
@@ -293,7 +338,8 @@
             <div id="create_avatar_feature">
                 <div class="left_side"></div>
                 <div class="container">
-                    <h5>Crea tu <span>avatar</span></h5><img src="Code/templates/img/imagenes_descubre_one/BG_avatar.png" alt="BG_avatar" width="538" height="254" class="background">
+                    <h5>Crea tu <span>avatar</span></h5>
+                    <img src="Code/templates/img/imagenes_descubre_one/BG_avatar.png" alt="BG_avatar" width="538" height="254" class="background">
                     <hr />
                     <p>Crear tu perfil es tan sencillo como en Facebook. Deja que los demás sépan en que estás trabajando y actualiza el status de tu perfil diariamente.</p>
                     <a href="Code/templates/create_avatar.html" title="Da Click Aquí" target="_self">Da Click <span>Aquí</span></a>

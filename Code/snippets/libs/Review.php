@@ -189,7 +189,7 @@ class Review extends Model {
                 
                 $this->_PDOConn->beginTransaction();
                 
-                $info[ 'date_answer' ] = date( "Y/m/d" );
+                $info[ 'date_answer' ] = date( 'd-m-Y H:i:s' );
                 
                 $success    = $this->insert( $info );
                 
@@ -314,7 +314,7 @@ class Review extends Model {
                 
                 $this->_PDOConn->beginTransaction();
                 
-                $info[ 'date_answer' ] = date( "Y/m/d" );
+                $info[ 'date_answer' ] = date( 'd-m-Y H:i:s' );
                 
                 $success    = $this->insert( $info );
                 
@@ -442,7 +442,7 @@ class Review extends Model {
                 
                 $this->_PDOConn->beginTransaction();
                 
-                $info[ 'date_answer' ] = date( "Y/m/d" );
+                $info[ 'date_answer' ] = date( 'd-m-Y H:i:s' );
                 
                 $success    = $this->insert( $info );
                 
@@ -545,7 +545,7 @@ class Review extends Model {
                 
                 $this->_PDOConn->beginTransaction();
                 
-                $info[ 'date_answer' ] = date( "Y/m/d" );
+                $info[ 'date_answer' ] = date( 'd-m-Y H:i:s' );
                 
                 $success    = $this->insert( $info );
                 

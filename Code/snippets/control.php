@@ -6,25 +6,24 @@ session_start();
 header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
 header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
-if ( file_exists( 'config/config.php' ) ) {
-    
-    define( 'CURRENT_PATH', dirname( __FILE__ ) );
+if (file_exists('config/config.php') ){
+    define('CURRENT_PATH',dirname(__FILE__));
     require_once 'config/config.php';
     require_once LIBS_PATH . '/class.phpmailer.php';
-} else {
-    
+}
+else {
     exit('no fue posible localizar el archivo de configuración.');
 }
 
-function __autoload( $className ) {
-    
+function __autoload($className)
+{    
     require_once LIBS_PATH . "/{$className}.php";
 }
 
 require_once SNIPPETS_PATH . '/db/connection.php';
 
-$action = $_GET[ 'action' ];
-switch ( $action ) {
+$action = $_GET['action'];
+switch ($action) {
     case 'ingresar':
         header('Content-Type: application/json');
         $usuario = new Usuarios($dbh);
@@ -38,7 +37,7 @@ switch ( $action ) {
     case 'registrarVendedor':
         header('Content-Type: application/json');
         $vendedor = new Vendedores($dbh);
-        $success = $vendedor->registrarVendedor($_POST);        
+        $success = $vendedor->registrarVendedor($_POST);
         break;    
     case 'obtenerEmpresa':
         header('Content-Type: application/json');

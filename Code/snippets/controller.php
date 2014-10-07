@@ -1,4 +1,4 @@
-<?php
+                    <?php
 
 header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
 header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); // Date in the past
@@ -31,116 +31,127 @@ if ( ! empty( $_GET['action'] ) ) {
     try {
         
         switch ( $action ) {
+            //  !Formulario Agentes 1
             case 'agentFormSubmit':
                 
                 $data = json_encode ( Common::sendMailFromAgent( 'AndreaValeria.Mendoza@axa.com.mx', $_POST ) );
                 break;
+            //  !Formulario Agentes 2
             case 'agentFormSubmitTwo': 
                 
                 $data = json_encode ( Common::sendMailFromAgentSecond( 'AndreaValeria.Mendoza@axa.com.mx', $_POST ) );
                 break;
+            //  !Formulario Agentes 3
             case 'agentFormSubmitThree': 
                 
                 $data = json_encode ( Common::sendMailFromAgentThird( 'AndreaValeria.Mendoza@axa.com.mx', $_POST ) );
                 break;
+            //  !Formulario Agentes 4
             case 'agentFormSubmitFour': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'fourth_review' );
                 $doInsert   = $doInsert->insertReview( $_POST, 'envio_inventario_fourth.html', 'Encuesta ONE / Cuarto Review', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Ambassador 1
             case 'ambassadorFormSubmitOne': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'first_review_ambassador' );
                 $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_first_doubles.html', 'Encuesta ONE / Primer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network 1
             case 'managerNetworkFormSubmitOne': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'first_review_manager_network' );
                 $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_first_doubles.html', 'Encuesta ONE / Primer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Ambassador 2
             case 'ambassadorFormSubmitTwo': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'second_review_ambassador' );
                 $doInsert   = $doInsert->insertReviewSecondDoubles( $_POST, 'envio_inventario_second_doubles.html', 'Encuesta ONE / Segundo Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network 2
             case 'managerNetworkFormSubmitTwo': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'second_review_manager_network' );
                 $doInsert   = $doInsert->insertReviewSecondDoubles( $_POST, 'envio_inventario_second_doubles.html', 'Encuesta ONE / Segundo Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Ambassador 3
             case 'ambassadorFormSubmitThree': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'third_review_ambassador' );
                 $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_third_doubles.html', 'Encuesta ONE / Tercer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network 3
             case 'managerNetworkFormSubmitThree': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
                     array(
                         'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico') );
+                        'name'  => 'Vico') );*/
                 
                 $doInsert   = new Review( $dbh, 'third_review_manager_network' );
                 $doInsert   = $doInsert->insertReviewFirstDoubles( $_POST, 'envio_inventario_third_doubles.html', 'Encuesta ONE / Tercer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Ambassador 4
             case 'ambassadorFormSubmitFourth': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
@@ -150,15 +161,16 @@ if ( ! empty( $_GET['action'] ) ) {
                     array(
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel')
-                    );
+                    );*/
                 
                 $doInsert   = new Review( $dbh, 'fourth_review_ambassador' );
                 $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_ambassador.html', 'Encuesta ONE / Cuarto Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network 4
             case 'managerNetworkFormSubmitFourth': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'), 
@@ -168,13 +180,14 @@ if ( ! empty( $_GET['action'] ) ) {
                     array(
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel')
-                    );
+                    );*/
                 
                 $doInsert   = new Review( $dbh, 'fourth_review_manager_network' );
                 
                 $doInsert   = $doInsert->insertReviewThirdDoubles( $_POST, 'envio_inventario_fourth_manager_network.html', 'Encuesta ONE / Cuarto Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Crea Avatar
             case 'obtainAvatar': 
                 
                 $skin       = ( isset( $_POST[ 'skin' ] ) && !empty( $_POST[ 'skin' ] ) ) ? ( string ) $_POST[ 'skin' ] : "avatar_cara.png";
@@ -198,6 +211,7 @@ if ( ! empty( $_GET['action'] ) ) {
                 }
                 
                 break;
+            //  !Fuerza descarga de imagen
             case 'callImage':
                 
                 $file   = imagecreatefrompng( IMAGE_PATH . $_GET[ 'file' ] );
@@ -212,9 +226,10 @@ if ( ! empty( $_GET['action'] ) ) {
                 header( 'Content-Type: image/png' );
                 imagepng( $file );
                 break;
+            //  !Formulario Ambassador GoLive ONE 1
             case 'goliveAmbassadorFormSubmitOne': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'
@@ -227,7 +242,8 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel'
                     )
-                );
+                );*/
+                $cc = array();
                 
                 $doInsert   = new Review( $dbh, 'first_review_golive_ambassador' );
                 
@@ -295,9 +311,10 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_one.html', $placeholders, 'Encuesta ONE / Primer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network GoLive ONE 1
             case 'goLiveManagerNetworkFormSubmitOne': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'
@@ -310,7 +327,8 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel'
                     )
-                );
+                );*/
+                $cc = array();
                 
                 $doInsert   = new Review( $dbh, 'first_review_golive_manager_network' );
                 
@@ -378,9 +396,10 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_one.html', $placeholders, 'Encuesta ONE / Primer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Colaboradores GoLive ONE 1
             case 'goLiveColaboradoresFormSubmitOne': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'
@@ -393,7 +412,8 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel'
                     )
-                );
+                );*/
+                $cc = array();
                 
                 $doInsert   = new Review( $dbh, 'first_review_golive_colaboradores' );
                 
@@ -461,9 +481,10 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_one.html', $placeholders, 'Encuesta ONE / Primer Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Ambassador GoLive ONE 2
             case 'goliveAmbassadorFormSubmitTwo': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'
@@ -476,7 +497,8 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel'
                     )
-                );
+                );*/
+                $cc = array();
                 
                 $doInsert   = new Review( $dbh, 'second_review_golive_ambassador' );
                 
@@ -540,9 +562,10 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_two.html', $placeholders, 'Encuesta ONE / Segundo Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network GoLive ONE 2
             case 'goLiveManagerNetworkFormSubmitTwo': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'
@@ -555,7 +578,8 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel'
                     )
-                );
+                );*/
+                $cc = array();
                 
                 $doInsert   = new Review( $dbh, 'second_review_golive_manager_network' );
                 
@@ -619,9 +643,10 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_two.html', $placeholders, 'Encuesta ONE / Segundo Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Colaboradores GoLive ONE 2
             case 'goLiveColaboradoresFormSubmitTwo': 
                 
-                $cc = array( 
+                /*$cc = array( 
                     array( 
                         'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                         'name'  => 'Jesús'
@@ -634,7 +659,8 @@ if ( ! empty( $_GET['action'] ) ) {
                         'mail'  => 'mramirez@cmvasfalto.com.mx', 
                         'name'  => 'Mariel'
                     )
-                );
+                );*/
+                $cc = array();
                 
                 $doInsert   = new Review( $dbh, 'second_review_golive_colaboradores' );
                 
@@ -698,24 +724,13 @@ if ( ! empty( $_GET['action'] ) ) {
                 $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_two.html', $placeholders, 'Encuesta ONE / Segundo Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Ambassador GoLive ONE 3
             case 'goliveAmbassadorFormSubmitThree': 
                 
-                /*
-                $cc = array( 
-                    array( 
-                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
-                        'name'  => 'Jesús'
-                    ), 
-                    array(
-                        'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico'
-                    ), 
-                    array(
-                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
-                        'name'  => 'Mariel'
-                    )
-                );
-                */
+                
+                $cc = array( array( 'mail'  => 'jgarcia@cmvasfalto.com.mx', 'name'  => 'Jesús' ), array( 'mail'  => 'mramirez@cmvasfalto.com.mx', 'name'  => 'Mariel' ) );
+                
+                //$cc = array();
                 
                 $doInsert   = new Review( $dbh, 'third_review_golive_ambassador' );
                 
@@ -781,27 +796,15 @@ if ( ! empty( $_GET['action'] ) ) {
                 );
                 
                 //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_three.html', $placeholders, 'Encuesta ONE / Tercer Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
-                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_three.html', $placeholders, 'Encuesta ONE / Tercer Review Ambassador', 'jgarcia@cmvasfalto.com.mx' );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_three.html', $placeholders, 'Encuesta ONE / Tercer Review Ambassador', 'jgarcia@cmvasfalto.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Manager Network GoLive ONE 3
             case 'goLiveManagerNetworkFormSubmitThree': 
                 
-                /*
-                $cc = array( 
-                    array( 
-                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
-                        'name'  => 'Jesús'
-                    ), 
-                    array(
-                        'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico'
-                    ), 
-                    array(
-                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
-                        'name'  => 'Mariel'
-                    )
-                );
-                */
+                $cc = array( array( 'mail'  => 'jgarcia@cmvasfalto.com.mx', 'name'  => 'Jesús' ), array( 'mail'  => 'mramirez@cmvasfalto.com.mx', 'name'  => 'Mariel' ) );
+                
+                //$cc = array();
                 
                 $doInsert   = new Review( $dbh, 'third_review_golive_manager_network' );
                 
@@ -867,27 +870,15 @@ if ( ! empty( $_GET['action'] ) ) {
                 );
                 
                 //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_three.html', $placeholders, 'Encuesta ONE / Tercer Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
-                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_three.html', $placeholders, 'Encuesta ONE / Tercer Review Manager Network', 'jgarcia@cmvasfalto.com.mx' );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_three.html', $placeholders, 'Encuesta ONE / Tercer Review Manager Network', 'jgarcia@cmvasfalto.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
+            //  !Formulario Colaboradores GoLive ONE 3
             case 'goLiveColaboradoresFormSubmitThree': 
                 
-                /*
-                $cc = array( 
-                    array( 
-                        'mail'  => 'jgarcia@cmvasfalto.com.mx', 
-                        'name'  => 'Jesús'
-                    ), 
-                    array(
-                        'mail'  => 'vdavila@cmv.com.mx', 
-                        'name'  => 'Vico'
-                    ), 
-                    array(
-                        'mail'  => 'mramirez@cmvasfalto.com.mx', 
-                        'name'  => 'Mariel'
-                    )
-                );
-                */
+                $cc = array( array( 'mail'  => 'jgarcia@cmvasfalto.com.mx', 'name'  => 'Jesús' ), array( 'mail'  => 'mramirez@cmvasfalto.com.mx', 'name'  => 'Mariel' ) );
+                
+                //$cc = array();
                 
                 $doInsert   = new Review( $dbh, 'third_review_golive_colaboradores' );
                 
@@ -953,14 +944,237 @@ if ( ! empty( $_GET['action'] ) ) {
                 );
                 
                 //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_three.html', $placeholders, 'Encuesta ONE / Tercer Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
-                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_three.html', $placeholders, 'Encuesta ONE / Tercer Review Colaboradores', 'jgarcia@cmvasfalto.com.mx' );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_three.html', $placeholders, 'Encuesta ONE / Tercer Review Colaboradores', 'jgarcia@cmvasfalto.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            //  !Formulario Ambassador GoLive ONE 4
+            case 'goLiveAmbassadorFormSubmitFour': 
+                
+                $cc = array( array( 'mail'  => 'jgarcia@cmvasfalto.com.mx', 'name'  => 'Jesús' ), array( 'mail'  => 'mramirez@cmvasfalto.com.mx', 'name'  => 'Mariel' ) );
+                
+                //$cc = array();
+                
+                $doInsert       = new Review( $dbh, 'fourth_review_golive_ambassador' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta es obligatoria.') 
+                    ), 
+                    'fourteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La catorseava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                    , 'fourteen' => $_POST['fourteen'] 
+                );
+                
+                //$doInsert     = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_four.html', $placeholders, 'Encuesta ONE / Cuarto Review Ambassador', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doResponse     = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_ambassador_four.html', $placeholders, 'Encuesta ONE / Cuarto Review Ambassador', 'jgarcia@cmvasfalto.com.mx', $cc );
+                
+                $data           = json_encode ( $doResponse );
+                break;
+            //  !Formulario Manager Network GoLive ONE 3
+            case 'goLiveManagerNetworkFormSubmitFour': 
+                
+                $cc = array( array( 'mail'  => 'jgarcia@cmvasfalto.com.mx', 'name'  => 'Jesús' ), array( 'mail'  => 'mramirez@cmvasfalto.com.mx', 'name'  => 'Mariel' ) );
+                
+                //$cc = array();
+                
+                $doInsert   = new Review( $dbh, 'fourth_review_golive_manager_network' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta es obligatoria.') 
+                    ), 
+                    'fourteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La catorseava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                    , 'fourteen' => $_POST['fourteen'] 
+                );
+                
+                //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_four.html', $placeholders, 'Encuesta ONE / Cuarto Review Manager Network', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_manager_network_four.html', $placeholders, 'Encuesta ONE / Cuarto Review Manager Network', 'jgarcia@cmvasfalto.com.mx', $cc );
+                $data       = json_encode ( $doInsert );
+                break;
+            //  !Formulario Colaboradores GoLive ONE 3
+            case 'goLiveColaboradoresFormSubmitFour': 
+                
+                $cc = array( array( 'mail'  => 'jgarcia@cmvasfalto.com.mx', 'name'  => 'Jesús' ), array( 'mail'  => 'mramirez@cmvasfalto.com.mx', 'name'  => 'Mariel' ) );
+                
+                //$cc = array();
+                
+                $doInsert   = new Review( $dbh, 'fourth_review_golive_colaboradores' );
+                
+                $validations    = array(
+                    'one' => array(
+                        'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La primera pregunta es obligatoria.' ) 
+                    ),
+                    'two' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La segunda pregunta es obligatoria.') 
+                    ),
+                    'three' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La tercera pregunta es obligatoria.') 
+                    ),
+                    'four' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La cuarta pregunta es obligatoria.') 
+                    ),
+                    'five' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La quinta pregunta es obligatoria.') 
+                    ),
+                    'six' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La sexta pregunta es obligatoria.') 
+                    ),
+                    'seven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La séptima pregunta es obligatoria.') 
+                    ),
+                    'eight' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La octava pregunta es obligatoria.') 
+                    ),
+                    'nine' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La novena pregunta es obligatoria.') 
+                    ),
+                    'ten' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La décima pregunta no es obligatoria.') 
+                    ), 
+                    'eleven' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La onceava pregunta es obligatoria.') 
+                    ),
+                    'twelve' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La doceava pregunta es obligatoria.') 
+                    ), 
+                    'thirteen' => array(
+                        'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La treceava pregunta es obligatoria.') 
+                    ), 
+                    'fourteen' => array(
+                        'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode('La catorseava pregunta no es obligatoria.') 
+                    )
+                );
+                $placeholders   = array(
+                    'one' => $_POST['one']
+                    , 'two' => $_POST['two'] 
+                    , 'three' => $_POST['three'] 
+                    , 'four' => $_POST['four'] 
+                    , 'five' => $_POST['five'] 
+                    , 'six' => $_POST['six'] 
+                    , 'seven' => $_POST['seven'] 
+                    , 'eight' => $_POST['eight'] 
+                    , 'nine' => $_POST['nine'] 
+                    , 'ten' => $_POST['ten'] 
+                    , 'eleven' => $_POST['eleven'] 
+                    , 'twelve' => $_POST['twelve'] 
+                    , 'thirteen' => $_POST['thirteen'] 
+                    , 'fourteen' => $_POST['fourteen'] 
+                );
+                
+                //$doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_four.html', $placeholders, 'Encuesta ONE / Cuarto Review Colaboradores', 'AndreaValeria.Mendoza@axa.com.mx', $cc );
+                $doInsert   = $doInsert->insertGoLive( $_POST, $validations, 'envio_golive_colaboradores_four.html', $placeholders, 'Encuesta ONE / Cuarto Review Colaboradores', 'jgarcia@cmvasfalto.com.mx', $cc );
                 $data       = json_encode ( $doInsert );
                 break;
         }
         echo $data;
         
     } catch ( Exception $e ) {
-        
+        //  !Cachar excepciones
         switch ( $e->getCode() ) {
             
             case 5910 :
@@ -969,7 +1183,6 @@ if ( ! empty( $_GET['action'] ) ) {
                 break;
                 
             case 5810 :
-                var_dump($e->getMessage());
                 echo 'MAILER ERROR: '. $e->getMessage();
                 $message = 'Lo sentimos, ocurrió un error inesperado al tratar de enviar el correo.';
                 break;
