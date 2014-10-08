@@ -1,0 +1,52 @@
+.create-profile-landing
+    header
+        div
+            h1
+                @extend .cinco-pasos-para-crear-tu-perfil-one
+                margin: ( -194px / 2 ) auto 0 ( -581px / 2 )
+    section
+        div
+            h2
+                &:after
+                    @extend .icono-de-mano
+            h3
+                &:after
+                    @extend .icono-de-persona
+            h4
+                &:after
+                    @extend .icono-de-lapiz
+            h5
+                &:after
+                    @extend .icono-de-paisaje
+            h6
+                &:after
+                    @extend .icono-de-bocina
+            &:nth-child( 1n )
+                img
+                    margin-left: ( -402px / 2 )
+            &:nth-child( 2n )
+                img
+                    margin-left: ( -146px / 2 )
+            &:nth-child( 3n )
+                img
+                    margin-left: ( -385px / 2 )
+            &:nth-child( 4n )
+                img
+                    margin-left: ( -245px / 2 )
+            &:nth-child( 5n )
+                img
+                    margin-left: ( -82px / 2 )
+.lt-ie9
+    .create-profile-landing
+        section
+            div
+                h2 ~ img
+                    margin-left: ( -556px / 2 )
+                h3 ~ img
+                    margin-left: ( -192px / 2 )
+                h4 ~ img
+                    margin-left: ( -477px / 2 )
+                h5 ~ img
+                    margin-left: ( -326px / 2 )
+                h6 ~ img
+                    margin-left: ( -108px / 2 )

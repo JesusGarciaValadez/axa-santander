@@ -1,0 +1,28 @@
+/*
+Sass::SyntaxError: ".create-network-landing header div h1" failed to @extend ".cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one".
+The selector ".cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one" was not found.
+Use "@extend .cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one !optional" if the extend should be able to fail.
+
+
+Backtrace:
+/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-red-de-contactos-custom.sass:5
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/extend.rb:61:in `block in check_extends_fired!'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/util/subset_map.rb:106:in `block in each_value'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/util/subset_map.rb:106:in `each'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/util/subset_map.rb:106:in `each_value'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/extend.rb:50:in `check_extends_fired!'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/extend.rb:16:in `visit'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/tree/root_node.rb:39:in `css_tree'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/engine.rb:368:in `_render_with_sourcemap'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/engine.rb:285:in `render_with_sourcemap'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:396:in `run'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:62:in `process_result'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/CodeKit 2.app/Contents/Resources/engines/scss/bin/sass:13:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Sass::SyntaxError: \".create-network-landing header div h1\" failed to @extend \".cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one\".\A The selector \".cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one\" was not found.\A Use \"@extend .cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one !optional\" if the extend should be able to fail.\A "; }

@@ -12079,7 +12079,7 @@
 		},
 	"\/Code\/templates\/js\/vendor\/jquery-1.8.3.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery-1.8.3.min.js",
 		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery-1.8.3.min-ck.js",
@@ -12709,38 +12709,36 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/4_header.png": {
+	"\/landings\/assets\/css\/crear-tu-red-de-contactos.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/css\/crear-tu-red-de-contactos.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 23479,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/4_header.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/4_header.png",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros-movil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/AXA-reinventando-los-seguros.png": {
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 9122,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/AXA-reinventando-los-seguros.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/AXA-reinventando-los-seguros.png",
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/background.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 220177,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/background.jpg",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/background.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/barra-azul.jpg": {
 		"fileType": 16384,
@@ -12751,7 +12749,18 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/barra-azul.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/bg_header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201819,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/bg_header.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/bg_header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/btn_acualizar.png": {
 		"fileType": 32768,
@@ -12762,18 +12771,40 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/btn_acualizar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cien-kilobytes.png": {
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cinco-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6016,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cien-kilobytes.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cien-kilobytes.png",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cinco-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cinco-movil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cinco.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cinco.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cinco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/comunicar-es-de-todos-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13517,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/comunicar-es-de-todos-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/comunicar-es-de-todos-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/comunicar-es-de-todos.png": {
 		"fileType": 32768,
@@ -12784,7 +12815,40 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/comunicar-es-de-todos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29857,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69940,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro.png": {
 		"fileType": 32768,
@@ -12795,7 +12859,40 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/cuatro.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/descubre-one-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/descubre-one-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/descubre-one-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/descubre-one.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/descubre-one.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/descubre-one.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/dos-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/dos-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/dos-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/dos.png": {
 		"fileType": 32768,
@@ -12806,18 +12903,40 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/dos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twiter.png": {
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twitter-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9184,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twiter.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twiter.png",
+		"initialSize": 6110,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twitter-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twitter-movil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5267,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twitter.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/facebook-y-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/google-plus-y-facebook-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3473,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/google-plus-y-facebook-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/google-plus-y-facebook-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/google-plus-y-facebook.png": {
 		"fileType": 32768,
@@ -12828,7 +12947,18 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/google-plus-y-facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-paisaje-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-paisaje-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-paisaje-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-paisaje.png": {
 		"fileType": 32768,
@@ -12839,7 +12969,18 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-paisaje.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-persona-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-persona-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-persona-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-persona.png": {
 		"fileType": 32768,
@@ -12850,7 +12991,18 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-persona.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-personas-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15221,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-personas-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-personas-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-personas.png": {
 		"fileType": 32768,
@@ -12861,7 +13013,18 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-personas.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-red-de-contactos-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19134,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-red-de-contactos-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-red-de-contactos-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-red-de-contactos.png": {
 		"fileType": 32768,
@@ -12872,40 +13035,84 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/icono-de-red-de-contactos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea-separadora.png": {
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea_header-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1041,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea-separadora.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea-separadora.png",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea_header-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea_header-movil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/ONE-es-mas.png": {
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea_header.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/linea_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/one-es-mas-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/one-es-mas-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/one-es-mas-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/one-es-mas.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8014,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/ONE-es-mas.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/ONE-es-mas.png",
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/one-es-mas.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/one-es-mas.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/titulo_header.png": {
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/sprite-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 57531,
-		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/titulo_header.png",
-		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/titulo_header.png",
+		"initialSize": 111802,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/sprite-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/sprite-movil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/sprite.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/tres-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/tres-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/tres-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/tres.png": {
 		"fileType": 32768,
@@ -12916,7 +13123,18 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/tres.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno.png": {
 		"fileType": 32768,
@@ -12927,7 +13145,7 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/5-pasos-para-crear-tu-perfil-one\/axa-reinventando-los-seguros-movil.png": {
 		"fileType": 32768,
@@ -16520,118 +16738,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/landings\/Code\/templates\/sass\/_colors.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_colors.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/_colors.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": false
-		},
-	"\/landings\/Code\/templates\/sass\/_mixins.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_mixins.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/_mixins.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": false
-		},
-	"\/landings\/Code\/templates\/sass\/_normalize.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_normalize.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/_normalize.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": false
-		},
-	"\/landings\/Code\/templates\/sass\/_typographys.scss": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_typographys.scss",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/_typographys.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": 0
-		},
-	"\/landings\/Code\/templates\/sass\/_variables.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_variables.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/_variables.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": false
-		},
-	"\/landings\/Code\/templates\/sass\/crear-tu-perfil-own-mobile.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/crear-tu-perfil-own-mobile.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/crear-tu-perfil-own-mobile.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": false
-		},
-	"\/landings\/Code\/templates\/sass\/crear-tu-perfil-own.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 2,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/crear-tu-perfil-own.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/crear-tu-perfil-own.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": false
-		},
 	"\/landings\/Code\/templates\/sass\/crear-tu-perfil.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
@@ -16648,15 +16754,216 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/landings\/Code\/templates\/sass\/main.sass": {
+	"\/landings\/Code\/templates\/sass\/crear-tu-red-de-contactos.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 2,
 		"fileType": 2,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/main.sass",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/main.css",
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/crear-tu-red-de-contactos.sass",
+		"outputAbbreviatedPath": "\/landings\/assets\/css\/crear-tu-red-de-contactos.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/crear-tu-red-de-contactos-custom.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/crear-tu-red-de-contactos-custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/crear-tu-perfil-custom.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/crear-tu-perfil-custom.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/crear-tu-perfil-custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/crear-tu-red-de-contactos-custom.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/crear-tu-red-de-contactos-custom.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/crear-tu-red-de-contactos-custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/crear-tu-perfil-custom-mobile.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/crear-tu-perfil-custom-mobile.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/crear-tu-perfil-custom-mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/crear-tu-red-de-contactos-custom-mobile.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/crear-tu-red-de-contactos-custom-mobile.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/crear-tu-red-de-contactos-custom-mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_colors.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_colors.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_colors.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_general.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_general.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_general.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_general_mobile.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_general_mobile.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_general_mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_mixins.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_mixins.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_normalize.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_normalize.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_typographys.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_typographys.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_typographys.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/_variables.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/_variables.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/default-styles\/main.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/default-styles\/main.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -16689,6 +16996,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-crear-tu-perfil.scss",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-crear-tu-perfil.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/landings\/Code\/templates\/sass\/sprites\/sprite-crear-tu-red-de-contactos-mobile.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-crear-tu-red-de-contactos-mobile.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-crear-tu-red-de-contactos-mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/landings\/Code\/templates\/sass\/sprites\/sprite-crear-tu-red-de-contactos.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-crear-tu-red-de-contactos.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-crear-tu-red-de-contactos.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,

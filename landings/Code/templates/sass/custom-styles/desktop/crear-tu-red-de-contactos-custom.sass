@@ -1,0 +1,51 @@
+.create-network-landing
+    header
+        div
+            h1
+                @extend .cuatro-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo-one
+                margin: ( -159px / 2 ) auto 0 ( -580px / 2 )
+    section
+        div
+            h2
+                &:after
+                    @extend .icono-de-persona
+            h3
+                &:after
+                    @extend .icono-de-personas
+            h4
+                &:after
+                    @extend .icono-de-red-de-contactos
+            h5
+                &:after
+                    @extend .icono-de-paisaje
+            ul
+                clear: both
+                li
+                    color: $text-blue-color
+                    float: left
+                    margin: 1em 1.5em
+                    width: 30%
+            &:nth-child( 1n )
+                img
+                    margin-left: ( -402px / 2 )
+            &:nth-child( 2n )
+                img
+                    margin-left: ( -146px / 2 )
+            &:nth-child( 3n )
+                img
+                    margin-left: ( -385px / 2 )
+            &:nth-child( 4n )
+                img
+                    margin-left: ( -245px / 2 )
+.lt-ie9
+    .create-profile-landing
+        section
+            div
+                h2 ~ img
+                    margin-left: ( -556px / 2 )
+                h3 ~ img
+                    margin-left: ( -192px / 2 )
+                h4 ~ img
+                    margin-left: ( -477px / 2 )
+                h5 ~ img
+                    margin-left: ( -326px / 2 )

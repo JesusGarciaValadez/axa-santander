@@ -8,11 +8,11 @@ body
 .center
     display: block !important
     margin: 0 auto
-    width: 57.210965435%
+    width: 75%
 .desktop
 .mobile
     display: none !important
-.create-profile-landing
+body
     header
         background: url('../img/5-pasos-para-crear-tu-perfil-one/bg_header.jpg') no-repeat scroll center top transparent
         background-size: 100% 100%
@@ -22,31 +22,30 @@ body
             height: 314px
             position: relative
             width: 100%
-            img.header-ceil
-                margin: 30px 0 0 20px
             h1
-                @extend .cinco-pasos-para-crear-tu-perfil-one
                 color: transparent
                 left: 50%
-                margin: ( -194px / 2 ) auto 0 ( -581px / 2 )
                 position: absolute
                 top: 50%
-            a
-                @extend .descubre-one
-                color: transparent
-                position: absolute
-                right: 123px
-                text-decoration: none
-                top: 45px
-            .header-line
-                @extend .linea_header
-                position: absolute
-                right: 0px
-                top: 50px
+        img.header-ceil
+            margin: 30px 0 0 20px
+        a
+            @extend .descubre-one
+            color: transparent
+            position: absolute
+            right: 123px
+            text-decoration: none
+            top: 45px
+        .header-line
+            @extend .linea_header
+            position: absolute
+            right: 0px
+            top: 50px
     section
         div
             border-bottom: 1px solid #DFDFDF
             margin: 30px auto 0
+            min-height: 245px
             padding: 0 0 30px
             h2, h3, h4, h5, h6, p, ul li
                 @include font-mask( normal, em( 20, 16 ), 1.5em, $helvetica, $text-gray-color )
@@ -54,24 +53,29 @@ body
                     color: $text-blue-color
                     &.text-black
                         color: $text-black-color
+                strong
+                    color: $text-black-color
             h2, h3, h4, h5, h6
                 margin: 30px auto
                 position: relative
                 text-align: center
-                width: 50%
+                width: 55%
                 z-index: 1
                 &:before,&:after
                     content: ""
                     position: absolute
                 &:before
-                    left: -26%
-                    top: 20%
+                    left: -190px
+                    top: 5px
                     z-index: 1
                 &:after
-                    left: -15%
-                    top: 135%
+                    left: -130px
+                    top: 70px
                     z-index: 0
             p
+                clear: both
+                display: block
+                margin: 1em 0
                 text-align: center
             ul
                 margin: 0 0 0 35%
@@ -82,28 +86,18 @@ body
             h2
                 &:before
                     @extend .uno
-                &:after
-                    @extend .icono-de-mano
             h3
                 &:before
                     @extend .dos
-                &:after
-                    @extend .icono-de-persona
             h4
                 &:before
                     @extend .tres
-                &:after
-                    @extend .icono-de-lapiz
             h5
                 &:before
                     @extend .cuatro
-                &:after
-                    @extend .icono-de-paisaje
             h6
                 &:before
                     @extend .cinco
-                &:after
-                    @extend .icono-de-bocina
             img
                 clear: both
                 display: inline-block
@@ -111,25 +105,10 @@ body
                 position: relative
                 vertical-align: middle
                 z-index: 0
-            &:nth-child( 1n )
-                img
-                    margin-left: ( -402px / 2 )
-            &:nth-child( 2n )
-                img
-                    margin-left: ( -146px / 2 )
-            &:nth-child( 3n )
-                img
-                    margin-left: ( -385px / 2 )
-            &:nth-child( 4n )
-                img
-                    margin-left: ( -245px / 2 )
-            &:nth-child( 5n )
-                img
-                    margin-left: ( -82px / 2 )
     footer
-        div
-        .call-to-action
+        .wrapper
             background: $blue-background
+        .call-to-action
             display: block
             p
                 @include font-mask( normal, em( 25, 16 ), 1.5em, $helvetica, $white-color )
@@ -146,6 +125,7 @@ body
                 display: block
                 height: 68
                 margin: 0 auto 40px
+                padding: 0 20px
                 text-align: center
                 text-decoration: none
                 width: 310px
@@ -162,18 +142,4 @@ body
         .axa-isologotype
             img
                 float: right
-                margin: 0 auto
-.lt-ie9
-    .create-profile-landing
-        section
-            div
-                h2 ~ img
-                    margin-left: ( -556px / 2 )
-                h3 ~ img
-                    margin-left: ( -192px / 2 )
-                h4 ~ img
-                    margin-left: ( -477px / 2 )
-                h5 ~ img
-                    margin-left: ( -326px / 2 )
-                h6 ~ img
-                    margin-left: ( -108px / 2 )
+                margin: 1em auto
