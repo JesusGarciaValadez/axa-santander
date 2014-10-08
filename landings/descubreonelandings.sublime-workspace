@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-black-color"
+			],
+			[
+				"crear-tu-red-",
+				"sprite-crear-tu-red-de-contactos-custom-mobile"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
 				"i",
 				"important"
 			],
@@ -123,22 +135,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Code/templates/sass/crear-tu-perfil-own-mobile.sass",
-			"settings":
-			{
-				"buffer_size": 2889,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Code/templates/sass/crear-tu-perfil.sass",
-			"settings":
-			{
-				"buffer_size": 5685,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -188,7 +184,27 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/crear-tu-red-de-contactos.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-red-de-contactos.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-red-de-contactos-custom.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/mobile/crear-tu-red-de-contactos-custom-mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_general.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_general_mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/mobile/crear-tu-perfil-custom-mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-red-de-contactos.scss",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-red-de-contactos-mobile.scss",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-red-de-contactos-mobile.css",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-red-de-contactos.css",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-perfil-custom.sass",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/crear-tu-perfil.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/_typographys.scss",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-perfil-own-mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/_general_mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/_general_mobile",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-perfil-own.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/_general.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-perfil.scss",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-perfil.sass",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/head.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/landings/Code/templates/sass/crear-tu-perfil-own.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/landings/Code/templates/kit/crear-tu-perfil.kit",
@@ -295,27 +311,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/venta-cruzada-axa-facil/descargar-guia.html",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/protector-del-asegurado/clientes.html",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-con-auto-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-otro-ramo-2.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-con-auto-1/axa-twitter-y-facebook.jpg",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_mixins.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/style.scss",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_normalize.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_fonts.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/lealtad/plus-care.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/escoge-y-estrena.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_colors.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_all-sections.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_mixins.scss",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/template-aditional-blue-themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/template-historic-blue-themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/chunks/template-parent-blue-themed.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_displayable_bulletin_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_root_bulletin_parent_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/chunks/dt_displayable_bulletin.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_displayable_bulletin.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_downloadable_bulletin_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/form-of-september-2014-bulletin.kit"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-otro-ramo-2.html"
 	],
 	"find":
 	{
@@ -408,65 +404,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Code/templates/sass/crear-tu-perfil-own-mobile.sass",
-					"settings":
-					{
-						"buffer_size": 2889,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								64,
-								64
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Code/templates/sass/crear-tu-perfil.sass",
-					"settings":
-					{
-						"buffer_size": 5685,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4213,
-								4213
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1510.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -523,6 +462,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"micro",
+				"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/microinjertobojanini.sublime-project"
+			],
 			[
 				"mdmin",
 				"/Applications/MAMP/htdocs/minvielle_photography/minvielle.sublime-project"
