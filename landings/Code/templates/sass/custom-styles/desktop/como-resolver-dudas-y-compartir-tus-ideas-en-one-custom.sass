@@ -1,0 +1,32 @@
+.save-time-landing
+    header
+        div
+            h1
+                @extend .como-resolver-dudas-y-compartir-tus-ideas-en-one
+                margin: ( -217px / 2 ) auto 0 ( -859px / 2 )
+    section
+        div
+            h2
+                &:before
+                    @extend .foros
+                &:after
+                    @extend .icono-de-personas
+            h3
+                &:before
+                    @extend .blog
+                &:after
+                    @extend .icono-de-globo-de-mensaje
+            h4
+                &:before
+                    @extend .wikis
+                &:after
+                    @extend .icono-de-estrella
+            ul
+                margin: 10% auto 0 35%
+                width: 45%
+            p
+                margin: 10% auto 0 36.5%
+                text-align: left
+                width: 45%
+            p ~ ul
+                margin: 0 auto 0 35%

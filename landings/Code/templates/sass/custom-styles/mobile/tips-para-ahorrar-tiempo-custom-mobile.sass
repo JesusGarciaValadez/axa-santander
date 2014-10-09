@@ -1,0 +1,39 @@
+.save-time-landing
+    header
+        div
+            h1
+                @extend .tips-para-ahorrar-tiempo-en-one-es-mas-movil
+    section
+        div
+            h2
+                &:after
+                    @extend .icono-lupa-movil
+            h3
+                &:after
+                    @extend .icono-lapiz-movil
+            h4
+                &:after
+                    @extend .icono-liston-movil
+            h5
+                &:after
+                    @extend .icono-tachuela-movil
+            h6
+                &:after
+                    @extend .icono-www-movil
+            &:nth-child( 1n )
+                img
+                    margin-left: ( -402px / 2 )
+            &:nth-child( 2n )
+                img
+                    margin-left: ( -146px / 2 )
+            &:nth-child( 3n )
+                img
+                    margin-left: ( -385px / 2 )
+            &:nth-child( 4n )
+                img
+                    margin-left: ( -245px / 2 )
+            ul
+                margin: 0
+    footer
+        a
+            width: 180px !important
