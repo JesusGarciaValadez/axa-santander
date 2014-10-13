@@ -19,7 +19,7 @@ body
         //filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='assets/img/5-pasos-para-crear-tu-perfil-one/bg_header.jpg', sizingMethod='crop')
         //-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='assets/img/5-pasos-para-crear-tu-perfil-one/bg_header.jpg', sizingMethod='crop')"
         display: block
-        height: 314px !important
+        height: 219px !important
         div
             height: 314px
             position: relative
@@ -47,11 +47,11 @@ body
     section
         div
             border-bottom: 1px solid #DFDFDF
-            margin: 30px auto 0
-            min-height: 245px
-            padding: 0 0 30px
+            margin: 20px auto 0
+            min-height: 175px
+            padding: 0 0 20px
             h2, h3, h4, h5, h6, p, ul li
-                @include font-mask( normal, em( 20, 16 ), 1.5em, $helvetica, $text-gray-color )
+                @include font-mask( normal, em( 18, 16 ), 1em, $helvetica, $text-gray-color )
                 span
                     color: $text-blue-color
                     &.text-black
@@ -59,7 +59,7 @@ body
                 strong
                     color: $text-black-color
             h2, h3, h4, h5, h6
-                margin: 30px auto
+                margin: 20px auto
                 position: relative
                 text-align: center
                 width: 55%
@@ -68,12 +68,12 @@ body
                     content: ""
                     position: absolute
                 &:before
-                    left: -190px
-                    top: 5px
+                    left: -120px
+                    top: 15px
                     z-index: 1
                 &:after
-                    left: -130px
-                    top: 70px
+                    left: -80px
+                    top: 60px
                     z-index: 0
             h2
                 &:before
@@ -114,7 +114,7 @@ body
         .call-to-action
             display: block
             p
-                @include font-mask( normal, em( 25, 16 ), 1.5em, $helvetica, $white-color )
+                @include font-mask( normal, em( 18, 16 ), 1.5em, $helvetica, $white-color )
                 clear: both
                 display: block
                 margin: 30px auto
@@ -123,7 +123,7 @@ body
                     border-bottom: 5px solid $call-to-action-button
                     padding-bottom: 0px
             a
-                @include font-mask( normal, em( 20, 16 ), em( 63, 20 ), $helvetica, $white-color )
+                @include font-mask( normal, em( 18, 16 ), em( 63, 18 ), $helvetica, $white-color )
                 background: $call-to-action-button
                 display: block
                 height: 68
@@ -134,7 +134,7 @@ body
                 width: 310px
         .legend
             p
-                @include font-mask( normal, em( 25, 16 ), 1.5em, $helvetica, $text-black-color )
+                @include font-mask( normal, em( 18, 16 ), 1.5em, $helvetica, $text-black-color )
                 display: block
                 margin: 16px auto
                 text-align: center
