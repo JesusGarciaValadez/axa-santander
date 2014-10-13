@@ -6,6 +6,11 @@
                 margin: ( -159px / 2 ) auto 0 ( -580px / 2 )
     section
         div
+            h2,h3,h4,h5,h6
+                &:before
+                    left: -100px
+                &:after
+                    left: -60px
             h2
                 &:after
                     @extend .icono-de-persona
@@ -27,15 +32,15 @@
                     width: 30%
             &:nth-child( 1n )
                 img
-                    margin-left: ( -146px / 2 )
+                    margin-left: ( -141px / 2 )
             &:nth-child( 4n )
                 img
-                    margin-left: ( -378px / 2 )
+                    margin-left: ( -191px / 2 )
 .lt-ie9
     .create-profile-landing
         section
             div
                 h2 ~ img
-                    margin-left: ( -146px / 2 )
+                    margin-left: ( -141px / 2 )
                 h5 ~ img
-                    margin-left: ( -378px / 2 )
+                    margin-left: ( -232px / 2 )
