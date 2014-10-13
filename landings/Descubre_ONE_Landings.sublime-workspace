@@ -164,6 +164,17 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/crear-tu-red-de-contactos.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-red-de-contactos-custom.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/tips-para-ahorrar-tiempo-en-one.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/tips-para-ahorrar-tiempo-custom.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-red-de-contactos.scss",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-tips-para-ahorrar-tiempo.scss",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-perfil.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-red-de-contactos.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/tips-para-ahorrar-tiempo-en-one.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/como-resolver-dudas-y-compartir-tus-ideas-en-one.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-como-resolver-dudas-y-compartir-tus-ideas-en-one.css",
 		"/Applications/MAMP/htdocs/ProMeta/prometa.sublime-project",
 		"/Applications/MAMP/htdocs/ProMeta/Code/templates/kit/pro-meta.kit",
 		"/Applications/MAMP/htdocs/ProMeta/Code/chunks/footer.html",
@@ -280,18 +291,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_downloadable_bulletin_blue_themed.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/form-of-september-2014-bulletin.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_nav_menu_blue_themed.kit",
-		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/javascript/main.js",
-		"/Applications/MAMP/htdocs/equiver/Code/templates/javascript/Equiver.js",
-		"/Applications/MAMP/htdocs/equiver/Code/templates/sass/home.sass",
-		"/Applications/MAMP/htdocs/equiver/Code/templates/javascript/main.js",
-		"/Applications/MAMP/htdocs/equiver/Code/templates/kit/index.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/lealtad/escoge-y-estrena.html",
-		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/kit/index.kit",
-		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/kit/footer.kit",
-		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/kit/header.kit",
-		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/kit/head.kit",
-		"/Applications/MAMP/htdocs/minvielle_photography/index.html",
-		"/Applications/MAMP/htdocs/preset/Code/templates/kit/head.kit"
+		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/javascript/main.js"
 	],
 	"find":
 	{
@@ -449,6 +449,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 166.0,
+	"side_bar_width": 225.0,
 	"status_bar_visible": true
 }
