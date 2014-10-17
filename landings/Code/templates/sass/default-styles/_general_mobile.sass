@@ -27,19 +27,6 @@ body
                 margin: 70px auto 0 !important
                 position: relative
                 top: auto
-        a
-            color: transparent
-            margin: 30px 0 0
-            position: absolute
-            right: 0
-            text-align: right
-            text-decoration: none
-            top: 0
-        .header-line
-            @extend .linea_header-movil
-            position: absolute
-            right: 0
-            top: 35px
     section
         div
             border-bottom: 1px solid #DFDFDF
@@ -77,19 +64,19 @@ body
                         color: $text-black-color
             h2
                 &:before
-                    @extend .uno-movil
+                    @extend .uno-movil !optional
             h3
                 &:before
-                    @extend .dos-movil
+                    @extend .dos-movil !optional
             h4
                 &:before
-                    @extend .tres-movil
+                    @extend .tres-movil !optional
             h5
                 &:before
-                    @extend .cuatro-movil
+                    @extend .cuatro-movil !optional
             h6
                 &:before
-                    @extend .cinco-movil
+                    @extend .cinco-movil !optional
             img
                 display: block
                 position: static
@@ -117,3 +104,33 @@ body
             img
                 float: right
                 margin: ( 16px / 2 ) auto
+.landing
+    header
+        a
+            color: transparent
+            margin: 30px 0 0
+            position: absolute
+            right: 0
+            text-align: right
+            text-decoration: none
+            top: 0
+        .header-line
+            @extend .linea_header-movil !optional
+            position: absolute
+            right: 0
+            top: 35px
+.poll
+    header
+        a
+            color: transparent
+            margin: 30px 0 0
+            position: absolute
+            right: 0
+            text-align: right
+            text-decoration: none
+            top: 0
+        .header-line
+            @extend .linea_header-movil !optional
+            position: absolute
+            right: 0
+            top: 35px

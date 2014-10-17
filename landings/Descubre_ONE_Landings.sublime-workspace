@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bor",
+				"border"
+			],
+			[
 				"list-",
 				"list-style-position"
 			],
@@ -164,20 +168,34 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/primera-encuesta.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/javascript/main.js",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/assets/js/main.min.js",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/javascript/plugins.js",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/html_end_poll.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_general.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_colors.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/primera-encuesta-one.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_general_mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/mobile/primera-encuesta-one-custom-mobile.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/primera-encuesta-one.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/tips-para-ahorrar-tiempo-en-one.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/crear-tu-red-de-contactos.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/crear-tu-perfil.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/como-resolver-dudas-y-compartir-tus-ideas-en-one.kit",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-perfil-custom.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-red-de-contactos-custom.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/tips-para-ahorrar-tiempo-custom.sass",
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/como-resolver-dudas-y-compartir-tus-ideas-en-one-custom.sass",
 		"/Users/jgarcia/Desktop/index.html",
 		"/Users/jgarcia/Downloads/index.html",
 		"/Users/jgarcia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/crear-tu-red-de-contactos-custom.sass",
 		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/Axa_Seguros/landings/tips-para-ahorrar-tiempo-en-one.html",
 		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/Axa_Seguros/landings/como-resolver-dudas-y-compartir-tus-ideas-en-one.html",
 		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/Axa_Seguros/landings/crear-tu-perfil.html",
 		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/Axa_Seguros/landings/crear-tu-red-de-contactos.html",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/html_end.kit",
 		"/Users/jgarcia/Downloads/Index_perfiles_C.html",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_general_mobile.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/crear-tu-red-de-contactos.kit",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/kit/tips-para-ahorrar-tiempo-en-one.kit",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/custom-styles/desktop/tips-para-ahorrar-tiempo-custom.sass",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-crear-tu-red-de-contactos.scss",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/sprites/sprite-tips-para-ahorrar-tiempo.scss",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/crear-tu-perfil.sass",
@@ -277,21 +295,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/march-2014.scss",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/lealtad/cupon-best-western-descuento-veinticinco.html",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/venta-cruzada-axa-facil/descargar-guia.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/protector-del-asegurado/clientes.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-con-auto-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-otro-ramo-2.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/clientes-con-auto-1/axa-twitter-y-facebook.jpg",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_mixins.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/style.scss",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_normalize.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_fonts.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/lealtad/plus-care.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/escoge-y-estrena/escoge-y-estrena.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_colors.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_all-sections.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/css/sass/_mixins.scss",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/template-aditional-blue-themed.kit"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/protector-del-asegurado/clientes.html"
 	],
 	"find":
 	{
@@ -448,7 +452,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 225.0,
 	"status_bar_visible": true
 }
