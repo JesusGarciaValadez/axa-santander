@@ -13350,6 +13350,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/landings\/assets\/css\/cinco-consejos-para-contar-con-la-mejor-informacion.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/css\/cinco-consejos-para-contar-con-la-mejor-informacion.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/landings\/assets\/css\/como-resolver-dudas-y-compartir-tus-ideas-en-one.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -13864,6 +13873,314 @@
 		"initialSize": 11282,
 		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno.png",
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/uno.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6245,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4987,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201819,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header_chico.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151966,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header_chico.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header_chico.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header_grande.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161798,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header_grande.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/bg_header_grande.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cinco-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9597,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cinco-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cinco-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cinco.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3970,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cinco.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cinco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8367,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3945,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/descubre-one-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3778,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/descubre-one-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/descubre-one-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/descubre-one.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1916,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/descubre-one.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/descubre-one.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/dos-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8689,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/dos-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/dos-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/dos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4674,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/dos.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/dos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13133,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6814,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-red-de-contactos-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16366,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-red-de-contactos-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-red-de-contactos-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-red-de-contactos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9302,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-red-de-contactos.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-red-de-contactos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7127,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5152,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2787,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1020,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5952,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6659,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/sprite.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9616,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4127,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/uno-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8248,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/uno-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/uno-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/uno.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4048,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/uno.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/uno.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -19238,6 +19555,15 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
+	"\/landings\/buscador.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/buscador.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/landings\/Code\/snippets\/config\/config.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -20005,12 +20331,30 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/landings\/Code\/templates\/kit\/como-resolver-dudas-y-compartir-tus-ideas-en-one.kit": {
+	"\/landings\/Code\/templates\/kit\/6.- archivos.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/como-resolver-dudas-y-compartir-tus-ideas-en-one.kit",
-		"outputAbbreviatedPath": "\/landings\/como-resolver-dudas-y-compartir-tus-ideas-en-one.html",
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/6.- archivos.kit",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/6.- archivos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/Code\/templates\/kit\/7.- calendario.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/7.- calendario.kit",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/7.- calendario.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/Code\/templates\/kit\/buscador.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/buscador.kit",
+		"outputAbbreviatedPath": "\/landings\/buscador.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
@@ -20023,14 +20367,14 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/landings\/Code\/templates\/kit\/crear-tu-red-de-contactos.kit": {
+	"\/landings\/Code\/templates\/kit\/foros.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/crear-tu-red-de-contactos.kit",
-		"outputAbbreviatedPath": "\/landings\/crear-tu-red-de-contactos.html",
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/foros.kit",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/foros.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/landings\/Code\/templates\/kit\/head.kit": {
 		"fileType": 2048,
@@ -20059,6 +20403,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/landings\/Code\/templates\/kit\/noticias.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/noticias.kit",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/noticias.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/landings\/Code\/templates\/kit\/primera-encuesta.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -20068,14 +20421,30 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/landings\/Code\/templates\/kit\/tips-para-ahorrar-tiempo-en-one.kit": {
+	"\/landings\/Code\/templates\/kit\/red-de-contactos.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/tips-para-ahorrar-tiempo-en-one.kit",
-		"outputAbbreviatedPath": "\/landings\/tips-para-ahorrar-tiempo-en-one.html",
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/red-de-contactos.kit",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/red-de-contactos.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/Code\/templates\/sass\/cinco-consejos-para-contar-con-la-mejor-informacion.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/cinco-consejos-para-contar-con-la-mejor-informacion.sass",
+		"outputAbbreviatedPath": "\/landings\/assets\/css\/cinco-consejos-para-contar-con-la-mejor-informacion.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": false
 		},
 	"\/landings\/Code\/templates\/sass\/como-resolver-dudas-y-compartir-tus-ideas-en-one.sass": {
 		"createSourceMap": 1,
@@ -20090,7 +20459,7 @@
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
+		"shouldRunBless": 0,
 		"useLibsass": false
 		},
 	"\/landings\/Code\/templates\/sass\/crear-tu-perfil.sass": {
@@ -20120,6 +20489,22 @@
 		"outputAbbreviatedPath": "\/landings\/assets\/css\/crear-tu-red-de-contactos.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/cinco-consejos-para-contar-con-la-mejor-informacion-custom.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/cinco-consejos-para-contar-con-la-mejor-informacion-custom.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/cinco-consejos-para-contar-con-la-mejor-informacion-custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 1,
@@ -20198,6 +20583,22 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/tips-para-ahorrar-tiempo-custom.sass",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/tips-para-ahorrar-tiempo-custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/cinco-consejos-para-contar-con-la-mejor-informacion-custom-mobile.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/cinco-consejos-para-contar-con-la-mejor-informacion-custom-mobile.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/cinco-consejos-para-contar-con-la-mejor-informacion-custom-mobile.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -20438,6 +20839,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/landings\/Code\/templates\/sass\/sprites\/sprite-cinco-consejos-para-contar-con-la-mejor-informacion-mobile.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-cinco-consejos-para-contar-con-la-mejor-informacion-mobile.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-cinco-consejos-para-contar-con-la-mejor-informacion-mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/landings\/Code\/templates\/sass\/sprites\/sprite-cinco-consejos-para-contar-con-la-mejor-informacion.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-cinco-consejos-para-contar-con-la-mejor-informacion.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-cinco-consejos-para-contar-con-la-mejor-informacion.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
 	"\/landings\/Code\/templates\/sass\/sprites\/sprite-como-resolver-dudas-y-compartir-tus-ideas-en-one-mobile.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
@@ -20614,15 +21047,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/landings\/como-resolver-dudas-y-compartir-tus-ideas-en-one.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/como-resolver-dudas-y-compartir-tus-ideas-en-one.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/landings\/crear-tu-perfil.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -20632,11 +21056,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/landings\/crear-tu-red-de-contactos.html": {
+	"\/landings\/foros.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/crear-tu-red-de-contactos.html",
+		"inputAbbreviatedPath": "\/landings\/foros.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/noticias.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/noticias.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -20650,11 +21083,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/landings\/tips-para-ahorrar-tiempo-en-one.html": {
+	"\/landings\/red-de-contactos.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/tips-para-ahorrar-tiempo-en-one.html",
+		"inputAbbreviatedPath": "\/landings\/red-de-contactos.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
