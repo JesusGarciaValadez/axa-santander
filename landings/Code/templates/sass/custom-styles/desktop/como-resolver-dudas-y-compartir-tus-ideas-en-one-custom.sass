@@ -1,4 +1,4 @@
-.first-poll
+.save-time
     header
         div
             h1
@@ -7,6 +7,9 @@
     section
         div
             h2
+                content: " "
+                position: relative
+                top: -4em
                 &:before
                     @extend .foros
                 &:after
@@ -28,5 +31,13 @@
                 margin: 10% auto 0 36.5%
                 text-align: left
                 width: 45%
+                strong
+                    color: $text-blue-color
             p ~ ul
                 margin: 0 auto 0 35%
+            &:first-child
+                min-height: 235px
+                p
+                    margin: 1.5em auto 5em
+                    text-align: center
+                    width: 95%

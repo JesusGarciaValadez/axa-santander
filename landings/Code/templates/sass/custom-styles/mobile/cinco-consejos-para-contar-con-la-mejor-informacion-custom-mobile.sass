@@ -1,0 +1,31 @@
+.save-time-landing
+    header
+        div
+            h1
+                @extend .como-resolver-dudas-y-compartir-tus-ideas-en-one-movil
+    section
+        div
+            h2
+                &:before
+                    @extend .foros-movil
+                &:after
+                    @extend .icono-de-personas-movil
+            h3
+                &:before
+                    @extend .blog-movil
+                &:after
+                    @extend .icono-de-globo-de-mensaje-movil
+            h4
+                &:before
+                    @extend .wikis-movil
+                &:after
+                    @extend .icono-de-estrella-movil
+            ul
+                margin: 10% auto 0
+                width: 85%
+            p
+                margin: 10% auto 0
+                text-align: left
+                width: 80%
+            p ~ ul
+                margin: 0 auto
