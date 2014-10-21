@@ -27,7 +27,20 @@ body
                 margin: 70px auto 0 !important
                 position: relative
                 top: auto
-    section
+        a
+            color: transparent
+            margin: 30px 0 0
+            position: absolute
+            right: 0
+            text-align: right
+            text-decoration: none
+            top: 0
+        .header-line
+            @extend .linea_header-movil !optional
+            position: absolute
+            right: 0
+            top: 35px
+    section, form
         div
             border-bottom: 1px solid #DFDFDF
             margin: 60px auto 0
@@ -40,22 +53,15 @@ body
                     &.text-black
                         color: $text-black-color
             h2, h3, h4, h5, h6
-                margin: 180px auto 0
                 width: 100%
                 z-index: 1
                 &:before,&:after
                     content: ""
                     position: absolute
-                &:before
-                    left: 90px !important
-                    top: -160px
-                    z-index: 1
-                &:after
-                    left: 135px !important
-                    top: -115px
-                    z-index: 0
-            p
+            label, p
                 text-align: center
+                width: 100%
+                z-index: 1
             ul
                 margin: 0 auto
                 li
@@ -105,32 +111,31 @@ body
                 float: right
                 margin: ( 16px / 2 ) auto
 .landing
-    header
-        a
-            color: transparent
-            margin: 30px 0 0
-            position: absolute
-            right: 0
-            text-align: right
-            text-decoration: none
-            top: 0
-        .header-line
-            @extend .linea_header-movil !optional
-            position: absolute
-            right: 0
-            top: 35px
+    section, form
+        div
+            h2, h3, h4, h5, h6
+                margin: 180px auto 0
+                &:before
+                    left: 90px !important
+                    top: -160px
+                    z-index: 1
+                &:after
+                    left: 135px !important
+                    top: -115px
+                    z-index: 0
 .poll
-    header
-        a
-            color: transparent
-            margin: 30px 0 0
-            position: absolute
-            right: 0
-            text-align: right
-            text-decoration: none
-            top: 0
-        .header-line
-            @extend .linea_header-movil !optional
-            position: absolute
-            right: 0
-            top: 35px
+    form
+        .center
+            h2,h3,h4,h5,h6
+                margin: 90px auto 0
+                &:before
+                    left: 50% !important
+                    margin: 0 0 0 ( -85px / 2 )
+                    top: -95px
+                    z-index: 1
+        .input
+            padding: 0 !important
+            width: 90% !important
+            label
+                .radio
+                    padding: 0

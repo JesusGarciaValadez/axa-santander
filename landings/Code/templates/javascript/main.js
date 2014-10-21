@@ -113,7 +113,7 @@
                             
                             $( 'form' ).fadeOut( 300, function () {
                                 
-                                var _finished   = '<p class="thanks">Thank you for answer our form.</p>';
+                                var _finished   = '<p class="thanks">Agradecemos su participación.</p>';
                                 
                                 $( 'form' ).first()
                                            .empty()
@@ -134,7 +134,7 @@
                             var _markup = '<p></p>';
                             AxaS.openAlert( _title, _markup );
                         } else {
-                            alert( 'There\'s an error sending the information. Can you please try again?' );
+                            alert( 'Hubo un error enviando la informacion. ¿Puedes enviarla nuevamente?' );
                         }
                     }, 
                     cache: false

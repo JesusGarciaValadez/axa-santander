@@ -78,7 +78,8 @@ abstract class Model{
      * @see     self::_throwModelException()
      */
     
-    public function setMysqlConn( $conn = NULL ) {
+    public function setMysqlConn( $conn = NULL ) 
+    {
         
        if ( !$this->isValidResource($conn) ) {
            
@@ -113,7 +114,8 @@ abstract class Model{
      * @return  String    
      */
     
-    public function getTableName() {
+    public function getTableName() 
+    {
         return (string) $this->_tableName;
     }
     
@@ -157,7 +159,8 @@ abstract class Model{
      * @see     self::_throwModelException()
      */
     
-    public function setSqlQuery ( $sql   = '' ) {
+    public function setSqlQuery ( $sql   = '' ) 
+    {
         
         if( !empty ( $sql ) && is_string( $sql ) ) {
             
@@ -176,7 +179,8 @@ abstract class Model{
      * @return  String
      */
     
-    public function getSqlQuery() {
+    public function getSqlQuery() 
+    {
         
         return (string) $this->_sqlQuery;
     }
@@ -200,7 +204,8 @@ abstract class Model{
      * @return  int
      */
     
-    public function getNumRows () {
+    public function getNumRows () 
+    {
         
         return ( int ) $this->_numRows;
     }
@@ -213,7 +218,8 @@ abstract class Model{
      * @see     self::_throwModelException(), self::isValidConnResource(), self::_parseResults()
      */
     
-    public function execQuery() {
+    public function execQuery() 
+    {
         
         if ( !empty ( $this->_sqlQuery ) && !is_string( $this->_sqlQuery ) ) {
             
@@ -233,7 +239,8 @@ abstract class Model{
      * @see     self::_throwModelException()
      */
     
-    private function _parseResults() {
+    private function _parseResults() 
+    {
         
         $this->_resultSet   = array();
         $statementWords     = explode( ' ', $this->_sqlQuery );
@@ -278,7 +285,8 @@ abstract class Model{
      * @return mixed $resultSet
      */
     // !select
-    public function select ( array $fields = array(), array $conditions = array() ) {
+    public function select ( array $fields = array(), array $conditions = array() ) 
+    {
         
         $fields = ( !empty( $fields ) ) ? implode( ', ', $fields ) : '*';
         $where = ( isset( $conditions['where'] ) ) ? " WHERE {$conditions['where']}" : '';
@@ -290,8 +298,8 @@ abstract class Model{
     }
     
     //  !Insert
-    public function insert ( array $data ) {
-        
+    public function insert ( array $data ) 
+    {
         self::prepareDataToSave( $data );
         
         $lastInsertId = 0;
@@ -313,7 +321,8 @@ abstract class Model{
      * @return boolean
      */
     //  !update
-    public function update ( array $data , $where = '' ) {
+    public function update ( array $data , $where = '' ) 
+    {
         
         self::prepareDataToSave($data);
         
@@ -339,7 +348,8 @@ abstract class Model{
      * @return array
      */
     //  !find
-    public function find ( $id = 0 ) {
+    public function find ( $id = 0 ) 
+    {
         $id = (int) $id;
         
         $this->setSqlQuery( "SELECT * FROM {$this->_tableName} WHERE {$this->_primaryKey} = {$id};" )->execQuery();
@@ -356,7 +366,8 @@ abstract class Model{
      * @desc    Verifica que el parámetro de entrada representa un recurso.
      */
     //  !isValidResource
-    public static function isValidResource( $resource   = NULL ) {
+    public static function isValidResource( $resource   = NULL ) 
+    {
         
         return ( !empty ( $resource ) && is_object( $resource ) );
     }
@@ -371,7 +382,8 @@ abstract class Model{
      * @param array $data 
      */
     //  !prepareDataToSave
-    public static function prepareDataToSave ( array &$data ) {
+    public static function prepareDataToSave ( array &$data ) 
+    {
         
         foreach ($data as $key => $value) {
             

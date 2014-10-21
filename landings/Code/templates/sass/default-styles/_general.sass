@@ -29,6 +29,13 @@ body
                 left: 50%
                 position: absolute
                 top: 50%
+        a
+            @extend .descubre-one !optional
+            color: transparent
+            position: absolute
+            right: 123px
+            text-decoration: none
+            top: 45px
         img.header-ceil
             margin: 30px 0 0 20px
             position: absolute
@@ -117,6 +124,7 @@ body
             a
                 @include font-mask( normal, em( 18, 16 ), em( 63, 18 ), $helvetica, $white-color )
                 background: $call-to-action-button
+                border: 0 none transparent
                 display: block
                 height: 68
                 margin: 0 auto 40px
@@ -140,36 +148,25 @@ body
                 margin: 1em auto
 .landing
     header
-        a
-            @extend .descubre-one !optional
-            color: transparent
-            position: absolute
-            right: 123px
-            text-decoration: none
-            top: 45px
     section
         div
             h2, h3, h4, h5, h6, p, ul li
                 @include font-mask( normal, em( 18, 16 ), 1em, $helvetica, $text-gray-color )
 .poll
-    header
-        a
-            color: transparent
-            position: absolute
-            text-decoration: none
-            top: 45px
-        .discover-one
-            @extend .descubre-one !optional
-            right: 180px
-        .video-discover-one
-            @extend .video-descubre-one !optional
-            right: 0px
+    /*.video-discover-one
+        @extend .video-descubre-one !optional
+        right: 0px*/
     form
-        div
+        .center
             padding: 20px 0 0
+            &:last-child
+                border: 0 none transparent
+                .input
+                    padding: 0
             h2, h3, h4, h5, h6, p, ul li, label
                 @include font-mask( normal, em( 16, 16 ), 1.5em, $helvetica, $text-gray-color )
                 text-align: left
+                width: 43%
             .input
                 border: 0 none transparent
                 box-sizing: border-box
@@ -191,6 +188,7 @@ body
                     .radio
                         float: left
                         margin: 0 10px 0 0
+                        padding: 0
                         min-height: initial
                         span
                             @extend .radio !optional
@@ -210,14 +208,30 @@ body
                         line-height: em( 17, 16 )
                 &.checked
                     background-color: $radio-checked
+                input[type="submit"]
+                    @include font-mask( normal, em( 18, 16 ), em( 63, 18 ), $helvetica, $white-color )
+                    background: $call-to-action-button
+                    border: 0 none transparent
+                    display: block
+                    height: 68
+                    margin: 0 auto 20px
+                    padding: 0 20px
+                    text-align: center
+                    text-decoration: none
+                    width: 90%
+            p
+                @include font-mask( normal, em( 18, 16 ), 1.5em, $helvetica, $text-blue-color )
+                display: block
+                margin: 1em auto
+                text-align: center
             .error
                 clear: both
-                color: red
+                color: $call-to-action-button
                 display: block
-                margin: 20px auto 0
+                margin: 0 auto
                 width: 55%
         .thanks
-            @include font-mask( normal, em( 16, 16 ), 1.5em, $helvetica, $text-gray-color )
+            @include font-mask( normal, em( 20, 16 ), 1.5em, $helvetica, $text-blue-color )
             text-align: center
 .lt-ie9
     body
