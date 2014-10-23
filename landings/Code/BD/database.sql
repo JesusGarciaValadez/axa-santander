@@ -9,7 +9,6 @@ CREATE TABLE IF NOT EXISTS `first_poll`
   crear_perfil VARCHAR( 140 ) NOT NULL,
   consideras_tu_red VARCHAR( 140 ) NOT NULL,
   actualizas_tu_estatus VARCHAR( 140 ) NOT NULL,
-  capacidad_para_archivos VARCHAR( 140 ) NOT NULL,
   utilidad_de_one VARCHAR( 140 ) NOT NULL,
   date_answer VARCHAR( 140 ) NOT NULL, 
   CONSTRAINT pk_review PRIMARY KEY ( poll_id ) 
