@@ -113,7 +113,7 @@
                             
                             $( 'form' ).fadeOut( 300, function () {
                                 
-                                var _finished   = '<p class="thanks">Agradecemos su participación.</p>';
+                                var _finished   = '<p class="thanks">Gracias por ayudarnos a seguir mejorando.</p>';
                                 
                                 $( 'form' ).first()
                                            .empty()
