@@ -20336,18 +20336,18 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/6.- archivos.kit",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/6.- archivos.html",
+		"outputAbbreviatedPath": "\/landings\/6.- archivos.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/landings\/Code\/templates\/kit\/7.- calendario.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/7.- calendario.kit",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/7.- calendario.html",
+		"outputAbbreviatedPath": "\/landings\/7.- calendario.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/landings\/Code\/templates\/kit\/buscador.kit": {
 		"fileType": 2048,
@@ -20372,9 +20372,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/foros.kit",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/foros.html",
+		"outputAbbreviatedPath": "\/landings\/foros.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/landings\/Code\/templates\/kit\/head.kit": {
 		"fileType": 2048,
@@ -20417,9 +20417,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/noticias.kit",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/noticias.html",
+		"outputAbbreviatedPath": "\/landings\/noticias.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/landings\/Code\/templates\/kit\/primera-encuesta.kit": {
 		"fileType": 2048,
@@ -20435,27 +20435,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/red-de-contactos.kit",
-		"outputAbbreviatedPath": "\/landings\/Code\/templates\/red-de-contactos.html",
+		"outputAbbreviatedPath": "\/landings\/red-de-contactos.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/landings\/Code\/templates\/noticias.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/noticias.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/landings\/Code\/templates\/red-de-contactos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/red-de-contactos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/landings\/Code\/templates\/sass\/cinco-consejos-para-contar-con-la-mejor-informacion.sass": {
 		"createSourceMap": 1,
@@ -21121,7 +21103,7 @@
 		},
 	"\/landings\/red-de-contactos.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/red-de-contactos.html",
 		"outputAbbreviatedPath": "No Output Path",
