@@ -14,15 +14,13 @@
 		<string>box-bg-5.jpg</string>
 		<string>box-bg.jpg</string>
 		<string>box-bg-18.jpg</string>
+		<string>box-bg-24.jpg</string>
 		<string>box-bg-2.jpg</string>
 		<string>box-bg-14.jpg</string>
-		<string>box-bg-20.jpg</string>
 		<string>box-bg-7.jpg</string>
 		<string>box-bg-10.jpg</string>
-		<string>box-bg-19.jpg</string>
 		<string>box-bg-4.jpg</string>
 		<string>box-bg-15.jpg</string>
-		<string>box-bg-21.jpg</string>
 		<string>box-bg-9.jpg</string>
 		<string>box-bg-1.jpg</string>
 		<string>box-bg-11.jpg</string>
@@ -172,22 +170,7 @@
 			<key>Compression Factor</key>
 			<real>0.69999998807907104</real>
 		</dict>
-		<key>box-bg-19</key>
-		<dict>
-			<key>Compression Factor</key>
-			<real>0.69999998807907104</real>
-		</dict>
 		<key>box-bg-2</key>
-		<dict>
-			<key>Compression Factor</key>
-			<real>0.69999998807907104</real>
-		</dict>
-		<key>box-bg-20</key>
-		<dict>
-			<key>Compression Factor</key>
-			<real>0.69999998807907104</real>
-		</dict>
-		<key>box-bg-21</key>
 		<dict>
 			<key>Compression Factor</key>
 			<real>0.69999998807907104</real>
@@ -198,6 +181,11 @@
 			<real>0.69999998807907104</real>
 		</dict>
 		<key>box-bg-23</key>
+		<dict>
+			<key>Compression Factor</key>
+			<real>0.69999998807907104</real>
+		</dict>
+		<key>box-bg-24</key>
 		<dict>
 			<key>Compression Factor</key>
 			<real>0.69999998807907104</real>
@@ -262,7 +250,7 @@
 			<key>Compression Factor</key>
 			<real>0.69999998807907104</real>
 		</dict>
-		<key>image-14</key>
+		<key>image-15</key>
 		<dict>
 			<key>Compression Factor</key>
 			<real>0.69999998807907104</real>
@@ -348,7 +336,6 @@
 	<string>content.html</string>
 	<key>Images</key>
 	<array>
-		<string>image-14.png</string>
 		<string>image-5.png</string>
 		<string>image-11.png</string>
 		<string>image-4.png</string>
@@ -358,13 +345,14 @@
 		<string>image-8.png</string>
 		<string>image-10.png</string>
 		<string>image-2.png</string>
+		<string>image-15.png</string>
 		<string>image-7.png</string>
 		<string>image-12.png</string>
 		<string>image-1.png</string>
 		<string>image-6.png</string>
 	</array>
 	<key>Stationery ID</key>
-	<string>E43A4063-1C86-40E1-B5C0-8EB3AE83D80F</string>
+	<string>A8FF7976-DF16-4356-993C-850F12175CB8</string>
 	<key>Thumbnail Image</key>
 	<string>Thumbnail.jpg</string>
 </dict>
