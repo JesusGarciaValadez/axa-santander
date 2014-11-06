@@ -13877,6 +13877,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/almacena-informacion-de-tus-proyectos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12993,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/almacena-informacion-de-tus-proyectos.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/almacena-informacion-de-tus-proyectos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/axa-reinventando-los-seguros-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -13954,6 +13965,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/compartir-noticias-relevantes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13290,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/compartir-noticias-relevantes.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/compartir-noticias-relevantes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/cuatro-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -14020,6 +14042,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/google-plus-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7551,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/google-plus-facebook.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/google-plus-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-de-mano-movil.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -14068,7 +14101,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7127,
+		"initialSize": 9054,
 		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz-movil.png",
 		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-lapiz-movil.png",
 		"outputPathIsOutsideProject": 0,
@@ -14085,6 +14118,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-usb-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8898,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-usb-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-usb-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-usb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8898,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-usb.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/icono-usb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/linea_header-movil.png": {
 		"fileType": 32768,
@@ -14107,6 +14162,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/mis-lugares.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25049,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/mis-lugares.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/mis-lugares.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/one-es-mas-movil.png": {
 		"fileType": 32768,
@@ -14151,6 +14217,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/suscribete-a-los-canales.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29962,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/suscribete-a-los-canales.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/suscribete-a-los-canales.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/landings\/assets\/img\/5-consejos-para-contar-con-la-mejor-informacion\/tres-movil.png": {
 		"fileType": 32768,
@@ -27452,15 +27529,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
-		},
-	"\/mailings\/pasion-por-colaborar\/red-de-contactos\/content.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/red-de-contactos\/content.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/mailings\/pasion-por-colaborar\/red-de-contactos\/image-1.png": {
 		"fileType": 32768,
