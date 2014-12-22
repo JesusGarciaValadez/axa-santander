@@ -1,0 +1,39 @@
+.calendar
+    header
+        div
+            h1
+                //@extend .cuatro-consejos-para-optimizar-tus-tiempos-movil
+    section
+        div
+            h2
+                &:after
+                    @extend .icono-calendario-movil
+            h3
+                &:after
+                    @extend .icono-hojas-movil
+            h4
+                &:after
+                    @extend .icono-bandera-movil
+            h5
+                &:after
+                    @extend .icono-fecha-movil
+            p
+                display: block
+                margin: 1.5em auto
+                width: 50%
+            &:nth-child( 1n )
+                img
+                    margin-left: ( -150px / 2 )
+            &:nth-child( 2n )
+                img
+                    margin-left: ( -146px / 2 )
+    footer
+        .call-to-action
+            p
+                width: 275px
+            a
+                width: 80px
+        .legend
+            p
+                width: 275px
+

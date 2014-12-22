@@ -11,7 +11,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-144x144-precomposed.png": {
 		"fileType": 32768,
@@ -22,7 +22,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-57x57-precomposed.png": {
 		"fileType": 32768,
@@ -33,7 +33,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-72x72-precomposed.png": {
 		"fileType": 32768,
@@ -44,7 +44,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -55,7 +55,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -66,7 +66,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/snippets\/control.php": {
 		"fileType": 8192,
@@ -12290,7 +12290,7 @@
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -12324,6 +12324,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/assets\/css\/como-resolver-dudas-y-compartir-tus-ideas-en-one.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/assets\/css\/consejos-para-optimizar-tus-tiempos.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/assets\/css\/consejos-para-optimizar-tus-tiempos.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -12372,6 +12381,424 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/axa-reinventando-los-seguros-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6245,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/axa-reinventando-los-seguros-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/axa-reinventando-los-seguros-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/axa-reinventando-los-seguros.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4987,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/axa-reinventando-los-seguros.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/axa-reinventando-los-seguros.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201819,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header_chico.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151966,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header_chico.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header_chico.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header_grande.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161798,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header_grande.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/bg_header_grande.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cinco-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9597,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cinco-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cinco-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cinco.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3970,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cinco.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cinco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro-consejos-para-optimizar-tus-tiempos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30666,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro-consejos-para-optimizar-tus-tiempos.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro-consejos-para-optimizar-tus-tiempos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8367,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3945,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/cuatro.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/descubre-one-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3778,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/descubre-one-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/descubre-one-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/descubre-one.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1916,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/descubre-one.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/descubre-one.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/dos-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8689,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/dos-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/dos-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/dos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4674,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/dos.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/dos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/eventos-proximos-movil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5640,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/eventos-proximos-movil.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/eventos-proximos-movil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/eventos-proximos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27423,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/eventos-proximos.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/eventos-proximos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-bandera-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11578,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-bandera-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-bandera-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-bandera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11578,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-bandera.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-bandera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-calendario-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15381,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-calendario-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-calendario-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-calendario.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15381,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-calendario.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-calendario.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-clipboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10255,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-clipboard.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-clipboard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-fecha-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13217,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-fecha-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-fecha-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-fecha.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13217,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-fecha.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-fecha.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-hojas-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11331,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-hojas-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-hojas-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-hojas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11331,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-hojas.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-hojas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-paloma.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8237,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-paloma.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/icono-paloma.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/linea_header-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2787,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/linea_header-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/linea_header-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/linea_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1020,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/linea_header.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/linea_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/one-es-mas-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5952,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/one-es-mas-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/one-es-mas-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/one-es-mas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6659,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/one-es-mas.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/one-es-mas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/responsabilidad-corporativa-movil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5027,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/responsabilidad-corporativa-movil.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/responsabilidad-corporativa-movil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/responsabilidad-corporativa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26273,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/responsabilidad-corporativa.jpg",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/responsabilidad-corporativa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/sprite-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67600,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/sprite-mobile.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/sprite-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103710,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/sprite.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/tres-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9616,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/tres-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/tres-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/tres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4127,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/tres.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/tres.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/uno-movil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8248,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/uno-movil.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/uno-movil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/uno.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4048,
+		"inputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/uno.png",
+		"outputAbbreviatedPath": "\/landings\/assets\/img\/4-consejos-para-optimizar-tus-tiempos\/uno.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/landings\/assets\/img\/4-pasos-para-crear-tu-red-de-contactos-de-expertos-en-el-mundo\/axa-reinventando-los-seguros-movil.png": {
 		"fileType": 32768,
@@ -19061,6 +19488,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/landings\/calendario.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/calendario.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/landings\/Code\/snippets\/config\/config.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -19828,15 +20264,6 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/landings\/Code\/templates\/kit\/7.- calendario.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/7.- calendario.kit",
-		"outputAbbreviatedPath": "\/landings\/7.- calendario.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
-		},
 	"\/landings\/Code\/templates\/kit\/archivos.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -19852,6 +20279,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/buscador.kit",
 		"outputAbbreviatedPath": "\/landings\/buscador.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/landings\/Code\/templates\/kit\/calendario.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/kit\/calendario.kit",
+		"outputAbbreviatedPath": "\/landings\/calendario.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
@@ -19959,6 +20395,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/landings\/Code\/templates\/sass\/consejos-para-optimizar-tus-tiempos.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/consejos-para-optimizar-tus-tiempos.sass",
+		"outputAbbreviatedPath": "\/landings\/assets\/css\/consejos-para-optimizar-tus-tiempos.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
 	"\/landings\/Code\/templates\/sass\/crear-tu-perfil.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
@@ -20016,6 +20468,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/como-resolver-dudas-y-compartir-tus-ideas-en-one-custom.sass",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/como-resolver-dudas-y-compartir-tus-ideas-en-one-custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/consejos-para-optimizar-tus-tiempos-custom.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/consejos-para-optimizar-tus-tiempos-custom.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/consejos-para-optimizar-tus-tiempos-custom.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -20128,6 +20596,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/como-resolver-dudas-y-compartir-tus-ideas-en-one-custom-mobile.sass",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/como-resolver-dudas-y-compartir-tus-ideas-en-one-custom-mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/consejos-para-optimizar-tus-tiempos-custom-mobile.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/consejos-para-optimizar-tus-tiempos-custom-mobile.sass",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/consejos-para-optimizar-tus-tiempos-custom-mobile.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -20489,6 +20973,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-crear-tu-red-de-contactos.scss",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-crear-tu-red-de-contactos.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/landings\/Code\/templates\/sass\/sprites\/sprite-cuatro-consejos-para-optimizar-tus-tiempos-mobile.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-cuatro-consejos-para-optimizar-tus-tiempos-mobile.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-cuatro-consejos-para-optimizar-tus-tiempos-mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/landings\/Code\/templates\/sass\/sprites\/sprite-cuatro-consejos-para-optimizar-tus-tiempos.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprites\/sprite-cuatro-consejos-para-optimizar-tus-tiempos.scss",
+		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/sprite-cuatro-consejos-para-optimizar-tus-tiempos.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -26290,429 +26806,429 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-1.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-1.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-1.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-1.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-2.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-2.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-2.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-2.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-3.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-3.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-3.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-3.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/background-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-1.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-1.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-1.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-1.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-10.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-10.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-10.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-10.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-10.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-11.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-11.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3938,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-11.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-11.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-11.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-15.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-15.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-15.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-15.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-15.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-16.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-16.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-16.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-16.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-16.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-2.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3871,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-2.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-2.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-2.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-3.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-3.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-3.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-3.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-4.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-4.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-4.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-4.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-5.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3871,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-5.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-5.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-5.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-6.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3938,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-6.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-6.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-6.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-7.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-7.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-7.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-7.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-8.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-8.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-8.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-8.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-9.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-9.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-9.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-9.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3935,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/box-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/content.html": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/content.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/content.html",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/content.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-1.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 20365,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-1.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-1.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-1.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-11.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-11.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15861,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-11.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-11.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-11.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-11.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13-mobile.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 7471,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13-mobile.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13-mobile.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13-mobile.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 13203,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-13.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14-mobile.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 9626,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14-mobile.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14-mobile.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14-mobile.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 23321,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-14.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-2.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5902,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-2.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-2.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-2.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3-mobile.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 9202,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3-mobile.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3-mobile.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3-mobile.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 19637,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4-mobile.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5527,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4-mobile.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4-mobile.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4-mobile.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3825,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5-mobile.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 9439,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5-mobile.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5-mobile.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5-mobile.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 53880,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6-mobile.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5553,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6-mobile.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6-mobile.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6-mobile.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 16548,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-7.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-7.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 24428,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-7.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-7.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-7.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-7.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-8.png": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-8.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4406,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-8.png",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-8.png",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-8.png",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/image-8.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Mail Designer\/Thumbnail.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Mail Designer\/Thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32999,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Mail Designer\/Thumbnail.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Mail Designer\/Thumbnail.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Mail Designer\/Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Mail Designer\/Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/page-bg.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/page-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3871,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/page-bg.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/page-bg.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/page-bg.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/page-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Thumbnail.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5582,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Thumbnail.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Thumbnail.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/Contents\/Resources\/Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/QuickLook\/Thumbnail.jpg": {
+	"\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/QuickLook\/Thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32999,
-		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/QuickLook\/Thumbnail.jpg",
-		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/QuickLook\/Thumbnail.jpg",
+		"inputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/QuickLook\/Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/mailings\/pasion-por-colaborar\/Pasión por colaborar - Red de contactos.eqstationerypro\/QuickLook\/Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
