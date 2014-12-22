@@ -1,0 +1,36 @@
+.files
+    header
+        div
+            h1
+                //@extend .tips-para-ahorrar-tiempo-en-one-es-mas-movil
+    section
+        div
+            h2
+                &:after
+                    @extend .icono-de-papelera-movil
+            h3
+                &:after
+                    @extend .icono-de-hojas-movil
+            h4
+                &:after
+                    @extend .icono-de-basurero-movil
+            h5
+                &:after
+                    @extend .icono-de-liston-movil
+            &:nth-child( 1n )
+                img
+                    margin-left: ( -214px / 2 )
+            ul
+                position: static
+                li
+                    @include font-mask( normal, em( 13, 16 ), 1.5em, $helvetica, $text-blue-color )
+    footer
+        .call-to-action
+            p
+                font-size: em( 15, 16 )
+                width: auto
+            a
+                width: 210px !important
+        .legend
+            p
+                width: auto

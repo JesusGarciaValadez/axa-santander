@@ -1,0 +1,60 @@
+.files
+    header
+        div
+            h1
+                //@extend .tips-para-ahorrar-tiempo-en-one-es-mas
+                //margin: ( -179px / 2 ) auto 0 ( -590px / 2 )
+    section
+        div
+            position: relative
+            h2
+                &:after
+                    @extend .icono-de-papelera
+            h3
+                &:after
+                    @extend .icono-de-hojas
+            h4
+                &:after
+                    @extend .icono-de-basurero
+            h5
+                &:after
+                    @extend .icono-de-liston
+            &:nth-child( 1n )
+                img
+                    margin-left: ( -340px / 2 )
+            &:nth-child( 2n )
+                img
+                    margin-left: ( -99px / 2 )
+            &:nth-child( 3n )
+                img
+                    margin-left: ( -53px / 2 )
+            &:nth-child( 4n )
+                img
+                    margin-left: ( -300px / 2 )
+            ul
+                bottom: 15%
+                position: absolute
+                right: -5%
+                li
+                    @include font-mask( normal, em( 18, 16 ), 1.5em, $helvetica, $text-blue-color )
+    footer
+        .call-to-action
+            p
+                width: 360px
+            a
+                width: 315px !important
+        .legend
+            p
+                width: 310px
+.lt-ie9
+    .create-profile-landing
+        section
+            div
+                h2 ~ img
+                    margin-left: ( -340px / 2 )
+                h3 ~ img
+                    margin-left: ( -99px / 2 )
+                h4 ~ img
+                    margin-left: ( -53px / 2 )
+                h5 ~ img
+                    margin-left: ( -300px / 2 )
