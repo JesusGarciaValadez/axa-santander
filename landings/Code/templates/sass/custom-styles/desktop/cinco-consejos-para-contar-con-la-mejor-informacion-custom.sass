@@ -2,22 +2,30 @@
     header
         div
             h1
-                //@extend .como-resolver-dudas-y-compartir-tus-ideas-en-one
-                margin: ( -166px / 2 ) auto 0 ( -658px / 2 )
+                @extend .titulo
+                margin: ( -174px / 2 ) auto 0 ( -555px / 2 )
     section
         div
             h2
                 &:after
                     @extend .icono-de-mano
+                & ~ img
+                    margin: 0 0 0 ( -364px / 2 )
             h3
                 &:after
                     @extend .icono-de-red-de-contactos
+                & ~ img
+                    margin: 0 0 0 ( -244px / 2 )
             h4
                 &:after
                     @extend .icono-lapiz
+                & ~ img
+                    margin: 0 0 0 ( -364px / 2 )
             h5
                 &:after
                     @extend .icono-usb
+                & ~ img
+                    margin: 0 0 0 ( -181px / 2 )
             p
                 display: block
                 margin: 1.5em auto
