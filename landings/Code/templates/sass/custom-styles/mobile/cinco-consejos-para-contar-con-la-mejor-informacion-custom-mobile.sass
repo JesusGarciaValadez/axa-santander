@@ -2,8 +2,8 @@
     header
         div
             h1
-                //@extend .como-resolver-dudas-y-compartir-tus-ideas-en-one-movil
-                margin: ( -166px / 2 ) auto 0 ( -658px / 2 )
+                @extend .titulo-movil
+                margin: ( -172px / 2 ) auto 0 ( -293px / 2 )
     section
         div
             h2
@@ -15,6 +15,8 @@
             h4
                 &:after
                     @extend .icono-lapiz-movil
+                & ~ p
+                    width: 95%
             h5
                 &:after
                     //@extend .icono-de-usb-movil
