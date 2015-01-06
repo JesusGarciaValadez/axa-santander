@@ -25,28 +25,26 @@
                 &:after
                     @extend .icono-de-estrella
             ul
-                margin: 18% auto 0 30%
-                width: 45%
+                margin: 10% auto 0 47%
+                width: 69%
+                li
+                    margin: 10px auto 0
             p
-                margin: 8% auto 0 50%
+                margin: 18% auto 0 35% !important
                 text-align: left
-                width: 45%
+                width: 70%
                 strong
                     color: $text-blue-color
             p ~ ul
-                margin: 16% auto 0 30%
+                margin: 0 auto 0 32% !important
             &:first-child
                 min-height: 235px
                 p
-                    margin: 1.5em auto 5em
+                    margin: 1.5em auto 5em !important
                     text-align: center
                     width: 95%
-            &:last-child
-                p ~ ul
-                    margin: 2% auto 0 30%
-.lt-ie9
-    .save-time
-        section
-            div
-                h4 ~ ul
-                    margin: 2% auto 0 30%
+                ul
+                    margin: 17% auto 0 30% !important
+            &:nth-child( 2n )
+                ul
+                    margin: 17% auto 0 30% !important

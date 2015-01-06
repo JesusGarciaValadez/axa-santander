@@ -25,11 +25,14 @@
                 &:after
                     @extend .icono-de-estrella-movil
             ul
-                margin: 10% auto 0
+                margin: 10% auto 0 !important
                 width: 85%
             p
                 margin: 10% auto 0
                 text-align: left
                 width: 80%
             p ~ ul
-                margin: 0 auto
+                margin: 10% auto !important
+            &:first-child, &:nth-child( 2n ), &:last-child
+                ul
+                    margin: 10% auto 0 !important
