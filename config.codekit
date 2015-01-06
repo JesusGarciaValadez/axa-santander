@@ -23943,6 +23943,15 @@
 		"shouldRunBless": 1,
 		"useLibsass": false
 		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/cuarta-encuesta-one-custom-mobile.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/cuarta-encuesta-one-custom-mobile.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/landings\/Code\/templates\/sass\/custom-styles\/desktop\/cinco-consejos-para-contar-con-la-mejor-informacion-custom.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
@@ -24204,7 +24213,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 2,
 		"fileType": 2,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/cuarta-encuesta-one-custom-mobile.sass",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/cuarta-encuesta-one-custom-mobile.css",
@@ -24236,7 +24245,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 2,
 		"fileType": 2,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/segunda-encuesta-one-custom-mobile.sass",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/segunda-encuesta-one-custom-mobile.css",
@@ -24252,7 +24261,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 2,
 		"fileType": 2,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/mobile\/tercera-encuesta-one-custom-mobile.sass",
 		"outputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/tercera-encuesta-one-custom-mobile.css",
@@ -24294,6 +24303,24 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 1,
 		"useLibsass": false
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/segunda-encuesta-one-custom-mobile.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/segunda-encuesta-one-custom-mobile.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/Code\/templates\/sass\/custom-styles\/tercera-encuesta-one-custom-mobile.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/Code\/templates\/sass\/custom-styles\/tercera-encuesta-one-custom-mobile.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/landings\/Code\/templates\/sass\/default-styles\/_colors.sass": {
 		"createSourceMap": 1,
