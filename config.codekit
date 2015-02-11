@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18270",
+"creatorBuild": "18493",
 "files": {
 	"\/apple-touch-icon-114x114-precomposed.png": {
 		"fileType": 32768,
@@ -26077,6 +26077,136 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/landings\/mailing\/buscador\/btn_comienza.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2999,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/btn_comienza.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/btn_comienza.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/btn_pruebalo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2253,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/btn_pruebalo.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/btn_pruebalo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/buscador.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/buscador.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landings\/mailing\/buscador\/header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47340,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/header.jpg",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38474,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/header.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/icono_1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8518,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/icono_1.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/icono_1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/icono_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5672,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/icono_2.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/icono_2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/icono_3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7947,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/icono_3.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/icono_3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/linea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1240,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/linea.jpg",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/linea.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/logo_footer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5534,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/logo_footer.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/logo_footer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/logo_one.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12881,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/logo_one.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/logo_one.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/landings\/mailing\/buscador\/tip.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2699,
+		"inputAbbreviatedPath": "\/landings\/mailing\/buscador\/tip.png",
+		"outputAbbreviatedPath": "\/landings\/mailing\/buscador\/tip.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/landings\/noticias.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -33245,6 +33375,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"indentation": {
 			"active": 1,
 			"flagValue": 2
@@ -33336,6 +33470,10 @@
 		"space_operators": {
 			"active": 0,
 			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
 			}
 		},
 	"coffeeMinifyOutput": 1,
@@ -33392,6 +33530,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"camelcase": {
 			"active": 0,
 			"flagValue": -1
@@ -33414,6 +33556,10 @@
 			},
 		"dojo": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeqeq": {
@@ -33468,6 +33614,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"jquery": {
 			"active": 1,
 			"flagValue": -1
@@ -33511,6 +33661,10 @@
 		"maxstatements": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"mootools": {
 			"active": 0,
@@ -33577,6 +33731,10 @@
 			"flagValue": -1
 			},
 		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -33804,6 +33962,7 @@
 	"slimAutoOutputPathStyle": 0,
 	"slimCompileOnly": 0,
 	"slimLogicless": 0,
+	"slimOutputFormat": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
@@ -33828,8 +33987,9 @@
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
-	"typescriptNoResolve": 0,
+	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
 	"typescriptTargetECMAVersion": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
@@ -33866,6 +34026,10 @@
 			"flagValue": -1
 			},
 		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -33909,6 +34073,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -33921,8 +34089,16 @@
 			"active": 1,
 			"flagValue": 32000
 			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"properties": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {
