@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Axa Liderazgo</title>
+    <style type="text/css">
+      <!--
+      body{
+        margin:0;
+        padding:0;
+        font-family:Arial, Helvetica, sans-serif;
+        color:#999;
+        font-size:100%;
+      }
+      img{
+        max-width:100%;
+        height:auto;
+      }
+      .container{
+        display:block;
+        position:relative;
+        width:100%;
+        max-width:650px;
+        margin:0 auto 20px auto;
+        text-align:center;
+      }
+      .separador{
+        position:relative;
+        display:block;
+        height:10px;
+      }
+      .dotted{
+        border-top:1px dotted #E6E7E8;
+        color:#E6E7E8;
+        background-color:#fff;
+        height:1px;
+        width:80%;
+      }
+      .parrafo{
+        max-width:650px;
+        display:block;
+        position:relative;
+        text-align:justify;
+        color:#999;
+        font-size:.9em;
+        padding:10px 20px 10px 0;
+      }
+      .btnaqui{
+       position:relative;
+       vertical-align:middle;
+      }
+      .franja{
+       background-color:#1F3D7C;
+       font-size:.9em;
+       color:#FFF;
+       padding:20px 30px;
+      }
+      .header2{
+       font-size:1.2em;
+       color:#999;
+       padding:0 30px 20px 30px;
+      }
+      .subtitulos{
+        text-align:left;
+        background-color:#E6E7E8;
+        font-size:1.1em;
+        color:#1F3D7C;
+        height:auto;
+        padding:10px 20px 10px 20px;
+      }
+      .parrafocolumna{
+        display:block;
+        position:relative;
+        margin:0 auto 20px 20px;
+        padding:10px 20px;
+        max-width:630px;
+        text-align:justify;
+        color:#999;
+        font-size:14px;
+      }
+      .bgcolumnas{
+        padding:0 30px 0 30px;
+        height:auto;
+      }
+      .estamos{
+        width:30%;
+        padding:2px 0 2px 0;
+        float:right;
+      }
+      .columnatexto{
+        float:left;
+        text-align:justify;
+        color:#999;
+        font-size:14px;
+        margin:auto 20px auto 20px;
+      }
+      .bggraficas{
+        width:100%;
+        background-color:#fff;
+        height:auto;
+        padding:10px 0 10px 0;
+      }
+      .todos{
+        width:50%;
+      }
+      .logo{
+        float:right;
+        width:40%;
+      }
+      .footer{
+        background-color: #FFF;
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+        font-weight: normal;
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        text-align: center;
+        line-height: 5px;
+      }
+      a:link {
+      	color: #FFF;
+      }
+      .greeting{
+          clear: both;
+          color:#005696;
+          display: block;
+          font-size:16px;
+          font-family:Helvetica,Arial,'sans-serif';
+      }
+      .image{
+          display: block;
+          clear: both;
+          margin: 0 auto;
+      }
+      .separator, .line_blue, .line_white,
+      .line_navy {
+          height: 0;
+          border: 0 none transparent;
+          border-top: 2px dashed red;
+          display: block;
+          clear: both;
+      }
+      .solid{ border-style: solid; }
+      .line_blue{ border-color: #397ABF; }
+      .line_white{ border-color: #FFF; }
+      .line_navy{ border-color: #61AAD9; }
+      .nombre_cliente {
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 16px;
+          font-style: normal;
+          font-weight: normal;
+          color: #0C529C;
+          padding: 10px;
+          text-align: left;
+      }
+      .texto {
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 16px;
+          font-style: normal;
+          font-weight: normal;
+          line-height: 1.1em;
+          color: #0C529C;
+          padding: 0;
+          margin: 0;
+          text-align: center;
+      }
+      .legales {
+          background-color:#CCC;
+          color:#666 !important;
+          font-family:Arial, Helvetica, sans-serif;
+          font-size:9px !important;
+          font-weight:normal !important;
+          line-height:1em !important;
+          padding:0 3px;
+          text-align:left !important;
+          text-decoration:none;
+      }
+      ol{ margin: 10px 0; padding: 0; }
+      .text,.text_gray,.text_aqua,
+      .text_white,.text_blue,.foot_note,
+      .agent_text,.text_red, .text_navy,
+      .text_gold,.text_pink, .text_mexican_pink,
+      .text_dark_blue, .text_light_blue, .text_light_blue_two,
+      .text_pink_cancer, .text_pink_cancer_two{
+          font-family: Arial, Helvetica, "sans-serif";
+          font-style: normal;
+          font-weight: normal;
+          line-height: 1.5em;
+          padding: 0;
+          margin: 10px auto;
+          text-align: left;
+      }
+      p,h1,h2,h3,h4,h5,h6{
+        display:block;
+        margin-top:0 !important;
+        margin-left:auto !important;
+        margin-bottom:0 !important;
+        margin-right:auto !important;
+        padding-top:1.2;
+        padding-left:0;
+        padding-bottom:1.2;
+        padding-right:0;
+      }
+      .text_gray{ color: #53534A;}
+      .text_dark_blue{ color: #1D3A64; }
+      .text_white{ color: #FFF; }
+      .text_aqua{ color: #3694B2; }
+      .text_blue{ color: #23509B; }
+      .text_navy{ color: #1C86C5; }
+      .text_light_blue{ color: #61AAD9; }
+      .text_light_blue_two{ color: #68A7DD; }
+      .text_red{ color: #E83746; }
+      .text_gold{ color: #B9906F; }
+      .text_pink{ color: #D80056; }
+      .text_mexican_pink{ color: #BF009D; }
+      .text_pink_cancer{ color: #E2009B; }
+      .text_pink_cancer_two{ color: #D36BA8; }
+      .left{ text-align: left; }
+      .centered{ text-align: center; }
+      .right{ text-align: right; }
+      .justified{ text-align: justify; }
+      .align_left{ float: left; height: auto; }
+      .align_right{ float: right; height: auto; }
+      .align_none{ float: none; }
+      .clear{ clear:both; }
+      .foot_note{ font-size: 11px; }
+      .complete{ width: 100%; }
+      .ultra_big{ font-size: 25px; }
+      .super_big{ font-size: 22px; }
+      .so_big{ font-size: 18px; }
+      .big{ font-size: 15px; }
+      .medium{ font-size: 13px; }
+      .small{ font-size: 11px; }
+      .very_small{ font-size: 9px; }
+      .bold{ font-weight: bold; }
+      .list{ list-style: none outside; margin: 0; padding: 0; }
+      .quince{ width: 15%; }
+      .veinte{ width: 20%; }
+      .veinticinco{ width: 25%; }
+      .treinta{ width: 30%; }
+      .treinta_y_cinco{ width: 35%; }
+      .cuarenta{ width: 40%; }
+      .cuarenta_y_cinco{ width: 45%; }
+      .cincuenta{ width: 50%; }
+      .cincuenta_y_cinco{ width: 55%; }
+      .sesenta{ width: 60%; }
+      .sesenta_y_cinco{ width: 65%; }
+      .setenta{ width: 70%; }
+      .setenta_y_cinco{ width: 75%; }
+      .ochenta{ width: 80%; }
+      .ochenta_y_cinco{ width: 85%; }
+      .noventa{ width: 90%; }
+      .noventa_y_cinco{ width: 95%; }
+      img[rel="tip-logo"]{
+        display:block;
+        padding-top:35px;
+        padding-left:35px;
+        padding-bottom:35px;
+        padding-right:35px;
+      }
+      img[rel="cta"]{
+        float: right;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+      }
+      img[rel="subject-image"]{
+        display: block;
+        padding-top:36%;
+        padding-left:20%;
+        padding-bottom:36%;
+        padding-right:20%;
+      }
+      div[class="subject-text"] h2{
+
+      }
+      @media screen and (min-width:321px) and (max-width:650px){
+        .justified{ text-align: justify; }
+        .align_left{ float: none; height: auto; }
+        .align_right{ float: none; height: auto; }
+        .align_none{ float: none; }
+        .quince{ width: 100%; }
+        .veinte{ width: 100%; }
+        .veinticinco{ width: 100%; }
+        .treinta{ width: 100%; }
+        .treinta_y_tres{ width: 33%; }
+        .treinta_y_cinco{ width: 100%; }
+        .cuarenta{ width: 100%; }
+        .cuarenta_y_cinco{ width: 100%; }
+        .cincuenta{ width: 100%; }
+        .cincuenta_y_cinco{ width: 100%; }
+        .sesenta{ width: 100%; }
+        .sesenta_y_cinco{ width: 100%; }
+        .setenta{ width: 100%; }
+        .setenta_y_cinco{ width: 100%; }
+        .ochenta{ width: 100%; }
+        .ochenta_y_cinco{ width: 100%; }
+        .noventa{ width: 100%; }
+        .noventa_y_cinco{ width: 100%; }
+        img[rel="descubre-one-logo"]{
+          padding-top:10px !important;
+          padding-left:0 !important;
+          padding-bottom:0 !important;
+          padding-right:0 !important;
+        }
+        p[rel="descubre-one-link"]{
+          text-align: center;
+          padding-top:10px;
+          padding-left:0;
+          padding-bottom:10px;
+          padding-right:0;
+        }
+        img[rel="tip-logo"]{
+          padding-top: 10px !important;
+          padding-left: 0 !important;
+          padding-bottom: 10px !important;
+          padding-right: 0 !important;
+        }
+        p[rel="tip-title"]{
+          text-align: center;
+          padding-top:10px !important;
+          padding-left:10px !important;
+          padding-bottom:10px !important;
+          padding-right:10px !important;
+        }
+        img[rel="cta"]{ float: none; }
+        img[rel="subject-image"]{
+          display: block;
+          padding-top:10px;
+          padding-left:0;
+          padding-bottom:10px;
+          padding-right:0;
+        }
+        div[class="subject-text"] h2,
+        .subject-text h2{
+          padding-top:10px !important;
+          padding-left:0 !important;
+          padding-bottom:10px !important;
+          padding-right:0 !important;
+          text-align: center;
+        }
+      }
+      @media screen and (min-width:321px) and (max-width:650px){
+        .columnatexto{
+          width:80%;
+        }
+      }
+      @media screen and (max-width:320px){
+        .columnatexto{
+          width:100%;
+        }
+      }
+      @media screen and (min-width: 651px){
+        .columnatexto{
+          width:40%;
+        }
+      }
+      -->
+    </style>
+  </head>
+
+  <!--[if (gte mso 9)|(IE)]>
+  <table width="650" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td>
+  <![endif]-->
+  <body style="margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;color: #999;font-size: 100%;">
+    <div class="container" style="display: block;position: relative;width: 100%;max-width: 650px;margin: 0 auto 20px auto;text-align: center;">
+      <div class="header">
+        <div class="complete">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/header.jpg" rel="all-in-one-logo" alt="Todos en ONE" width="647" height="120" class="image align_left" />
+        </div>
+        <div class="complete">
+          <div class="cincuenta align_left">
+            <span class="text_blue ultra_big complete align_left" style="line-height:1.5;padding-top:20px;padding-right:0;padding-bottom:20px;padding-left:10px;"><strong>Hola *|NAME|*</strong></span>
+          </div>
+          <div class="cincuenta align_left" style="border-bottom:1px dashed #EBEBEB;">
+            <span class="text_gray medium align_right" style="padding-top:20px;padding-right:0;padding-bottom:10px;padding-left:0;"><strong class="text_blue bold">57º edición</strong> / 11 de febrero 2015</span>
+          </div>
+        </div>
+        <div class="complete align_left" style="padding-bottom:20px;">
+          <span class="text_gray big">Tenemos para ti la nueva edición de nuestro boletín semanal. Consúltalo y entérate de toda la información y eventos que se realizan en AXA México.</span>
+        </div>
+      </div>
+      <div class="complete align_left">
+        <div class="complete align_left" style="height:176px;">
+          <div class="cincuenta align_left" style="height:176px;">
+            <div class="image align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:191px;">
+              <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos+humanos/ct-axamexico-news-recursoshumanos-jobposting2014" title="My AXA Jobs" target="_blank">
+                <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/N_1.png" rel="text-one" alt="My AXA Jobs" width="191" height="176" class="image align_left" />
+              </a>
+            </div>
+            <div class="text align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:134px;">
+              <span class="text_gray noventa align_left left small" style="line-height:1.5;padding-top:20px;padding-left:10px;padding-left:5px;padding-right:5px;"><strong class="bold text_blue" style="line-height:1.5;">Consulta y aplica a las posiciones vacantes a través de "My AXA Jobs"</strong><br /><br />Llena tu CV AXA hoy.</span>
+            </div>
+          </div>
+          <div class="cincuenta align_left" style="height:176px;">
+            <div class="image align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:191px;">
+              <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-tecnologiatransformacion/ct-axamexico-news-tecnologiasdelainformacion-migracionoffice365" title="Office 365" target="_blank">
+                <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/N_2.png" rel="text-two" alt="Office 365" width="191" height="176" class="image align_left" />
+              </a>
+            </div>
+            <div class="text cincuenta align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:134px;">
+              <span class="text_gray align_left left small" style="line-height:1.5;padding-top:30px;padding-left:5px;padding-right:5px;"><strong class="bold text_blue" style="line-height:1.5;">Consulta y aplica a las posiciones vacantes a través de "My AXA Jobs"</strong><br /><br />Llena tu CV AXA hoy.</span>
+            </div>
+          </div>
+        </div><!-- First row -->
+        <div class="complete align_left" style="height:176px;">
+          <div class="cincuenta align_left" style="height:176px;">
+            <div class="image align_left" style="height:176px;margin:0;padding:0;width:191px;">
+              <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-responsabilidadcorportativa/ct-axamexico-news-responsabilidadcorporativa-diamundialcancer" title="La OMS estima que en 2015 habrá 10 millones de nuevos casos de cáncer" target="_blank">
+                <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/N_3.png" rel="text-three" alt="La OMS estima que en 2015 habrá 10 millones de nuevos casos de cáncer" width="191" height="176" class="image align_left" />
+              </a>
+            </div>
+            <div class="text align_left" style="height:176px;margin:0;padding:0;width:134px;">
+              <span class="text_gray noventa align_left left small" style="line-height:1.5;padding-top:25px;padding-left:10px;padding-left:5px;padding-right:5px;"><strong class="bold text_blue" style="line-height:1.5;">Grupo AXA invierte en proyectos contra el cáncer</strong><br /><br />Conoce más sobre esta iniciativa.</span>
+            </div>
+          </div>
+          <div class="cincuenta align_left" style="height:176px;">
+            <div class="image align_left" style="height:176px;margin:0;padding:0;width:191px;">
+              <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-news-aceleraciondigital-startinavance" title="Start-in" target="_blank">
+                <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/N_4.png" rel="text-four" alt="Start-in" width="191" height="176" class="image align_left" />
+              </a>
+            </div>
+            <div class="text cincuenta align_left" style="height:176px;margin:0;padding:0;width:134px;">
+              <span class="text_gray align_left left small" style="line-height:1.5;padding-top:20px;padding-left:5px;padding-right:5px;"><strong class="bold text_blue" style="line-height:1.5;">Gracias a tu participación, ¡vamos a la delantera!</strong><br /><br />Conoce las ideas que nuestros colaboradores han inscrito.</span>
+            </div>
+          </div>
+        </div><!-- Second row -->
+        <div class="complete align_left" style="height:176px;">
+          <div class="cincuenta align_left" style="height:176px;">
+            <div class="image align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:191px;">
+              <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos+humanos/ct-axamexico-news-recursoshumanos-onboardingfeb" title="Tienes un nuevo ingreso y ahora..." target="_blank">
+                <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/N_5.png" rel="text-five" alt="RH" width="191" height="176" class="image align_left" />
+              </a>
+            </div>
+            <div class="text align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:134px;">
+              <span class="text_gray noventa align_left left small" style="line-height:1.5;padding-top:20px;padding-left:10px;padding-left:5px;padding-right:5px;"><strong class="bold text_blue" style="line-height:1.5;">Tienes un nuevo ingreso y ahora... ¿Como consigues sus herramientas de trabajo?</strong><br /><br />Conoce el proceso que debes seguir.</span>
+            </div>
+          </div>
+          <div class="cincuenta align_left" style="height:176px;">
+            <div class="image align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:191px;">
+              <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos+humanos/ct-axamexico-news-recursoshumanos-puntosaxafebrero" title="Puntos AXA" target="_blank">
+                <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/N_6.png" rel="text-six" alt="Puntos AXA" width="191" height="176" class="image align_left" />
+              </a>
+            </div>
+            <div class="text cincuenta align_left" style="background:#E9E9E9;height:176px;margin:0;padding:0;width:134px;">
+              <span class="text_gray align_left left small" style="line-height:1.5;padding-top:30px;padding-left:5px;padding-right:5px;"><strong class="bold text_blue" style="line-height:1.5;">Ha llegado el periodo para intercambio de Puntos AXA</strong><br /><br />Cambia tus puntos por recompensas.</span>
+            </div>
+          </div>
+        </div><!-- Third row -->
+      </div>
+      <div class="meme-of-the-week align_left">
+        <div class="cincuenta align_left">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/meme11feb.png" rel="text-five" alt="Meme de Batman" height="259" width="252" class="image align_left" style="padding-top:20px;" />
+        </div>
+        <div class="cincuenta align_left">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/meme_semana.png" height="40" width="422" rel="text-five" alt="Meme de la semana" class="image align_left" style="padding-top:40px;padding-bottom:20px;" />
+          <span class="text_gray medium left complete" style="display:block;padding-left:10px;padding-right:10px;">Con el objetivo de transformarnos en un equipo de clase mundial, el primer paso que tomaremos será reforzar las actitudes y comportamientos clave que promueven el éxito de cada una de nuestras áreas y el logro de los objetivos que tenemos como organización. Comportamientos y actitudes muy sencillas que afectan nuestro desempeño y que cambiarán el día a día de nuestro trabajo. Vota por el meme de la semana y cambiemos juntos los comportamientos que nos afectan.</span>
+        </div>
+      </div>
+      <div class="links complete">
+        <div class="link veinticinco align_left">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/image-10_2.jpg" height="102" width="175" title="Con tu opinión, llegamos más lejos." class="image align_left" style="padding-top:10px;padding-bottom:10px;" />
+          <span class="text_blue big centered" style="margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;height:45px;display:block;clear:both;">BLOG DE LA SEMANA</span>
+          <hr style="display:block;clear:both;height:0;border-top:2px solid #A6191B;border-right:0 none transparent;border-bottom:0 none transparent;border-left:0 none transparent;padding-top:0;padding-bottom:10px;width:80%;" />
+          <span class="text_gray medium centered noventa" style="display:block;margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;height:117px;">El pasado 4 de febrero se conmemoró el Día Mundial contra el Cáncer, conoce la entrada de blog en AXA para Tod@s.</span>
+          <a href="http://one.axa.com/blogs/6231df7c-3f25-4eb9-8403-3319da7e012b/entry/4_de_febrero_d%25c3%25ada_mundial_contra_el_c%25c3%25a1ncer?lang=es" target="_blank">
+            <img src="http://www.descubreone.mx/Nuevo_Boletin_One/btn_ver.png" height="28" width="108" class="image centered" style="padding-top:20px;padding-bottom:20px;" />
+          </a>
+        </div>
+        <div class="link veinticinco align_left">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/image-11_2.jpg" height="102" width="175" title="Community de la semana" class="image align_left" style="padding-top:10px;padding-bottom:10px;" />
+          <span class="text_blue big centered align_left" style="margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;height:45px;display:block;clear:both;">COMMUNITY DE LA SEMANA</span>
+          <hr style="display:block;clear:both;height:0;border-top:2px solid #A6191B;border-right:0 none transparent;border-bottom:0 none transparent;border-left:0 none transparent;padding-top:0;padding-bottom:10px;width:80%;" />
+          <span class="text_gray medium centered noventa" style="display:block;height:117px;">¿Sabes cómo cambiará la mobilidad de los seguros de auto? Únete a ¡Todos somos Digital!</span>
+          <a href="http://one.axa.com/blogs/e1847e2b-a0aa-46e9-82de-52e3f161dc5c/entry/3_maneras_en_que_la_mobilidad_cambiar%25C3%25A1_los_seguros_de_auto?lang=es" target="_blank">
+            <img src="http://www.descubreone.mx/Nuevo_Boletin_One/btn_ver.png" height="28" width="108" class="image centered" style="padding-top:20px;padding-bottom:20px;" />
+          </a>
+        </div>
+        <div class="link veinticinco align_left">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/image-10_2.jpg" height="102" width="175" title="Con tu opinión, llegamos más lejos." class="image align_left" style="padding-top:10px;padding-bottom:10px;" />
+          <span class="text_blue big centered" style="margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;height:45px;display:block;clear:both;">TODOS EN ONE</span>
+          <hr style="display:block;clear:both;height:0;border-top:2px solid #A6191B;border-right:0 none transparent;border-bottom:0 none transparent;border-left:0 none transparent;padding-top:0;padding-bottom:10px;width:80%;" />
+          <span class="text_gray medium centered noventa" style="display:block;height:117px;">Conoce los mejores blogs y comunidades de enero 2015.</span>
+          <a href="http://one.axa.com/blogs/6231df7c-3f25-4eb9-8403-3319da7e012b/entry/4_de_febrero_d%25c3%25ada_mundial_contra_el_c%25c3%25a1ncer?lang=es" target="_blank">
+            <img src="http://www.descubreone.mx/Nuevo_Boletin_One/btn_ver.png" height="28" width="108" class="image centered" style="padding-top:20px;padding-bottom:20px;" />
+          </a>
+        </div>
+        <div class="link veinticinco align_left">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/11_Feb/image-10_2.jpg" height="102" width="175" title="Con tu opinión, llegamos más lejos." class="image align_left" style="padding-top:10px;padding-bottom:10px;" />
+          <span class="text_blue big centered" style="margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;height:45px;display:block;clear:both;">CANAL PRENSA</span>
+          <hr style="display:block;clear:both;height:0;border-top:2px solid #A6191B;border-right:0 none transparent;border-bottom:0 none transparent;border-left:0 none transparent;padding-top:0;padding-bottom:10px;width:80%;" />
+          <span class="text_gray medium centered noventa" style="display:block;height:117px;">México perderá 2.5% del PIB por fenómenos naturales.</span>
+          <a href="http://one.axa.com:80/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-salaprensa/ct-axamexico-news-saladeprensa-mexicoperdera" target="_blank">
+            <img src="http://www.descubreone.mx/Nuevo_Boletin_One/btn_ver.png" height="28" width="108" class="image centered" style="padding-top:20px;padding-bottom:20px;" />
+          </a>
+        </div>
+      </div>
+      <div class="banner">
+        <a href="http://one.axa.com/communities/service/html/communityview?communityUuid=c42b5539-b099-44fa-a74f-02ab58afb95e" title="Con tu opinión, llegamos más lejos." target="_blank">
+          <img src="http://www.descubreone.mx/Nuevo_Boletin_One/banner.jpg" height="82" width="720" title="Con tu opinión, llegamos más lejos." class="image align_left" style="padding-top:40px;" />
+        </a>
+        <img src="http://www.descubreone.mx/Nuevo_Boletin_One/logo_footer.png" height="38" width="227" class="image align_right" style="padding-top:40px;" />
+      </div>
+      <table width="600" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td colspan="7" align="right" class="footer" style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">
+            <p style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">Los productos se regirán por las condiciones legales y contractuales aplicables.<br>AXA Seguros S.A. de C.V., con domicilio en Xola número 535, piso 27, colonia Del Valle, código postal 03100, delegación Benito Juárez, en México, Distrito Federal,<br>le informa que sus datos personales serán tratados únicamente para los fines de la relación jurídica.</p>
+            <p style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">Usted podrá conocer ampliamente el Aviso de Privacidad de AXA aquí.</p>
+            <p style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">Este mensaje fue enviado a <a href="*|EMAIL|*" style="color: #FFF !important;text-decoration: none;">*|EMAIL|*</a>. Si no eres el usuario o si deseas ser borrado de nuestro listado de envíos sólo haz clic <a href="*|UNSUB|*" style="color: #FFF !important;text-decoration: none;">aquí</a></p>
+            <a href="*|UPDATE_PROFILE|*" style="color: #FFF !important;text-decoration: none;">Actualiza tus preferencias de suscripción</a>
+            <a href="*|ABOUT_LIST|*" target="_blank" style="color: #FFF !important;text-indent: -2000em;text-decoration: none;"><em>¿Porqué estoy viendo esto?</em></a><br>
+            <p style="color: #FFF !important;text-indent: -2000em;background-color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">*|LIST:ADDRESSLINE|*</p><br><br>
+            <p style="color: #FFF !important;text-indent: -2000em;background-color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">*|REWARDS|*</p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+  <!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+</html>
