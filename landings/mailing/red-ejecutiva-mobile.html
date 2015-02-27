@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Redes AXA ONE</title>
+    <style type="text/css">
+      <!--
+      body{
+        margin:0;
+        padding:0;
+        font-family:Arial, Helvetica, sans-serif;
+        color:#999;
+        font-size:100%;
+      }
+      img{
+        max-width:100%;
+        height:auto;
+      }
+      a:link { color: #092E88; font-weight: bold; }
+      span{ color: #5D3333; }
+      .container{
+        display:block;
+        position:relative;
+        width:100%;
+        max-width:650px;
+        margin:0 auto 20px auto;
+        text-align:center;
+      }
+      .separador{
+        position:relative;
+        display:block;
+        height:10px;
+      }
+      .dotted{
+        border-top:1px dotted #E6E7E8;
+        color:#E6E7E8;
+        background-color:#fff;
+        height:1px;
+        width:80%;
+      }
+      .parrafo{
+        max-width:650px;
+        display:block;
+        position:relative;
+        text-align:justify;
+        color:#999;
+        font-size:.9em;
+        padding:10px 20px 10px 0;
+      }
+      .btnaqui{
+       position:relative;
+       vertical-align:middle;
+      }
+      .franja{
+       background-color:#1F3D7C;
+       font-size:.9em;
+       color:#FFF;
+       padding:20px 30px;
+      }
+      .header2{
+       font-size:1.2em;
+       color:#999;
+       padding:0 30px 20px 30px;
+      }
+      .subtitulos{
+        text-align:left;
+        background-color:#E6E7E8;
+        font-size:1.1em;
+        color:#1F3D7C;
+        height:auto;
+        padding:10px 20px 10px 20px;
+      }
+      .parrafocolumna{
+        display:block;
+        position:relative;
+        margin:0 auto 20px 20px;
+        padding:10px 20px;
+        max-width:630px;
+        text-align:justify;
+        color:#999;
+        font-size:14px;
+      }
+      .bgcolumnas{
+        padding:0 30px 0 30px;
+        height:auto;
+      }
+      .estamos{
+        width:30%;
+        padding:2px 0 2px 0;
+        float:right;
+      }
+      .columnatexto{
+        float:left;
+        text-align:justify;
+        color:#999;
+        font-size:14px;
+        margin:auto 20px auto 20px;
+      }
+      .bggraficas{
+        width:100%;
+        background-color:#fff;
+        height:auto;
+        padding:10px 0 10px 0;
+      }
+      .todos{
+        width:50%;
+      }
+      .logo{
+        float:right;
+        width:40%;
+      }
+      .footer{
+        background-color: #FFF;
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+        font-weight: normal;
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        text-align: center;
+        line-height: 5px;
+      }
+      .greeting{
+          clear: both;
+          color:#005696;
+          display: block;
+          font-size:16px;
+          font-family:Helvetica,Arial,'sans-serif';
+      }
+      .image{
+          display: block;
+          clear: both;
+          margin: 0 auto;
+      }
+      .separator, .line_blue, .line_white,
+      .line_navy {
+          height: 0;
+          border: 0 none transparent;
+          border-top: 2px dashed red;
+          display: block;
+          clear: both;
+      }
+      .solid{ border-style: solid; }
+      .line_blue{ border-color: #397ABF; }
+      .line_white{ border-color: #FFF; }
+      .line_navy{ border-color: #61AAD9; }
+      .nombre_cliente {
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 16px;
+          font-style: normal;
+          font-weight: normal;
+          color: #0C529C;
+          padding: 10px;
+          text-align: left;
+      }
+      .texto {
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 16px;
+          font-style: normal;
+          font-weight: normal;
+          line-height: 1.1em;
+          color: #0C529C;
+          padding: 0;
+          margin: 0;
+          text-align: center;
+      }
+      .legals {
+          background-color:#CCC;
+          color:#666 !important;
+          font-family:Arial, Helvetica, sans-serif;
+          font-size:9px !important;
+          font-weight:normal !important;
+          line-height:1em !important;
+          padding:0 3px;
+          text-align:left !important;
+          text-decoration:none;
+      }
+      .legals a{ color: #ffffff; }
+      ol{ margin: 10px 0; padding: 0; }
+      .text,.text_gray,.text_aqua,
+      .text_white,.text_blue,.foot_note,
+      .agent_text,.text_red, .text_navy,
+      .text_gold,.text_pink, .text_mexican_pink,
+      .text_dark_blue, .text_light_blue, .text_light_blue_two,
+      .text_pink_cancer, .text_pink_cancer_two{
+          font-family: Arial, Helvetica, "sans-serif";
+          font-style: normal;
+          font-weight: normal;
+          line-height: 1.5em;
+          padding: 0;
+          margin: 10px auto;
+          text-align: left;
+      }
+      p,h1,h2,h3,h4,h5,h6{
+        display:block;
+        margin-top:0 !important;
+        margin-left:auto !important;
+        margin-bottom:0 !important;
+        margin-right:auto !important;
+        padding-top:1.2;
+        padding-left:0;
+        padding-bottom:1.2;
+        padding-right:0;
+      }
+      .text_gray{ color: #53534A;}
+      .text_dark_blue{ color: #1D3A64; }
+      .text_white{ color: #FFF; }
+      .text_aqua{ color: #3694B2; }
+      .text_blue{ color: #23509B; }
+      .text_navy{ color: #1C86C5; }
+      .text_light_blue{ color: #61AAD9; }
+      .text_light_blue_two{ color: #68A7DD; }
+      .text_red{ color: #E83746; }
+      .text_gold{ color: #B9906F; }
+      .text_pink{ color: #D80056; }
+      .text_mexican_pink{ color: #BF009D; }
+      .text_pink_cancer{ color: #E2009B; }
+      .text_pink_cancer_two{ color: #D36BA8; }
+      .left{ text-align: left; }
+      .centered{ text-align: center; }
+      .right{ text-align: right; }
+      .justified{ text-align: justify; }
+      .align_left{ float: left; height: auto; }
+      .align_right{ float: right; height: auto; }
+      .align_none{ float: none; }
+      .clear{ clear:both; }
+      .foot_note{ font-size: 11px; }
+      .complete{ width: 100%; }
+      .ultra_big{ font-size: 25px; }
+      .super_big{ font-size: 22px; }
+      .so_big{ font-size: 18px; }
+      .big{ font-size: 15px; }
+      .medium{ font-size: 13px; }
+      .small{ font-size: 11px; }
+      .very_small{ font-size: 9px; }
+      .bold{ font-weight: bold; }
+      .list{ list-style: none outside; margin: 0; padding: 0; }
+      .quince{ width: 15%; }
+      .veinte{ width: 20%; }
+      .veinticinco{ width: 25%; }
+      .treinta{ width: 30%; }
+      .treinta_y_cinco{ width: 35%; }
+      .cuarenta{ width: 40%; }
+      .cuarenta_y_cinco{ width: 45%; }
+      .cincuenta{ width: 50%; }
+      .cincuenta_y_cinco{ width: 55%; }
+      .sesenta{ width: 60%; }
+      .sesenta_y_cinco{ width: 65%; }
+      .setenta{ width: 70%; }
+      .setenta_y_cinco{ width: 75%; }
+      .ochenta{ width: 80%; }
+      .ochenta_y_cinco{ width: 85%; }
+      .noventa{ width: 90%; }
+      .noventa_y_cinco{ width: 95%; }
+      div[rel="header"]{ clear: both; display:block; width: 100%; }
+      div[rel="header"] img{ display: block; width: 100%; }
+      div[rel="most-important"],
+      div[rel="what-have-to-do"]{ float: left; }
+      div[rel="most-important"] ul[rel="column"],
+      div[rel="what-have-to-do"] ul[rel="column"]{
+        display:inline-block;
+        float:left;
+        padding-left: 0;
+        padding-right: 0;
+        width: 49.5%;
+      }
+      div[rel="most-important"] ul[rel="column"] li[rel="row"],
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"]{
+        clear: both;
+        display: block;
+        float: left;
+        list-style: none inside;
+        margin: 10px auto;
+      }
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"],
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"]{width: 55px;}
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"],
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"],
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"],
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"]{
+        display: inline-block;
+        float: left;
+        height:55px;
+      }
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"]{ padding-left: 10px; }
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"] a,
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"] a{ display: block; }
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"] a img,
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"] a img{}
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"],
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"]{ width: 225px; }
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"] span,
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"] span,
+      div[rel="insurance-sector"] span[rel="insurance-sector-title"],
+      div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"],
+      div[rel="foot-notes"] div[rel="notices"] ul li,
+      div[rel="foot-notes"] div[rel="lectures"] span[rel="notice-title"],
+      div[rel="foot-notes"] div[rel="lectures"] ul li{
+        line-height: 12px;
+        font-family: Helvetica, Arial, 'sans-serif';
+        font-size: 12px;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: left;
+        width: 100%;
+      }
+      div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"] span a,
+      div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"] span a{}
+      div[rel="most-important"] img[rel="red-separator"],
+      div[rel="what-have-to-do"] img[rel="red-separator"]{
+        display: inline-block;
+        float: left;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        vertical-align: middle;
+      }
+      div[rel="what-have-to-do"] img{}
+      div[rel="insurance-sector"]{
+        clear: both;
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+        width: 100%;
+      }
+      div[rel="insurance-sector"] span[rel="insurance-sector-title"]{}
+      div[rel="insurance-sector"] span[rel="insurance-sector-title"] strong{}
+      div[rel="insurance-sector"] ul{}
+      div[rel="insurance-sector"] ul li{}
+      div[rel="insurance-sector"] ul li a{}
+      div[rel="foot-notes"]{}
+      div[rel="foot-notes"] div[rel="notices"],
+      div[rel="foot-notes"] div[rel="lectures"]{ display: inline-block; float: left; width: 50%; }
+      div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"]{}
+      div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"] strong{}
+      div[rel="foot-notes"] div[rel="notices"] ul,
+      div[rel="foot-notes"] div[rel="lectures"] ul{}
+      div[rel="foot-notes"] div[rel="notices"] ul li,
+      div[rel="foot-notes"] div[rel="lectures"] ul li{}
+      div[rel="foot-notes"] div[rel="notices"] ul li a,
+      div[rel="foot-notes"] div[rel="lectures"] ul li a{}
+      div[rel="foot-notes"] div[rel="lectures"] span[rel="notice-title"]{}
+      div[rel="foot-notes"] div[rel="lectures"] span[rel="notice-title"] strong{}
+      div[rel="insurance-sector"] hr,
+      div[rel="foot-notes"] div[rel="notices"] hr,
+      div[rel="foot-notes"] div[rel="lectures"] hr{
+        border: 0 none transparent;
+        border-top: 1px solid #E11D3D;
+        display: block;
+        height: 0;
+        margin: 5px auto;
+        padding: 0;
+        width: 100%;
+      }
+      div[rel="banner"]{}
+      div[rel="banner"] img{}
+      @media screen and (min-width:321px) and (max-width:650px){
+        .justified{ text-align: justify; }
+        .align_left{ float: none; height: auto; }
+        .align_right{ float: none; height: auto; }
+        .align_none{ float: none; }
+        .quince{ width: 100%; }
+        .veinte{ width: 100%; }
+        .veinticinco{ width: 100%; }
+        .treinta{ width: 100%; }
+        .treinta_y_tres{ width: 33%; }
+        .treinta_y_cinco{ width: 100%; }
+        .cuarenta{ width: 100%; }
+        .cuarenta_y_cinco{ width: 100%; }
+        .cincuenta{ width: 100%; }
+        .cincuenta_y_cinco{ width: 100%; }
+        .sesenta{ width: 100%; }
+        .sesenta_y_cinco{ width: 100%; }
+        .setenta{ width: 100%; }
+        .setenta_y_cinco{ width: 100%; }
+        .ochenta{ width: 100%; }
+        .ochenta_y_cinco{ width: 100%; }
+        .noventa{ width: 100%; }
+        .noventa_y_cinco{ width: 100%; }
+        div[rel="header"]{}
+        div[rel="header"] img{}
+        div[rel="most-important"]{}
+        div[rel="most-important"] ul[rel="column"]{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"]{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"]{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"] a{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="icon"] a img{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"]{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"] span{}
+        div[rel="most-important"] ul[rel="column"] li[rel="row"] div[rel="description"] span a{}
+        div[rel="most-important"] img[rel="red-separator"]{}
+        div[rel="what-have-to-do"]{}
+        div[rel="what-have-to-do"] img{}
+        div[rel="what-have-to-do"] ul[rel="column"]{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"]{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"]{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"] a{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="icon"] a img{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"]{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"] span{}
+        div[rel="what-have-to-do"] ul[rel="column"] li[rel="row"] div[rel="description"] span a{}
+        div[rel="what-have-to-do"] img[rel="red-separator"]{}
+        div[rel="insurance-sector"]{}
+        div[rel="insurance-sector"] span[rel="insurance-sector-title"]{}
+        div[rel="insurance-sector"] span[rel="insurance-sector-title"] strong{}
+        div[rel="insurance-sector"] hr{}
+        div[rel="insurance-sector"] ul{}
+        div[rel="insurance-sector"] ul li{}
+        div[rel="insurance-sector"] ul li a{}
+        div[rel="foot-notes"]{}
+        div[rel="foot-notes"] div[rel="notices"]{}
+        div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"]{}
+        div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"] strong{}
+        div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"] hr{}
+        div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"] ul{}
+        div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"] ul li{}
+        div[rel="foot-notes"] div[rel="notices"] span[rel="notice-title"] ul li a{}
+        div[rel="foot-notes"] div[rel="lectures"]{}
+        div[rel="foot-notes"] div[rel="lectures"] span[rel="notice-title"]{}
+        div[rel="foot-notes"] div[rel="lectures"] span[rel="notice-title"] strong{}
+        div[rel="foot-notes"] div[rel="lectures"] hr{}
+        div[rel="foot-notes"] div[rel="lectures"] ul{}
+        div[rel="foot-notes"] div[rel="lectures"] ul li{}
+        div[rel="foot-notes"] div[rel="lectures"] ul li a{}
+        div[rel="banner"]{}
+        div[rel="banner"] img{}
+      }
+      -->
+    </style>
+  </head>
+
+  <!--[if (gte mso 9)|(IE)]>
+  <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td>
+  <![endif]-->
+  <body style="margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;color: #999;font-size: 100%;">
+    <div class="container" style="display: block;position: relative;width: 100%;max-width: 600px;margin: 0 auto 20px auto;text-align: center;">
+      <div rel="header">
+        <img src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/febrero/Redes/header.jpg" rel="all-in-one-logo" alt="Todos en ONE" width="600" height="152" class="image align_left complete" />
+      </div><!-- Header -->
+      <div rel="most-important">
+        <ul rel="column">
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-home-news-aceleraciondigital-startinlanzamiento" title="Start-in" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2015/Enero_30/start.jpg">
+              </a>
+            </div>
+            <div rel="description">
+              <span>Participa en Start-in, la nueva aventura de innovación de AXA. Entérate de más <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-home-news-aceleraciondigital-startinlanzamiento" alt="" target="_blank">aquí.</a></span>
+            </div>
+          </li>
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-corporativas/ct-axamexico-news-corporativo-cambiosorganizacionaleshector" title="Mensaje de Xavier de Bellefon" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/Noviembre/Redes_Noviembre/img_3.png">
+              </a>
+            </div>
+            <div rel="description">
+              <span>Mensaje de Xavier de Bellefon, Cambios Organizacionales AXA México. <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-corporativas/ct-axamexico-news-corporativo-cambiosorganizacionaleshector" target="_blank" alt="Mensaje de Xavier de Bellefon">Leer</a>.</span>
+            </div>
+          </li>
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-resultadosscope" title="Resultados de SCOPE 2014" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2015/Enero_30/resultado.jpg">
+              </a>
+            </div>
+            <div rel="description">
+              <span>¡Ya tenemos los resultados de SCOPE 2014! <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-resultadosscope" alt="" target="_blank">Conócelos</a>.</span>
+            </div>
+          </li>
+        </ul>
+        <img src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/febrero/Redes/linea_2_roja.png" width="1" height="300" rel="red-separator" />
+        <ul rel="column">
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-salaprensa/ct-axamexico-news-saladeprensa-ampliacionobligatoriedad" title="Obligatoriedad de seguro carretero" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/Noviembre/Redes_Noviembre/img_2.png">
+              </a>
+            </div>
+            <div rel="description">
+              <span>Amplían en 2015 obligatoriedad de seguro carretero. <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-salaprensa/ct-axamexico-news-saladeprensa-ampliacionobligatoriedad" title="Más información" target="_blank">Más información</a>.</span>
+            </div>
+          </li>
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-greatglobaladventureenero2015" title="The Great Global Adventure" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/Noviembre/Redes_Noviembre/img_6.png">
+              </a>
+            </div>
+            <div rel="description">
+              <span>The Great Global adventure, experiencias para crecer. <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-greatglobaladventureenero2015" title="Ver aquí" target="_blank">Ver aquí</a>.</span>
+            </div>
+          </li>
+        </ul>
+      </div><!-- Most important in AXA México -->
+      <div rel="what-have-to-do">
+        <img width="601" height="52" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/febrero/Redes/separador_type.jpg">
+        <ul rel="column">
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-home-news-aceleraciondigital-startinlanzamiento" title="Start-in" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2015/Enero_30/start.jpg">
+              </a>
+            </div>
+            <div rel="description">
+              <span>Participa en Start-in, la nueva aventura de innovación de AXA. Entérate de más <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-home-news-aceleraciondigital-startinlanzamiento" alt="" target="_blank">aquí.</a></span>
+            </div>
+          </li>
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-corporativas/ct-axamexico-news-corporativo-cambiosorganizacionaleshector" title="Mensaje de Xavier de Bellefon" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/Noviembre/Redes_Noviembre/img_3.png">
+              </a>
+            </div>
+            <div rel="description">
+              <span>Mensaje de Xavier de Bellefon, Cambios Organizacionales AXA México. <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-corporativas/ct-axamexico-news-corporativo-cambiosorganizacionaleshector" target="_blank" alt="Mensaje de Xavier de Bellefon">Leer</a>.</span>
+            </div>
+          </li>
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-resultadosscope" title="Resultados de SCOPE 2014" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2015/Enero_30/resultado.jpg">
+              </a>
+            </div>
+            <div rel="description">
+              <span>¡Ya tenemos los resultados de SCOPE 2014! <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-resultadosscope" alt="" target="_blank">Conócelos</a>.</span>
+            </div>
+          </li>
+        </ul>
+        <img src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/febrero/Redes/linea_2_roja.png" width="1" height="300" rel="red-separator" />
+        <ul rel="column">
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-salaprensa/ct-axamexico-news-saladeprensa-ampliacionobligatoriedad" title="Obligatoriedad de seguro carretero" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/Noviembre/Redes_Noviembre/img_2.png">
+              </a>
+            </div>
+            <div rel="description">
+              <span>Amplían en 2015 obligatoriedad de seguro carretero. <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-salaprensa/ct-axamexico-news-saladeprensa-ampliacionobligatoriedad" title="Más información" target="_blank">Más información</a>.</span>
+            </div>
+          </li>
+          <li rel="row">
+            <div rel="icon">
+              <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-greatglobaladventureenero2015" title="The Great Global Adventure" target="_blank">
+                <img width="55" height="55" src="http://www.descubreone.mx/Code/templates/boletin_axa/2014/Noviembre/Redes_Noviembre/img_6.png">
+              </a>
+            </div>
+            <div rel="description">
+              <span>The Great Global adventure, experiencias para crecer. <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/recursos%2Bhumanos/ct-axamexico-news-recursoshumanos-greatglobaladventureenero2015" title="Ver aquí" target="_blank">Ver aquí</a>.</span>
+            </div>
+          </li>
+        </ul>
+      </div><!-- What have to do in this month -->
+      <div rel="insurance-sector">
+        <span rel="insurance-sector-title">El sector <strong>asegurador</strong></span>
+        <hr />
+        <ul>
+          <li>3 maneras en que la movilidad cambiará los seguros de Auto. <a href="http://one.axa.com/blogs/e1847e2b-a0aa-46e9-82de-52e3f161dc5c/entry/3_maneras_en_que_la_mobilidad_cambiar%25C3%25A1_los_seguros_de_auto?lang=es" title="3 maneras en que la movilidad cambiará los seguros de Auto." target="_blank">Infórmate aquí</a>.</li>
+          <li>2015 Outlook: Analytics in Health Insurance, <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-news-aceleraciondigital-health2015" title="Read more" target="_blank">Read more</a>.</li>
+          <li>INBURSA - Bono Promocional Primer Trimestre 2015 para Gastos Médicos Individual. <a href="http://one.axa.com/forums/html/topic?id=2394680e-528d-4da2-b144-260f3cac5970" title="INBURSA - Bono Promocional Primer Trimestre 2015 para Gastos Médicos Individual" target="_blank">Conoce más.</li>
+        </ul>
+      </div><!-- Insurance sector -->
+      <div rel="foot-notes">
+        <div rel="notices">
+          <span rel="notice-title">Noticias del <strong>Mercado y la Competencia</strong></span>
+          <hr />
+          <ul>
+            <li>• <a href="http://one.axa.com/blogs/8cecbb89-556a-4fed-ab0d-1730e6c3bb12/entry/bolet%25C3%25ADn_1_el_2015_inicia_con_nuevas_promociones_autos_salud_vida_da%25C3%25B1os?lang=es" title="GNP anunció nuevos Servicios para Agentes." target="_blank">GNP</a> anunció nuevos Servicios para Agentes.</li>
+            <li>• <a href="http://one.axa.com/forums/html/topic?id=c0e775f2-e74c-4e46-aaf6-b2027774ff0b" title="Qualitas" target="_blank">Qualitas</a> pone al alcance de sus Agentes Dispositivos de Seguridad Encontrack para sus clientes.</li>
+            <li>• <a href="http://one.axa.com/forums/html/topic?id=8441e1c7-87d2-45b3-9b99-623f6f3d4297" title="MAPFRE – Anuncia plan integral de ventas “5 motivos para cerrar bien el 2014”." target="_blank">MAPFRE</a> – Anuncia plan integral de ventas “5 motivos para cerrar bien el 2014”.</li>
+          </ul>
+        </div>
+        <div rel="lectures">
+          <span rel="notice-title">Noticias del <strong>Mercado y la Competencia</strong></span>
+          <hr />
+          <ul>
+            <li>• Resumen <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-redejecutiva/ct-axamexico-news-redejecutiva-resumendialogo1" title="Diálogo Azul</a>: Cambios organizacionales y gobierno." target="_blank">Diálogo Azul</a>: Cambios organizacionales y gobierno.</li>
+            <li>• Resumen Diálogo Azul: <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-redejecutiva/ct-axamexico-news-redejecutiva-resumendialogo2" title="Resumen Diálogo Azul: Resultados 2014." target="_blank">Resultados 2014</a>.</li>
+            <li>• Resumen Diálogo Azul: <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-redejecutiva/ct-axamexico-news-home-redejecutiva-resumendialogo3" title="Resumen Diálogo Azul: Prioridades 2015" target="_blank">Prioridades 2015</a>.</li>
+            <li>• Descarga la presentación completa <a href="http://one.axa.com/lotus/mypoc?uri=dm:dfee00804713fa7cac7afcefabb68e30&verb=view" title="Descarga la presentación completa aquí." target="_blank">aquí</a>.</li>
+            <li>• Entérate de lo último en el <a href="http://one.axa.com/wps/myportal/mexico?urile=wcm:path:mexico_es/home/news/sa-axamexico-news-aceleraciondigital/ct-axamexico-news-aceleraciondigital-ces" title="Entérate de lo último en el CES 2015." target="_blank">CES 2015</a>.</li>
+          </ul>
+        </div>
+      </div><!-- Tiles -->
+      <div rel="banner">
+        <img src="http://www.descubreone.mx/Nuevo_Boletin_One/logo_footer.png" height="38" width="227" />
+      </div><!-- Footer -->
+      <div class="legals">
+        <span style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">Los productos se regirán por las condiciones legales y contractuales aplicables.<br>AXA Seguros S.A. de C.V., con domicilio en Xola número 535, piso 27, colonia Del Valle, código postal 03100, delegación Benito Juárez, en México, Distrito Federal,<br>le informa que sus datos personales serán tratados únicamente para los fines de la relación jurídica.</span>
+        <span style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">Usted podrá conocer ampliamente el Aviso de Privacidad de AXA aquí.</span>
+        <span style="background-color: #FFF;color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">Este mensaje fue enviado a <a href="*|EMAIL|*" style="color: #FFF !important;text-decoration: none;">*|EMAIL|*</a>. Si no eres el usuario o si deseas ser borrado de nuestro listado de envíos sólo haz clic <a href="*|UNSUB|*" style="color: #FFF !important;text-decoration: none;">aquí</a></span>
+        <a href="*|UPDATE_PROFILE|*" style="color: #FFF !important;text-decoration: none;">Actualiza tus preferencias de suscripción</a>
+        <a href="*|ABOUT_LIST|*" target="_blank" style="color: #FFF !important;text-indent: -2000em;text-decoration: none;"><em>¿Porqué estoy viendo esto?</em></a><br>
+        <span style="color: #FFF !important;text-indent: -2000em;background-color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">*|LIST:ADDRESSLINE|*</span><br><br>
+        <span style="color: #FFF !important;text-indent: -2000em;background-color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 5px;font-weight: normal;margin: 0;padding: 0;text-decoration: none;text-align: center;line-height: 5px;">*|REWARDS|*</span>
+      </div><!-- Legals -->
+    </div>
+  </body>
+  <!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+</html>
