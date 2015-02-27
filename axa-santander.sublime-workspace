@@ -95,9 +95,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 107.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: ins",
 				"Package Control: Install Package"
@@ -135,7 +139,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -156,10 +160,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/axa-santander"
+		"/Applications/MAMP/htdocs/axa-santander",
+		"/Applications/MAMP/htdocs/axa-santander/app",
+		"/Applications/MAMP/htdocs/axa-santander/app/Http",
+		"/Applications/MAMP/htdocs/axa-santander/app/Http/Controllers",
+		"/Applications/MAMP/htdocs/axa-santander/resources",
+		"/Applications/MAMP/htdocs/axa-santander/resources/views",
+		"/Applications/MAMP/htdocs/axa-santander/resources/views/photo"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/axa-santander/app/Http/routes.php",
+		"/Applications/MAMP/htdocs/axa-santander/app/Http/Controllers/PhotoController.php",
+		"/Applications/MAMP/htdocs/axa-santander/resources/views/photo/index.blade.php",
+		"/Applications/MAMP/htdocs/axa-santander/resources/views/layout.blade.php",
+		"/Users/jgarcia/Downloads/INDEX(3).HTML",
 		"/Applications/MAMP/htdocs/axa-santander/resources/views/welcome.blade.php",
 		"/Applications/MAMP/htdocs/axa-santander/.env",
 		"/Applications/MAMP/htdocs/axa-santander/composer.json",
@@ -282,12 +297,7 @@
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/primera-encuesta-one.sass",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/tercera-encuesta-one.sass",
 		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/segunda-encuesta-one.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/cuarta-encuesta-one.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/cinco-consejos-para-contar-con-la-mejor-informacion.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_boilerplater_styles.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_helper_classes.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_print_stylesheet.sass",
-		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/default-styles/_general.sass"
+		"/Applications/MAMP/htdocs/Axa_Seguros/landings/Code/templates/sass/cuarta-encuesta-one.sass"
 	],
 	"find":
 	{
