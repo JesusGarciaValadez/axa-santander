@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace axaSantander\Services;
 
-use App\User;
+use axaSantander\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

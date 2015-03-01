@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace axaSantander\Commands;
 
 abstract class Command {
 

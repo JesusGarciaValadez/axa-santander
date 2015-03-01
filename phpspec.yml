@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: axaSantander
+        psr4_prefix: axaSantander
         src_path: app

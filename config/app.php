@@ -139,11 +139,11 @@ return [
 		/*
 		 * Application Service Providers...
 		 */
-		'App\Providers\AppServiceProvider',
-		'App\Providers\BusServiceProvider',
-		'App\Providers\ConfigServiceProvider',
-		'App\Providers\EventServiceProvider',
-		'App\Providers\RouteServiceProvider',
+		'axaSantander\Providers\AppServiceProvider',
+		'axaSantander\Providers\BusServiceProvider',
+		'axaSantander\Providers\ConfigServiceProvider',
+		'axaSantander\Providers\EventServiceProvider',
+		'axaSantander\Providers\RouteServiceProvider',
 
 	],
 
