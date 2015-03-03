@@ -88,7 +88,7 @@
                 });
             }
         </script>
-        {!! Form::open( array( 'url' => '/user/store', 'class' => 'form' ) ) !!}
+        {!! Form::open( [ 'route' => 'users.store', 'class' => 'form'  ] ) !!}
             <!--
                 Below we include the Login Button social plugin. This button uses
                 the JavaScript SDK to present a graphical Login button that triggers
