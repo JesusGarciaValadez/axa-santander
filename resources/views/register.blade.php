@@ -88,20 +88,25 @@
                 });
             }
         </script>
-        {!! Form::open( array( 'url' => '/welcome/register', 'class' => 'form' ) ) !!}
-        <!--
-          Below we include the Login Button social plugin. This button uses
-          the JavaScript SDK to present a graphical Login button that triggers
-          the FB.login() function when clicked.
-        -->
-        <legend>Registrate con Facebook</legend>
-        <fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
-        </fb:login-button>
-        {!! Form::label( 'name', 'Nombre' ) !!}
-        {!! Form::text( 'name' ) !!}
-        {!! Form::label( 'email', 'Correo Electrónico' ) !!}
-        {!! Form::email( 'email' ) !!}
-        {!! Form::submit( 'Registrame' ) !!}
+        {!! Form::open( array( 'url' => '/user/store', 'class' => 'form' ) ) !!}
+            <!--
+                Below we include the Login Button social plugin. This button uses
+                the JavaScript SDK to present a graphical Login button that triggers
+                the FB.login() function when clicked.
+            -->
+            {!! Form::label( 'first_name', 'Nombre(s)' ) !!}
+            {!! Form::text( 'first_name' ) !!}
+            {!! Form::label( 'last_name', 'Apellidos' ) !!}
+            {!! Form::text( 'last_name' ) !!}
+            {!! Form::label( 'email', 'Correo Electrónico' ) !!}
+            {!! Form::email( 'email' ) !!}
+            {!! Form::label( 'policy', 'Número de Póliza' ) !!}
+            {!! Form::text( 'policy' ) !!}
+            {!! Form::label( 'password', 'Contraseña' ) !!}
+            {!! Form::password( 'password' ) !!}
+            <legend>O, Registrate con Facebook</legend>
+            <fb:login-button scope="public_profile,email" onlogin="checkLoginState();"></fb:login-button>
+            {!! Form::submit( 'Regístrame' ) !!}
         {!! Form::close() !!}
     </div>
 @endsection
