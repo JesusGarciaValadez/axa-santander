@@ -15,9 +15,9 @@ Route::get( '/', 'RegisterController@index' );
 
 Route::get( '/success', 'UsersController@success' );
 
-Route::get( '/encuesta', 'PollController@show' )
+Route::get( '/encuesta', 'PollController@show' );
 
-Route::get( '/encuesta-enviada', 'PollController@pollSended' )
+Route::get( '/encuesta-enviada', 'PollController@pollSended' );
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
