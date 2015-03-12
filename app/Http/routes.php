@@ -11,13 +11,13 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
+Route::get( '/', 'RegisterController@index' );
 
-Route::get('home', 'HomeController@index');
+Route::get( '/success', 'UsersController@success' );
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
 
-Route::resource( 'photo', 'PhotoController' );
+Route::resource( 'users', 'UsersController' );

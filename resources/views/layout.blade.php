@@ -15,8 +15,7 @@
     </head>
     <body>
 
-@yield( 'content' )
-
+        @yield('content')
         {!! Html::script( 'js/main.js' ) !!}
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
